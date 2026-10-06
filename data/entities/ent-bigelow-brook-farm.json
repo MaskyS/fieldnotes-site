@@ -1,0 +1,48 @@
+{
+ "id": "ent-bigelow-brook-farm",
+ "type": "organisation",
+ "name": "Bigelow Brook Farm",
+ "aliases": [],
+ "public_basis": "an organisation the film's description gives an address for",
+ "computed": {
+  "films": [
+   {
+    "film": "VBspR2p0YYM",
+    "title": "Rob Torcellini’s backyard aquaponic greenhouse",
+    "where": "Connecticut, United States",
+    "film_year": "2011",
+    "upload_date": "2011-08-22",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=VBspR2p0YYM",
+    "records": [
+     {
+      "kind": "link",
+      "url": "https://www.bigelowbrook.com",
+      "name": "Bigelow Brook Farm"
+     }
+    ],
+    "claims": [],
+    "links": [
+     {
+      "url": "https://www.bigelowbrook.com",
+      "kind": "own site",
+      "line": "Bigelow Brook Farm: www.bigelowbrook.com"
+     }
+    ],
+    "behind": []
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 1,
+   "mentions": 0,
+   "years": [
+    "2011"
+   ]
+  },
+  "instance_hash": "eeab0315d4bcbf16",
+  "built": "2026-10-06T13:18:27"
+ }
+}

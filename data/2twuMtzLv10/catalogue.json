@@ -1,0 +1,4419 @@
+{
+ "title": "Margo’s self-built shed home",
+ "source": {
+  "id": "2twuMtzLv10",
+  "url": "https://www.youtube.com/watch?v=2twuMtzLv10",
+  "duration": 1337.901,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "Supplied English automatic captions, with timing and occasional recognition errors; no captions provenance/translation sidecar is present. On-screen name captions and inspected graphics are used where available. Speaker-change markers sometimes interrupt Margo’s continuous speech.",
+  "context": {
+   "location": {
+    "country": "United States",
+    "state_or_region": "Central Virginia",
+    "nearest_place": "not disclosed",
+    "precision": "Region only. Margo identifies Central Virginia at 839.4–848 seconds; Richmond is her former home and a rent comparison, not an established current nearest town.",
+    "evidence": [
+     {
+      "by": "margo",
+      "at": [
+       839.4,
+       842.2
+      ],
+      "text": "Living in Central Virginia"
+     },
+     {
+      "by": "description",
+      "at": [],
+      "text": "Central Virginia named in HVAC account"
+     }
+    ],
+    "climate": {
+     "koppen": "Cfa",
+     "name": "humid subtropical",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Virginia, United States",
+      "lat": 37.123,
+      "lon": -78.493,
+      "matched": "Virginia, United States",
+      "stands_for": "state",
+      "extent_km": 746,
+      "precision": "Region only. Margo identifies Central Virginia at 839.4–848 seconds; Richmond is her former home and a rent comparison, not an established current nearest town."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 1112,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Virginia, United States",
+      "lat": 37.123,
+      "lon": -78.493,
+      "matched": "Virginia, United States",
+      "stands_for": "state",
+      "extent_km": 746,
+      "precision": "Region only. Margo identifies Central Virginia at 839.4–848 seconds; Richmond is her former home and a rent comparison, not an established current nearest town."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "8a",
+     "mean_annual_extreme_min_c": -11.3,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Virginia, United States",
+      "lat": 37.123,
+      "lon": -78.493,
+      "matched": "Virginia, United States",
+      "stands_for": "state",
+      "extent_km": 746,
+      "precision": "Region only. Margo identifies Central Virginia at 839.4–848 seconds; Richmond is her former home and a rent comparison, not an established current nearest town."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Tiny Home Tours",
+   "upload_date": "2026-06-05"
+  }
+ },
+ "sampling": {
+  "frames": 261,
+  "candidate_shots": 286,
+  "contact_sheets": 10,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/2twuMtzLv10"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "margo"
+  ],
+  "gist": "After a breakup, Margo taught herself to turn a shed on her mother’s land into a home; the hired plumbing was what failed.",
+  "story": {
+   "text": "After a breakup leaves her on one income, Margo turns a shed on her mother's land into a home she can own outright. She makes the job manageable by treating it as a thousand tiny projects, learning as she goes. Colourful wallpaper and salvaged finds give it her personality, while a full-size oven, queen bed and bathtub make it comfortable. The surprise is the plumbing: the one job she hires out fails and needs another team to fix it. She spends around $47,000 altogether. She still misses a dishwasher, but waking up surrounded by her own handiwork makes her proud enough to do it again.",
+   "moments": [
+    {
+     "phrase": "a thousand tiny projects",
+     "at": 10.52
+    },
+    {
+     "phrase": "Colourful wallpaper",
+     "at": 748.68
+    },
+    {
+     "phrase": "the one job she hires out fails",
+     "at": 568.4
+    },
+    {
+     "phrase": "around $47,000 altogether",
+     "at": 595.76
+    },
+    {
+     "phrase": "misses a dishwasher",
+     "at": 227.48
+    },
+    {
+     "phrase": "waking up surrounded by her own handiwork",
+     "at": 1290.44
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Margo’s tiny-house site on family property",
+   "kind": "site",
+   "within": null,
+   "caveat": "Subject is Margo’s household setting; cadastral boundaries and the extent of her mother’s land are not disclosed.",
+   "entity": "ent-margo-self-built-shed-home"
+  },
+  {
+   "id": "tiny-house",
+   "title": "Margo’s converted shed home",
+   "kind": "building",
+   "within": "site",
+   "caveat": "A stationary shed conversion, not a demonstrated trailer dwelling."
+  },
+  {
+   "id": "kitchen",
+   "title": "Kitchen",
+   "kind": "room",
+   "within": "tiny-house",
+   "caveat": "Open functional zone; not claimed to be enclosed on all sides."
+  },
+  {
+   "id": "main-room",
+   "title": "Lounge, entry and wardrobe area",
+   "kind": "room",
+   "within": "tiny-house",
+   "caveat": "One open main-room zone; no room dimensions or inferred cut-based adjacency."
+  },
+  {
+   "id": "dinette",
+   "title": "Diner-booth area",
+   "kind": "room",
+   "within": "tiny-house",
+   "caveat": "Open zone visibly beneath the sleeping platform."
+  },
+  {
+   "id": "sleeping-loft",
+   "title": "Loft sleeping area",
+   "kind": "room",
+   "within": "tiny-house",
+   "caveat": "Bed platform beneath sloping ceiling, not a full-height separate storey."
+  },
+  {
+   "id": "bathroom",
+   "title": "Bathroom",
+   "kind": "room",
+   "within": "tiny-house",
+   "caveat": "Enclosed bathing/toilet space with an entrance panel; no utility routes established."
+  },
+  {
+   "id": "entry-deck",
+   "title": "Front steps and deck",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Direct doorway connection visible in opening footage."
+  },
+  {
+   "id": "yard",
+   "title": "Lawn and tree-lined yard",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Only filmed surroundings; visible trees are not proof of ownership."
+  },
+  {
+   "id": "mother-house",
+   "title": "Margo’s mother’s house exterior",
+   "kind": "building",
+   "within": "site",
+   "outside": true,
+   "caveat": "Larger house associated with mother by narration and exterior views; outside Margo’s tiny-house household. Interior never visited; within represents the family-property setting, not surveyed parcel containment."
+  }
+ ],
+ "people": [
+  {
+   "id": "margo",
+   "name": "Margo",
+   "relation": "owner",
+   "note": "Introduces herself on camera and is named in a lower-third; resident, designer and builder of the shed fit-out. Surname not asserted from a website address."
+  },
+  {
+   "id": "margo-mother",
+   "name": "Margo’s mother",
+   "relation": "owner",
+   "note": "Unnamed family-land owner introduced through Margo’s account; not identified on camera and not an attributed speaker."
+  },
+  {
+   "id": "sagetraveling",
+   "name": "sagetraveling",
+   "relation": "filmmaker",
+   "note": "Account credited for filming and editing in the description; personal identity is not supplied."
+  }
+ ],
+ "claims": [
+  {
+   "id": "cost-estimate",
+   "text": "Build cost around $47,000, give or take a couple thousand.",
+   "by": "margo",
+   "at": [
+    595.76
+   ],
+   "about": "shed-house",
+   "headline": true,
+   "quantity": {
+    "value": 47000,
+    "unit": "USD",
+    "of": "build cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cost-description",
+   "text": "Build cost under $47,000.",
+   "by": "description",
+   "at": [],
+   "about": "shed-house",
+   "headline": false,
+   "doubt": "The same description also says approximately $47,000; Margo gives an approximate total with several-thousand-dollar uncertainty.",
+   "quantity": {
+    "value": 47000,
+    "unit": "USD",
+    "of": "build cost"
+   }
+  },
+  {
+   "id": "intro-cost",
+   "text": "Tiny house built for less than $50,000.",
+   "by": "margo",
+   "at": [
+    125.16
+   ],
+   "about": "shed-house",
+   "headline": false,
+   "quantity": {
+    "value": 50000,
+    "unit": "USD",
+    "of": "build cost"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shell-size",
+   "text": "Shed shell measures 12 × 20 feet [3.66 × 6.10m].",
+   "by": "margo",
+   "at": [
+    516.95
+   ],
+   "about": "shed-house",
+   "headline": true,
+   "quantity": {
+    "value": 12,
+    "unit": "ft",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "main-area",
+   "text": "Main level is approximately 240 square feet [22.30 m²].",
+   "by": "margo",
+   "at": [
+    516.96
+   ],
+   "about": "shed-house",
+   "headline": true,
+   "quantity": {
+    "value": 240,
+    "unit": "ft2",
+    "of": "floor area",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "loft-area",
+   "text": "Queen bed adds approximately 32 square feet [2.97 m²].",
+   "by": "margo",
+   "at": [
+    519.56
+   ],
+   "about": "loft-bed",
+   "headline": false,
+   "quantity": {
+    "value": 32,
+    "unit": "ft2",
+    "of": "component area",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shell-cost",
+   "text": "Shed shell cost $8,800.",
+   "by": "margo",
+   "at": [
+    556
+   ],
+   "about": "bare-shed-record",
+   "headline": true,
+   "quantity": {
+    "value": 8800,
+    "unit": "USD",
+    "of": "component cost"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shell-purchase",
+   "text": "Shell purchased in fall 2020.",
+   "by": "margo",
+   "at": [
+    541.68
+   ],
+   "about": "bare-shed-record",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shell-maker",
+   "text": "Shell was Amish-built.",
+   "by": "margo",
+   "at": [
+    556
+   ],
+   "about": "bare-shed-record",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shell-lead-time",
+   "text": "Shell manufacture took about 16 weeks.",
+   "by": "margo",
+   "at": [
+    558.8
+   ],
+   "about": "bare-shed-record",
+   "headline": false,
+   "quantity": {
+    "value": 16,
+    "unit": "week",
+    "of": "component time",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "move-in",
+   "text": "Home completed and occupied in 2023.",
+   "by": "description",
+   "at": [],
+   "about": "shed-house",
+   "headline": true,
+   "doubt": "Margo describes four years living there, while upload is June 2026; the filming date and this timeline are unresolved."
+  },
+  {
+   "id": "occupancy-duration",
+   "text": "Margo has lived here for four years.",
+   "by": "margo",
+   "at": [
+    1191.68
+   ],
+   "about": "shed-house",
+   "headline": false,
+   "doubt": "The description says she moved in during 2023 and upload is June 2026, so the timeline is unresolved.",
+   "quantity": {
+    "value": 4,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "paid-off",
+   "text": "Tiny house is completely paid off.",
+   "by": "margo",
+   "at": [
+    661.76
+   ],
+   "about": "shed-house",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "avoided-rent",
+   "text": "Build cost equaled roughly two years of avoided rent/utilities.",
+   "by": "margo",
+   "at": [
+    641.839
+   ],
+   "about": "cost-graphic",
+   "headline": false,
+   "quantity": {
+    "value": 2,
+    "unit": "year",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "family-land",
+   "text": "Tiny house stands on Margo’s mother’s property.",
+   "by": "margo",
+   "at": [
+    229.84,
+    618.28
+   ],
+   "about": "family-property",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "family-rent",
+   "text": "Rent is about $500.",
+   "by": "margo",
+   "at": [
+    626.12
+   ],
+   "about": "family-property",
+   "headline": false,
+   "quantity": {
+    "value": 500,
+    "unit": "USD",
+    "of": "running cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "monthly-expense",
+   "text": "Monthly payment is $500, including utilities.",
+   "by": "description",
+   "at": [],
+   "about": "family-property",
+   "headline": true,
+   "quantity": {
+    "value": 500,
+    "unit": "USD",
+    "of": "running cost",
+    "per": "month"
+   }
+  },
+  {
+   "id": "plumbing-cost",
+   "text": "Plumbing cost about $10,000 after the first installation failed.",
+   "by": "margo",
+   "at": [
+    569.68
+   ],
+   "about": "hired-plumbing",
+   "headline": false,
+   "quantity": {
+    "value": 10000,
+    "unit": "USD",
+    "of": "component cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "plumbing-contractor",
+   "text": "Plumbing was the only work hired out.",
+   "by": "margo",
+   "at": [
+    568.4
+   ],
+   "about": "hired-plumbing",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "plumbing-redone",
+   "text": "A different team corrected the failed plumbing installation.",
+   "by": "margo",
+   "at": [
+    579.64
+   ],
+   "about": "hired-plumbing",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "electrical-diy",
+   "text": "Margo installed electrical wiring with advice from a friend.",
+   "by": "margo",
+   "at": [
+    590.16
+   ],
+   "about": "electrical-installation",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "prefab-base",
+   "text": "Base cabinets were prefabricated, raised, installed and painted by Margo.",
+   "by": "margo",
+   "at": [
+    254.2
+   ],
+   "about": "base-cabinets",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "used-appliances",
+   "text": "Oven and microwave were bought used.",
+   "by": "margo",
+   "at": [
+    275.04
+   ],
+   "about": "range-microwave",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "new-fridge",
+   "text": "The refrigerator was purchased new.",
+   "by": "margo",
+   "at": [
+    281.36
+   ],
+   "about": "raised-fridge",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "piano-salvage",
+   "text": "Piano cover came from a junkyard.",
+   "by": "margo",
+   "at": [
+    299.28
+   ],
+   "about": "salvaged-shelf",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "thrift-cabinet",
+   "text": "Wall cabinet came from a thrift store.",
+   "by": "margo",
+   "at": [
+    302.2
+   ],
+   "about": "salvaged-shelf",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pull-provenance",
+   "text": "Pulls came from an early-1800s Victorian home in Portland.",
+   "by": "margo",
+   "at": [
+    334.48
+   ],
+   "about": "salvaged-hardware",
+   "headline": false,
+   "doubt": "The spoken Victorian and early-1800s period labels leave the precise dating uncertain; no provenance record is shown.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "couch-length",
+   "text": "Custom couch is slightly shorter than 6 feet [1.83 m].",
+   "by": "margo",
+   "at": [
+    693.72
+   ],
+   "about": "custom-sofa",
+   "headline": false,
+   "quantity": {
+    "value": 6,
+    "unit": "ft",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "booth-capacity",
+   "text": "Diner booth comfortably seats four people.",
+   "by": "margo",
+   "at": [
+    986.999
+   ],
+   "about": "dinette",
+   "headline": false,
+   "quantity": {
+    "value": 4,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "queen-bed",
+   "text": "Bed is queen-size.",
+   "by": "margo",
+   "at": [
+    1052.04
+   ],
+   "about": "loft-bed",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "airflow-pad",
+   "text": "An under-mattress pad provides airflow.",
+   "by": "margo",
+   "at": [
+    1066.64
+   ],
+   "about": "mattress-airflow-pad",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "headboard-depth",
+   "text": "Headboard is about 5 inches [12.7 cm] deep.",
+   "by": "margo",
+   "at": [
+    1108.88
+   ],
+   "about": "headboard",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "extinguisher",
+   "text": "Headboard storage contains a fire extinguisher.",
+   "by": "margo",
+   "at": [
+    1111.08
+   ],
+   "about": "loft-emergency-kit",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "glass-breaker",
+   "text": "Headboard stores a tool for breaking the skylight.",
+   "by": "margo",
+   "at": [
+    1113.8
+   ],
+   "about": "loft-emergency-kit",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "escape-ladder",
+   "text": "Headboard storage contains a small escape ladder.",
+   "by": "margo",
+   "at": [
+    1120.84
+   ],
+   "about": "loft-emergency-kit",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "skylight-headroom",
+   "text": "Skylight adds about 9 inches [22.86 cm] of headroom.",
+   "by": "margo",
+   "at": [
+    1148.92
+   ],
+   "about": "skylight",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bath-window-size",
+   "text": "Bathroom has two matching 4-foot [1.22 m] windows.",
+   "by": "margo",
+   "at": [
+    1179
+   ],
+   "about": "bathroom-windows",
+   "headline": false,
+   "doubt": "Margo does not specify which dimension of each window is four feet.",
+   "quantity": {
+    "value": 4,
+    "unit": "ft",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bath-window-price",
+   "text": "Bathroom windows cost about $75 each.",
+   "by": "margo",
+   "at": [
+    1181.48
+   ],
+   "about": "bathroom-windows",
+   "headline": false,
+   "quantity": {
+    "value": 75,
+    "unit": "USD",
+    "of": "component cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bath-layout",
+   "text": "End-entry bathtub orientation preserved more kitchen space.",
+   "by": "margo",
+   "at": [
+    1230.56
+   ],
+   "about": "bathtub",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "regular-toilet",
+   "text": "Bathroom has a conventional toilet.",
+   "by": "margo",
+   "at": [
+    1188.8
+   ],
+   "about": "flush-toilet",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "family-washing",
+   "text": "Washer and dryer are used at Margo’s mother’s house.",
+   "by": "margo",
+   "at": [
+    459.16
+   ],
+   "about": "family-laundry",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "family-dishes",
+   "text": "Margo uses her mother’s dishwasher when needed.",
+   "by": "margo",
+   "at": [
+    231.959
+   ],
+   "about": "family-laundry",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "region",
+   "text": "Home is in Central Virginia.",
+   "by": "margo",
+   "at": [
+    839.4
+   ],
+   "about": null,
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "graphic-rent",
+   "text": "Richmond two-bedroom rent estimate: $2,000 monthly, $48,000 over 24 months.",
+   "by": "narrator",
+   "at": [
+    654
+   ],
+   "about": "cost-graphic",
+   "headline": false,
+   "doubt": "This is an unsourced editorial graphic rather than a figure attributed to a named speaker in captions.",
+   "quantity": {
+    "value": 2000,
+    "unit": "USD",
+    "of": "running cost",
+    "per": "month"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "graphic-saving",
+   "text": "Graphic claims $1,000 saved against two years of rent.",
+   "by": "narrator",
+   "at": [
+    660
+   ],
+   "about": "cost-graphic",
+   "headline": false,
+   "doubt": "The editorial comparison omits family-site payments and does not provide a source for its rent estimate.",
+   "quantity": {
+    "value": 1000,
+    "unit": "USD",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://bit.ly/mrcooltht",
+   "kind": "product",
+   "entity": {
+    "type": "organisation",
+    "name": "MrCool",
+    "people": []
+   },
+   "by": "description",
+   "line": "This video is sponsored by #MrCool. Learn more by visiting their website here: https://bit.ly/mrcooltht",
+   "channel": "Tiny Home Tours",
+   "sponsored": true
+  },
+  {
+   "id": "link-2",
+   "url": "https://www.instagram.com/margo.does.stuff/",
+   "kind": "social",
+   "entity": {
+    "type": "person",
+    "id": "margo"
+   },
+   "by": "description",
+   "line": "Margo's Instagram: https://www.instagram.com/margo.does.stuff/",
+   "channel": "Tiny Home Tours"
+  },
+  {
+   "id": "link-3",
+   "url": "https://www.margofairchild.com/",
+   "kind": "own site",
+   "entity": {
+    "type": "person",
+    "id": "margo"
+   },
+   "by": "description",
+   "line": "Margo's Website: https://www.margofairchild.com/",
+   "channel": "Tiny Home Tours"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "loft-bed",
+   "predicate": "sits above",
+   "object": "dinette",
+   "time": 974.5,
+   "status": "visible in the same shot"
+  },
+  {
+   "subject": "loft-access",
+   "predicate": "uses",
+   "object": "custom-sofa",
+   "time": 1084,
+   "status": "demonstrated by Margo climbing from couch arm"
+  },
+  {
+   "subject": "borrowed-light",
+   "predicate": "admits light from",
+   "object": "bathroom-windows",
+   "time": 1185,
+   "status": "glazed connection visible; intended function explained by Margo"
+  },
+  {
+   "subject": "hammered-backsplash",
+   "predicate": "sits behind",
+   "object": "range-microwave",
+   "time": 323,
+   "status": "visible in close-up"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "shed-house",
+   "title": "Self-finished shed tiny house",
+   "place": "tiny-house",
+   "category": "Structure",
+   "description": "A compact finished building has a central entry, pale upper walls, dark lower skirting and a lofted bed inside. Margo says she converted an Amish-built shed shell into her home, with about 240 square feet [22.30 m²] on the main level. She estimates the total cost at around $47,000, give or take a couple thousand.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No measured survey, foundation specification or legal status is supplied. The description’s 2023 move-in date does not reconcile clearly with her four-year occupancy statement.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "terms": [
+    "shed",
+    "tiny house",
+    "conversion",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 122.96,
+     "end": 129.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 516.95,
+     "end": 554.839,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 595.76,
+     "end": 616.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 1263.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 511.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0107.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0127",
+     "time": 678.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0127.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0127.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bare-shed-record",
+   "title": "Bare shed and delivery archive",
+   "place": "tiny-house",
+   "category": "Structure",
+   "description": "Inserted owner-record images show the pale shed before the finished facade and interior fit-out. Margo says it originally had a floor, studs and roof but no windows, and that she bought it in fall 2020 for $8,800.",
+   "phase": "historical",
+   "part_of": "shed-house",
+   "unknown": "Image dates, support details and manufacturer are not supplied; Amish-built is her attribution.",
+   "related_ids": [],
+   "terms": [
+    "shed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 523.35,
+     "end": 568.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0111",
+     "time": 527.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0111.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0111.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0113",
+     "time": 557.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0113.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0113.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0111.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "facade-skirting",
+   "title": "Pale facade and corrugated dark skirting",
+   "place": "tiny-house",
+   "category": "Materials",
+   "description": "The front wall is pale and smooth-looking with dark window and door trim. Horizontal corrugated dark panels cover the lower perimeter; these finishes are visible but not explained in the narration.",
+   "phase": "current",
+   "part_of": "shed-house",
+   "unknown": "Upper-wall substrate, skirting material, ventilation and the concealed foundation are not established.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 1263.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 511.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0107.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "entry-deck",
+   "title": "Timber entry steps, deck and canopy",
+   "place": "entry-deck",
+   "category": "Structure",
+   "description": "Timber-topped steps rise from a low deck to the central door, with a dark handrail and braced overhead canopy. Margo and her dog pass through this entry in the opening montage.",
+   "phase": "current",
+   "part_of": "shed-house",
+   "unknown": "Timber species, foundations, weatherproofing and canopy roof material are not identified.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "terms": [
+    "timber",
+    "stair",
+    "deck"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 1263.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0008",
+     "time": 21.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0008.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0008.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 134.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0031.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "interior-finish",
+   "title": "Strip flooring and white sloping ceiling",
+   "place": "tiny-house",
+   "category": "Materials",
+   "description": "Warm variegated floor strips run through the main interior beneath a white lined sloping ceiling. Stained timber members remain visible overhead; the film does not name these finishes.",
+   "phase": "current",
+   "part_of": "shed-house",
+   "unknown": "The floor could not be identified as solid wood, engineered wood or another product; roof build-up and timber function are unstated.",
+   "related_ids": [],
+   "terms": [
+    "floor",
+    "ceiling",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0127",
+     "time": 678.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0127.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0127.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 80.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0019.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0092",
+     "time": 436.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0092.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0092.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0127.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "kitchen",
+   "title": "Kitchen with full-size cooking appliances",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "Teal cabinetry and white worktops surround an electric range, sink and raised refrigerator. Margo says fitting the full-size bathtub determined the kitchen layout, while an open patch of floor serves several activities.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No measured kitchen plan, worktop specification or ventilation rate is given.",
+   "related_ids": [
+    "design-screen",
+    "bathtub",
+    "pantry"
+   ],
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 136.19,
+     "end": 151.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 192,
+     "end": 227.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0081",
+     "time": 389.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0081.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0081.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0056",
+     "time": 263.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0056.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0056.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0081.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "base-cabinets",
+   "title": "Painted prefab base cabinets and corner storage",
+   "place": "kitchen",
+   "category": "Structure",
+   "description": "Teal doors and drawers line the kitchen below the white counter. Margo says she arranged prefabricated cabinets on a riser and painted them; she also describes a lazy Susan for corner storage.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "The corner mechanism is not clearly demonstrated and cabinet materials are not identified. The description’s claim that she made every cabinet conflicts with her explicit prefab account.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 169.36,
+     "end": 190.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 247.64,
+     "end": 266.919,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0056",
+     "time": 263.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0056.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0056.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 171.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0039.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 174.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0040.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0056.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "range-microwave",
+   "title": "Secondhand electric range and slim microwave",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A full-size electric range sits below a shallow microwave, with cookware stored above. Margo says she wanted a full-size oven for baking cookies and bought the oven and microwave used.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Model, capacity, electrical demand and ventilation discharge route are not supplied.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "terms": [
+    "reclaimed",
+    "electric cooking"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 192,
+     "end": 224.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 269.36,
+     "end": 281.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 200.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0046.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0059",
+     "time": 281.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0059.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0059.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0050",
+     "time": 216.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0050.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0050.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 226.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0051.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0046.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "raised-fridge",
+   "title": "Raised refrigerator with utility drawer",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A white refrigerator stands on a teal base containing a pull-out utility drawer, which Margo opens. She says raising the refrigerator makes it easier to reach inside and that it was the kitchen appliance she bought new.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Dimensions, refrigerator model and load-bearing construction of the base are not supplied.",
+   "related_ids": [
+    "welcome-sign",
+    "design-screen"
+   ],
+   "terms": [
+    "refrigerator",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 175.32,
+     "end": 177.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 203.12,
+     "end": 210.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 281.36,
+     "end": 290.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 209.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0049.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0042",
+     "time": 179.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0042.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0042.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0060",
+     "time": 287.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0060.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0060.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0049.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "kitchen-sink",
+   "title": "White sink counter and black arched faucet",
+   "place": "kitchen",
+   "category": "Water",
+   "description": "A sink beneath the kitchen window has a tall black arched faucet and white surrounding worktop. Margo is shown using this work area, but does not explain its construction or plumbing.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Counter and basin materials, hot-water source and drainage route are not identified.",
+   "related_ids": [
+    "hired-plumbing",
+    "design-screen"
+   ],
+   "terms": [
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0002",
+     "time": 3.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0002.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0002.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 174.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0040.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0002.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "salvaged-shelf",
+   "title": "Piano-cover shelf and thrifted wall cabinet",
+   "place": "kitchen",
+   "category": "Materials",
+   "description": "A dark wood shelf above the kitchen window holds glasses, with a wood-framed glass-front cabinet beside it. Margo identifies a piano cover from a junkyard and a cabinet from a thrift store as reused pieces.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Original maker, wood species, age and modifications are not established.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "glass",
+    "reclaimed",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 290.76,
+     "end": 316.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0061",
+     "time": 301.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0061.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0061.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0044",
+     "time": 191.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0044.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0044.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0062",
+     "time": 313.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0062.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0062.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0061.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "hammered-backsplash",
+   "title": "Hammered metal range backsplash",
+   "place": "kitchen",
+   "category": "Materials",
+   "description": "A dimpled reflective sheet covers the wall behind the range beneath the microwave. Margo calls it a hammered metal backsplash and says she enjoys its texture.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "The metal alloy, backing and installation method are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 316.76,
+     "end": 325.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0063",
+     "time": 323.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0063.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0063.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0063.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "salvaged-hardware",
+   "title": "Ornate shelf brackets and engraved cup pulls",
+   "place": "kitchen",
+   "category": "Materials",
+   "description": "Ornate gold-colored shelf brackets and engraved cup pulls contrast with the teal cabinets. Margo calls the brackets brass and says an architect friend gave her pulls from an old Victorian house in Portland, described as early 1800s.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Metal composition and provenance are not independently established; the spoken period labels leave the exact dating uncertain.",
+   "related_ids": [],
+   "terms": [
+    "brass",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 325.44,
+     "end": 351.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 339.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0068.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0064",
+     "time": 328.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0064.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0064.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 338.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0067.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0068.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pantry",
+   "title": "Tall pull-out pantry beside wardrobe mirror",
+   "place": "main-room",
+   "category": "Food",
+   "description": "Margo pulls out a tall narrow shelving unit stocked with jars, cans and packets beside the wardrobe’s mirrored end. She says combining the pantry with her custom wardrobe allowed both to fit.",
+   "phase": "current",
+   "part_of": "wardrobe",
+   "unknown": "Runner hardware, safe loading and concealed frame details are not shown.",
+   "related_ids": [
+    "kitchen",
+    "design-screen"
+   ],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 353.08,
+     "end": 406.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 437.32,
+     "end": 450.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 374.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0078.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 372.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0077.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 370.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0076.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0078.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wardrobe",
+   "title": "Custom wardrobe and pantry unit",
+   "place": "main-room",
+   "category": "Life",
+   "description": "A natural-wood-framed wardrobe has pale ribbed doors, lower drawers and hanging clothes inside. Margo says she built it for this space and keeps one season’s clothing here, swapping winter clothes from elsewhere.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The ribbed infill material and the location of off-season clothes are not established.",
+   "related_ids": [
+    "design-screen",
+    "pantry"
+   ],
+   "terms": [
+    "timber",
+    "storage",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 408.12,
+     "end": 450.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 419.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0087.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0090",
+     "time": 427.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0090.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0090.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0092",
+     "time": 436.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0092.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0092.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0087.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "laundry-storage",
+   "title": "Laundry baskets beneath entertainment cabinet",
+   "place": "main-room",
+   "category": "Life",
+   "description": "Baskets sit in and beside a low glass-front cupboard at the entry end of the entertainment structure. Margo identifies separate clean and dirty laundry storage here.",
+   "phase": "current",
+   "part_of": "lounge",
+   "unknown": "The baskets’ capacity and any ventilation arrangement are not explained.",
+   "related_ids": [
+    "family-laundry"
+   ],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 451.48,
+     "end": 456.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0098",
+     "time": 457.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0098.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0098.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 461.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0099.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0097",
+     "time": 456.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0097.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0097.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0098.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "activity-space",
+   "title": "Open exercise floor and stored weights",
+   "place": "main-room",
+   "category": "Life",
+   "description": "The kitchen-side floor remains open, and dumbbells and a kettlebell sit above the wardrobe near plants. Margo says she uses the floor for yoga, workouts and play with her dog, and keeps a volleyball for practice.",
+   "phase": "current",
+   "part_of": "wardrobe",
+   "unknown": "No workout or volleyball practice is demonstrated; usable floor area is not measured.",
+   "related_ids": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 153.84,
+     "end": 169.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 474.84,
+     "end": 494.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0103",
+     "time": 485.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0103.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0103.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0035",
+     "time": 153.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0035.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0035.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0036",
+     "time": 159.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0036.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0036.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0103.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "borrowed-light",
+   "title": "Glazed openings beside bathroom partition",
+   "place": "main-room",
+   "category": "Climate",
+   "description": "Small glazed openings high beside the wardrobe and bathroom partition allow views of light through the partition. Margo says she designed these openings to bring bathroom daylight into the rest of the house.",
+   "phase": "current",
+   "part_of": "shed-house",
+   "unknown": "Glazing type, light levels and privacy performance are not quantified.",
+   "related_ids": [
+    "bathroom-windows"
+   ],
+   "terms": [
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 497.08,
+     "end": 505.08,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1184.16,
+     "end": 1188.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0106",
+     "time": 504.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0106.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0106.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0229",
+     "time": 1185.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0229.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0229.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0106.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lounge",
+   "title": "Lounge with recessed entertainment wall",
+   "place": "main-room",
+   "category": "Life",
+   "description": "An apricot sofa faces a recessed television beside the open passage through the house. Margo says this is her favorite spot for watching films, eating and sitting with her dog.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The open lounge is a functional zone, not an independently enclosed room; its dimensions are not given.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 672.99,
+     "end": 711.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 947.08,
+     "end": 972.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 121.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0026.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 700.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0133.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0137",
+     "time": 724.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0137.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0137.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0026.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "custom-sofa",
+   "title": "Apricot custom-made compact sofa",
+   "place": "main-room",
+   "category": "Life",
+   "description": "A softly textured apricot sofa fills the lounge wall beneath the wallpaper. Margo says she had it made to fit, slightly shorter than 6 feet [1.83 m], and uses it more than anything else in the home.",
+   "phase": "current",
+   "part_of": "lounge",
+   "unknown": "Manufacturer, upholstery composition and price are not supplied.",
+   "related_ids": [
+    "bird-wallpaper",
+    "loft-access"
+   ],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 693.72,
+     "end": 711.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 700.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0133.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 121.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0026.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0133.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "recessed-tv",
+   "title": "Recessed television, soundbar and mesh-front cabinet",
+   "place": "main-room",
+   "category": "Life",
+   "description": "The television and soundbar sit in a deep framed recess above mesh-front cabinet doors, with plants on the shelf above. Margo says she recessed the screen after testing an uncomfortable flat-wall viewing position.",
+   "phase": "current",
+   "part_of": "lounge",
+   "unknown": "The screen size, mounting mechanism and equipment behind the lower mesh doors are not established.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 714.04,
+     "end": 748.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 957.04,
+     "end": 961.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0137",
+     "time": 724.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0137.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0137.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0140",
+     "time": 745.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0140.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0140.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0141",
+     "time": 747.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0141.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0141.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0174",
+     "time": 959.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0174.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0174.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0137.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "tv-construction",
+   "title": "Entertainment cabinet construction record",
+   "place": "main-room",
+   "category": "Process",
+   "description": "An inserted owner-record image shows the entertainment structure as unfinished plywood work. Margo explains that she changed the design during construction to place the television farther back.",
+   "phase": "historical",
+   "part_of": "recessed-tv",
+   "unknown": "The archive image has no date and does not establish the complete sequence of revisions.",
+   "related_ids": [],
+   "terms": [
+    "plywood",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 714.04,
+     "end": 745.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 716.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0136.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0136.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bird-wallpaper",
+   "title": "Bird-and-foliage lounge wallpaper",
+   "place": "main-room",
+   "category": "Materials",
+   "description": "Bright yellow-green wallpaper carries birds, foliage and flowers above white lower wall paneling. Margo says this pattern guided the sofa and cabinet colors throughout the house.",
+   "phase": "current",
+   "part_of": "lounge",
+   "unknown": "The maker and product are not named; the automatic caption for one color is garbled, so it is not quoted as an exact color name.",
+   "related_ids": [
+    "custom-sofa",
+    "base-cabinets"
+   ],
+   "terms": [
+    "wallpaper"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 748.68,
+     "end": 799.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0143",
+     "time": 753.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0143.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0143.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0144",
+     "time": 763.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0144.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0144.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0147",
+     "time": 783.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0147.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0147.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0143.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "reading-lamps",
+   "title": "Adjustable conical reading lamps",
+   "place": "main-room",
+   "category": "Energy",
+   "description": "Gold-colored wall lamps have long articulated arms and conical shades above the sofa. Margo demonstrates swinging and tilting them for reading or lighting other parts of the space.",
+   "phase": "current",
+   "part_of": "lounge",
+   "unknown": "Metal, bulb type, power consumption and manufacturer are not disclosed.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 802.4,
+     "end": 811.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0149",
+     "time": 807.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0149.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0149.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0150",
+     "time": 812.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0150.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0150.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0148",
+     "time": 804.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0148.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0148.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0149.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "tilt-turn-window",
+   "title": "Inward-opening tilt-and-turn lounge window",
+   "place": "main-room",
+   "category": "Climate",
+   "description": "Margo demonstrates the white-framed lounge window swinging inward and tilting open at the top. She calls it a European-style window and values its daylight and ventilation.",
+   "phase": "current",
+   "part_of": "shed-house",
+   "unknown": "Dimensions, glazing specification, opening limit and escape suitability are not established.",
+   "related_ids": [],
+   "terms": [
+    "window",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 811.2,
+     "end": 828.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0154",
+     "time": 829.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0154.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0154.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0153",
+     "time": 826.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0153.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0153.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0151",
+     "time": 823.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0151.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0151.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0154.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dinette",
+   "title": "Diner booth beneath sleeping loft",
+   "place": "dinette",
+   "category": "Life",
+   "description": "Two opposing cushioned benches face a wood tabletop beneath the exposed loft floor members. Margo says the booth seats four and also serves for crafts, office work and reading.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Four adults are not shown seated together and no office equipment is demonstrated.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "terms": [
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 975,
+     "end": 1038.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0178",
+     "time": 974.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0178.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0178.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0195",
+     "time": 1025.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0195.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0195.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0182",
+     "time": 992.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0182.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0182.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0178.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "booth-storage",
+   "title": "Storage behind and beneath booth seats",
+   "place": "dinette",
+   "category": "Life",
+   "description": "Margo opens storage behind a seat back and lifts a cushion and lid to expose the base compartment. She says there is storage on both sides and beneath the seats; dog food is accessed in the demonstration.",
+   "phase": "current",
+   "part_of": "dinette",
+   "unknown": "The internal construction, total volume and access to every compartment are not shown.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1040.48,
+     "end": 1048.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0200",
+     "time": 1047.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0200.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0200.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0198",
+     "time": 1043.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0198.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0198.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 1049.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0201.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0200.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dinette-windows",
+   "title": "Tall narrow diner-booth windows",
+   "place": "dinette",
+   "category": "Climate",
+   "description": "Two slender vertical windows flank the far wall of the booth beneath the loft. Margo says the elongated windows keep the low space from feeling closed in.",
+   "phase": "current",
+   "part_of": "dinette",
+   "unknown": "Window dimensions, opening modes and glazing performance are not disclosed.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "terms": [
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1019.191,
+     "end": 1031,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0195",
+     "time": 1025.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0195.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0195.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0196",
+     "time": 1028.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0196.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0196.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0195.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dog-space",
+   "title": "Dog bed and paired feeding bowls",
+   "place": "dinette",
+   "category": "Life",
+   "description": "A cream dog bed sits at the booth’s open end beside two teal bowls on a patterned mat. Margo identifies her dog as Lola and says this is her bed area; footage shows Lola using the space and drinking.",
+   "phase": "current",
+   "part_of": "dinette",
+   "unknown": "No claim is made that the nook is exclusively for the dog or that its pictured arrangement is permanent.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 993.6,
+     "end": 1007.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0184",
+     "time": 996.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0184.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0184.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0185",
+     "time": 999.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0185.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0185.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 1051.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0202.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0188",
+     "time": 1004.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0188.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0188.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0184.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "loft-bed",
+   "title": "Queen-size bed above diner booth",
+   "place": "sleeping-loft",
+   "category": "Life",
+   "description": "A bed platform projects above the diner booth beneath the sloping ceiling and skylight. Margo says a queen-size bed was essential for her and describes it as roughly another 32 square feet [2.97 m²] beyond the main level.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Mattress brand, structural load rating and precise platform area are not supplied.",
+   "related_ids": [
+    "design-screen",
+    "skylight"
+   ],
+   "terms": [
+    "loft"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 519.56,
+     "end": 523.35,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1052.04,
+     "end": 1066.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0204",
+     "time": 1055.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0204.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0204.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0206",
+     "time": 1070.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0206.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0206.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 18.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0007.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0204.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "loft-access",
+   "title": "Foot-end steps and couch-arm bed access",
+   "place": "main-room",
+   "category": "Life",
+   "description": "Margo demonstrates stepping up at the bed’s foot and then climbing into the loft from the sofa arm at its side. She says the original foot-end stair arrangement did not work well for her height, so she uses the couch.",
+   "phase": "current",
+   "part_of": "loft-bed",
+   "unknown": "The film supplies no independent assessment of fall protection, access safety or code compliance.",
+   "related_ids": [
+    "custom-sofa",
+    "design-screen"
+   ],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1071.96,
+     "end": 1098.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0208",
+     "time": 1079.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0208.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0208.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0209",
+     "time": 1084.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0209.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0209.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0210",
+     "time": 1086.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0210.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0210.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0208.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "headboard",
+   "title": "Green channel headboard with illuminated niche",
+   "place": "sleeping-loft",
+   "category": "Life",
+   "description": "Green upholstered vertical channels surround a small illuminated storage recess with books and an outlet. Margo says she wrapped and mounted the channels individually and made the headboard about 5 inches [12.7 cm] deep.",
+   "phase": "current",
+   "part_of": "loft-bed",
+   "unknown": "The concealed frame and the full extent of storage are not shown; not every item she lists is identifiable.",
+   "related_ids": [],
+   "terms": [
+    "fabric",
+    "storage",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1098.24,
+     "end": 1136.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0215",
+     "time": 1102.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0215.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0215.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 1117.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0219.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0220",
+     "time": 1134.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0220.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0220.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0215.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "loft-emergency-kit",
+   "title": "Claimed loft emergency equipment",
+   "place": "sleeping-loft",
+   "category": "Life",
+   "description": "The accompanying footage shows Margo at the headboard and its book niche, not identifiable emergency equipment. She says she stores a fire extinguisher, a tool to break the skylight and a small escape ladder there.",
+   "phase": "current",
+   "part_of": "headboard",
+   "unknown": "None of the three items is clearly identifiable in reviewed frames, and no escape procedure or equipment rating is demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "ladder"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1111.08,
+     "end": 1122.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 1117.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0219.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0217",
+     "time": 1111.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0217.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0217.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0219.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mattress-airflow-pad",
+   "title": "Claimed under-mattress airflow pad",
+   "place": "sleeping-loft",
+   "category": "Climate",
+   "description": "The made bed is visible, with the underside of the mattress concealed. Margo says a pad beneath it provides airflow.",
+   "phase": "current",
+   "part_of": "loft-bed",
+   "unknown": "The pad itself, its material and its effect on moisture are not shown.",
+   "related_ids": [],
+   "terms": [
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1066.64,
+     "end": 1071.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0204",
+     "time": 1055.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0204.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0204.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0206",
+     "time": 1070.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0206.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0206.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0204.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "skylight",
+   "title": "Loft skylight and blackout roller shade",
+   "place": "sleeping-loft",
+   "category": "Climate",
+   "description": "A rectangular skylight opens the view above the bed, and Margo operates its shade. She says the skylight adds about 9 inches [22.86 cm] of headroom and that the blackout roller shade keeps the sleeping space dark.",
+   "phase": "current",
+   "part_of": "shed-house",
+   "unknown": "Headroom is not measured on camera; glazing, opening mechanism, flashing and escape suitability are not established.",
+   "related_ids": [
+    "loft-bed"
+   ],
+   "terms": [
+    "skylight",
+    "shading"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1136.52,
+     "end": 1165.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0222",
+     "time": 1152.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0222.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0222.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0224",
+     "time": 1162.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0224.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0224.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0223",
+     "time": 1159.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0223.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0223.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0222.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom",
+   "title": "Bathroom with conventional fixtures and daylight",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "The bathroom combines a wide basin, cistern toilet and end-entry bathtub, with large windows and patterned finishes. Margo says she wanted conventional household comforts and abundant natural light.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No water source, hot-water appliance, wastewater destination or measured room area is shown.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "terms": [
+    "bathroom",
+    "flush toilet",
+    "bath",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1169.16,
+     "end": 1203.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1215.44,
+     "end": 1258.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 1173.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0227.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0230",
+     "time": 1192.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0230.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0230.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0240",
+     "time": 1227.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0240.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0240.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0227.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom-vanity",
+   "title": "Wide basin, medicine cabinet and basket tray",
+   "place": "bathroom",
+   "category": "Life",
+   "description": "A white basin sits on a black slatted vanity, with a mirrored medicine cabinet above and a low pull-out tray holding baskets below. Margo opens the storage and says it accommodates the things she needs.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "unknown": "Basin and cabinet materials, tray mechanism and dimensions are not given.",
+   "related_ids": [],
+   "terms": [
+    "sink",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1169.16,
+     "end": 1176.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1204.88,
+     "end": 1212.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 1173.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0227.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0233",
+     "time": 1205.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0233.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0233.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0234",
+     "time": 1209.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0234.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0234.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0235",
+     "time": 1213.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0235.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0235.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0227.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "flush-toilet",
+   "title": "Cistern toilet with top flush control",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A white toilet with a cistern and circular top control stands beside a window. Margo calls it a regular functioning toilet and contrasts it with the composting toilet she did not want.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "unknown": "The film does not show a flush cycle or identify sewer, septic or any other discharge connection.",
+   "related_ids": [
+    "design-screen",
+    "hired-plumbing"
+   ],
+   "terms": [
+    "flush toilet"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1188.8,
+     "end": 1203.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 1194.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0231.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0232",
+     "time": 1198.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0232.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0232.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0231.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathtub",
+   "title": "Full-size bathtub entered from its end",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A white bathtub occupies a narrow windowed recess; Margo sits in it and access is shown from the end. She says this orientation allowed a full-size bath while preserving more kitchen space.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "unknown": "Exact tub size, material, waterproofing and hot-water capacity are not supplied.",
+   "related_ids": [
+    "kitchen",
+    "design-screen",
+    "hired-plumbing"
+   ],
+   "terms": [
+    "bath"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1215.44,
+     "end": 1258.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0240",
+     "time": 1227.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0240.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0240.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0241",
+     "time": 1235.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0241.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0241.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0239",
+     "time": 1225.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0239.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0239.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0240.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-fittings",
+   "title": "Black overhead and handheld shower fittings",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A rectangular perforated overhead head and a smaller handheld shower appear above the tub, beside wire toiletry baskets. Black controls and a spout contrast with the pale veined surround; these shower details are not discussed.",
+   "phase": "current",
+   "part_of": "bathtub",
+   "unknown": "Brand, flow rate, control arrangement and surround material are not established.",
+   "related_ids": [],
+   "terms": [
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0243",
+     "time": 1241.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0243.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0243.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0240",
+     "time": 1227.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0240.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0240.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0243.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom-windows",
+   "title": "Two large matching bathroom windows",
+   "place": "bathroom",
+   "category": "Climate",
+   "description": "Large white-framed windows brighten the bathroom, with trees visible through the bath-side glazing. Margo says she obtained two matching 4-foot [1.22 m] windows for about $75 each and uses their light throughout the house.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "unknown": "Which window dimension is four feet is not specified; privacy, glazing and operability are not established.",
+   "related_ids": [
+    "borrowed-light",
+    "design-screen"
+   ],
+   "terms": [
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1176.84,
+     "end": 1188.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1243.56,
+     "end": 1250.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0228",
+     "time": 1177.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0228.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0228.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0245",
+     "time": 1249.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0245.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0245.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0244",
+     "time": 1246.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0244.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0244.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0228.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "woven-bathroom-door",
+   "title": "Dark-framed woven bathroom sliding panel",
+   "place": "bathroom",
+   "category": "Structure",
+   "description": "A tall dark-framed panel with pale open woven infill sits at the bathroom entrance on a visible overhead track. The bathroom and kitchen-side views show this element, but Margo does not describe it.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "unknown": "The infill resembles cane but its material is unverified; privacy and full travel are not demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 1168.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0225.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 1173.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0227.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0235",
+     "time": 1213.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0235.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0235.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0225.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom-finishes",
+   "title": "Hexagonal floor and leafy bathroom wall finish",
+   "place": "bathroom",
+   "category": "Materials",
+   "description": "Small white hexagons with scattered black accents cover the bathroom floor, while dark leafy patterns frame a gold-colored mirror and wall lights. Close views show the finishes without spoken specifications.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "unknown": "Whether the floor is individual tile or a patterned sheet product is not established; wall covering maker and wet-area suitability are unstated.",
+   "related_ids": [],
+   "terms": [
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0248",
+     "time": 1261.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0248.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0248.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0247",
+     "time": 1260.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0247.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0247.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0235",
+     "time": 1213.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0235.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0235.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0248.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mini-split",
+   "title": "Installed MrCool wall-mounted mini-split",
+   "place": "main-room",
+   "category": "Climate",
+   "description": "A white wall-mounted indoor unit sits high above the lounge near the bed and is visible before the advertisement begins. Margo identifies this as her mini-split and says climate control is necessary in Central Virginia’s humid summers.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "MrCool sponsors the video. No independent performance measurement, model capacity or operating cost is provided, and advertisement-only footage supplies no additional features.",
+   "related_ids": [],
+   "terms": [
+    "mini-split",
+    "air conditioning"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 830.96,
+     "end": 849.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0156",
+     "time": 840.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0156.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0156.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0157",
+     "time": 843.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0157.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0157.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0155",
+     "time": 837.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0155.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0155.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0156.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "diy-build",
+   "title": "Self-directed shed conversion process",
+   "place": "tiny-house",
+   "category": "Process",
+   "description": "Inserted owner-record footage shows Margo working on the unfinished interior, cabinetry and electrical installation. She describes breaking the build into small tasks, learning as she went and using secondhand materials to reduce cost.",
+   "phase": "historical",
+   "part_of": null,
+   "unknown": "The film does not document every stage, hour or expense; plumbing and the manufactured shell were not her own construction work.",
+   "related_ids": [
+    "design-screen"
+   ],
+   "terms": [
+    "self-built",
+    "conversion",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2.35,
+     "end": 19,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 94.79,
+     "end": 122.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 247.64,
+     "end": 290.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 595.76,
+     "end": 616.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 98.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0024.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 259.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0055.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 593.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0117.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0118",
+     "time": 597.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0118.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0118.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0024.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "electrical-installation",
+   "title": "Archive electrical panel and exposed wiring",
+   "place": "tiny-house",
+   "category": "Energy",
+   "description": "An owner-record insert shows a gray open electrical panel and yellow cabling among exposed wall studs. Margo says she did the electrical work herself with pointers from a friend.",
+   "phase": "historical",
+   "part_of": "diy-build",
+   "unknown": "Panel rating, service connection, completed circuit layout and inspection or certification are not established.",
+   "related_ids": [],
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 590.16,
+     "end": 595.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 593.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0117.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0117.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "interior-build-record",
+   "title": "Interior fitting and cabinetry construction records",
+   "place": "tiny-house",
+   "category": "Process",
+   "description": "Owner-record inserts show window/framing work, a recessed cabinet, white panel work, unpainted base cabinets and bathroom wall finishing. Margo describes learning the tasks and installing the cabinets herself.",
+   "phase": "historical",
+   "part_of": "diy-build",
+   "unknown": "The exact room for the panel-working clip and dates of the inserts are unverified; this is not a complete construction record.",
+   "related_ids": [
+    "base-cabinets",
+    "bathroom-finishes"
+   ],
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 94.79,
+     "end": 121.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 247.64,
+     "end": 266.919,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 98.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0024.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 7.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0004.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0023",
+     "time": 91.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0023.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0023.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 259.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0055.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0118",
+     "time": 597.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0118.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0118.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0024.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "archive-insulation",
+   "title": "Exposed pale cavity insulation in build archive",
+   "place": "tiny-house",
+   "category": "Materials",
+   "description": "In the panel-working archive, rough pale insulation is visible between timber members of the unfinished shell. Margo says the shell required insulation as part of its fit-out.",
+   "phase": "historical",
+   "part_of": "shed-house",
+   "unknown": "Insulation chemistry, thickness, installed coverage, vapor control and present condition cannot be established.",
+   "related_ids": [],
+   "terms": [
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 523.35,
+     "end": 534.839,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 98.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0024.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0024.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "design-screen",
+   "title": "Archived SketchUp design screen",
+   "place": "tiny-house",
+   "category": "Plan",
+   "description": "An inserted photograph of a computer screen depicts a small-home design with a bathroom, kitchen and elevated bed over seating. Margo says she taught herself SketchUp while discussing design development, including an earlier gooseneck-trailer idea.",
+   "phase": "historical",
+   "part_of": "diy-build",
+   "unknown": "The model resembles the finished shed but its version and date are unstated; it cannot settle built dimensions or the earlier trailer proposal.",
+   "related_ids": [],
+   "review_frames": [
+    "review/2twuMtzLv10/scan/t-63.5.jpg",
+    "review/2twuMtzLv10/scan/t-63.5-crop.jpg"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 54.92,
+     "end": 65.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0016",
+     "time": 63.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0016.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0016.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0016.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "welcome-sign",
+   "title": "Handwritten Tiny Home Tours refrigerator greeting",
+   "place": "kitchen",
+   "category": "Plan",
+   "description": "A small refrigerator whiteboard reads “Well howdy, TINY HOME TOURS!” beside a set of colored markers. It is shown in close-up without being discussed.",
+   "phase": "current",
+   "part_of": "raised-fridge",
+   "unknown": "The writer and date are not identified; this greeting does not locate any feature or establish occupancy history.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0029",
+     "time": 132.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0029.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0029.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0029.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "cost-graphic",
+   "title": "Editorial rent-versus-build cost comparison",
+   "place": "site",
+   "category": "Plan",
+   "description": "An animated editorial graphic compares an estimated Richmond two-bedroom rental cost with the tiny-house build cost. Margo says her build expenditure equaled roughly two years of the rent and utilities she would otherwise have paid; the completed graphic displays $48,000 against $47,000.",
+   "phase": "current",
+   "part_of": "family-property",
+   "unknown": "Sample frame-0123 shows only the beginning of the animation; the full graphic was inspected in scan/t-660.jpg. The rent estimate is unsourced and the graphic does not visibly account for family-site rent.",
+   "related_ids": [],
+   "review_frames": [
+    "review/2twuMtzLv10/scan/t-654.jpg",
+    "review/2twuMtzLv10/scan/t-660.jpg"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 641.839,
+     "end": 663,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0123",
+     "time": 647.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0123.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0123.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0123.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "family-property",
+   "title": "Tiny-house living on mother’s property",
+   "place": "site",
+   "category": "Life",
+   "description": "Exterior views show the tiny-house entry and a larger house within the surrounding family-property setting. Margo says the land is her mother’s and that she pays her about $500 in rent; the description specifies monthly payments including utilities.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Land boundaries, tenure terms and utility connections are not shown. The larger house is outside the subject household and its interior is not toured.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 229.84,
+     "end": 247.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 618.28,
+     "end": 665.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0121",
+     "time": 620.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0121.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0121.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0122",
+     "time": 623.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0122.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0122.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0101",
+     "time": 471.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0101.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0101.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/2twuMtzLv10/sample-0121.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "family-laundry",
+   "title": "Offsite family laundry and dishwashing access",
+   "place": "mother-house",
+   "category": "Life",
+   "description": "The larger house’s exterior supplies context, but no laundry or dishwashing appliances there are filmed. Margo says she uses her mother’s washer, dryer and dishwasher instead of fitting those appliances in the tiny house.",
+   "phase": "current",
+   "part_of": "family-property",
+   "unknown": "Appliance locations and access arrangements are not shown; the exterior’s association with her mother follows the accompanying narration.",
+   "related_ids": [
+    "laundry-storage",
+    "kitchen"
+   ],
+   "terms": [
+    "washing machine",
+    "tumble dryer",
+    "dishwasher"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 227.48,
+     "end": 247.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 459.16,
+     "end": 468.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0101",
+     "time": 471.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0101.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0101.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0121",
+     "time": 620.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0121.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0121.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0101.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "hired-plumbing",
+   "title": "Contracted plumbing and replacement account",
+   "place": "tiny-house",
+   "category": "Water",
+   "description": "Finished kitchen and bathroom fixtures provide context for a plumbing system whose pipes and repair work are not filmed. Margo says plumbing was the only work she hired out, that the first installation failed and that a better team replaced or corrected it.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "unknown": "Failure cause, repair scope, pipe routes, supply and disposal are not established; “failed” is not evidence of a failed inspection.",
+   "related_ids": [
+    "bathtub",
+    "flush-toilet",
+    "kitchen-sink"
+   ],
+   "terms": [
+    "contracted"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 568.4,
+     "end": 590.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 1173.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0227.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 174.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0040.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0227.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "yard",
+   "title": "Lawn and tree-lined family-property setting",
+   "place": "yard",
+   "category": "Land",
+   "description": "Grass, mature trees and planted areas surround the small house, with a wooded view from the bath. The tour shows this setting but does not describe a land-management or food-growing scheme.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Land ownership boundaries, tree species, total site area and the extent of any woodland are not established.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 1263.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 511.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0107.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0244",
+     "time": 1246.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0244.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0244.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "slat-fence",
+   "title": "Horizontal timber-slat yard fence",
+   "place": "yard",
+   "category": "Land",
+   "description": "A warm-colored horizontal slat fence crosses the background of the tiny-house exterior views. The fence is shown but not described by Margo.",
+   "phase": "current",
+   "part_of": "yard",
+   "unknown": "Ownership, exact boundary alignment, wood species and installation date are unknown.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "fence"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 1263.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 125.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0027.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "window-boxes",
+   "title": "Planted exterior window boxes and entry pots",
+   "place": "yard",
+   "category": "Land",
+   "description": "Dark window boxes carry green foliage and pink-white flowers, with tall pots beside the front steps. A hanging bird feeder is also visible near the entry.",
+   "phase": "current",
+   "part_of": "yard",
+   "unknown": "Plant species, whether all foliage is living, irrigation and maintenance practices are not stated.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 1263.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0008",
+     "time": 21.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0008.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0008.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "roof-chains",
+   "title": "Roof-edge channels and hanging chains",
+   "place": "tiny-house",
+   "category": "Water",
+   "description": "Channels run along the roof edges, with hanging chains visible at the left corner and beside the entry canopy. Their appearance suggests a rainwater-guiding detail, but the film does not explain or demonstrate water flow.",
+   "phase": "current",
+   "part_of": "shed-house",
+   "unknown": "Drainage connections and discharge destination are not established; no storage tank or rainwater reuse is shown.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 1263.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "unidentified-floor-appliance",
+   "title": "Dark cylindrical appliance beside diner booth",
+   "place": "dinette",
+   "category": "Life",
+   "description": "A narrow dark cylindrical appliance with a circular top stands beside the woven divider at the booth entrance. It is visible in room views but is not identified or demonstrated.",
+   "phase": "current",
+   "part_of": "dinette",
+   "unknown": "Its function, brand and power demand cannot be established; it is not labelled as a fan or purifier.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0182",
+     "time": 992.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0182.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0182.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0190",
+     "time": 1009.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0190.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0190.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0182.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "booth-bookshelves",
+   "title": "Books and display ledges behind booth seats",
+   "place": "dinette",
+   "category": "Life",
+   "description": "Wood-topped ledges behind the booth hold books, framed pictures and small decorative objects. Their use as shelves is clearly visible although the narration concentrates on the booth’s multiple functions.",
+   "phase": "current",
+   "part_of": "dinette",
+   "unknown": "Shelf depth, fixings and individual objects’ provenance are not explained.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0181",
+     "time": 986.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0181.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0181.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0180",
+     "time": 983.5,
+     "path": "review/2twuMtzLv10/evidence/frame-0180.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0180.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0197",
+     "time": 1038.0,
+     "path": "review/2twuMtzLv10/evidence/frame-0197.jpg",
+     "preview_path": "review/2twuMtzLv10/sample-0197.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/2twuMtzLv10/sample-0181.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 24,
+   "title": "Opening montage",
+   "visible": "Margo in lounge; kitchen use, loft and front steps; brief historical window/framing work.",
+   "gaps": "No construction date, site boundary or hidden wall build-up.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0008.jpg"
+  },
+  {
+   "start": 24,
+   "end": 91,
+   "title": "Background and design record",
+   "visible": "Lounge interview, dog, finished kitchen and an inserted photographed SketchUp design.",
+   "gaps": "The model version and its relation to the earlier trailer concept are uncertain.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0016.jpg"
+  },
+  {
+   "start": 91,
+   "end": 134,
+   "title": "Self-build introduction",
+   "visible": "Historical cabinet/panel work; finished lounge, exterior introduction, bathroom, refrigerator greeting and dinette.",
+   "gaps": "Historical work location within the house and completion date are not established visually.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0027.jpg"
+  },
+  {
+   "start": 134,
+   "end": 192,
+   "title": "Kitchen layout and storage",
+   "visible": "Margo enters; kitchen/bathroom cutaways, open floor, fridge-base drawer and wood wall cabinet.",
+   "gaps": "No measured room plan; rotating corner mechanism is not clearly demonstrated.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0040.jpg"
+  },
+  {
+   "start": 192,
+   "end": 248,
+   "title": "Kitchen appliances",
+   "visible": "Electric range, opened refrigerator, slim microwave, upper pot storage and kitchen interview.",
+   "gaps": "Appliance efficiency, capacities and offsite dishwasher are not shown.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0046.jpg"
+  },
+  {
+   "start": 248,
+   "end": 297,
+   "title": "Kitchen installation and reuse",
+   "visible": "Current cabinets and dish storage alternate with historical unpainted cabinet installation.",
+   "gaps": "Individual invoices and installation dates are absent.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0056.jpg"
+  },
+  {
+   "start": 297,
+   "end": 353,
+   "title": "Salvaged kitchen finishes",
+   "visible": "Wood shelf, brass-colored brackets, hammered backsplash, engraved cup pulls and leaf ornament.",
+   "gaps": "Material composition, original buildings and hardware dates are not independently verified.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0063.jpg"
+  },
+  {
+   "start": 353,
+   "end": 408,
+   "title": "Pull-out pantry",
+   "visible": "Margo extends the tall narrow pantry beside the mirror; stocked shelving and kitchen activity.",
+   "gaps": "Concealed runner specification and load capacity are not shown.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0078.jpg"
+  },
+  {
+   "start": 408,
+   "end": 474,
+   "title": "Wardrobe and laundry",
+   "visible": "Wardrobe opens to clothes and shoes; lower drawers, TV-side laundry baskets and larger house exterior.",
+   "gaps": "Mother’s washer, dryer and interior are not visited.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0090.jpg"
+  },
+  {
+   "start": 474,
+   "end": 516,
+   "title": "Exercise storage and borrowed light",
+   "visible": "Weights and kettlebell on wardrobe top, plants, small interior glazing and exterior facade.",
+   "gaps": "No workout demonstration, light measurement or garden boundary.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0103.jpg"
+  },
+  {
+   "start": 516,
+   "end": 569,
+   "title": "Shed shell and purchase",
+   "visible": "Lounge interview with dimension labels; loft view and archival bare shed/delivery images.",
+   "gaps": "No dated invoice, manufacturing record or foundation detail.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0111.jpg"
+  },
+  {
+   "start": 569,
+   "end": 618,
+   "title": "Plumbing cost and DIY electrical work",
+   "visible": "Interview; archive exposed studs, wiring/panel and bathroom wallpaper work; finished shelf and wardrobe.",
+   "gaps": "Plumbing fault and repair are not shown; electrical approval and service rating are unstated.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0117.jpg"
+  },
+  {
+   "start": 618,
+   "end": 672,
+   "title": "Family property and cost comparison",
+   "visible": "Larger house seen beyond tiny-house deck; interview and animated rent/build-cost comparison.",
+   "gaps": "Graphic assumptions and exact filming date are absent; sample captures graphic before completion.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0121.jpg"
+  },
+  {
+   "start": 672,
+   "end": 714,
+   "title": "Lounge and custom sofa",
+   "visible": "Open interior views, apricot couch, Margo and dog; dinette cutaway.",
+   "gaps": "Couch invoice and measured length are absent.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0126",
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0133.jpg"
+  },
+  {
+   "start": 714,
+   "end": 748,
+   "title": "Recessed entertainment cabinet",
+   "visible": "Historic plywood cabinet work followed by current recessed TV, soundbar, mesh doors and plant shelf.",
+   "gaps": "Screen mount and any equipment behind mesh doors are not established.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0137.jpg"
+  },
+  {
+   "start": 748,
+   "end": 802,
+   "title": "Wallpaper and color choices",
+   "visible": "Bird/foliage wallpaper close-ups, sofa/loft view and kitchen colors.",
+   "gaps": "Wallpaper maker and exact color codes are not provided.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0143.jpg"
+  },
+  {
+   "start": 802,
+   "end": 849,
+   "title": "Reading lamps, window and installed cooling",
+   "visible": "Adjustable brass-colored lamps, window swung inward and tilted, installed mini-split above lounge.",
+   "gaps": "Window rating and HVAC capacity/performance are not established.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0154.jpg"
+  },
+  {
+   "start": 849,
+   "end": 947.5,
+   "title": "MrCool sponsor segment",
+   "visible": "Sponsored presentation with installed HVAC close-ups, owner archive, outdoor condenser, remote and phone app.",
+   "gaps": "Advertisement offers no independent performance test; no features are derived solely from this segment.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166",
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0161.jpg"
+  },
+  {
+   "start": 947.5,
+   "end": 974,
+   "title": "Lounge recap",
+   "visible": "TV and soundbar close-ups; Margo with dog on sofa and room-label overlay.",
+   "gaps": "No new system specification or separate room demonstrated.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0174.jpg"
+  },
+  {
+   "start": 974,
+   "end": 1039,
+   "title": "Diner booth and dog space",
+   "visible": "Opposing cushioned seats, wood table, books, narrow windows, bed overhead, dog bed and bowls.",
+   "gaps": "Craft/office uses and four-person seating are described rather than demonstrated.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188",
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0195.jpg"
+  },
+  {
+   "start": 1039,
+   "end": 1052.5,
+   "title": "Booth storage demonstration",
+   "visible": "Seat-back and seat-base storage opened; dog-food scoop and dog drinking.",
+   "gaps": "Total storage capacity is not measured.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0200.jpg"
+  },
+  {
+   "start": 1052.5,
+   "end": 1098,
+   "title": "Loft bed and access",
+   "visible": "Bed under sloping roof, foot-end steps and Margo climbing via couch arm; green headboard.",
+   "gaps": "No structural calculation or safe-egress assessment; mattress pad stays concealed.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0204.jpg"
+  },
+  {
+   "start": 1098,
+   "end": 1137,
+   "title": "Headboard niche and lighting",
+   "visible": "Green upholstered channels, books and outlet in niche, reading and dim warm-light insert.",
+   "gaps": "Claimed extinguisher, escape ladder and glass-breaking tool cannot be identified visually.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219",
+    "frame-0220"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0215.jpg"
+  },
+  {
+   "start": 1137,
+   "end": 1168,
+   "title": "Skylight and blackout shade",
+   "visible": "Skylight over bed, trees through glass, shade operation and loft reading.",
+   "gaps": "Added headroom is a spoken estimate; emergency escape is not demonstrated.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0222.jpg"
+  },
+  {
+   "start": 1168,
+   "end": 1214,
+   "title": "Bathroom vanity and toilet",
+   "visible": "Wide basin, slatted vanity, two large windows, cistern toilet, medicine cabinet and basket tray.",
+   "gaps": "No water heater, water supply source or sewage destination.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0227.jpg"
+  },
+  {
+   "start": 1214,
+   "end": 1259,
+   "title": "End-entry bath and shower",
+   "visible": "Margo sits in tub; narrow end access, black fixtures, white veined surround, overhead/hand shower and wooded view.",
+   "gaps": "No bath dimensions, waterproofing section or winter footage.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0236",
+    "frame-0237",
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0240.jpg"
+  },
+  {
+   "start": 1259,
+   "end": 1297,
+   "title": "Final house montage",
+   "visible": "Mirror/light and hexagonal floor details; shelf decor, exterior, kitchen activity, loft and lounge interview.",
+   "gaps": "No additional building or outdoor activity established.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0250.jpg"
+  },
+  {
+   "start": 1297,
+   "end": 1337.901,
+   "title": "Closing resources and credits",
+   "visible": "Margo continues lounge interview; Instagram handle overlay and closing frame.",
+   "gaps": "Consultation, plans and Tool School are mentioned; no separate premises or documents shown.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0260",
+    "frame-0261"
+   ],
+   "thumbnail": "review/2twuMtzLv10/sample-0260.jpg"
+  }
+ ]
+}

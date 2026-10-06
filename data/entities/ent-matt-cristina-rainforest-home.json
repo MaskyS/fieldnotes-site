@@ -1,0 +1,157 @@
+{
+ "id": "ent-matt-cristina-rainforest-home",
+ "type": "place",
+ "name": "Matt and Cristina’s rainforest home",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "OQbOrk0_3x4",
+    "title": "Matt and Cristina’s rainforest home",
+    "where": "Hawaii, Island of Hawaiʻi, Puna, United States",
+    "film_year": "2023",
+    "upload_date": "2023-11-29",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=OQbOrk0_3x4",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Matt and Cristina’s forest property",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Matt Holton",
+      "relation": "owner"
+     },
+     {
+      "name": "Cristina Pineda",
+      "relation": "owner"
+     }
+    ],
+    "gist": "Track coaches Matt and Cristina build without borrowing, live in an RV during construction, and embrace outdoor cooking despite Cristina’s doubts about the cold.",
+    "figures": {
+     "land price": [
+      {
+       "id": "nearby-price",
+       "text": "Nearby lots cost roughly $177,000",
+       "by": "unnamed speaker",
+       "at": 161.8,
+       "about": null,
+       "scope": "place",
+       "doubt": "The automatic caption reads “177,000”; this may be a garbled price, and the speaker is not identified.",
+       "quantity": {
+        "value": 177000,
+        "unit": "USD",
+        "of": "land price",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "land area": [
+      {
+       "id": "nearby-area",
+       "text": "The quoted nearby lots measure three acres",
+       "by": "unnamed speaker",
+       "at": 163.2,
+       "about": null,
+       "scope": "place",
+       "doubt": "The captions do not identify the speaker of this local-price comparison.",
+       "quantity": {
+        "value": 3,
+        "unit": "acre",
+        "of": "land area"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    },
+    "point": {
+     "lat": 19.463,
+     "lon": -155.133,
+     "matched": "Fern Forest, Hawaiʻi County, Hawaii, United States",
+     "stands_for": "village",
+     "extent_km": null
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Cfb",
+      "name": "temperate oceanic"
+     },
+     "rain_mm": 2840,
+     "zone": "12a",
+     "elevation_m": 696,
+     "from": "Fern Forest, Hawaiʻi County, Hawaii, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2023"
+   ]
+  },
+  "figures": [
+   {
+    "of": "land price",
+    "cells": {
+     "OQbOrk0_3x4": [
+      {
+       "id": "nearby-price",
+       "text": "Nearby lots cost roughly $177,000",
+       "by": "unnamed speaker",
+       "at": 161.8,
+       "about": null,
+       "scope": "place",
+       "doubt": "The automatic caption reads “177,000”; this may be a garbled price, and the speaker is not identified.",
+       "quantity": {
+        "value": 177000,
+        "unit": "USD",
+        "of": "land price",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   },
+   {
+    "of": "land area",
+    "cells": {
+     "OQbOrk0_3x4": [
+      {
+       "id": "nearby-area",
+       "text": "The quoted nearby lots measure three acres",
+       "by": "unnamed speaker",
+       "at": 163.2,
+       "about": null,
+       "scope": "place",
+       "doubt": "The captions do not identify the speaker of this local-price comparison.",
+       "quantity": {
+        "value": 3,
+        "unit": "acre",
+        "of": "land area"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   }
+  ],
+  "location_warnings": [],
+  "instance_hash": "01c78f5a3bc99d50",
+  "built": "2026-10-06T13:18:27"
+ }
+}

@@ -1,0 +1,9 @@
+# Review
+
+Selected: candidate-2.png, generated with the built-in image_gen tool using prompt-2.txt and the film references listed there. Candidate 1 was inspected and rejected for material inventions recorded in critique-1.md. Candidate 2 was visually inspected; no third candidate was generated.
+
+Candidate 2 preserves the aerial relationship of the gray Transit to the building and driveway, with its passenger-side sliding entrance, cab door and rear doors identified. The inset now uses dashed functional zones and removes the invented U-shaped rear furniture. Cab forward, wash bay behind cab opposite side entry, galley at the passenger-side doorway, rear living aft are consistent with the introduction and supplementary wash view. The town name is expressly town-level context only. Unknown geographical information is omitted and noted.
+
+Remaining illustrative departures: the van and building have independently adjusted proportions for legibility; the red-brown roof and its ridges are simplified, not traced or surveyed; opaque dark facade wash omits observed windows and timber detail, explicitly labeled. Vegetation and driveway washes are representative, not exact shapes or tree counts. Incidental vehicles, objects and all people are omitted. The inset gap marks the accessible forward part of the sliding entrance while the galley zone is farther aft; neither opening length nor zone dimensions should be read literally. Sink is not drawn in this locator. These are disclosed abstractions, not construction information. Roof panel grid, body seams, shadows and color washes are illustrative renderings rather than measured detail.
+
+Files: reference-inventory.md; prompt-1.txt; candidate-1.png; critique-1.md; prompt-2.txt; candidate-2.png; review.md; item.json. Initial tool request failed with a network error before producing an image; retry yielded candidate 1. Exactly two image candidates were made.

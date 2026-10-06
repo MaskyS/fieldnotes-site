@@ -1,0 +1,153 @@
+{
+ "id": "ent-greater-world-earthship-community",
+ "type": "place",
+ "name": "Greater World Earthship Community",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "efI77fzBgvg",
+    "title": "Greater World’s Earthship community",
+    "where": "New Mexico, United States",
+    "film_year": "2014",
+    "upload_date": "2014-10-06",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=efI77fzBgvg",
+    "records": [
+     {
+      "kind": "place",
+      "id": "greater-world",
+      "title": "Greater World Earthship Community",
+      "place_kind": "community",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Tom Duke",
+      "relation": "resident"
+     },
+     {
+      "name": "Xavier",
+      "relation": "resident"
+     },
+     {
+      "name": "Wolf",
+      "relation": "resident"
+     }
+    ],
+    "gist": "Residents built homes from discarded tires to live off-grid, endured a subdivision shutdown, and now teach others while still experimenting with growing food.",
+    "figures": {
+     "unit cost": [
+      {
+       "id": "global-price",
+       "text": "Globals cost about $225 per square foot.",
+       "by": "Tom Duke",
+       "at": 951.319,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 225,
+        "unit": "USD",
+        "of": "unit cost",
+        "per": "ft2",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "water-delivery-spending",
+       "text": "$200 for a water delivery; about once a year, when it gets really dry, we need a delivery",
+       "by": "Tom Duke",
+       "at": 1670.04,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 200,
+        "unit": "USD",
+        "of": "unit cost",
+        "per": "delivery"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "running cost": [
+      {
+       "id": "propane-spending",
+       "text": "$100 for the propane for my cooking stove",
+       "by": "Tom Duke",
+       "at": 1667.12,
+       "about": null,
+       "scope": "place",
+       "doubt": "The question is cut; the segment opens with \"$300\" and no period is spoken for the $100 or the total.",
+       "quantity": {
+        "value": 100,
+        "unit": "USD",
+        "of": "running cost"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    },
+    "point": {
+     "lat": 36.407,
+     "lon": -105.573,
+     "matched": "Taos, Taos County, New Mexico, 87571, United States",
+     "stands_for": "city",
+     "extent_km": null
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Dfb",
+      "name": "warm-summer humid continental"
+     },
+     "rain_mm": 371,
+     "zone": "6a",
+     "elevation_m": 2125,
+     "from": "Taos, Taos County, New Mexico, 87571, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2014"
+   ]
+  },
+  "figures": [
+   {
+    "of": "running cost",
+    "cells": {
+     "efI77fzBgvg": [
+      {
+       "id": "propane-spending",
+       "text": "$100 for the propane for my cooking stove",
+       "by": "Tom Duke",
+       "at": 1667.12,
+       "about": null,
+       "scope": "place",
+       "doubt": "The question is cut; the segment opens with \"$300\" and no period is spoken for the $100 or the total.",
+       "quantity": {
+        "value": 100,
+        "unit": "USD",
+        "of": "running cost"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   }
+  ],
+  "location_warnings": [],
+  "instance_hash": "44ebf0f045735238",
+  "built": "2026-10-06T13:18:27"
+ }
+}

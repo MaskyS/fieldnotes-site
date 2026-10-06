@@ -1,0 +1,988 @@
+{
+ "id": "thermal-mass",
+ "kind": "term",
+ "title": "Thermal mass",
+ "pattern": null,
+ "terms": [
+  "thermal mass"
+ ],
+ "term_group": "comfort",
+ "aliases_from_vocabulary": [],
+ "computed": {
+  "built": "2026-10-04T14:12:22",
+  "instance_hash": "304e21444649700d",
+  "counts": {
+   "instances": 8,
+   "places": 5,
+   "climate_classes": 5,
+   "climates": [
+    "BWh",
+    "Cfa",
+    "Cfb",
+    "Dfa",
+    "Dfb"
+   ],
+   "places_without_climate": 0,
+   "cost_stated_for_instance": 0,
+   "running_cost_stated": 1,
+   "place_build_cost_stated": 1,
+   "claims": 10,
+   "claims_with_kind": 6,
+   "instances_with_no_claim": 3,
+   "seen_and_said": 7,
+   "seen_only": 0,
+   "said_only": 1,
+   "not_current": 1,
+   "follows": 0,
+   "departs": 0
+  },
+  "places": [
+   {
+    "film": "swrez2ZA0cc",
+    "title": "Morris homestead",
+    "where": "Ozarks, Missouri, United States",
+    "country": "United States",
+    "film_year": "2026",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "Cfa",
+      "name": "humid subtropical"
+     },
+     "rain_mm": null,
+     "zone": null,
+     "elevation_m": null,
+     "from": "Missouri, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {
+     "land area": [
+      {
+       "id": "claim-1",
+       "text": "360-acre homestead built over 20 years",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 360,
+        "unit": "acre",
+        "of": "land area"
+       }
+      }
+     ]
+    },
+    "claims_total": 3,
+    "claims_with_kind": 0,
+    "link": "?property=swrez2ZA0cc"
+   },
+   {
+    "film": "aucsiGWbEyU",
+    "title": "Mathieu Munsch's earth-and-straw house",
+    "where": "Vosges region, northeastern France",
+    "country": "France",
+    "film_year": "2026",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "Cfb",
+      "name": "temperate oceanic"
+     },
+     "rain_mm": 1058,
+     "zone": "7b",
+     "elevation_m": null,
+     "from": "Vosges, Grand Est, Metropolitan France, France",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {
+     "floor area": [
+      {
+       "id": "claim-2",
+       "text": "50 m² (538 ft²) main house, kept small on purpose",
+       "by": "Mathieu Munsch",
+       "at": 89,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 50,
+        "unit": "m2",
+        "of": "floor area"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "build cost": [
+      {
+       "id": "claim-3",
+       "text": "About €15,000 to build the house",
+       "by": "Mathieu Munsch",
+       "at": 83,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 15000,
+        "unit": "EUR",
+        "of": "build cost",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "running cost": [
+      {
+       "id": "claim-9",
+       "text": "No real living expenses; about €200 a month for going out with friends",
+       "by": "Mathieu Munsch",
+       "at": 2120.84,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 200,
+        "unit": "EUR",
+        "of": "running cost",
+        "per": "month",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "land price": [
+      {
+       "id": "claim-12",
+       "text": "€35,000 for a south-facing 4,000 m² plot",
+       "by": "Mathieu Munsch",
+       "at": 779.2,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 35000,
+        "unit": "EUR",
+        "of": "land price"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    },
+    "claims_total": 20,
+    "claims_with_kind": 0,
+    "link": "?property=aucsiGWbEyU"
+   },
+   {
+    "film": "QHpo46tawBs",
+    "title": "Milagro Cohousing, Tucson",
+    "where": "Arizona, United States",
+    "country": "United States",
+    "film_year": "2026",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "BWh",
+      "name": "hot desert"
+     },
+     "rain_mm": 318,
+     "zone": "9b",
+     "elevation_m": 722,
+     "from": "Tucson, Pima County, Arizona, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {
+     "count": [
+      {
+       "id": "k-06",
+       "text": "The founders initially considered putting their two houses on a shared piece of land.",
+       "by": "unnamed speaker",
+       "at": 115.96,
+       "about": null,
+       "scope": "place",
+       "kind": "alternative",
+       "kind_group": "why",
+       "quantity": {
+        "value": 2,
+        "unit": "home",
+        "of": "count"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "age": [
+      {
+       "id": "k-11",
+       "text": "A resident reports living here for 23 years.",
+       "by": "unnamed speaker",
+       "at": 177.88,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 23,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-12",
+       "text": "A resident moved from Wisconsin, having drawn communities as a child and fallen in love with the Sonoran Desert at age five.",
+       "by": "unnamed speaker",
+       "at": 177.88,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 5,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-25",
+       "text": "Beth’s family moved here when her daughter was nine years old.",
+       "by": "Beth",
+       "at": 398.24,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 9,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-56",
+       "text": "A resident raised her children in the Midwest and moved to Tucson at age 44, later growing to love it.",
+       "by": "unnamed speaker",
+       "at": 841.52,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 44,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "build time": [
+      {
+       "id": "k-87",
+       "text": "The description says 28 households have spent 28 years building the community.",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "doubt": "The description’s 28-year account differs from the film’s 1993 starting point; the periods described may be different.",
+       "quantity": {
+        "value": 28,
+        "unit": "year",
+        "of": "build time"
+       }
+      }
+     ]
+    },
+    "claims_total": 103,
+    "claims_with_kind": 102,
+    "link": "?property=QHpo46tawBs"
+   },
+   {
+    "film": "efI77fzBgvg",
+    "title": "Greater World’s Earthship community",
+    "where": "New Mexico, United States",
+    "country": "United States",
+    "film_year": "2014",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "Dfb",
+      "name": "warm-summer humid continental"
+     },
+     "rain_mm": 371,
+     "zone": "6a",
+     "elevation_m": 2125,
+     "from": "Taos, Taos County, New Mexico, 87571, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {
+     "unit cost": [
+      {
+       "id": "global-price",
+       "text": "Globals cost about $225 per square foot.",
+       "by": "Tom Duke",
+       "at": 951.319,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 225,
+        "unit": "USD",
+        "of": "unit cost",
+        "per": "ft2",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "water-delivery-spending",
+       "text": "$200 for a water delivery; about once a year, when it gets really dry, we need a delivery",
+       "by": "Tom Duke",
+       "at": 1670.04,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 200,
+        "unit": "USD",
+        "of": "unit cost",
+        "per": "delivery"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "running cost": [
+      {
+       "id": "propane-spending",
+       "text": "$100 for the propane for my cooking stove",
+       "by": "Tom Duke",
+       "at": 1667.12,
+       "about": null,
+       "scope": "place",
+       "doubt": "The question is cut; the segment opens with \"$300\" and no period is spoken for the $100 or the total.",
+       "quantity": {
+        "value": 100,
+        "unit": "USD",
+        "of": "running cost"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    },
+    "claims_total": 58,
+    "claims_with_kind": 0,
+    "link": "?property=efI77fzBgvg"
+   },
+   {
+    "film": "VBspR2p0YYM",
+    "title": "Rob Torcellini’s backyard aquaponic greenhouse",
+    "where": "Connecticut, United States",
+    "country": "United States",
+    "film_year": "2011",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "Dfa",
+      "name": "hot-summer humid continental"
+     },
+     "rain_mm": 1196,
+     "zone": "6b",
+     "elevation_m": null,
+     "from": "Connecticut, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {},
+    "claims_total": 43,
+    "claims_with_kind": 0,
+    "link": "?property=VBspR2p0YYM"
+   }
+  ],
+  "instances": [
+   {
+    "id": "swrez2ZA0cc/masonry-mass",
+    "film": "swrez2ZA0cc",
+    "feature": "masonry-mass",
+    "title": "Masonry and thermal mass",
+    "place_title": "Upstairs living & kitchen",
+    "part_of": null,
+    "phase": "current",
+    "category": "Climate",
+    "terms": [
+     "concrete",
+     "insulation",
+     "thermal mass",
+     "insulated concrete form"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "Josh describes an insulated-concrete-form structure with concrete between insulation layers and credits that thermal mass with moderating indoor temperature.",
+    "unknown": "The complete wall assembly is not visible in the finished room; thermal performance is a speaker claim.",
+    "thumbnail": "review/sample-0305.jpg",
+    "moments": {
+     "frames": [
+      1100.7,
+      1110.94
+     ],
+     "spoken": [
+      [
+       1089,
+       1115
+      ]
+     ]
+    },
+    "claims": [],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": []
+   },
+   {
+    "id": "swrez2ZA0cc/dark-floor",
+    "film": "swrez2ZA0cc",
+    "feature": "dark-floor",
+    "title": "Dark tiled floor",
+    "place_title": "Upstairs living & kitchen",
+    "part_of": null,
+    "phase": "current",
+    "category": "Climate",
+    "terms": [
+     "tile",
+     "floor",
+     "passive solar",
+     "thermal mass"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "The tiled floor is visible. Josh says its dark color was chosen to absorb winter sun, while the higher summer sun should avoid heating it.",
+    "unknown": "Dimensions and performance have not been independently measured.",
+    "thumbnail": "review/sample-0319.jpg",
+    "moments": {
+     "frames": [
+      1164.0,
+      1176.01
+     ],
+     "spoken": [
+      [
+       1163,
+       1178
+      ]
+     ]
+    },
+    "claims": [],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": []
+   },
+   {
+    "id": "aucsiGWbEyU/thermal-mass",
+    "film": "aucsiGWbEyU",
+    "feature": "thermal-mass",
+    "title": "Earthen interior used as a heat store",
+    "place_title": "Main earth-and-straw house",
+    "part_of": null,
+    "phase": "current",
+    "category": "Climate",
+    "terms": [
+     "earth",
+     "thermal mass"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "Sun strikes the floor, and earthen surfaces surround the stove and occupied room. Mathieu describes combining insulation with interior thermal mass and says three small logs can keep the house warm into the next day. He reports about zero outside and 18 degrees inside [assuming Celsius: 32°F and 64.4°F] after the previous day’s fire.",
+    "unknown": "The scale is not spoken explicitly, and no thermometer or continuous record verifies the claim.",
+    "thumbnail": "review/aucsiGWbEyU/sample-0051.jpg",
+    "moments": {
+     "frames": [
+      185.93,
+      192.0,
+      195.37
+     ],
+     "spoken": [
+      [
+       182.52,
+       222.44
+      ],
+      [
+       247.72,
+       255.92
+      ],
+      [
+       287.84,
+       299.16
+      ]
+     ]
+    },
+    "claims": [],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": []
+   },
+   {
+    "id": "QHpo46tawBs/beth-scored-concrete",
+    "film": "QHpo46tawBs",
+    "feature": "beth-scored-concrete",
+    "title": "Scored concrete floor in Beth’s living area",
+    "place_title": "Beth’s home",
+    "part_of": {
+     "id": "beth-compact-home",
+     "title": "Beth’s approximately 1,500-square-foot home"
+    },
+    "phase": "current",
+    "category": "Materials",
+    "terms": [
+     "concrete",
+     "floor",
+     "thermal mass"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "The reddish-brown floor has straight scored joints visible beside the kitchen’s red stools and through the dining space. Beth identifies it as concrete and says it stays cool, or warm in winter.",
+    "unknown": "Finish product, slab thickness, subfloor insulation and heating method are not established.",
+    "thumbnail": "review/QHpo46tawBs/sample-0132.jpg",
+    "moments": {
+     "frames": [
+      473.7,
+      480.0
+     ],
+     "spoken": [
+      [
+       471.6,
+       479.2
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "k-31",
+      "text": "Beth says the concrete floor stays cool and is warm in winter.",
+      "by": "Beth",
+      "at": 471.6,
+      "about": "beth-scored-concrete",
+      "scope": "feature",
+      "kind": "climate",
+      "kind_group": "living",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [],
+    "kinded": {
+     "living": [
+      "k-31"
+     ]
+    },
+    "parts_counted": []
+   },
+   {
+    "id": "QHpo46tawBs/beth-adobe-mass",
+    "film": "QHpo46tawBs",
+    "feature": "beth-adobe-mass",
+    "title": "Deep adobe window reveals and claimed thermal moderation",
+    "place_title": "Beth’s home",
+    "part_of": {
+     "id": "beth-compact-home",
+     "title": "Beth’s approximately 1,500-square-foot home"
+    },
+    "phase": "current",
+    "category": "Climate",
+    "terms": [
+     "adobe",
+     "thermal mass",
+     "wall"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "Deep window reveals and exposed adobe are visible in Beth’s living area and bedrooms. Beth points out the wall thickness and agrees that the house is cool without air conditioning running, adding that the walls also retain heat.",
+    "unknown": "Wall thickness, indoor temperature and thermal properties are unmeasured; the visit does not prove year-round cooling performance.",
+    "thumbnail": "review/QHpo46tawBs/sample-0138.jpg",
+    "moments": {
+     "frames": [
+      498.2,
+      516.0,
+      540.0
+     ],
+     "spoken": [
+      [
+       492.04,
+       507
+      ],
+      [
+       531.32,
+       547.72
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "beth-bill",
+      "text": "Energy bills about $25 a month",
+      "by": "Beth",
+      "at": 498.4,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "USD",
+       "of": "running cost",
+       "per": "month",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "claim-beth-energy-bill",
+      "text": "Beth’s reported $25 monthly energy bill",
+      "by": "unnamed speaker",
+      "at": 498.4,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "USD",
+       "of": "running cost",
+       "per": "month"
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-33",
+      "text": "Beth attributes energy bills of about $25 a month to the combination of adobe and solar.",
+      "by": "Beth",
+      "at": 498.4,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "USD",
+       "of": "running cost",
+       "per": "month",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-35",
+      "text": "Beth agrees her house stays cool without air conditioning because of its thick adobe walls.",
+      "by": "Beth",
+      "at": 534.839,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "climate",
+      "kind_group": "living",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-92",
+      "text": "Beth says the adobe walls also retain heat after the house is heated.",
+      "by": "Beth",
+      "at": 541.24,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "climate",
+      "kind_group": "living",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [
+     {
+      "id": "beth-bill",
+      "text": "Energy bills about $25 a month",
+      "by": "Beth",
+      "at": 498.4,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "USD",
+       "of": "running cost",
+       "per": "month",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "claim-beth-energy-bill",
+      "text": "Beth’s reported $25 monthly energy bill",
+      "by": "unnamed speaker",
+      "at": 498.4,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "USD",
+       "of": "running cost",
+       "per": "month"
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-33",
+      "text": "Beth attributes energy bills of about $25 a month to the combination of adobe and solar.",
+      "by": "Beth",
+      "at": 498.4,
+      "about": "beth-adobe-mass",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "USD",
+       "of": "running cost",
+       "per": "month",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "kinded": {
+     "living": [
+      "beth-bill",
+      "claim-beth-energy-bill",
+      "k-33",
+      "k-35",
+      "k-92"
+     ]
+    },
+    "parts_counted": []
+   },
+   {
+    "id": "efI77fzBgvg/global-mass-wall",
+    "film": "efI77fzBgvg",
+    "feature": "global-mass-wall",
+    "title": "Plaster-covered tire thermal-mass walls",
+    "place_title": "Global demonstration house, resident unnamed",
+    "part_of": null,
+    "phase": "current",
+    "category": "Climate",
+    "terms": [
+     "tyres",
+     "earth",
+     "cement",
+     "thermal mass",
+     "wall"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "The Global has thick-looking finished plaster walls and an earth-backed exterior. Tom says hidden tire walls and surrounding earth store solar heat, with colored cement concealing the tires. He claims about 70 degrees [21°C, assuming Fahrenheit] indoors.",
+    "unknown": "The tires, wall section, thermal capacity and claimed stable temperature are not independently visible or measured.",
+    "thumbnail": "review/efI77fzBgvg/sample-0129.jpg",
+    "moments": {
+     "frames": [
+      551.3,
+      691.12,
+      705.69
+     ],
+     "spoken": [
+      [
+       554.19,
+       566
+      ],
+      [
+       572.27,
+       588
+      ],
+      [
+       690,
+       708.5
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "global-temperature",
+      "text": "The Global stays around 70 degrees.",
+      "by": "Tom Duke",
+      "at": 525,
+      "about": "global-mass-wall",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": []
+   },
+   {
+    "id": "efI77fzBgvg/duke-adobe-tires",
+    "film": "efI77fzBgvg",
+    "feature": "duke-adobe-tires",
+    "title": "Rounded adobe-covered tire wall",
+    "place_title": "Duke living and kitchen space",
+    "part_of": null,
+    "phase": "current",
+    "category": "Materials",
+    "terms": [
+     "adobe",
+     "tyres",
+     "wall",
+     "thermal mass"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "A broad rounded plastered wall stands between the domestic areas. Tom identifies it and the other walls as tires covered in adobe mud, describing the freestanding section as heat storage.",
+    "unknown": "Tires and adobe recipe are concealed; structural role and measured heat storage are not established.",
+    "thumbnail": "review/efI77fzBgvg/sample-0211.jpg",
+    "moments": {
+     "frames": [
+      1248.0,
+      1252.85,
+      1259.99
+     ],
+     "spoken": [
+      [
+       1235.84,
+       1267
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "duke-wall-material",
+      "text": "The house walls are tires covered in adobe mud.",
+      "by": "Tom Duke",
+      "at": 1235.84,
+      "about": "duke-adobe-tires",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": []
+   },
+   {
+    "id": "VBspR2p0YYM/heat-storage-tank",
+    "film": "VBspR2p0YYM",
+    "feature": "heat-storage-tank",
+    "title": "Original water tank as heat sink",
+    "place_title": "Aquaponic greenhouse",
+    "part_of": {
+     "id": "greenhouse",
+     "title": "Backyard hobby greenhouse"
+    },
+    "phase": "historical",
+    "category": "Climate",
+    "terms": [
+     "tank",
+     "thermal mass"
+    ],
+    "evidence_status": "spoken_only",
+    "seen_or_said": "said, not shown",
+    "description": "Rob added a large water tank as a heat sink to help maintain the greenhouse temperature. When mosquitoes began breeding in it, he introduced fish to control them; the resulting need to clean the fish water led him towards aquaponics.",
+    "unknown": "The original tank is not securely identified among current vessels; capacity and thermal performance are unknown.",
+    "thumbnail": "review/VBspR2p0YYM/sample-0006.jpg",
+    "moments": {
+     "frames": [
+      21.5,
+      26.5
+     ],
+     "spoken": [
+      [
+       14.36,
+       27.8
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "heat-sink",
+      "text": "The original water tank helped maintain greenhouse temperature.",
+      "by": "Rob Torcellini",
+      "at": 14.36,
+      "about": "heat-storage-tank",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "mosquitoes",
+      "text": "Fish were introduced to control mosquitoes breeding in the tank.",
+      "by": "Rob Torcellini",
+      "at": 20.64,
+      "about": "heat-storage-tank",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": []
+   }
+  ]
+ },
+ "synthesis": {
+  "written_by": "codex",
+  "instance_hash": "304e21444649700d",
+  "sentences": [
+   {
+    "text": "Derived climates span humid subtropical Missouri, temperate oceanic Vosges, hot desert Tucson and continental New Mexico and Connecticut.",
+    "cites": [
+     "swrez2ZA0cc/masonry-mass",
+     "aucsiGWbEyU/thermal-mass",
+     "QHpo46tawBs/beth-adobe-mass",
+     "efI77fzBgvg/global-mass-wall",
+     "VBspR2p0YYM/heat-storage-tank"
+    ]
+   },
+   {
+    "text": "Josh and Mathieu describe pairing mass with insulation; Josh chose dark tiles for winter sun, while Tom describes tire walls storing solar heat.",
+    "cites": [
+     "swrez2ZA0cc/masonry-mass",
+     "aucsiGWbEyU/thermal-mass",
+     "swrez2ZA0cc/dark-floor",
+     "efI77fzBgvg/global-mass-wall"
+    ]
+   },
+   {
+    "text": "Beth reports concrete staying cool or warm in winter and about $25 monthly energy bills with adobe and solar.",
+    "cites": [
+     "QHpo46tawBs/beth-scored-concrete",
+     "QHpo46tawBs/beth-adobe-mass"
+    ]
+   },
+   {
+    "text": "Mathieu reports about €15,000 for the whole house, without a separate thermal-mass cost.",
+    "cites": [
+     "aucsiGWbEyU/thermal-mass"
+    ]
+   },
+   {
+    "text": "Rob’s former greenhouse heat-storage tank is described but not securely identified on screen.",
+    "cites": [
+     "VBspR2p0YYM/heat-storage-tank"
+    ]
+   },
+   {
+    "text": "He says mosquitoes prompted adding fish, which then required water cleaning.",
+    "cites": [
+     "VBspR2p0YYM/heat-storage-tank"
+    ]
+   },
+   {
+    "text": "Measured heat storage, verified temperatures and year-round cooling remain unestablished.",
+    "cites": [
+     "efI77fzBgvg/duke-adobe-tires",
+     "efI77fzBgvg/global-mass-wall",
+     "aucsiGWbEyU/thermal-mass",
+     "QHpo46tawBs/beth-adobe-mass"
+    ]
+   }
+  ],
+  "stale": false,
+  "published": true,
+  "rejected": []
+ },
+ "aliases": [],
+ "lineage": [],
+ "gloss": {
+  "text": "Mathieu describes thermal mass as earth inside the house acting as a heat battery.",
+  "evidence": {
+   "film": "aucsiGWbEyU",
+   "at": 201.76,
+   "quote": "there's so much earth inside the house then that means that it acts more like as a heat battery."
+  },
+  "status": "proposed"
+ },
+ "checks": []
+}

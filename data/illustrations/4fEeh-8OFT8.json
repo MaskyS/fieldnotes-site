@@ -1,0 +1,266 @@
+{
+ "property_id": "4fEeh-8OFT8",
+ "items": [
+  {
+   "id": "street-garden-house",
+   "title": "Street, Garden, House",
+   "kind": "plan",
+   "feature_ids": [
+    "narrow-site",
+    "gatehouse-building",
+    "flush-front-door",
+    "street-groundcover",
+    "courtyard-planting",
+    "main-dwelling"
+   ],
+   "references": [
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0006.jpg",
+     "time": 18.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0013.jpg",
+     "time": 41.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0022.jpg",
+     "time": 61.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0066.jpg",
+     "time": 208.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0068.jpg",
+     "time": 217.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0210.jpg",
+     "time": 691.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0074.jpg",
+     "time": 241.5
+    }
+   ],
+   "path": "data/illustrations/4fEeh-8OFT8/street-garden-house.png",
+   "invention_log": "harness/viz/4fEeh-8OFT8/street-garden-house/review.md"
+  },
+  {
+   "id": "lowering-the-house",
+   "title": "Lowering the house",
+   "kind": "section",
+   "feature_ids": [
+    "main-dwelling",
+    "lowered-entry",
+    "low-bedroom",
+    "upper-living-room"
+   ],
+   "references": [
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0074.jpg",
+     "time": 241.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0079.jpg",
+     "time": 254.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0091.jpg",
+     "time": 290.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0115.jpg",
+     "time": 374.5
+    }
+   ],
+   "path": "data/illustrations/4fEeh-8OFT8/lowering-the-house.png",
+   "invention_log": "harness/viz/4fEeh-8OFT8/lowering-the-house/review.md"
+  },
+  {
+   "id": "shelves-are-structure",
+   "title": "Shelves are structure",
+   "kind": "diagram",
+   "feature_ids": [
+    "structural-shelf-wall",
+    "exposed-roof-members",
+    "hand-construction"
+   ],
+   "references": [
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0146.jpg",
+     "time": 464.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0152.jpg",
+     "time": 475.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0155.jpg",
+     "time": 486.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0160.jpg",
+     "time": 500.5
+    }
+   ],
+   "path": "data/illustrations/4fEeh-8OFT8/shelves-are-structure.png",
+   "invention_log": "harness/viz/4fEeh-8OFT8/shelves-are-structure/review.md"
+  },
+  {
+   "id": "study-within-reach",
+   "title": "Study Within Reach",
+   "kind": "section",
+   "feature_ids": [
+    "study-library",
+    "touch-scale"
+   ],
+   "references": [
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0051.jpg",
+     "time": 152.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0054.jpg",
+     "time": 160.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0058.jpg",
+     "time": 174.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0060.jpg",
+     "time": 181.0
+    }
+   ],
+   "path": "data/illustrations/4fEeh-8OFT8/study-within-reach.png",
+   "invention_log": "harness/viz/4fEeh-8OFT8/study-within-reach/review.md"
+  },
+  {
+   "id": "kitchen-behind-the-fronts",
+   "title": "Behind the kitchen fronts",
+   "kind": "diagram",
+   "feature_ids": [
+    "living-kitchen",
+    "concealed-microwave",
+    "concealed-air-conditioner",
+    "concealed-fridge"
+   ],
+   "references": [
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0117.jpg",
+     "time": 384.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0136.jpg",
+     "time": 440.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0137.jpg",
+     "time": 443.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0139.jpg",
+     "time": 446.0
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0140.jpg",
+     "time": 447.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0170.jpg",
+     "time": 541.5
+    }
+   ],
+   "path": "data/illustrations/4fEeh-8OFT8/kitchen-behind-the-fronts.png",
+   "invention_log": "harness/viz/4fEeh-8OFT8/kitchen-behind-the-fronts/review.md"
+  },
+  {
+   "id": "living-with-material-wear",
+   "title": "Living with material wear",
+   "kind": "diagram",
+   "feature_ids": [
+    "mdf-wall-finish",
+    "mdf-floor-finish",
+    "aging-practice",
+    "material-return"
+   ],
+   "references": [
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0164.jpg",
+     "time": 518.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0187.jpg",
+     "time": 602.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0204.jpg",
+     "time": 665.5
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0181.jpg",
+     "time": 585.0
+    }
+   ],
+   "path": "data/illustrations/4fEeh-8OFT8/living-with-material-wear.png",
+   "invention_log": "harness/viz/4fEeh-8OFT8/living-with-material-wear/review.md"
+  },
+  {
+   "id": "portrait",
+   "title": "Tokyo upper living room, leafy daylight",
+   "kind": "portrait",
+   "hero": true,
+   "scope": "most",
+   "path": "data/illustrations/4fEeh-8OFT8/portrait.png",
+   "invention_log": "harness/viz/4fEeh-8OFT8/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "upper-living-room",
+    "living-glazing",
+    "low-table-seating",
+    "structural-shelf-wall",
+    "exposed-roof-members",
+    "library-ladder",
+    "mdf-floor-finish",
+    "living-kitchen",
+    "extractor-hood",
+    "ingredient-boxes",
+    "counter-aquarium"
+   ],
+   "references": [
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0116.jpg",
+     "time": 382.0,
+     "role": "vantage"
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0120.jpg",
+     "time": 401.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0157.jpg",
+     "time": 491.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/4fEeh-8OFT8/evidence/frame-0175.jpg",
+     "time": 558.5,
+     "role": "detail"
+    }
+   ]
+  }
+ ]
+}

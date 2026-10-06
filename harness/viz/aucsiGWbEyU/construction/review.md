@@ -1,0 +1,9 @@
+# Review: main-house construction
+
+**Better: candidate-2.png.** Candidate 1 invented a solid window, scenic view, tiled-looking floor, flowering roof and a detailed ribbed drain. Candidate 2 replaces the window with a dashed blank, makes the floor earthen, uses sparse winter turf, makes the drain mostly dashed and labels the foundation schematic. Boxed statements now correctly identify a paraphrased builder account rather than direct quotation. Both preserve the observed roundwood, straw infill, brown exterior/pale interior, planks, turf and low masonry distinction.
+
+## Remaining inventions and deviations
+
+This is a composite explanatory corner, not an observed single cut face. Member spacing, timber diameters, bale geometry, apparent plaster thickness, masonry coursing and trench shape are illustrative; none are measured. Solid post/beam contacts still imply joint geometry despite nearby dashed boxes. The left eave still has a thin grey line and layered fascia outside the blank roof band; neither establishes a membrane or concealed layer specification. Ignore that residual drawn edge as an engineering detail. The drain's start retains faint rib-like marks, although the main route is dashed. Trench termination/outfall remain unknown. The earthen floor texture is rougher than the smooth finished floor evidence.
+
+The outside-box label 'keeps straw above ground' remains and is a geometrical interpretation supported by the raised base; the moisture-prevention account belongs to the builder box. Surface swatches exaggerate fibre scale, now explicitly marked not to scale. Turf sourcing, load path, drainage purpose and seasonal eave function are builder claims, not independently verified results. No annex reciprocal roof, support net or foam glass is transferred to the house. Concealed roof layers are deliberately blank; the drawing is not a construction specification.

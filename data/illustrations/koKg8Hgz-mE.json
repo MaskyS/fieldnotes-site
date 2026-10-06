@@ -1,0 +1,244 @@
+{
+ "property_id": "koKg8Hgz-mE",
+ "items": [
+  {
+   "id": "portrait",
+   "title": "Montparnasse apartment in daylight",
+   "kind": "portrait",
+   "hero": true,
+   "path": "data/illustrations/koKg8Hgz-mE/portrait.png",
+   "invention_log": "harness/viz/koKg8Hgz-mE/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "apartment",
+    "circulation",
+    "upper-stair",
+    "suspended-shower",
+    "chef-kitchen",
+    "steel-worktop",
+    "black-hob",
+    "coffee-station",
+    "oak-surfaces",
+    "floor-setback"
+   ],
+   "references": [
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0090.jpg",
+     "time": 253.5,
+     "role": "vantage"
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0233.jpg",
+     "time": 659.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0147.jpg",
+     "time": 408.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0053.jpg",
+     "time": 153.0,
+     "role": "detail"
+    }
+   ]
+  },
+  {
+   "id": "four-level-site-plan",
+   "title": "Four domestic levels",
+   "kind": "plan",
+   "feature_ids": [
+    "apartment",
+    "circulation",
+    "upper-stair",
+    "lower-stair",
+    "living-landing",
+    "window",
+    "chef-kitchen",
+    "bathroom",
+    "bedroom"
+   ],
+   "references": [
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0090.jpg",
+     "time": 253.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0028.jpg",
+     "time": 85.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0116.jpg",
+     "time": 323.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0222.jpg",
+     "time": 618.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0231.jpg",
+     "time": 653.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0253.jpg",
+     "time": 719.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0007.jpg",
+     "time": 25.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0034.jpg",
+     "time": 105.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0318.jpg",
+     "time": 900.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0225.jpg",
+     "time": 628.5
+    }
+   ],
+   "path": "data/illustrations/koKg8Hgz-mE/four-level-site-plan.png",
+   "invention_log": "harness/viz/koKg8Hgz-mE/four-level-site-plan/review.md"
+  },
+  {
+   "id": "one-window-shared-light",
+   "title": "One Window, Shared Daylight",
+   "kind": "diagram",
+   "feature_ids": [
+    "daylight",
+    "window",
+    "floor-setback",
+    "shower-glazing"
+   ],
+   "references": [
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0094.jpg",
+     "time": 266.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0101.jpg",
+     "time": 288.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0116.jpg",
+     "time": 323.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0037.jpg",
+     "time": 117.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0056.jpg",
+     "time": 161.5
+    }
+   ],
+   "path": "data/illustrations/koKg8Hgz-mE/one-window-shared-light.png",
+   "invention_log": "harness/viz/koKg8Hgz-mE/one-window-shared-light/review.md"
+  },
+  {
+   "id": "shower-over-cooking-counter",
+   "title": "Shower Above the Cooking Counter",
+   "kind": "cutaway",
+   "feature_ids": [
+    "suspended-shower",
+    "shower-support",
+    "extractor",
+    "kitchen-task-lights",
+    "steel-worktop"
+   ],
+   "references": [
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0083.jpg",
+     "time": 237.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0089.jpg",
+     "time": 252.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0087.jpg",
+     "time": 246.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0082.jpg",
+     "time": 235.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0133.jpg",
+     "time": 371.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0147.jpg",
+     "time": 408.0
+    }
+   ],
+   "path": "data/illustrations/koKg8Hgz-mE/shower-over-cooking-counter.png",
+   "invention_log": "harness/viz/koKg8Hgz-mE/shower-over-cooking-counter/review.md"
+  },
+  {
+   "id": "cupboard-becomes-preparation-space",
+   "title": "Cupboard to preparation surface",
+   "kind": "diagram",
+   "feature_ids": [
+    "fold-down-worktop",
+    "chef-kitchen",
+    "tailored-design"
+   ],
+   "references": [
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0158.jpg",
+     "time": 443.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0151.jpg",
+     "time": 422.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0156.jpg",
+     "time": 437.5
+    }
+   ],
+   "path": "data/illustrations/koKg8Hgz-mE/cupboard-becomes-preparation-space.png",
+   "invention_log": "harness/viz/koKg8Hgz-mE/cupboard-becomes-preparation-space/review.md"
+  },
+  {
+   "id": "exposed-floor-assembly",
+   "title": "Exposed bedroom floor",
+   "kind": "diagram",
+   "feature_ids": [
+    "floor-assembly"
+   ],
+   "references": [
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0301.jpg",
+     "time": 846.5
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0302.jpg",
+     "time": 849.0
+    },
+    {
+     "path": "review/koKg8Hgz-mE/evidence/frame-0296.jpg",
+     "time": 836.5
+    }
+   ],
+   "path": "data/illustrations/koKg8Hgz-mE/exposed-floor-assembly.png",
+   "invention_log": "harness/viz/koKg8Hgz-mE/exposed-floor-assembly/review.md"
+  }
+ ]
+}

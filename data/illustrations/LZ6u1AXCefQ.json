@@ -1,0 +1,307 @@
+{
+ "property_id": "LZ6u1AXCefQ",
+ "items": [
+  {
+   "id": "portrait",
+   "title": "Jason and Sunni’s cordwood home, leaf-on",
+   "kind": "portrait",
+   "hero": true,
+   "scope": "most",
+   "path": "data/illustrations/LZ6u1AXCefQ/portrait.png",
+   "invention_log": "harness/viz/LZ6u1AXCefQ/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 2,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 0.944
+     },
+     {
+      "round": 2,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "main-house",
+    "timber-frame",
+    "gable-roof",
+    "front-glazing",
+    "cedar-cordwood",
+    "stone-knee-wall",
+    "bottle-art",
+    "woodland",
+    "roof-mounted-device"
+   ],
+   "references": [
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0038.jpg",
+     "time": 113.947167,
+     "role": "vantage"
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0090.jpg",
+     "time": 299.9997,
+     "role": "detail"
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0184.jpg",
+     "time": 623.990033,
+     "role": "detail"
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0231.jpg",
+     "time": 812.144667,
+     "role": "detail"
+    }
+   ]
+  },
+  {
+   "id": "woodland-home-and-worksite",
+   "title": "Woodland home and worksite",
+   "kind": "map",
+   "feature_ids": [
+    "woodland",
+    "main-house",
+    "temporary-cabin",
+    "screened-porch",
+    "sawmill",
+    "cordwood-stacks"
+   ],
+   "references": [
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0010.jpg",
+     "time": 12.9129
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0017.jpg",
+     "time": 48.014633
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0041.jpg",
+     "time": 126.0259
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0070.jpg",
+     "time": 218.151267
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0074.jpg",
+     "time": 232.298733
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0133.jpg",
+     "time": 461.794667
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0199.jpg",
+     "time": 684.016667
+    }
+   ],
+   "path": "data/illustrations/LZ6u1AXCefQ/woodland-home-and-worksite.png",
+   "invention_log": "harness/viz/LZ6u1AXCefQ/woodland-home-and-worksite/review.md"
+  },
+  {
+   "id": "inside-the-cordwood-wall",
+   "title": "Inside the cordwood wall",
+   "kind": "cutaway",
+   "feature_ids": [
+    "cedar-cordwood",
+    "cordwood-laying",
+    "stone-knee-wall",
+    "insulated-core",
+    "log-length",
+    "timber-frame"
+   ],
+   "references": [
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0180.jpg",
+     "time": 599.9994
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0182.jpg",
+     "time": 612.0114
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0184.jpg",
+     "time": 623.990033
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0217.jpg",
+     "time": 761.1604
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0220.jpg",
+     "time": 772.772
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0223.jpg",
+     "time": 781.647533
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0227.jpg",
+     "time": 794.326867
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0231.jpg",
+     "time": 812.144667
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0010.jpg",
+     "time": 12.9129
+    }
+   ],
+   "path": "data/illustrations/LZ6u1AXCefQ/inside-the-cordwood-wall.png",
+   "invention_log": "harness/viz/LZ6u1AXCefQ/inside-the-cordwood-wall/review.md"
+  },
+  {
+   "id": "trees-to-timber-and-slabs",
+   "title": "Trees to Timber and Slabs",
+   "kind": "diagram",
+   "feature_ids": [
+    "woodland",
+    "log-dolly",
+    "sawmill",
+    "mill-extension",
+    "slab-reuse",
+    "timber-frame",
+    "natural-post",
+    "tree-count"
+   ],
+   "references": [
+    {
+     "path": "review/LZ6u1AXCefQ/sample-0022.jpg",
+     "time": 62.996267
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0128.jpg",
+     "time": 451.317533
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0129.jpg",
+     "time": 453.619833
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0134.jpg",
+     "time": 464.497367
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0135.jpg",
+     "time": 466.599467
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0147.jpg",
+     "time": 510.977133
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0152.jpg",
+     "time": 523.189333
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0155.jpg",
+     "time": 530.897033
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0156.jpg",
+     "time": 532.899033
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0162.jpg",
+     "time": 546.9464
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0164.jpg",
+     "time": 551.6511
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0112.jpg",
+     "time": 395.9956
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0117.jpg",
+     "time": 408.0076
+    }
+   ],
+   "path": "data/illustrations/LZ6u1AXCefQ/trees-to-timber-and-slabs.png",
+   "invention_log": "harness/viz/LZ6u1AXCefQ/trees-to-timber-and-slabs/review.md"
+  },
+  {
+   "id": "bottle-logs-and-colored-light",
+   "title": "Bottle Logs and Colored Light",
+   "kind": "diagram",
+   "feature_ids": [
+    "bottle-logs",
+    "blocked-bottles",
+    "bottle-art",
+    "glass-reuse"
+   ],
+   "references": [
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0308.jpg",
+     "time": 1073.005267
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0311.jpg",
+     "time": 1080.946533
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0106.jpg",
+     "time": 372.004967
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0108.jpg",
+     "time": 383.9836
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0317.jpg",
+     "time": 1104.0029
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0093.jpg",
+     "time": 320.486833
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0098.jpg",
+     "time": 341.674667
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0102.jpg",
+     "time": 357.8575
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0110.jpg",
+     "time": 388.354633
+    }
+   ],
+   "path": "data/illustrations/LZ6u1AXCefQ/bottle-logs-and-colored-light.png",
+   "invention_log": "harness/viz/LZ6u1AXCefQ/bottle-logs-and-colored-light/review.md"
+  },
+  {
+   "id": "lath-to-lime-plaster",
+   "title": "Lath to Lime Plaster",
+   "kind": "cutaway",
+   "feature_ids": [
+    "lath-plaster"
+   ],
+   "references": [
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0282.jpg",
+     "time": 972.004367
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0294.jpg",
+     "time": 1018.4174
+    },
+    {
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0297.jpg",
+     "time": 1025.357667
+    }
+   ],
+   "path": "data/illustrations/LZ6u1AXCefQ/lath-to-lime-plaster.png",
+   "invention_log": "harness/viz/LZ6u1AXCefQ/lath-to-lime-plaster/review.md"
+  }
+ ]
+}

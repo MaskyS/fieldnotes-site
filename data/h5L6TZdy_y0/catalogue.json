@@ -1,0 +1,5133 @@
+{
+ "title": "Dave Orton’s transforming Transit campervan",
+ "source": {
+  "id": "h5L6TZdy_y0",
+  "url": "https://www.youtube.com/watch?v=h5L6TZdy_y0",
+  "duration": 1863.261,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "Automatically generated English captions (source captions metadata: en, generated=true); not translated. Transcript contains garbled technical words and lacks reliable speaker changes. Owner demonstrations are attributed to Dave Orton, named in metadata; ambiguous wording is retained with claim doubts. Visible labels resolve the Vitrifrigo brand and Occidental location.",
+  "context": {
+   "location": {
+    "country": "United States",
+    "state_or_region": "California",
+    "nearest_place": "Occidental",
+    "precision": "Town-level filming context from on-screen caption at 00:12; fixed residence and street address not disclosed. Coastal inserts are not precisely located.",
+    "evidence": [
+     {
+      "frame_id": "frame-0005",
+      "at": 12,
+      "kind": "on-screen location caption",
+      "text": "Occidental, California"
+     }
+    ],
+    "climate": {
+     "koppen": "Csb",
+     "name": "warm-summer Mediterranean",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Occidental, California, United States",
+      "lat": 38.401,
+      "lon": -122.931,
+      "matched": "Occidental, Sonoma County, California, United States",
+      "stands_for": "census",
+      "precision": "Town-level filming context from on-screen caption at 00:12; fixed residence and street address not disclosed. Coastal inserts are not precisely located."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 1015,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Occidental, California, United States",
+      "lat": 38.401,
+      "lon": -122.931,
+      "matched": "Occidental, Sonoma County, California, United States",
+      "stands_for": "census",
+      "precision": "Town-level filming context from on-screen caption at 00:12; fixed residence and street address not disclosed. Coastal inserts are not precisely located."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "9b",
+     "mean_annual_extreme_min_c": -1.8,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Occidental, California, United States",
+      "lat": 38.401,
+      "lon": -122.931,
+      "matched": "Occidental, Sonoma County, California, United States",
+      "stands_for": "census",
+      "precision": "Town-level filming context from on-screen caption at 00:12; fixed residence and street address not disclosed. Coastal inserts are not precisely located."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 212,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Occidental, California, United States",
+      "lat": 38.401,
+      "lon": -122.931,
+      "matched": "Occidental, Sonoma County, California, United States",
+      "stands_for": "census",
+      "precision": "Town-level filming context from on-screen caption at 00:12; fixed residence and street address not disclosed. Coastal inserts are not precisely located."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2019-03-10"
+  }
+ },
+ "sampling": {
+  "frames": 674,
+  "candidate_shots": 383,
+  "contact_sheets": 25,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/h5L6TZdy_y0"
+ },
+ "subject": {
+  "place": "van",
+  "people": [
+   "dave"
+  ],
+  "gist": "Dave built machinery before making a camper that still carries cargo; he heats his sleeping bag and admits his insulating curtains haven’t worked.",
+  "story": {
+   "text": "Dave brings a career building winery machinery to a camper that also has to replace his pickup. Fold the bed panels up and remove the table, and his Transit can carry timber again. The shower doubles as storage and counter space, while a portable stove lets him cook outside. Everything earns its room, and lessons from his previous van shape this one, right down to a bed long enough for his outstretched toes. He is candid about experiments: the insulated curtains are not keeping him warmer. Instead, a heating pad warms his sleeping bag. His approach is to keep asking questions, reading and adjusting things until they work.",
+   "moments": [
+    {
+     "phrase": "a career building winery machinery",
+     "at": 1029.98
+    },
+    {
+     "phrase": "his Transit can carry timber again",
+     "at": 230.41
+    },
+    {
+     "phrase": "The shower doubles as storage and counter space",
+     "at": 256.3
+    },
+    {
+     "phrase": "the insulated curtains are not keeping him warmer",
+     "at": 1449.77
+    },
+    {
+     "phrase": "a heating pad warms his sleeping bag",
+     "at": 1549.249
+    },
+    {
+     "phrase": "keep asking questions, reading and adjusting things",
+     "at": 1840.81
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "van",
+   "title": "Dave Orton’s Ford Transit campervan",
+   "kind": "vehicle",
+   "within": null,
+   "caveat": "Mobile subject; filming context does not establish a fixed residence.",
+   "entity": "ent-dave-orton-transforming-transit-campervan"
+  },
+  {
+   "id": "cab",
+   "title": "Transit driving cab",
+   "kind": "room",
+   "within": "van",
+   "caveat": "A functional zone within the vehicle, continuously visible from the living area."
+  },
+  {
+   "id": "living",
+   "title": "Transit living interior",
+   "kind": "room",
+   "within": "van",
+   "caveat": "Open interior zone, not a separate enclosed room."
+  },
+  {
+   "id": "galley-area",
+   "title": "Sliding-door galley",
+   "kind": "room",
+   "within": "living",
+   "caveat": "Functional zone established by continuous camera movement; no separate room enclosure."
+  },
+  {
+   "id": "wash-area",
+   "title": "Convertible toilet and shower bay",
+   "kind": "room",
+   "within": "living",
+   "caveat": "Open convertible bay beside the refrigerator, visibly connected to the aisle."
+  },
+  {
+   "id": "rear-area",
+   "title": "Rear sleeping and dining area",
+   "kind": "room",
+   "within": "living",
+   "caveat": "Bench, table and bed occupy one continuously shown space."
+  },
+  {
+   "id": "occidental",
+   "title": "Occidental introductory streetscape",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "On-screen town caption at 00:12; outside the van subject.",
+   "outside": true
+  },
+  {
+   "id": "woodland-road",
+   "title": "Unidentified woodland approach road",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Driving insert; exact route and relationship to town not established.",
+   "outside": true
+  },
+  {
+   "id": "filming-grounds",
+   "title": "Driveway and grounds around parked van",
+   "kind": "site",
+   "within": null,
+   "caveat": "Exterior interview and aerial setting; ownership and street address not disclosed.",
+   "outside": true
+  },
+  {
+   "id": "timber-building",
+   "title": "Timber-clad building beside driveway",
+   "kind": "building",
+   "within": "filming-grounds",
+   "caveat": "Exterior only; do not infer identity of rooms shown after cuts.",
+   "outside": true
+  },
+  {
+   "id": "window-building",
+   "title": "Building used for elevated roof view",
+   "kind": "building",
+   "within": "filming-grounds",
+   "caveat": "Window view directly establishes overlooking driveway; not securely identified with timber building.",
+   "outside": true
+  },
+  {
+   "id": "window-room",
+   "title": "Room overlooking van roof",
+   "kind": "room",
+   "within": "window-building",
+   "caveat": "Camera visits at 28:46; use and connection to workbench room unknown.",
+   "outside": true
+  },
+  {
+   "id": "workbench-building",
+   "title": "Unidentified workbench demonstration building",
+   "kind": "building",
+   "within": null,
+   "caveat": "Parent building unspecified; no inferred connection to driveway exterior.",
+   "outside": true
+  },
+  {
+   "id": "workbench-room",
+   "title": "Room with white demonstration workbench",
+   "kind": "room",
+   "within": "workbench-building",
+   "caveat": "Desktop, window, filing cabinets and wood floor visible; exact room location unestablished.",
+   "outside": true
+  },
+  {
+   "id": "former-van",
+   "title": "Dave’s former Sprinter in archive",
+   "kind": "vehicle",
+   "within": null,
+   "caveat": "Distinct vehicle shown during comparison, not subject Transit.",
+   "outside": true
+  },
+  {
+   "id": "waterfront-parking",
+   "title": "Unidentified waterfront parking inserts",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "07:06 onward: quay/parking and marina settings; not established as Carmel or one site.",
+   "outside": true
+  },
+  {
+   "id": "coastal-pullouts",
+   "title": "Unidentified coastal pullout inserts",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Rocky coast, sunset and bay inserts around 24:46–25:48; grouped unlocated footage, not asserted contiguous.",
+   "outside": true
+  },
+  {
+   "id": "bridge-parking",
+   "title": "Bay parking with red suspension bridge",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Brief view around 25:21; exact parking place and recording date not captioned.",
+   "outside": true
+  }
+ ],
+ "people": [
+  {
+   "id": "dave",
+   "name": "Dave Orton",
+   "relation": "owner",
+   "note": "Named in video description; also designer and main builder of the Transit, and the guide demonstrating it. His wife is mentioned but not named."
+  },
+  {
+   "id": "kirsten",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Named uploader/channel in metadata; unintroduced on-camera crew are not individually identified by appearance.",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "description-conversion-cost",
+   "text": "Conversion cost $20,000.",
+   "by": "description",
+   "at": [],
+   "about": "self-build",
+   "headline": true,
+   "doubt": "Dave says roughly $18,000 above the van cost; the figures differ.",
+   "quantity": {
+    "value": 20000,
+    "unit": "USD",
+    "of": "build cost"
+   }
+  },
+  {
+   "id": "spoken-conversion-cost",
+   "text": "Conversion cost roughly $18,000, excluding the van.",
+   "by": "dave",
+   "at": [
+    1745.4
+   ],
+   "about": "self-build",
+   "headline": true,
+   "doubt": "The description says $20,000; no common accounting basis is supplied.",
+   "quantity": {
+    "value": 18000,
+    "unit": "USD",
+    "of": "build cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "description-build-time",
+   "text": "Conversion took two years.",
+   "by": "description",
+   "at": [],
+   "about": "self-build",
+   "headline": true,
+   "doubt": "Dave says two or three years in the film.",
+   "quantity": {
+    "value": 2,
+    "unit": "year",
+    "of": "build time"
+   }
+  },
+  {
+   "id": "spoken-build-time",
+   "text": "Conversion took two or three years.",
+   "by": "dave",
+   "at": [
+    1756.59
+   ],
+   "about": "self-build",
+   "headline": true,
+   "doubt": "The description gives two years rather than this range.",
+   "quantity": {
+    "value": 2.5,
+    "unit": "year",
+    "of": "build time",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "sleep-capacity",
+   "text": "The van sleeps two people.",
+   "by": "dave",
+   "at": [
+    221.5
+   ],
+   "about": "bed-dinette",
+   "headline": true,
+   "quantity": {
+    "value": 2,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "seating-capacity",
+   "text": "The rear table seats four people.",
+   "by": "dave",
+   "at": [
+    681.0,
+    1371.86
+   ],
+   "about": "bed-dinette",
+   "headline": true,
+   "quantity": {
+    "value": 4,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "solar-rating",
+   "text": "Roof solar panel rated at 300 watts.",
+   "by": "dave",
+   "at": [
+    81.91,
+    1219.79
+   ],
+   "about": "roof-solar",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "off-grid-description",
+   "text": "The converted van is completely off-grid.",
+   "by": "description",
+   "at": [],
+   "about": "power-system",
+   "headline": true
+  },
+  {
+   "id": "gasoline-van",
+   "text": "The Transit uses gasoline rather than diesel.",
+   "by": "dave",
+   "at": [
+    244.18
+   ],
+   "about": "transit",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shore-rating",
+   "text": "Shore-power cord rated at 15 amps.",
+   "by": "dave",
+   "at": [
+    106.06
+   ],
+   "about": "shore-cord",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cad-design",
+   "text": "The interior was designed before construction.",
+   "by": "dave",
+   "at": [
+    162.28
+   ],
+   "about": "self-build",
+   "headline": false,
+   "doubt": "The automatic caption renders the design tool as “cab”; CAD is not asserted.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "stove-output",
+   "text": "Stove burners rated at 17,000 BTU [17.94 MJ].",
+   "by": "dave",
+   "at": [
+    473.15
+   ],
+   "about": "portable-stove",
+   "headline": false,
+   "doubt": "The caption gives BTU without a time basis; BTU/hour is not assumed.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "old-stove-output",
+   "text": "Previous stove burner rated at 10,000 BTU [10.55 MJ].",
+   "by": "dave",
+   "at": [
+    469.16
+   ],
+   "about": "portable-stove",
+   "headline": false,
+   "doubt": "The spoken unit lacks a time basis in the caption.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bottle-capacity",
+   "text": "Propane bottle holds one pound [0.454 kg].",
+   "by": "dave",
+   "at": [
+    487.03
+   ],
+   "about": "propane-bottles",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bottles-refillable",
+   "text": "The propane bottles are refillable.",
+   "by": "dave",
+   "at": [
+    489.53
+   ],
+   "about": "propane-bottles",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "dual-inverters",
+   "text": "Two separate inverters are each rated at 1,000 watts.",
+   "by": "dave",
+   "at": [
+    1114.85
+   ],
+   "about": "power-system",
+   "headline": false,
+   "doubt": "The earlier caption at 08:20 conflates “two” and “thousand”; later speech distinguishes them.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "sink-cold",
+   "text": "The sink has cold water only.",
+   "by": "dave",
+   "at": [
+    625.93
+   ],
+   "about": "water-system",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "unpressurized-idle",
+   "text": "The water system is not continuously pressurized.",
+   "by": "dave",
+   "at": [
+    577.14
+   ],
+   "about": "water-system",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "mattress-count",
+   "text": "Two self-inflating pads are used together.",
+   "by": "dave",
+   "at": [
+    657.25
+   ],
+   "about": "mattress-pads",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "extrusion-size",
+   "text": "Extrusions are 1½ inches [38.1 mm] square.",
+   "by": "dave",
+   "at": [
+    714.91
+   ],
+   "about": "aluminum-framework",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "carriage-bolt-size",
+   "text": "Slots accept 5/16-inch [7.94 mm] carriage bolts.",
+   "by": "dave",
+   "at": [
+    717.029
+   ],
+   "about": "aluminum-framework",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "thermal-break-plywood",
+   "text": "Upper cabinets use ½-inch [12.7 mm] plywood thermal breaks.",
+   "by": "dave",
+   "at": [
+    781.54
+   ],
+   "about": "thermal-breaks",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "basket-lip",
+   "text": "Basket retaining lip is one inch [25.4 mm].",
+   "by": "dave",
+   "at": [
+    874.35
+   ],
+   "about": "basket-storage",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bed-length",
+   "text": "Bed length is 73½ inches [186.69 cm].",
+   "by": "dave",
+   "at": [
+    935.009
+   ],
+   "about": "bed-leaves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "side-insulation",
+   "text": "Side insulation is 1½ inches [38.1 mm] thick.",
+   "by": "dave",
+   "at": [
+    927.959
+   ],
+   "about": "bed-leaves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bed-core",
+   "text": "Bed panels have one-inch [25.4 mm] polyiso cores.",
+   "by": "dave",
+   "at": [
+    961.79
+   ],
+   "about": "bed-leaves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bed-plywood",
+   "text": "Bed panels have ¼-inch [6.35 mm] plywood tops.",
+   "by": "dave",
+   "at": [
+    966.05
+   ],
+   "about": "bed-leaves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "floor-inlet-size",
+   "text": "Floor inlet is four by four; unit unstated.",
+   "by": "dave",
+   "at": [
+    1068.41
+   ],
+   "about": "floor-inlet",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fridge-power-comparison",
+   "text": "Refrigerator uses about one-third less power than the former Dometic.",
+   "by": "dave",
+   "at": [
+    1157.54
+   ],
+   "about": "fridge",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "freezer-comparison",
+   "text": "Freezer is about twice the former Dometic freezer’s size.",
+   "by": "dave",
+   "at": [
+    1150.37
+   ],
+   "about": "fridge",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fridge-added-insulation",
+   "text": "Added refrigerator insulation is 2½ inches [63.5 mm].",
+   "by": "dave",
+   "at": [
+    1166.99
+   ],
+   "about": "fridge-insulation",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fridge-voltage",
+   "text": "Refrigerator runs on 12-volt DC or 120-volt AC.",
+   "by": "dave",
+   "at": [
+    1183.07
+   ],
+   "about": "fridge",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "mppt-charge",
+   "text": "MPPT controller provides three-stage house-battery charging.",
+   "by": "dave",
+   "at": [
+    1226.54
+   ],
+   "about": "solar-controller",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rare-engine-charge",
+   "text": "Engine charging is almost never needed.",
+   "by": "dave",
+   "at": [
+    1231.01
+   ],
+   "about": "power-system",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "vehicle-ac",
+   "text": "Vehicle inverter converts 12-volt DC to 120-volt AC.",
+   "by": "dave",
+   "at": [
+    1243.22
+   ],
+   "about": "engine-inverter",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "battery-capacity",
+   "text": "8D house battery capacity is 255 amp-hours.",
+   "by": "dave",
+   "at": [
+    1261.22
+   ],
+   "about": "house-battery",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "magnum-model",
+   "text": "House inverter/charger/transfer switch is a Magnum 1012.",
+   "by": "dave",
+   "at": [
+    1267.31
+   ],
+   "about": "house-inverter",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rear-outlet-voltage",
+   "text": "Rear outlets provide 12-volt DC and 120-volt AC.",
+   "by": "dave",
+   "at": [
+    1345.04
+   ],
+   "about": "outlets",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "table-removal-time",
+   "text": "Table removal takes ten minutes.",
+   "by": "dave",
+   "at": [
+    1397.06
+   ],
+   "about": "rear-table",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "curtain-positions",
+   "text": "Curtains can be fitted in four positions.",
+   "by": "dave",
+   "at": [
+    1405.73
+   ],
+   "about": "curtains",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "solo-curtain-depth",
+   "text": "Solo sleeping curtain encloses 27 inches [68.58 cm].",
+   "by": "dave",
+   "at": [
+    1415.9
+   ],
+   "about": "curtains",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "double-bed-width",
+   "text": "Double bed width is 54 inches [137.16 cm].",
+   "by": "dave",
+   "at": [
+    1426.04
+   ],
+   "about": "bed-dinette",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "curtain-insulation",
+   "text": "Center curtain contains Thinsulate insulation between fabric faces.",
+   "by": "dave",
+   "at": [
+    1439.75
+   ],
+   "about": "curtains",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "curtain-test-failed",
+   "text": "The curtain insulation idea has not worked in testing.",
+   "by": "dave",
+   "at": [
+    1449.77
+   ],
+   "about": "curtains",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "curtain-future-test",
+   "text": "Curtain testing will resume the following winter.",
+   "by": "dave",
+   "at": [
+    1459.31
+   ],
+   "about": "curtain-retest",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "legal-preparation-parking",
+   "text": "Bedtime preparations take place somewhere legally parked.",
+   "by": "dave",
+   "at": [
+    1525.26
+   ],
+   "about": "curtains",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "heating-pad-voltage",
+   "text": "Sleeping-bag heating pad runs on 12 volts.",
+   "by": "dave",
+   "at": [
+    1549.249
+   ],
+   "about": "personal-warmth",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-all-night-heat",
+   "text": "The van interior is not heated all night.",
+   "by": "dave",
+   "at": [
+    1579.249
+   ],
+   "about": "personal-warmth",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "floor-polyiso",
+   "text": "Floor includes one-inch [25.4 mm] rigid polyiso insulation.",
+   "by": "dave",
+   "at": [
+    1612.519
+   ],
+   "about": "layered-floor",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "floor-mat",
+   "text": "Floor top layer is ⅜-inch [9.53 mm] gym mat.",
+   "by": "dave",
+   "at": [
+    1622.6
+   ],
+   "about": "layered-floor",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "four-factory-lights",
+   "text": "Four factory LED lights were reused.",
+   "by": "dave",
+   "at": [
+    1635.71
+   ],
+   "about": "reused-lights",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "internal-panel-rack",
+   "text": "Solar-panel supporting rack is inside below the roof.",
+   "by": "dave",
+   "at": [
+    1736.21
+   ],
+   "about": "internal-rack",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "outsourced-stainless",
+   "text": "Stainless tanks and shower drain pan were outsourced.",
+   "by": "dave",
+   "at": [
+    1785.15
+   ],
+   "about": "stainless-record",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "outsourced-drawers",
+   "text": "Dovetail drawers were made by someone else.",
+   "by": "dave",
+   "at": [
+    1799.73
+   ],
+   "about": "galley-drawers",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "prior-engineering",
+   "text": "Dave previously built winery bottling lines and machinery.",
+   "by": "dave",
+   "at": [
+    1029.98
+   ],
+   "about": "self-build",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "direct-charge-caption",
+   "text": "Direct vehicle-to-house battery charging is described as best.",
+   "by": "dave",
+   "at": [
+    1204.82
+   ],
+   "about": "power-system",
+   "headline": false,
+   "doubt": "The caption says “best” but the surrounding account criticizes this method; wording is uncertain.",
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://www.ortontransit.info/",
+   "kind": "own site",
+   "entity": {
+    "type": "person",
+    "id": "dave"
+   },
+   "by": "description",
+   "line": "https://www.ortontransit.info/",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "inside-table",
+   "predicate": "slides_toward",
+   "object": "swivel-seat",
+   "time": 198,
+   "status": "demonstrated"
+  },
+  {
+   "subject": "outside-table",
+   "predicate": "supports",
+   "object": "portable-stove",
+   "time": 467.5,
+   "status": "shown"
+  },
+  {
+   "subject": "shared-hose",
+   "predicate": "connects_to",
+   "object": "water-system",
+   "time": 556,
+   "status": "demonstrated"
+  },
+  {
+   "subject": "microwave",
+   "predicate": "sits_above",
+   "object": "fridge",
+   "time": 1181.5,
+   "status": "shown"
+  },
+  {
+   "subject": "bed-leaves",
+   "predicate": "fold_over",
+   "object": "rear-table",
+   "time": 975.5,
+   "status": "demonstrated"
+  },
+  {
+   "subject": "mattress-pads",
+   "predicate": "rests_on",
+   "object": "bed-leaves",
+   "time": 663,
+   "status": "shown"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "transit",
+   "title": "Dave Orton’s transforming Ford Transit",
+   "place": "van",
+   "category": "Structure",
+   "description": "A gray high-roof Ford Transit has an almost unadorned exterior and a fitted living interior. Dave says he wanted a discreet camper that could also carry cargo, and preferred this gasoline van to his previous diesel Sprinter.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Model year, wheelbase, vehicle purchase price and full-time residency are not established.",
+   "related_ids": [],
+   "terms": [
+    "van",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 42.49,
+     "end": 65.17,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 239,
+     "end": 253,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 54.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0018.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0043",
+     "time": 125.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0043.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0043.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0346",
+     "time": 891.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0346.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0346.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "aluminum-framework",
+   "title": "80/20 aluminum interior framework",
+   "place": "van",
+   "category": "Materials",
+   "description": "Slotted aluminum members are visible in the floor and furniture, with plywood infill. Dave identifies the system as 80/20 and explains sliding carriage bolts, tapped ends and different exposed-face options.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Alloy, total weight and structural/load calculations are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "aluminium",
+    "plywood"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 691.5,
+     "end": 755.11,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0278",
+     "time": 702.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0278.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0278.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0279",
+     "time": 705.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0279.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0279.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0332",
+     "time": 850.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0332.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0332.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0278.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "layered-floor",
+   "title": "Lift-out insulated floor and loose carpet",
+   "place": "living",
+   "category": "Materials",
+   "description": "Dave lifts loose gray carpet and a dark mat to expose pale lower layers between metal floor rails. He describes rigid polyiso, fiberglass shower-wall sheet and gym mat, with removable indoor-outdoor carpet added for cleaning.",
+   "phase": "current",
+   "part_of": "aluminum-framework",
+   "unknown": "Seams, moisture control, attachment details and long-term wear are not demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "polyiso",
+    "fibreglass",
+    "carpet",
+    "floor",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1596.71,
+     "end": 1625.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0580",
+     "time": 1613.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0580.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0580.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0582",
+     "time": 1619.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0582.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0582.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0577",
+     "time": 1607.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0577.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0577.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0278",
+     "time": 702.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0278.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0278.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0580.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "thermal-breaks",
+   "title": "Plywood and plastic frame thermal breaks",
+   "place": "van",
+   "category": "Climate",
+   "description": "Workbench examples provide context for the concealed mounting details. Dave says the Transit framework is isolated from the steel shell with plywood or plastic spacers, unlike his earlier Sprinter.",
+   "phase": "current",
+   "part_of": "aluminum-framework",
+   "unknown": "The film does not expose the complete installed thermal-break arrangement or measure heat loss.",
+   "related_ids": [
+    "fitting-examples"
+   ],
+   "terms": [
+    "plywood",
+    "plastic",
+    "thermal break"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 757.3,
+     "end": 790.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0301",
+     "time": 781.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0301.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0301.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0303",
+     "time": 785.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0303.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0303.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0301.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "frame-construction-record",
+   "title": "Transit floor and cabinet construction photographs",
+   "place": "van",
+   "category": "Process",
+   "description": "Inserted photographs show a bare van shell with an aluminum floor grid and upright cabinet frames. They document an earlier stage of the Transit conversion while Dave describes the finished framework.",
+   "phase": "historical",
+   "part_of": "aluminum-framework",
+   "unknown": "Photograph dates and the sequence of every installation step are unknown.",
+   "related_ids": [],
+   "terms": [
+    "aluminium",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 696,
+     "end": 713,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 772.3,
+     "end": 779.38,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0280",
+     "time": 707.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0280.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0280.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0281",
+     "time": 710.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0281.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0281.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0282",
+     "time": 712.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0282.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0282.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0300",
+     "time": 773.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0300.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0300.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0280.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "galley",
+   "title": "Doorway galley with portable cooking",
+   "place": "galley-area",
+   "category": "Food",
+   "description": "A wood-faced sink cabinet occupies part of the sliding-door opening, with a dark counter and metal sink. Dave says this position lets him look outside while using the sink; cooking equipment can move between inside and outside.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Countertop composition, food-preparation area and cabinet dimensions are not specified.",
+   "related_ids": [],
+   "terms": [
+    "kitchen",
+    "timber",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 122.71,
+     "end": 143,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 508.73,
+     "end": 518.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0071",
+     "time": 186.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0071.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0071.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0203",
+     "time": 516.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0203.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0203.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0462",
+     "time": 1284.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0462.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0462.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0071.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "outside-table",
+   "title": "Drop-down outdoor cooking table",
+   "place": "galley-area",
+   "category": "Structure",
+   "description": "A wood panel folds down from the outward face of the galley, supported below. Dave places the portable stove on it and describes outdoor cooking.",
+   "phase": "current",
+   "part_of": "galley",
+   "unknown": "Load rating, weather resistance and exact hinge/support specification are not established.",
+   "related_ids": [
+    "portable-stove"
+   ],
+   "terms": [
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 139.42,
+     "end": 144.61,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 451,
+     "end": 463.22,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 146.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0051.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0184",
+     "time": 469.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0184.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0184.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0188",
+     "time": 475.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0188.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0188.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0051.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "inside-table",
+   "title": "Sliding fold-up passenger-seat table",
+   "place": "galley-area",
+   "category": "Structure",
+   "description": "A second wooden table hinges upward inside the van and slides toward the turned passenger seat. Dave says it serves a single person for eating or computer work and describes its aluminum hinges.",
+   "phase": "current",
+   "part_of": "galley",
+   "unknown": "Slide travel, fastening details and safe working load are not given.",
+   "related_ids": [
+    "swivel-seat"
+   ],
+   "terms": [
+    "timber",
+    "aluminium"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 185.739,
+     "end": 205.239,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0075",
+     "time": 194.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0075.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0075.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 198.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0076.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 207.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0079.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0075.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "swivel-seat",
+   "title": "Fabricated passenger-seat swivel and latch",
+   "place": "cab",
+   "category": "Structure",
+   "description": "The passenger seat rotates on an exposed fabricated metal base; Dave works a hand-operated latch. He says he made the swivel himself, needed several attempts and would buy one in hindsight.",
+   "phase": "current",
+   "part_of": "transit",
+   "unknown": "No crash testing, load rating or regulatory compliance is established.",
+   "related_ids": [
+    "inside-table"
+   ],
+   "terms": [
+    "metal",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 159.25,
+     "end": 184.739,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0064",
+     "time": 173.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0064.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0064.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0065",
+     "time": 174.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0065.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0065.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 183.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0070.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0064.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "galley-drawers",
+   "title": "Dovetail drawers with rubber release latches",
+   "place": "galley-area",
+   "category": "Materials",
+   "description": "Three wood-faced drawers have recessed circular pulls, internal utensil dividers and a rubber latch mechanism demonstrated in close-up. Dave says the rubber avoids rattling and that he had the dovetail drawers made for him.",
+   "phase": "current",
+   "part_of": "galley",
+   "unknown": "Wood species, rubber type, supplier and service life are not given.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "rubber",
+    "storage",
+    "contracted"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 127.42,
+     "end": 139.42,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1760,
+     "end": 1785.15,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1798.05,
+     "end": 1804.02,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0652",
+     "time": 1803.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0652.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0652.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0637",
+     "time": 1768.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0637.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0637.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0640",
+     "time": 1776.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0640.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0640.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0644",
+     "time": 1785.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0644.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0644.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0652.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "portable-stove",
+   "title": "Removable two-burner propane stove",
+   "place": "galley-area",
+   "category": "Food",
+   "description": "A two-burner stove slides out from low storage and is placed on the galley counter and outdoor table. Dave says he prefers cooking outside and replaced a weaker stove with this higher-output model.",
+   "phase": "current",
+   "part_of": "galley",
+   "unknown": "No flame, boil-time comparison or windy-weather performance test appears.",
+   "related_ids": [
+    "outside-table",
+    "propane-bottles"
+   ],
+   "terms": [
+    "propane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 435.89,
+     "end": 483.67,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0175",
+     "time": 449.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0175.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0175.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0184",
+     "time": 469.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0184.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0184.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0190",
+     "time": 480.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0190.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0190.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0175.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "propane-bottles",
+   "title": "Refillable propane bottles in handled carrier",
+   "place": "galley-area",
+   "category": "Energy",
+   "description": "Green propane bottles sit in a handled box and one is held up with its refillable label visible. Dave identifies the fuel as propane and describes a one-pound refillable bottle.",
+   "phase": "current",
+   "part_of": "portable-stove",
+   "unknown": "Refilling, bottle-to-stove connection and storage ventilation are not demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "propane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 483.67,
+     "end": 495,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0194",
+     "time": 489.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0194.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0194.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0195",
+     "time": 490.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0195.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0195.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0194.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "microwave",
+   "title": "Westinghouse microwave above refrigerator",
+   "place": "galley-area",
+   "category": "Food",
+   "description": "A black Westinghouse microwave is installed in a wood-trimmed opening above the refrigerator. Dave says running a microwave is his main use for the house inverter.",
+   "phase": "current",
+   "part_of": "galley",
+   "unknown": "Microwave model, input wattage and an operating cooking cycle are not shown.",
+   "related_ids": [
+    "house-inverter",
+    "fridge"
+   ],
+   "terms": [
+    "microwave"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1277.09,
+     "end": 1286.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0432",
+     "time": 1181.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0432.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0432.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0659",
+     "time": 1820.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0659.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0659.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0432.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fridge",
+   "title": "Elevated Vitrifrigo refrigerator and freezer",
+   "place": "galley-area",
+   "category": "Food",
+   "description": "The elevated refrigerator opens to wire shelves, door storage and an upper freezer; the door label reads Vitrifrigo. Dave says he chose the layout for its low rear compressor position and larger freezer, and reports lower consumption than his previous Dometic.",
+   "phase": "current",
+   "part_of": "galley",
+   "unknown": "Exact model, capacity and measured energy consumption are not supplied; the automatic caption garbles the brand.",
+   "related_ids": [],
+   "terms": [
+    "refrigerator",
+    "freezer"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1121.84,
+     "end": 1190.45,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0423",
+     "time": 1154.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0423.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0423.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0427",
+     "time": 1166.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0427.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0427.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0413",
+     "time": 1132.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0413.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0413.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0423.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fridge-insulation",
+   "title": "Added refrigerator surround insulation",
+   "place": "galley-area",
+   "category": "Climate",
+   "description": "The outside of the refrigerator enclosure provides context, while its added insulation remains hidden. Dave says he added insulation around the sides, top and bottom to reduce its workload.",
+   "phase": "current",
+   "part_of": "fridge",
+   "unknown": "Material, continuity and measured energy saving are not established.",
+   "related_ids": [],
+   "terms": [
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1165.97,
+     "end": 1178,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0428",
+     "time": 1169.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0428.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0428.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0429",
+     "time": 1175.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0429.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0429.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0428.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "jar-rack",
+   "title": "Retained clear-jar shelf over doorway",
+   "place": "galley-area",
+   "category": "Life",
+   "description": "A row of clear jars with purple lids stands on a wooden shelf above the sliding doorway. A slim horizontal rail runs in front of the jars; this storage detail is not discussed.",
+   "phase": "current",
+   "part_of": "galley",
+   "unknown": "Jar contents, shelf fixing and road-retention performance are unknown.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0599",
+     "time": 1660.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0599.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0599.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0600",
+     "time": 1663.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0600.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0600.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0599.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "water-system",
+   "title": "Switched cold-water supply and drainage",
+   "place": "galley-area",
+   "category": "Water",
+   "description": "The galley cabinet exposes a compact pump, pipework and hose connection, and water runs at the sink during the switch demonstration. Dave says the system is switched on demand instead of left pressurized and supplies cold water only at the sink.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Tank capacity, water quality and all concealed routes are not established; a yellow cylindrical assembly alongside the plumbing is not securely identified.",
+   "related_ids": [
+    "shower",
+    "stainless-record"
+   ],
+   "terms": [
+    "pump",
+    "sink",
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 518.72,
+     "end": 631,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0214",
+     "time": 541.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0214.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0214.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0247",
+     "time": 619.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0247.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0247.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0245",
+     "time": 615.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0245.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0245.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0214.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fill-pipe",
+   "title": "Capped PVC freshwater fill pipe and filter",
+   "place": "galley-area",
+   "category": "Water",
+   "description": "A white fill pipe with a removable plug stands inside the doorway cabinet, beside stored hoses and a slim filter. Dave says the filter is used when filling the freshwater tank and the valved hose prevents spills.",
+   "phase": "current",
+   "part_of": "water-system",
+   "unknown": "Filter specification and treatment effectiveness are not established.",
+   "related_ids": [],
+   "terms": [
+    "PVC",
+    "water filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 146.39,
+     "end": 156.01,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 518.72,
+     "end": 534.35,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0204",
+     "time": 521.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0204.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0204.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0205",
+     "time": 524.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0205.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0205.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 155.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0054.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0204.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shared-hose",
+   "title": "Quick-connect hose with hand-operated valve",
+   "place": "galley-area",
+   "category": "Water",
+   "description": "A pale flexible hose connects to a lower cabinet coupling and ends in a hand-operated radiator-style valve. Dave describes using it for filling, water outside the van and showering, with a solid stream to control splash.",
+   "phase": "current",
+   "part_of": "water-system",
+   "unknown": "Hose hygiene between uses and full pump-to-shower routing are not established.",
+   "related_ids": [
+    "shower",
+    "fill-pipe"
+   ],
+   "terms": [
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 535.5,
+     "end": 570.19,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 353.11,
+     "end": 378.969,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0220",
+     "time": 556.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0220.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0220.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0226",
+     "time": 567.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0226.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0226.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0147",
+     "time": 372.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0147.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0147.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0220.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "grey-drain",
+   "title": "Concealed underbody greywater drain hose",
+   "place": "van",
+   "category": "Water",
+   "description": "Dave pulls down a short hose from below the sliding doorway. He says the greywater tank is underneath the van and drains through this plugged hose.",
+   "phase": "current",
+   "part_of": "water-system",
+   "unknown": "Tank volume, all waste connections and disposal practice are not shown.",
+   "related_ids": [],
+   "terms": [
+    "greywater",
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 90.119,
+     "end": 101.97,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 97.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0033.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 98.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0034.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0033.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "stainless-record",
+   "title": "Stainless tank and pan fabrication photographs",
+   "place": "van",
+   "category": "Water",
+   "description": "Construction inserts expose stainless vessels below a bench frame and a metal shower-pan assembly before finishes conceal them. Dave says the freshwater, greywater and shower-water tanks and drain pan were made by others.",
+   "phase": "historical",
+   "part_of": "water-system",
+   "unknown": "The film does not label every photographed vessel, so their individual functions and capacities cannot be assigned confidently.",
+   "related_ids": [
+    "shower-pan",
+    "shower-water"
+   ],
+   "terms": [
+    "steel",
+    "tank",
+    "shower",
+    "contracted"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1785.15,
+     "end": 1798.05,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0646",
+     "time": 1789.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0646.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0646.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0645",
+     "time": 1787.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0645.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0645.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0647",
+     "time": 1791.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0647.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0647.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0646.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower",
+   "title": "Convertible counter, toilet and indoor shower",
+   "place": "wash-area",
+   "category": "Water",
+   "description": "A tall bay changes from counter and storage to an exposed toilet and standing shower space as Dave removes bins and rods and lifts shelves. He demonstrates the washing positions while clothed and explains why an indoor shower suits city parking.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No actual shower or splash-containment test is filmed; total water use is not measured.",
+   "related_ids": [
+    "curtains",
+    "shared-hose"
+   ],
+   "terms": [
+    "shower",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 254.109,
+     "end": 435.89,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0105",
+     "time": 280.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0105.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0105.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0127",
+     "time": 321.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0127.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0127.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0155",
+     "time": 395.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0155.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0155.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0105.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "portable-toilet",
+   "title": "Portable toilet within shower bay",
+   "place": "wash-area",
+   "category": "Water",
+   "description": "A light-colored portable toilet stands inside the metal shower pan below the pivoting shelves. Dave says he can make it usable at night without dragging it out of storage.",
+   "phase": "current",
+   "part_of": "shower",
+   "unknown": "Toilet make, capacity, waste emptying and any connection to other tanks are not established.",
+   "related_ids": [],
+   "terms": [
+    "portable toilet"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 294.56,
+     "end": 321.43,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0122",
+     "time": 309.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0122.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0122.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0125",
+     "time": 316.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0125.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0125.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0648",
+     "time": 1793.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0648.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0648.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0122.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wash-storage",
+   "title": "Pivoting counter, bins and removable rods",
+   "place": "wash-area",
+   "category": "Life",
+   "description": "Two wooden storage bins sit under a counter; the shelf/counter assembly pivots upward and spring-ended rods are removed. Dave says one bin stores pots and pans and the other dry food.",
+   "phase": "current",
+   "part_of": "shower",
+   "unknown": "Shelf load ratings and exact storage volume are not given.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 269.53,
+     "end": 294.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 298.3,
+     "end": 344.979,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0103",
+     "time": 276.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0103.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0103.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0108",
+     "time": 285.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0108.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0108.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0118",
+     "time": 302.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0118.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0118.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0132",
+     "time": 334.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0132.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0132.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0103.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-pan",
+   "title": "Stainless shower drain pan and plug",
+   "place": "wash-area",
+   "category": "Water",
+   "description": "The shower floor is a metal pan with a small dark drain opening. Dave identifies the pan among the outsourced stainless pieces and says he removes the plug for showering.",
+   "phase": "current",
+   "part_of": "shower",
+   "unknown": "Drain slope, trap and connection to the greywater tank are not traced.",
+   "related_ids": [
+    "stainless-record",
+    "grey-drain"
+   ],
+   "terms": [
+    "steel",
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 312.909,
+     "end": 321.43,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1789.01,
+     "end": 1795.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0126",
+     "time": 319.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0126.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0126.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0124",
+     "time": 314.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0124.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0124.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0126.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-water",
+   "title": "Dedicated shower-water tank and electrical heating",
+   "place": "wash-area",
+   "category": "Water",
+   "description": "The hose and control-panel views provide context for the concealed shower-water arrangement. Dave says he fills a separate shower tank and can direct electrical power to heat its water.",
+   "phase": "current",
+   "part_of": "shower",
+   "unknown": "Tank capacity, heater element, temperature control and exact identification among the archived vessels are not established.",
+   "related_ids": [
+    "power-controls",
+    "stainless-record"
+   ],
+   "terms": [
+    "tank",
+    "hot water",
+    "electric heating"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 358.5,
+     "end": 368,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 559,
+     "end": 566.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1250.93,
+     "end": 1256.57,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1326.77,
+     "end": 1334.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0144",
+     "time": 365.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0144.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0144.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0469",
+     "time": 1317.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0469.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0469.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0144.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "ribbed-lining",
+   "title": "Ribbed translucent shower-wall lining",
+   "place": "wash-area",
+   "category": "Materials",
+   "description": "Translucent ribbed panels line the tall shower bay between metal uprights, with visible screw fixings. An archival close-up also shows these surfaces around the pan.",
+   "phase": "current",
+   "part_of": "shower",
+   "unknown": "The film does not identify the polymer, waterproof joints or wall build-up.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 265.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0099.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0105",
+     "time": 280.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0105.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0105.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0647",
+     "time": 1791.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0647.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0647.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0099.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "bed-dinette",
+   "title": "Rear folding bed and bench dinette",
+   "place": "rear-area",
+   "category": "Life",
+   "description": "Opposed benches and a central table share the rear with hinged leaves and removable bedding. Dave demonstrates opening the sitting space and says the arrangement can sleep two, seat four or be cleared for cargo.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Four seated occupants and actual cargo loading are not demonstrated.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 205.239,
+     "end": 239,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 654.5,
+     "end": 696.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1356.05,
+     "end": 1399.07,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0351",
+     "time": 903.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0351.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0351.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0488",
+     "time": 1373.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0488.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0488.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0375",
+     "time": 981.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0375.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0375.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0351.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "bed-leaves",
+   "title": "Four insulated plywood bed leaves",
+   "place": "rear-area",
+   "category": "Materials",
+   "description": "Wood-faced bed leaves fold toward the walls, and Dave exposes their thickness and carpeted underside. He describes a rigid polyiso core, plywood top and indoor-outdoor carpet below, with recessed sidewalls preserving sleeping length.",
+   "phase": "current",
+   "part_of": "bed-dinette",
+   "unknown": "Load testing, hinge specification and moisture behavior are not given.",
+   "related_ids": [],
+   "terms": [
+    "plywood",
+    "polyiso",
+    "carpet",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 212.41,
+     "end": 238,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 915,
+     "end": 978.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0369",
+     "time": 967.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0369.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0369.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0371",
+     "time": 972.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0371.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0371.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0375",
+     "time": 981.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0375.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0375.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0369.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mattress-pads",
+   "title": "Stacked self-inflating sleeping pads",
+   "place": "rear-area",
+   "category": "Life",
+   "description": "Two dark pads are stacked beneath a sleeping bag and move with the removable bedding. Dave says a single self-inflating pad bottomed out and two are comfortable.",
+   "phase": "current",
+   "part_of": "bed-dinette",
+   "unknown": "Pad brand, inflation pressure and long-term durability are not supplied.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 654.5,
+     "end": 666,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 977.15,
+     "end": 990.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0259",
+     "time": 659.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0259.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0259.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0260",
+     "time": 663.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0260.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0260.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0372",
+     "time": 975.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0372.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0372.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0259.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "rear-table",
+   "title": "Removable rear table bolted into floor slots",
+   "place": "rear-area",
+   "category": "Structure",
+   "description": "The rear wooden table stands on an aluminum leg whose bolted floor attachment is shown close-up. Dave says the slotted frame lets him unbolt and remove it for cargo.",
+   "phase": "current",
+   "part_of": "bed-dinette",
+   "unknown": "Removal is not filmed or timed, and its load rating is not given.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "aluminium"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 685.42,
+     "end": 704.89,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1392.23,
+     "end": 1399.07,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0492",
+     "time": 1389.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0492.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0492.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0494",
+     "time": 1396.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0494.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0494.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0274",
+     "time": 694.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0274.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0274.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0492.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bicycle-storage",
+   "title": "Bicycle secured across rear doorway",
+   "place": "rear-area",
+   "category": "Life",
+   "description": "A small-wheeled bicycle sits across the rear below bedding and is later lifted out. Dave says moving the table forward created room for it without raising the whole sleeping platform.",
+   "phase": "current",
+   "part_of": "bed-dinette",
+   "unknown": "Bike restraints are partly visible but their full fastening and road performance are not demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 887.5,
+     "end": 910,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1356.05,
+     "end": 1375.61,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0347",
+     "time": 894.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0347.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0347.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0483",
+     "time": 1364.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0483.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0483.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0485",
+     "time": 1368.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0485.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0485.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0347.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "basket-storage",
+   "title": "Open overhead cabinets with retained baskets",
+   "place": "living",
+   "category": "Life",
+   "description": "Long open aluminum-framed cabinets hold woven baskets above the living area. Dave lifts a basket, points out the retaining lip and explains setting cabinet position to preserve sitting clearance.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Basket load limits and driving retention are not tested.",
+   "related_ids": [
+    "aluminum-framework"
+   ],
+   "terms": [
+    "aluminium",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 848.819,
+     "end": 887.25,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 990.56,
+     "end": 1024.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0332",
+     "time": 850.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0332.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0332.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0342",
+     "time": 877.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0342.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0342.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0654",
+     "time": 1809.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0654.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0654.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0332.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "window-pockets",
+   "title": "Carpet-faced window covers and storage pockets",
+   "place": "rear-area",
+   "category": "Life",
+   "description": "Carpet-faced side panels have rectangular recesses holding small toiletries and cloths. Dave identifies window covers and says he used the window-depth space for pockets on both sides.",
+   "phase": "current",
+   "part_of": "basket-storage",
+   "unknown": "The complete insulation assembly and fastening behind these panels are not shown.",
+   "related_ids": [],
+   "terms": [
+    "carpet",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1703.98,
+     "end": 1722.23,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0622",
+     "time": 1712.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0622.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0622.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0624",
+     "time": 1716.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0624.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0624.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0625",
+     "time": 1718.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0625.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0625.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0622.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "power-system",
+   "title": "Solar house power with engine backup",
+   "place": "van",
+   "category": "Energy",
+   "description": "A roof panel, driver-seat inverter, labeled outlets and an operated control panel document parts of the electrical installation. Dave describes solar charging for the house battery, a separate engine-fed inverter and optional shore power.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "A complete wiring diagram, energy audit and charging test are absent; no certification is stated.",
+   "related_ids": [],
+   "terms": [
+    "solar pv",
+    "battery",
+    "inverter",
+    "shore power"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1190.45,
+     "end": 1355.39,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0021",
+     "time": 72.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0021.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0021.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0461",
+     "time": 1281.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0461.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0461.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0445",
+     "time": 1240.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0445.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0445.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0021.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-solar",
+   "title": "Low-profile roof solar panel",
+   "place": "van",
+   "category": "Energy",
+   "description": "A single rectangular photovoltaic panel lies close to the roof ahead of the vent in overhead views. Dave gives its rating and says he concealed the supports to reduce the appearance of a camper.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "Panel model, real output and roof sealing details are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "solar pv"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 72.67,
+     "end": 88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1219.79,
+     "end": 1233.17,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0021",
+     "time": 72.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0021.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0021.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 79.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0024.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0471",
+     "time": 1337.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0471.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0471.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0021.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "internal-rack",
+   "title": "Concealed interior solar-support rack",
+   "place": "van",
+   "category": "Structure",
+   "description": "Exterior and window-level roof views show the panel without an exposed surrounding rack. Dave says the supporting rack is inside below the thin roof skin.",
+   "phase": "current",
+   "part_of": "roof-solar",
+   "unknown": "The internal rack, load path and fixing details are not exposed.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1727.47,
+     "end": 1745.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0629",
+     "time": 1732.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0629.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0629.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0631",
+     "time": 1739.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0631.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0631.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0629.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "solar-controller",
+   "title": "MPPT three-stage house-battery charging",
+   "place": "van",
+   "category": "Energy",
+   "description": "Roof-panel and labeled solar-connection views provide context for the charging account. Dave says an MPPT controller supplies a three-stage charge to the house battery.",
+   "phase": "current",
+   "part_of": "roof-solar",
+   "unknown": "Controller make, settings and live charging performance are not shown.",
+   "related_ids": [
+    "house-battery"
+   ],
+   "terms": [
+    "charge controller"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1219.79,
+     "end": 1233.17,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0457",
+     "time": 1271.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0457.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0457.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0442",
+     "time": 1222.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0442.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0442.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0457.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "house-battery",
+   "title": "Under-bench house battery",
+   "place": "rear-area",
+   "category": "Energy",
+   "description": "Bench-compartment views identify the area Dave points to, with the battery concealed in the finished van. He describes an 8D house battery and states its amp-hour capacity.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "Chemistry, age and independently measured usable capacity are not established.",
+   "related_ids": [],
+   "terms": [
+    "battery"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1261.22,
+     "end": 1267.31,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0455",
+     "time": 1263.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0455.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0455.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0456",
+     "time": 1270.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0456.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0456.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0455.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "engine-inverter",
+   "title": "Vehicle-fed pure-sine inverter behind driver",
+   "place": "cab",
+   "category": "Energy",
+   "description": "A wired inverter is visible behind the driver seat. Dave says it converts vehicle DC to AC when the engine runs and provides backup power for charging or selected loads.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "Operating efficiency, engine demand and current protection are not fully documented.",
+   "related_ids": [],
+   "terms": [
+    "inverter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1114.85,
+     "end": 1121.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1233.17,
+     "end": 1256.57,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0198",
+     "time": 501.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0198.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0198.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0445",
+     "time": 1240.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0445.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0445.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0448",
+     "time": 1247.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0448.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0448.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0198.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "house-inverter",
+   "title": "Magnum house inverter, charger and transfer switch",
+   "place": "rear-area",
+   "category": "Energy",
+   "description": "The under-bench enclosure and illuminated Magnum remote provide context for the concealed main unit. Dave identifies it as a Magnum 1012 inverter/charger/transfer switch and demonstrates enabling inversion at the remote.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "The unit body and every cable connection remain hidden in the finished interior.",
+   "related_ids": [
+    "microwave",
+    "power-controls"
+   ],
+   "terms": [
+    "inverter",
+    "battery charger"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1267.31,
+     "end": 1295.39,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0456",
+     "time": 1270.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0456.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0456.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0463",
+     "time": 1290.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0463.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0463.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0464",
+     "time": 1296.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0464.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0464.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0456.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "power-controls",
+   "title": "Source and load selectors with Magnum remote",
+   "place": "wash-area",
+   "category": "Energy",
+   "description": "Two rotary selector switches and a Magnum display are mounted high beside the shower; Dave turns controls and the inverter indicator lights. He explains selecting vehicle or shore input and then charging, air heating or shower-water heating.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "No full schematic, load interlock test or operating current measurement is supplied.",
+   "related_ids": [
+    "shower-water",
+    "morning-heating"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1271.74,
+     "end": 1345.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0461",
+     "time": 1281.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0461.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0461.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0463",
+     "time": 1290.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0463.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0463.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0467",
+     "time": 1306.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0467.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0467.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0470",
+     "time": 1319.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0470.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0470.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0461.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "shore-cord",
+   "title": "Hidden three-prong shore-power cord",
+   "place": "van",
+   "category": "Energy",
+   "description": "Dave unhooks a short electrical cord from beneath the van and shows its three-prong end. He describes the current rating and says this is the optional shore-power input.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "No plugged-in test, protective earthing details or compliance inspection is shown.",
+   "related_ids": [],
+   "terms": [
+    "shore power"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 102.55,
+     "end": 122.71,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1308.44,
+     "end": 1318.13,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0037",
+     "time": 109.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0037.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0037.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 111.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0038.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0037.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "outlets",
+   "title": "Galley and rear AC and DC outlets",
+   "place": "living",
+   "category": "Energy",
+   "description": "Rear close-ups show a capped DC socket and a mounted female cord end; the galley also has a duplex outlet. Dave identifies the rear supplies as DC and AC.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "Outlet current ratings, all source connections and actual loads are not traced.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1345.04,
+     "end": 1356.05,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0474",
+     "time": 1344.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0474.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0474.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0477",
+     "time": 1353.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0477.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0477.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0601",
+     "time": 1664.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0601.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0601.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0439",
+     "time": 1209.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0439.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0439.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0474.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "reused-lights",
+   "title": "Repositioned factory LEDs and reachable switches",
+   "place": "living",
+   "category": "Energy",
+   "description": "Rectangular lamps at the doorway, sink, rear and shower are shown with switches operated from use positions. Dave says he reused the van’s original LED lights and emphasizes placing switches where he stands or enters.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "Individual lamp output, current draw and circuit layout are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "LED lighting",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1625.44,
+     "end": 1687.61,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0586",
+     "time": 1627.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0586.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0586.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0592",
+     "time": 1640.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0592.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0592.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0600",
+     "time": 1663.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0600.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0600.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0609",
+     "time": 1682.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0609.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0609.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0586.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "strip-lights",
+   "title": "LED strips inside overhead extrusion slots",
+   "place": "living",
+   "category": "Energy",
+   "description": "Rows of small lights illuminate beneath the overhead aluminum rails. Dave says the strips occupy extrusion slots on both sides and can be switched from the aisle or bed.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "Strip specification, dimming and power draw are not established.",
+   "related_ids": [],
+   "terms": [
+    "LED lighting"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1687.61,
+     "end": 1703.98,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0614",
+     "time": 1692.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0614.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0614.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0615",
+     "time": 1694.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0615.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0615.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0617",
+     "time": 1699.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0617.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0617.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0614.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "floor-wires",
+   "title": "Cable route through floor insulation",
+   "place": "living",
+   "category": "Energy",
+   "description": "Open cupboard views show cables descending toward the floor, and Dave points across the floor covering. He says the wires cross the van in slots cut into the insulation.",
+   "phase": "current",
+   "part_of": "power-system",
+   "unknown": "The full concealed route, cable sizes and protection are not exposed.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1824,
+     "end": 1836,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0660",
+     "time": 1824.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0660.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0660.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0662",
+     "time": 1828.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0662.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0662.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0665",
+     "time": 1833.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0665.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0665.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0660.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "ventilation",
+   "title": "Floor-to-roof ventilation arrangement",
+   "place": "van",
+   "category": "Climate",
+   "description": "The film shows an underfloor opening and a roof fan, with a pull-cord control demonstrated from the interior. Dave says the system draws shaded air from below through the sleeping area and can reverse airflow.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Flow rate, insect exclusion performance and measured cooling are not established.",
+   "related_ids": [],
+   "terms": [
+    "ventilation fan"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1063.73,
+     "end": 1114.85,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0398",
+     "time": 1079.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0398.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0398.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0405",
+     "time": 1102.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0405.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0405.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0398.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "floor-inlet",
+   "title": "Cord-operated screened floor air inlet",
+   "place": "rear-area",
+   "category": "Climate",
+   "description": "An underside close-up shows a square mesh-covered opening, and a cord at the bench is pulled and released. Dave describes a lawnmower-starter cord used to open and close the inlet from bed.",
+   "phase": "current",
+   "part_of": "ventilation",
+   "unknown": "Inlet depth, water protection and complete linkage are not shown.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1063.73,
+     "end": 1094.09,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0398",
+     "time": 1079.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0398.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0398.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0399",
+     "time": 1081.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0399.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0399.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0403",
+     "time": 1090.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0403.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0403.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0398.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "roof-fan",
+   "title": "Reversible roof ventilation fan",
+   "place": "van",
+   "category": "Climate",
+   "description": "A round fan sits inside a square roof opening, with its raised external cover visible in roof shots. Dave says air can be exhausted or drawn in.",
+   "phase": "current",
+   "part_of": "ventilation",
+   "unknown": "Fan model, speed settings and power consumption are not established.",
+   "related_ids": [],
+   "terms": [
+    "ventilation fan"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 81.91,
+     "end": 88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1094.09,
+     "end": 1107.47,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0405",
+     "time": 1102.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0405.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0405.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 84.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0026.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0405.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "personal-warmth",
+   "title": "Sleeping-bag warmth with electrical heating pad",
+   "place": "rear-area",
+   "category": "Climate",
+   "description": "Views of the occupied interior provide context rather than showing the heating pad. Dave says he places a 12-volt pad under the sleeping bag, lets the van cool overnight and heats the interior in the morning.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The pad is not displayed and no overnight temperature or consumption record is provided.",
+   "related_ids": [
+    "morning-heating",
+    "balaclava"
+   ],
+   "terms": [
+    "electric heating"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1549.249,
+     "end": 1587.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0557",
+     "time": 1553.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0557.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0557.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0558",
+     "time": 1556.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0558.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0558.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0557.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "morning-heating",
+   "title": "Remote-start dashboard and electric morning heat",
+   "place": "van",
+   "category": "Climate",
+   "description": "A mesh opening in the bench and interior views provide context for concealed heating equipment. Dave says optional remote start lets him run dashboard heat from bed and, when configured, an electric heater through the engine inverter.",
+   "phase": "current",
+   "part_of": "personal-warmth",
+   "unknown": "Remote starting, heater element and heat output are not demonstrated.",
+   "related_ids": [
+    "engine-inverter",
+    "power-controls"
+   ],
+   "terms": [
+    "electric heating"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1253.06,
+     "end": 1261.22,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1557.95,
+     "end": 1583.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0452",
+     "time": 1258.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0452.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0452.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0562",
+     "time": 1575.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0562.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0562.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0560",
+     "time": 1563.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0560.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0560.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0452.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "balaclava",
+   "title": "Black balaclava for cold-night sleeping",
+   "place": "rear-area",
+   "category": "Life",
+   "description": "Dave holds up a black fabric head covering beside the galley. He says it keeps his exposed head warm when he sleeps in the cold van.",
+   "phase": "current",
+   "part_of": "personal-warmth",
+   "unknown": "Fabric type and temperature performance are not given.",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1583.72,
+     "end": 1595,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0568",
+     "time": 1591.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0568.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0568.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0570",
+     "time": 1594.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0570.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0570.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0568.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "curtains",
+   "title": "Movable overlapping privacy curtains",
+   "place": "living",
+   "category": "Life",
+   "description": "A removable rod and blue-gray center and side curtains are demonstrated at several positions; Dave exposes white batting inside the center panel. He describes different placements for solo sleeping, a wider bed and shower privacy, and quiet parking preparation.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Privacy from all external viewpoints is not tested; he says his intended insulation effect has not worked so far.",
+   "related_ids": [],
+   "terms": [
+    "fabric",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1399.07,
+     "end": 1549.249,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0519",
+     "time": 1451.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0519.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0519.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0528",
+     "time": 1467.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0528.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0528.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0546",
+     "time": 1512.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0546.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0546.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0519.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "curtain-retest",
+   "title": "Planned repeat winter curtain test",
+   "place": "living",
+   "category": "Plan",
+   "description": "The current curtain is shown opened and hung as context for a future test. Dave says his insulation idea has not worked so far and he will test it again the following winter.",
+   "phase": "planned",
+   "part_of": "curtains",
+   "unknown": "No protocol, target temperature or later result is supplied.",
+   "related_ids": [],
+   "terms": [
+    "fabric",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1449.77,
+     "end": 1463.41,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0515",
+     "time": 1444.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0515.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0515.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0524",
+     "time": 1462.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0524.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0524.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0515.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "self-build",
+   "title": "Iterative self-build and outsourced fabrication",
+   "place": "van",
+   "category": "Process",
+   "description": "Dave demonstrates the fitted van and discusses decisions learned through use and earlier projects. He says he designed before building, did most fabrication himself, and outsourced stainless pieces and dovetail drawers.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The design files, detailed accounts, build dates and independent allocation of labor are not provided.",
+   "related_ids": [
+    "stainless-record",
+    "galley-drawers"
+   ],
+   "terms": [
+    "self-built",
+    "contracted",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 162.28,
+     "end": 184.739,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1745.4,
+     "end": 1758.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1785.15,
+     "end": 1825.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1840.81,
+     "end": 1846.93,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0633",
+     "time": 1744.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0633.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0633.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0650",
+     "time": 1798.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0650.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0650.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0667",
+     "time": 1843.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0667.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0667.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0633.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fitting-examples",
+   "title": "Workbench extrusion and fastening demonstrations",
+   "place": "workbench-room",
+   "category": "Materials",
+   "description": "At a white workbench, Dave handles extrusion sections, bolts, wood and plywood spacers, panel brackets, a tie-down ring and cable-retaining fittings. He explains how these examples attach panels, join rails and support service access in his conversion.",
+   "phase": "current",
+   "part_of": "self-build",
+   "unknown": "The room cannot be assigned to a particular building, and not every example is confirmed installed in the Transit.",
+   "related_ids": [
+    "aluminum-framework",
+    "thermal-breaks",
+    "fitting-sketch"
+   ],
+   "terms": [
+    "aluminium",
+    "timber",
+    "plywood"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 713.0,
+     "end": 757.3,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 781,
+     "end": 848.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0283",
+     "time": 715.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0283.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0283.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0314",
+     "time": 805.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0314.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0314.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0322",
+     "time": 824.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0322.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0322.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0327",
+     "time": 835.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0327.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0327.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0330",
+     "time": 843.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0330.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0330.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0283.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fitting-sketch",
+   "title": "Handwritten dimensioned fitting card",
+   "place": "workbench-room",
+   "category": "Plan",
+   "description": "A small handwritten card beside the demonstration fittings contains a hole/detail sketch, dimension marks and a material note. The film does not discuss this drawing.",
+   "phase": "current",
+   "part_of": "fitting-examples",
+   "unknown": "Several marks remain illegible even in an enlarged rotated crop; no dimensions or installed component are assigned to it.",
+   "related_ids": [
+    "fitting-examples"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0301",
+     "time": 781.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0301.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0301.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0301.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "former-sprinter",
+   "title": "Former Sprinter interior comparison photograph",
+   "place": "former-van",
+   "category": "Process",
+   "description": "An inserted photograph shows a different van interior with aluminum-framed furniture, benches and a central table. It accompanies Dave’s account of thermal bridging in his former Sprinter.",
+   "phase": "historical",
+   "part_of": "self-build",
+   "unknown": "The archive date is unknown; this is a separate vehicle, not an earlier Transit state.",
+   "related_ids": [
+    "thermal-breaks"
+   ],
+   "terms": [
+    "van",
+    "aluminium",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 757.3,
+     "end": 773.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0297",
+     "time": 766.0,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0297.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0297.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0299",
+     "time": 772.5,
+     "path": "review/h5L6TZdy_y0/evidence/frame-0299.jpg",
+     "preview_path": "review/h5L6TZdy_y0/sample-0299.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/h5L6TZdy_y0/sample-0297.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 42,
+   "title": "Occidental and approach",
+   "visible": "Town streets with Occidental, California caption; woodland driving views; elevated driveway and timber buildings.",
+   "gaps": "Property ownership, exact address and woodland route are not established.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0008.jpg"
+  },
+  {
+   "start": 42,
+   "end": 123,
+   "title": "Stealth van exterior and concealed hookups",
+   "visible": "Gray high-roof Transit, roof solar panel and vent, underbody drain hose and shore-power cord demonstrated.",
+   "gaps": "Tank interior, roof attachment details and electrical ratings are not visually established.",
+   "sample_count": 27,
+   "sample_ids": [
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0029.jpg"
+  },
+  {
+   "start": 123,
+   "end": 210,
+   "title": "Galley cabinet, tables and swivel seat",
+   "visible": "Cupboard and drawers open; outside table drops down; passenger seat rotates; inside table unfolds and slides.",
+   "gaps": "No drawing of the layout or measured furniture dimensions.",
+   "sample_count": 38,
+   "sample_ids": [
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0062.jpg"
+  },
+  {
+   "start": 210,
+   "end": 254,
+   "title": "Rear bed transformation and van comparison",
+   "visible": "Rear benches, table and hinged bed leaves; exterior Transit cutaways.",
+   "gaps": "Previous Sprinter is described but not shown in this stretch; cargo loading is not demonstrated.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0089.jpg"
+  },
+  {
+   "start": 254,
+   "end": 435,
+   "title": "Counter and toilet convert to shower",
+   "visible": "Storage bins and rods removed; shelves pivot; toilet and drain pan exposed; clothed shower demonstration; ending waterfront inserts.",
+   "gaps": "No actual shower, hot-water test or waste discharge; waterfront locations uncaptioned.",
+   "sample_count": 72,
+   "sample_ids": [
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126",
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166",
+    "frame-0167",
+    "frame-0168",
+    "frame-0169"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0134.jpg"
+  },
+  {
+   "start": 435,
+   "end": 508,
+   "title": "Portable stove and refillable propane",
+   "visible": "Two-burner stove moved from low storage onto indoor and outdoor counters; green propane bottle and carrier; inverter insert.",
+   "gaps": "No lit burner, refill operation or fuel-system test.",
+   "sample_count": 29,
+   "sample_ids": [
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188",
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197",
+    "frame-0198"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0184.jpg"
+  },
+  {
+   "start": 508,
+   "end": 636,
+   "title": "Water filling, hose and switched sink",
+   "visible": "White fill pipe, coiled hose, handheld valve, lower-cabinet pump and fittings; sink water switched on/off.",
+   "gaps": "No full water-routing diagram, tank capacity or explanation of yellow cylindrical assembly.",
+   "sample_count": 55,
+   "sample_ids": [
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219",
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235",
+    "frame-0236",
+    "frame-0237",
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0226.jpg"
+  },
+  {
+   "start": 636,
+   "end": 707,
+   "title": "Rear dining, bedding and floor tracks",
+   "visible": "Stacked mattress pads, folding bed panels, benches and table leg; carpet lifted over metal tracks.",
+   "gaps": "Table is not removed; cargo capacity is not tested.",
+   "sample_count": 26,
+   "sample_ids": [
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260",
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274",
+    "frame-0275",
+    "frame-0276",
+    "frame-0277",
+    "frame-0278",
+    "frame-0279"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0267.jpg"
+  },
+  {
+   "start": 707,
+   "end": 763,
+   "title": "Construction inserts and extrusion examples",
+   "visible": "Bare Transit framing photographs, followed by Dave demonstrating aluminum sections and bolts at a white workbench.",
+   "gaps": "Archive dates and workbench-room location are unknown.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0280",
+    "frame-0281",
+    "frame-0282",
+    "frame-0283",
+    "frame-0284",
+    "frame-0285",
+    "frame-0286",
+    "frame-0287",
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292",
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0288.jpg"
+  },
+  {
+   "start": 763,
+   "end": 773,
+   "title": "Former Sprinter comparison photograph",
+   "visible": "Different van interior with central table, benches and aluminum cabinet frames, during former-Sprinter account.",
+   "gaps": "This is not proof of the Transit construction or insulation.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0297",
+    "frame-0298",
+    "frame-0299"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0298.jpg"
+  },
+  {
+   "start": 773,
+   "end": 849,
+   "title": "Thermal breaks and fastening examples",
+   "visible": "Transit floor-frame archive returns; workbench examples of plywood spacers, tie-downs, panel brackets and cable fittings; handwritten fitting card.",
+   "gaps": "Examples do not expose every installed Transit connection; sketch dimensions partly illegible.",
+   "sample_count": 32,
+   "sample_ids": [
+    "frame-0300",
+    "frame-0301",
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306",
+    "frame-0307",
+    "frame-0308",
+    "frame-0309",
+    "frame-0310",
+    "frame-0311",
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315",
+    "frame-0316",
+    "frame-0317",
+    "frame-0318",
+    "frame-0319",
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323",
+    "frame-0324",
+    "frame-0325",
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329",
+    "frame-0330",
+    "frame-0331"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0316.jpg"
+  },
+  {
+   "start": 849,
+   "end": 887,
+   "title": "Open overhead basket cabinets",
+   "visible": "Basket removed and retaining edge indicated in Transit upper storage.",
+   "gaps": "Road retention performance is described, not tested.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335",
+    "frame-0336",
+    "frame-0337",
+    "frame-0338",
+    "frame-0339",
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0338.jpg"
+  },
+  {
+   "start": 887,
+   "end": 1062,
+   "title": "Bicycle storage and folding bed details",
+   "visible": "Rear doors open, bicycle visible, Dave lies across bed and lifts insulated leaves; overhead clearance demonstrated.",
+   "gaps": "No measured bed dimensions or adopted hydraulic-lift plan.",
+   "sample_count": 52,
+   "sample_ids": [
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348",
+    "frame-0349",
+    "frame-0350",
+    "frame-0351",
+    "frame-0352",
+    "frame-0353",
+    "frame-0354",
+    "frame-0355",
+    "frame-0356",
+    "frame-0357",
+    "frame-0358",
+    "frame-0359",
+    "frame-0360",
+    "frame-0361",
+    "frame-0362",
+    "frame-0363",
+    "frame-0364",
+    "frame-0365",
+    "frame-0366",
+    "frame-0367",
+    "frame-0368",
+    "frame-0369",
+    "frame-0370",
+    "frame-0371",
+    "frame-0372",
+    "frame-0373",
+    "frame-0374",
+    "frame-0375",
+    "frame-0376",
+    "frame-0377",
+    "frame-0378",
+    "frame-0379",
+    "frame-0380",
+    "frame-0381",
+    "frame-0382",
+    "frame-0383",
+    "frame-0384",
+    "frame-0385",
+    "frame-0386",
+    "frame-0387",
+    "frame-0388",
+    "frame-0389",
+    "frame-0390",
+    "frame-0391",
+    "frame-0392",
+    "frame-0393",
+    "frame-0394",
+    "frame-0395"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0370.jpg"
+  },
+  {
+   "start": 1062,
+   "end": 1122,
+   "title": "Floor inlet and roof ventilation",
+   "visible": "Floor inlet and underside mesh close-up, pull cord demonstration and round roof fan.",
+   "gaps": "Airflow direction, rate and cooling effect are not measured.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0396",
+    "frame-0397",
+    "frame-0398",
+    "frame-0399",
+    "frame-0400",
+    "frame-0401",
+    "frame-0402",
+    "frame-0403",
+    "frame-0404",
+    "frame-0405",
+    "frame-0406",
+    "frame-0407",
+    "frame-0408"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0402.jpg"
+  },
+  {
+   "start": 1122,
+   "end": 1190,
+   "title": "Elevated refrigerator and freezer",
+   "visible": "Fridge door opens, freezer flap and shelves shown; case pointed to; microwave visible above.",
+   "gaps": "Added insulation and compressor position remain concealed; consumption unmeasured.",
+   "sample_count": 26,
+   "sample_ids": [
+    "frame-0409",
+    "frame-0410",
+    "frame-0411",
+    "frame-0412",
+    "frame-0413",
+    "frame-0414",
+    "frame-0415",
+    "frame-0416",
+    "frame-0417",
+    "frame-0418",
+    "frame-0419",
+    "frame-0420",
+    "frame-0421",
+    "frame-0422",
+    "frame-0423",
+    "frame-0424",
+    "frame-0425",
+    "frame-0426",
+    "frame-0427",
+    "frame-0428",
+    "frame-0429",
+    "frame-0430",
+    "frame-0431",
+    "frame-0432",
+    "frame-0433",
+    "frame-0434"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0422.jpg"
+  },
+  {
+   "start": 1190,
+   "end": 1275,
+   "title": "Solar and inverter system overview",
+   "visible": "Electrical labels, roof-panel insert, inverter behind driver seat and mesh-front bench compartments.",
+   "gaps": "No complete circuit tracing or exposed current house battery.",
+   "sample_count": 24,
+   "sample_ids": [
+    "frame-0435",
+    "frame-0436",
+    "frame-0437",
+    "frame-0438",
+    "frame-0439",
+    "frame-0440",
+    "frame-0441",
+    "frame-0442",
+    "frame-0443",
+    "frame-0444",
+    "frame-0445",
+    "frame-0446",
+    "frame-0447",
+    "frame-0448",
+    "frame-0449",
+    "frame-0450",
+    "frame-0451",
+    "frame-0452",
+    "frame-0453",
+    "frame-0454",
+    "frame-0455",
+    "frame-0456",
+    "frame-0457",
+    "frame-0458"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0447.jpg"
+  },
+  {
+   "start": 1275,
+   "end": 1358,
+   "title": "Power selectors and rear outlets",
+   "visible": "Magnum remote lights, two selector knobs operated, rear DC socket and mounted AC cord end shown.",
+   "gaps": "No heating-load test, charging measurements or circuit certification.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0459",
+    "frame-0460",
+    "frame-0461",
+    "frame-0462",
+    "frame-0463",
+    "frame-0464",
+    "frame-0465",
+    "frame-0466",
+    "frame-0467",
+    "frame-0468",
+    "frame-0469",
+    "frame-0470",
+    "frame-0471",
+    "frame-0472",
+    "frame-0473",
+    "frame-0474",
+    "frame-0475",
+    "frame-0476",
+    "frame-0477",
+    "frame-0478"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0469.jpg"
+  },
+  {
+   "start": 1358,
+   "end": 1400,
+   "title": "Bed cleared for rear dining",
+   "visible": "Bedding lifted away, bicycle removed, leaves folded up; rear table, benches and bolted leg shown.",
+   "gaps": "Table remains fitted and four-person occupancy is not demonstrated.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0479",
+    "frame-0480",
+    "frame-0481",
+    "frame-0482",
+    "frame-0483",
+    "frame-0484",
+    "frame-0485",
+    "frame-0486",
+    "frame-0487",
+    "frame-0488",
+    "frame-0489",
+    "frame-0490",
+    "frame-0491",
+    "frame-0492",
+    "frame-0493",
+    "frame-0494"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0487.jpg"
+  },
+  {
+   "start": 1400,
+   "end": 1549,
+   "title": "Curtain positions and quiet parking practice",
+   "visible": "Curtain rod moved, blue-gray insulated panels opened and hung with overlaps; coastal and bay parking inserts, sunset through galley.",
+   "gaps": "No thermal test results shown or overnight parking authorization; inserts not precisely located.",
+   "sample_count": 62,
+   "sample_ids": [
+    "frame-0495",
+    "frame-0496",
+    "frame-0497",
+    "frame-0498",
+    "frame-0499",
+    "frame-0500",
+    "frame-0501",
+    "frame-0502",
+    "frame-0503",
+    "frame-0504",
+    "frame-0505",
+    "frame-0506",
+    "frame-0507",
+    "frame-0508",
+    "frame-0509",
+    "frame-0510",
+    "frame-0511",
+    "frame-0512",
+    "frame-0513",
+    "frame-0514",
+    "frame-0515",
+    "frame-0516",
+    "frame-0517",
+    "frame-0518",
+    "frame-0519",
+    "frame-0520",
+    "frame-0521",
+    "frame-0522",
+    "frame-0523",
+    "frame-0524",
+    "frame-0525",
+    "frame-0526",
+    "frame-0527",
+    "frame-0528",
+    "frame-0529",
+    "frame-0530",
+    "frame-0531",
+    "frame-0532",
+    "frame-0533",
+    "frame-0534",
+    "frame-0535",
+    "frame-0536",
+    "frame-0537",
+    "frame-0538",
+    "frame-0539",
+    "frame-0540",
+    "frame-0541",
+    "frame-0542",
+    "frame-0543",
+    "frame-0544",
+    "frame-0545",
+    "frame-0546",
+    "frame-0547",
+    "frame-0548",
+    "frame-0549",
+    "frame-0550",
+    "frame-0551",
+    "frame-0552",
+    "frame-0553",
+    "frame-0554",
+    "frame-0555",
+    "frame-0556"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0526.jpg"
+  },
+  {
+   "start": 1549,
+   "end": 1596,
+   "title": "Personal warmth and morning heating",
+   "visible": "Dave describes heating from bed and shows black balaclava; curtain and bench-heater context views.",
+   "gaps": "Heating pad, remote-start operation and heat output are not demonstrated.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0557",
+    "frame-0558",
+    "frame-0559",
+    "frame-0560",
+    "frame-0561",
+    "frame-0562",
+    "frame-0563",
+    "frame-0564",
+    "frame-0565",
+    "frame-0566",
+    "frame-0567",
+    "frame-0568",
+    "frame-0569",
+    "frame-0570",
+    "frame-0571"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0564.jpg"
+  },
+  {
+   "start": 1596,
+   "end": 1630,
+   "title": "Removable floor layers and entry light",
+   "visible": "Loose carpet, dark mat and pale lower floor layers lifted; doorway light switched.",
+   "gaps": "Material names and thicknesses come from speech.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0572",
+    "frame-0573",
+    "frame-0574",
+    "frame-0575",
+    "frame-0576",
+    "frame-0577",
+    "frame-0578",
+    "frame-0579",
+    "frame-0580",
+    "frame-0581",
+    "frame-0582",
+    "frame-0583",
+    "frame-0584",
+    "frame-0585",
+    "frame-0586"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0579.jpg"
+  },
+  {
+   "start": 1630,
+   "end": 1704,
+   "title": "Reused lights and accessible switches",
+   "visible": "Ceiling lights, rear switch, sink lights, shower switch and under-cabinet LED strips; jar rack over doorway.",
+   "gaps": "No measured power draw or detailed wiring diagram.",
+   "sample_count": 32,
+   "sample_ids": [
+    "frame-0587",
+    "frame-0588",
+    "frame-0589",
+    "frame-0590",
+    "frame-0591",
+    "frame-0592",
+    "frame-0593",
+    "frame-0594",
+    "frame-0595",
+    "frame-0596",
+    "frame-0597",
+    "frame-0598",
+    "frame-0599",
+    "frame-0600",
+    "frame-0601",
+    "frame-0602",
+    "frame-0603",
+    "frame-0604",
+    "frame-0605",
+    "frame-0606",
+    "frame-0607",
+    "frame-0608",
+    "frame-0609",
+    "frame-0610",
+    "frame-0611",
+    "frame-0612",
+    "frame-0613",
+    "frame-0614",
+    "frame-0615",
+    "frame-0616",
+    "frame-0617",
+    "frame-0618"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0603.jpg"
+  },
+  {
+   "start": 1704,
+   "end": 1726,
+   "title": "Window covers and wall pockets",
+   "visible": "Carpet-faced covers and recessed pockets on van sidewalls, foil-faced material behind raised bed leaf.",
+   "gaps": "Full wall insulation build-up not exposed.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0619",
+    "frame-0620",
+    "frame-0621",
+    "frame-0622",
+    "frame-0623",
+    "frame-0624",
+    "frame-0625",
+    "frame-0626"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0623.jpg"
+  },
+  {
+   "start": 1726,
+   "end": 1760,
+   "title": "Roof mounting account and build estimate",
+   "visible": "Dave at building window overlooking van roof, then exterior roof and van views.",
+   "gaps": "Interior reinforcing rack hidden; room identity and cost records not supplied.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0627",
+    "frame-0628",
+    "frame-0629",
+    "frame-0630",
+    "frame-0631",
+    "frame-0632",
+    "frame-0633",
+    "frame-0634"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0631.jpg"
+  },
+  {
+   "start": 1760,
+   "end": 1804,
+   "title": "Drawer latch and stainless construction archive",
+   "visible": "Rubber latch demonstrated, wood drawers, archival stainless vessels and shower-pan assembly; finished toilet and galley.",
+   "gaps": "Exact function of each archived vessel and fabrication dates not established.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0635",
+    "frame-0636",
+    "frame-0637",
+    "frame-0638",
+    "frame-0639",
+    "frame-0640",
+    "frame-0641",
+    "frame-0642",
+    "frame-0643",
+    "frame-0644",
+    "frame-0645",
+    "frame-0646",
+    "frame-0647",
+    "frame-0648",
+    "frame-0649",
+    "frame-0650",
+    "frame-0651",
+    "frame-0652"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0644.jpg"
+  },
+  {
+   "start": 1804,
+   "end": 1840,
+   "title": "Learning process and floor wiring",
+   "visible": "Finished interior recap, open cupboard with cables and silver cylindrical object; floor wiring route indicated.",
+   "gaps": "Stored cylinder identity and concealed cross-floor cable installation not established.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0653",
+    "frame-0654",
+    "frame-0655",
+    "frame-0656",
+    "frame-0657",
+    "frame-0658",
+    "frame-0659",
+    "frame-0660",
+    "frame-0661",
+    "frame-0662",
+    "frame-0663",
+    "frame-0664",
+    "frame-0665",
+    "frame-0666"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0660.jpg"
+  },
+  {
+   "start": 1840,
+   "end": 1863.261,
+   "title": "Closing van and driveway views",
+   "visible": "Rear van and reclining occupant, rising aerial over van, timber building and driveway, fade.",
+   "gaps": "No additional household tour, ownership boundary or date established.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0667",
+    "frame-0668",
+    "frame-0669",
+    "frame-0670",
+    "frame-0671",
+    "frame-0672",
+    "frame-0673",
+    "frame-0674"
+   ],
+   "thumbnail": "review/h5L6TZdy_y0/sample-0671.jpg"
+  }
+ ]
+}

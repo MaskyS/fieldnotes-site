@@ -1,0 +1,8 @@
+# Candidate 1 critique
+
+Material deviation: a dark gray/black background with luminous falloff invents an apparent illumination distribution and makes the white architecture read gray. The references show bright white architectural surfaces; the task expressly leaves illumination values unestablished. Correct to flat white paper, charcoal linework and flat pale-yellow arrows without glow or shaded room fields.
+
+Other differences: window proportions are schematic, not measured; detached stacked elevation symbols are a graphic arrangement, explicitly labelled positions unknown. Both symbols have a central division consistent with the references. The section gives a single representative opening rather than reproducing the full oblique elevation; this is labelled with unknown extent/count. Floor, partition thickness, ceiling slope and spatial distances are invented connecting geometry, correctly dashed and disclaimed. The left enclosing wall and far right enclosure are unnecessary inferred boundaries; omit them in revision for clarity. No fixtures, people, dimensions, compass, sun angles or glazing specifications have been added. Labels are accurate but lose contrast against the invented dark field. A second candidate is required for the material colour/lighting deviation.
+
+## Subsequent rendering diagnosis
+Pixel inspection confirms the PNG has transparency; the apparent black background is the viewer backdrop, not an opaque painted surface. The initial diagnosis above prompted the permitted second generation, but the remaining issue is translucent presentation and contrast on dark backgrounds rather than evidence of a black interior.

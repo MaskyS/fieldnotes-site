@@ -1,0 +1,213 @@
+{
+ "note": "Compiled by scripts/build_entities.py: the owner-confirmed entities that have a page, and the places more than one film is about (one home card each).",
+ "entities": [
+  {
+   "id": "ent-thrive-in-coming-dark-age",
+   "type": "work",
+   "name": "Thrive in the Coming Dark Age",
+   "aliases": [],
+   "films": [
+    "swrez2ZA0cc"
+   ]
+  },
+  {
+   "id": "ent-earthship-biotecture",
+   "type": "organisation",
+   "name": "Earthship Biotecture",
+   "aliases": [],
+   "films": [
+    "efI77fzBgvg"
+   ]
+  },
+  {
+   "id": "ent-pros-cons-earthships",
+   "type": "work",
+   "name": "Pros and cons of earthships",
+   "aliases": [],
+   "films": [
+    "efI77fzBgvg"
+   ]
+  },
+  {
+   "id": "ent-atelier-d-architecture-jerome-vincon",
+   "type": "organisation",
+   "name": "Atelier d'architecture Jerome Vinçon",
+   "aliases": [],
+   "films": [
+    "koKg8Hgz-mE"
+   ]
+  },
+  {
+   "id": "ent-naturhus",
+   "type": "work",
+   "name": "Naturhus",
+   "aliases": [],
+   "films": [
+    "30ghnDOFbNQ"
+   ]
+  },
+  {
+   "id": "ent-mount-fuji-architects",
+   "type": "organisation",
+   "name": "Mount Fuji Architects",
+   "aliases": [],
+   "films": [
+    "4fEeh-8OFT8"
+   ]
+  },
+  {
+   "id": "ent-bigelow-brook-farm",
+   "type": "organisation",
+   "name": "Bigelow Brook Farm",
+   "aliases": [],
+   "films": [
+    "VBspR2p0YYM"
+   ]
+  },
+  {
+   "id": "ent-morris-homestead",
+   "type": "place",
+   "name": "Morris homestead",
+   "aliases": [],
+   "films": [
+    "swrez2ZA0cc"
+   ]
+  },
+  {
+   "id": "ent-jason-sunni-cordwood-home",
+   "type": "place",
+   "name": "Jason & Sunni’s cordwood home",
+   "aliases": [],
+   "films": [
+    "LZ6u1AXCefQ"
+   ]
+  },
+  {
+   "id": "ent-mathieu-munsch-earth-straw-house",
+   "type": "place",
+   "name": "Mathieu Munsch's earth-and-straw house",
+   "aliases": [],
+   "films": [
+    "aucsiGWbEyU"
+   ]
+  },
+  {
+   "id": "ent-milagro-cohousing",
+   "type": "place",
+   "name": "Milagro Cohousing",
+   "aliases": [],
+   "films": [
+    "QHpo46tawBs"
+   ]
+  },
+  {
+   "id": "ent-greater-world-earthship-community",
+   "type": "place",
+   "name": "Greater World Earthship Community",
+   "aliases": [],
+   "films": [
+    "efI77fzBgvg"
+   ]
+  },
+  {
+   "id": "ent-margo-self-built-shed-home",
+   "type": "place",
+   "name": "Margo’s self-built shed home",
+   "aliases": [],
+   "films": [
+    "2twuMtzLv10"
+   ]
+  },
+  {
+   "id": "ent-michel-gaelle-split-level-paris-apartment",
+   "type": "place",
+   "name": "Michel and Gaelle’s split-level Paris apartment",
+   "aliases": [],
+   "films": [
+    "koKg8Hgz-mE"
+   ]
+  },
+  {
+   "id": "ent-marie-charles-greenhouse-enclosed-summer-house",
+   "type": "place",
+   "name": "Marie and Charles’s greenhouse-enclosed summer house",
+   "aliases": [],
+   "films": [
+    "30ghnDOFbNQ"
+   ]
+  },
+  {
+   "id": "ent-sara-jeremie-panjab-houseboat",
+   "type": "place",
+   "name": "Sara and Jérémie’s Panjab houseboat",
+   "aliases": [],
+   "films": [
+    "hiSjH9bk6bI"
+   ]
+  },
+  {
+   "id": "ent-artist-couple-narrow-tokyo-home",
+   "type": "place",
+   "name": "An artist couple’s narrow Tokyo home",
+   "aliases": [],
+   "films": [
+    "4fEeh-8OFT8"
+   ]
+  },
+  {
+   "id": "ent-dave-orton-transforming-transit-campervan",
+   "type": "place",
+   "name": "Dave Orton’s transforming Transit campervan",
+   "aliases": [],
+   "films": [
+    "h5L6TZdy_y0"
+   ]
+  },
+  {
+   "id": "ent-family-eaglemont-brick-home",
+   "type": "place",
+   "name": "A family’s Eaglemont brick home",
+   "aliases": [],
+   "films": [
+    "P1HCZA-BW9I"
+   ]
+  },
+  {
+   "id": "ent-steve-mallinger-timber-pavilion-home",
+   "type": "place",
+   "name": "Steve Mallinger’s timber pavilion home",
+   "aliases": [],
+   "films": [
+    "RNbPNnAx9xE"
+   ]
+  },
+  {
+   "id": "ent-rob-torcellini-backyard-aquaponic-greenhouse",
+   "type": "place",
+   "name": "Rob Torcellini’s backyard aquaponic greenhouse",
+   "aliases": [],
+   "films": [
+    "VBspR2p0YYM"
+   ]
+  },
+  {
+   "id": "ent-matt-cristina-rainforest-home",
+   "type": "place",
+   "name": "Matt and Cristina’s rainforest home",
+   "aliases": [],
+   "films": [
+    "OQbOrk0_3x4"
+   ]
+  },
+  {
+   "id": "ent-fern-forest",
+   "type": "place",
+   "name": "Fern Forest",
+   "aliases": [],
+   "films": [
+    "OQbOrk0_3x4"
+   ]
+  }
+ ],
+ "places": []
+}

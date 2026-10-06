@@ -1,0 +1,11 @@
+# Reference inventory
+
+All three catalogue frames were selected from the contact sheet and viewed full size. No document, map or plan appears in these references.
+
+- Orange ribbed infill: frame-0301 (846.5 s), close oblique view from below, shows orange surfaces with many fine parallel ribs and broader seams; frame-0302 (849 s), another underside angle, confirms repeated ribbed areas and seams. Rib lines run across the pale member rather than along it. Frame-0296 (836.5 s) places these surfaces above the bedroom. Draw the visible underside in solid orange, retaining its ribs; do not infer hollow cores or a material composition from colour.
+- Pale steel members: frame-0301 and frame-0302 show long straight pale cream exposed faces dividing orange infill; frame-0296 shows more than one such face across the ceiling. The feature description calls these pale metal, and Jérôme’s floor-build-up claim at 823.44 s identifies steel carrying infill and concrete. Draw two schematic parallel visible faces bounding a representative bay, not a fabricated I-section. Hidden member profiles and connections are not established and are omitted.
+- Concrete compression layer: stated by Jérôme at 823.44 s (13:43); none of the three underside frames reveals it. Show a separated dashed envelope above the infill, with blank interior and no literal thickness implication. Attribution belongs in metadata.
+- Exposed underside: all three frames show steel and orange ribbing directly from the bedroom; exposed-soffit claim at 844 s says no false ceiling was added. A small underside return in the same assembly explains this without inventing a suspended layer.
+- Thickness: frame-0296 subtitle reads “Six centimeters, I think”; packet records machine transcript sixteen, and comparison slab subtitle 28 versus transcript 18. No dimensional claim can be drawn. State unresolved disagreement in metadata.
+
+The representative crop and exploded spacing are explanatory, not surveyed. Required but unseen upper concrete is dashed; infill cut faces are blank. Reinforcement, connections, finish build-up, infill composition and hidden steel profiles are omitted, not depicted as known. No room reconstruction is needed.

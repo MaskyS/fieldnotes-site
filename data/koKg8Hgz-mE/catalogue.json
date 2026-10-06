@@ -1,0 +1,3913 @@
+{
+ "title": "Michel and Gaelle’s split-level Paris apartment",
+ "source": {
+  "id": "koKg8Hgz-mE",
+  "url": "https://www.youtube.com/watch?v=koKg8Hgz-mE",
+  "duration": 1005.761,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "English machine translation of automatic French captions; names and technical terms may be wrong. The filmmaker’s visible English subtitles take priority for wording and figures. Caption/subtitle conflicts remain explicit in claim doubts, notably shower measurement and floor thickness.",
+  "context": {
+   "location": {
+    "country": "France",
+    "state_or_region": "not disclosed",
+    "nearest_place": "Montparnasse, Paris",
+    "precision": "neighborhood; no verified street address",
+    "evidence": [
+     "Title names Paris; description places apartment in Montparnasse, Paris."
+    ],
+    "climate": {
+     "koppen": "Cfb",
+     "name": "temperate oceanic",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Montparnasse, Paris, France",
+      "lat": 48.843,
+      "lon": 2.328,
+      "matched": "Montparnasse, Paris, Ile-de-France, Metropolitan France, 75006, France",
+      "stands_for": "suburb",
+      "precision": "neighborhood; no verified street address"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 632,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Montparnasse, Paris, France",
+      "lat": 48.843,
+      "lon": 2.328,
+      "matched": "Montparnasse, Paris, Ile-de-France, Metropolitan France, 75006, France",
+      "stands_for": "suburb",
+      "precision": "neighborhood; no verified street address"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "8b",
+     "mean_annual_extreme_min_c": -6.8,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Montparnasse, Paris, France",
+      "lat": 48.843,
+      "lon": 2.328,
+      "matched": "Montparnasse, Paris, Ile-de-France, Metropolitan France, 75006, France",
+      "stands_for": "suburb",
+      "precision": "neighborhood; no verified street address"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 59,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Montparnasse, Paris, France",
+      "lat": 48.843,
+      "lon": 2.328,
+      "matched": "Montparnasse, Paris, Ile-de-France, Metropolitan France, 75006, France",
+      "stands_for": "suburb",
+      "precision": "neighborhood; no verified street address"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2016-05-16"
+  }
+ },
+ "sampling": {
+  "frames": 348,
+  "candidate_shots": 195,
+  "contact_sheets": 13,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/koKg8Hgz-mE"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "michel-craca",
+   "gaelle-potel"
+  ],
+  "gist": "A chef and maître d’ converted a concierge’s lodge and cellar beside work, sharing daylight between kitchen and shower and sleeping below street noise.",
+  "story": {
+   "text": "For chef Michel and maître d’ Gaelle, a concierge's lodge and cellar beside work become a home fitted around the things they actually do. Their architect, Jérôme, shares the only window's daylight between a kitchen below and a suspended shower above, leaving a place to sit in between. Michel gets a tiny kitchen capable of serious cooking, with a cupboard door that folds into extra worktop. Finding a shallow enough microwave proves unexpectedly difficult. Downstairs, the cellar's darkness and quiet suit sleeping. The family even makes room for a baby before moving on; every centimetre matters, but the space holds more life than its size suggests.",
+   "moments": [
+    {
+     "phrase": "shares the only window's daylight",
+     "at": 98.079
+    },
+    {
+     "phrase": "a cupboard door that folds into extra worktop",
+     "at": 422.64
+    },
+    {
+     "phrase": "Finding a shallow enough microwave proves unexpectedly difficult",
+     "at": 487.36
+    },
+    {
+     "phrase": "the cellar's darkness and quiet suit sleeping",
+     "at": 619.8
+    },
+    {
+     "phrase": "makes room for a baby before moving on",
+     "at": 935.079
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Michel and Gaelle’s Paris household premises",
+   "kind": "site",
+   "within": null,
+   "caveat": "Catalogue root for an urban household property, not a surveyed parcel or a claim to the whole host building.",
+   "entity": "ent-michel-gaelle-split-level-paris-apartment"
+  },
+  {
+   "id": "apartment",
+   "title": "Converted concierge apartment and cellar",
+   "kind": "unit",
+   "within": "site",
+   "caveat": "A dwelling within a larger urban building; only this apartment is toured."
+  },
+  {
+   "id": "living",
+   "title": "Window-side living platform",
+   "kind": "room",
+   "within": "apartment",
+   "caveat": "An open functional zone, not an enclosed room."
+  },
+  {
+   "id": "kitchen",
+   "title": "Lower kitchen level",
+   "kind": "room",
+   "within": "apartment",
+   "caveat": "Connected to living and stairs in continuous views."
+  },
+  {
+   "id": "bathroom",
+   "title": "Upper bathroom and shower",
+   "kind": "room",
+   "within": "apartment",
+   "caveat": "Open basin area and partly glazed shower reached by visible upper stair."
+  },
+  {
+   "id": "bedroom",
+   "title": "Basement bedroom and fitted utility storage",
+   "kind": "room",
+   "within": "apartment",
+   "caveat": "Reached in continuous descent; wardrobe and utility alcove remain part of this room."
+  },
+  {
+   "id": "street",
+   "title": "Surrounding Montparnasse street context",
+   "kind": "outdoor area",
+   "within": "site",
+   "outside": true,
+   "caveat": "Outside subject property; attached to root only for catalogue grouping. Door identity and exact address are not established."
+  }
+ ],
+ "people": [
+  {
+   "id": "jerome-vincon",
+   "name": "Jérôme Vinçon",
+   "relation": "designer",
+   "note": "Architect identified by description; principal on-camera guide explains his design in first person."
+  },
+  {
+   "id": "michel-craca",
+   "name": "Michel Craca",
+   "relation": "owner",
+   "note": "Description names purchaser and chef; Jérôme says his family later left. Not securely identified on camera."
+  },
+  {
+   "id": "gaelle-potel",
+   "name": "Gaelle Potel",
+   "relation": "owner",
+   "note": "Description names co-purchaser and restaurant maître d’. Do not identify unnamed woman filming as Gaelle."
+  },
+  {
+   "id": "kirsten-dirksen",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Uploader attribution; the unnamed woman with camera is not identified from appearance.",
+   "entity": "ent-kirsten-dirksen"
+  },
+  {
+   "id": "le-corbusier",
+   "name": "Le Corbusier",
+   "relation": "other",
+   "note": "Named design influence through convent near Lyon; neither architect nor convent appears in the film."
+  }
+ ],
+ "claims": [
+  {
+   "id": "location",
+   "text": "Apartment in Montparnasse, Paris.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true
+  },
+  {
+   "id": "area",
+   "text": "Apartment occupies 25 square meters [269 square feet].",
+   "by": "description",
+   "at": [],
+   "about": "apartment",
+   "headline": true,
+   "quantity": {
+    "value": 25,
+    "unit": "m2",
+    "of": "floor area"
+   }
+  },
+  {
+   "id": "four-levels",
+   "text": "Four levels fit within the apartment.",
+   "by": "description",
+   "at": [],
+   "about": "apartment",
+   "headline": true,
+   "quantity": {
+    "value": 4,
+    "unit": "storey",
+    "of": "count"
+   }
+  },
+  {
+   "id": "height",
+   "text": "Available height was 17 feet [5.18 meters].",
+   "by": "description",
+   "at": [],
+   "about": "apartment",
+   "headline": true,
+   "quantity": {
+    "value": 17,
+    "unit": "ft",
+    "of": "length"
+   }
+  },
+  {
+   "id": "former-use",
+   "text": "Converted from a doorman’s room and cellar.",
+   "by": "description",
+   "at": [],
+   "about": "former-lodge",
+   "headline": true
+  },
+  {
+   "id": "purchasers",
+   "text": "Michel Craca and Gaelle Potel bought the apartment.",
+   "by": "description",
+   "at": [],
+   "about": "apartment",
+   "headline": true
+  },
+  {
+   "id": "kitchen-area",
+   "text": "Kitchen occupies 32 square feet [2.97 square meters].",
+   "by": "description",
+   "at": [],
+   "about": "chef-kitchen",
+   "headline": true,
+   "quantity": {
+    "value": 32,
+    "unit": "ft2",
+    "of": "component area"
+   }
+  },
+  {
+   "id": "one-window",
+   "text": "The apartment has only one window.",
+   "by": "jerome-vincon",
+   "at": [
+    98.079
+   ],
+   "about": "window",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "family-three",
+   "text": "Michel, his wife and baby lived here before leaving.",
+   "by": "jerome-vincon",
+   "at": [
+    935.079
+   ],
+   "about": "family-occupancy",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "chef",
+   "text": "Michel is a professional chef.",
+   "by": "jerome-vincon",
+   "at": [
+    321.919
+   ],
+   "about": "chef-kitchen",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "workplace",
+   "text": "Michel and Gaelle worked at the restaurant next door.",
+   "by": "description",
+   "at": [],
+   "about": "apartment",
+   "headline": false
+  },
+  {
+   "id": "architect",
+   "text": "Jérôme Vinçon designed the apartment for Michel and Gaelle.",
+   "by": "description",
+   "at": [],
+   "about": "tailored-design",
+   "headline": false
+  },
+  {
+   "id": "lodge-spoken",
+   "text": "The apartment was originally a concierge’s lodge.",
+   "by": "jerome-vincon",
+   "at": [
+    16.72
+   ],
+   "about": "former-lodge",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "beam-attachment",
+   "text": "The shower is attached to a building beam.",
+   "by": "jerome-vincon",
+   "at": [
+    235.72
+   ],
+   "about": "shower-support",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shower-two-meters",
+   "text": "Shower has a 2-meter [6.56-foot] platform.",
+   "by": "jerome-vincon",
+   "at": [
+    242.5
+   ],
+   "about": "suspended-shower",
+   "headline": false,
+   "doubt": "The filmmaker’s subtitle says a two-meter platform, whereas the machine transcript says a two-meter ceiling, leaving what was measured unresolved.",
+   "quantity": {
+    "value": 2,
+    "unit": "m",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "trayless",
+   "text": "The shower has no separate raised tray.",
+   "by": "jerome-vincon",
+   "at": [
+    351.4
+   ],
+   "about": "suspended-shower",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "kitchen-setback-distance",
+   "text": "Kitchen work area is almost 5 meters [16.4 feet] inboard.",
+   "by": "jerome-vincon",
+   "at": [
+    317.4
+   ],
+   "about": "daylight",
+   "headline": false,
+   "quantity": {
+    "value": 5,
+    "unit": "m",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "original-orientation",
+   "text": "The original kitchen had its back to the light.",
+   "by": "jerome-vincon",
+   "at": [
+    307.0
+   ],
+   "about": "old-kitchen-orientation",
+   "headline": false,
+   "doubt": "The film subtitle says the kitchen had its back to the light, while the machine translation obscures that direction.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hood-extraction",
+   "text": "The hood extracts air instead of recirculating it.",
+   "by": "jerome-vincon",
+   "at": [
+    367.919
+   ],
+   "about": "extractor",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "socket-use",
+   "text": "Food processors can plug into the worktop sockets.",
+   "by": "jerome-vincon",
+   "at": [
+    338.44
+   ],
+   "about": "worktop-sockets",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cupboard-depth",
+   "text": "Kitchen cupboard depth is 20 centimeters [7.87 inches].",
+   "by": "jerome-vincon",
+   "at": [
+    481.44
+   ],
+   "about": "dedicated-shelves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "microwave-depth",
+   "text": "Microwave depth is 20 centimeters [7.87 inches].",
+   "by": "jerome-vincon",
+   "at": [
+    489.28
+   ],
+   "about": "microwave",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "microwave-components",
+   "text": "Microwave components sit above and beside, rather than behind.",
+   "by": "jerome-vincon",
+   "at": [
+    505.639
+   ],
+   "about": "microwave",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rail-origin",
+   "text": "The accessory rail system may be American.",
+   "by": "jerome-vincon",
+   "at": [
+    446.639
+   ],
+   "about": "rail-storage",
+   "headline": false,
+   "doubt": "The speaker expresses uncertainty about origin and the machine transcript additionally offers French; no origin is resolved.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "oak-panel-strength",
+   "text": "Kitchen oak panel construction is stronger than solid wood.",
+   "by": "jerome-vincon",
+   "at": [
+    547.5
+   ],
+   "about": "cabinet-panels",
+   "headline": false,
+   "doubt": "The film subtitle contrasts this oak construction with a solid piece, but the machine translation garbles the material and does not identify the panel construction.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "complex-dish",
+   "text": "Michel cooked lièvre à la royale in this kitchen.",
+   "by": "jerome-vincon",
+   "at": [
+    599.6
+   ],
+   "about": "chef-kitchen",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "dark-bedroom",
+   "text": "The basement bedroom receives no natural light.",
+   "by": "jerome-vincon",
+   "at": [
+    619.8,
+    642.76
+   ],
+   "about": "bedroom",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "quiet-bedroom",
+   "text": "The basement sleeping area is quieter than street level.",
+   "by": "jerome-vincon",
+   "at": [
+    627.8
+   ],
+   "about": "bedroom",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "centimeter-design",
+   "text": "Design clearances were considered to 1 centimeter [0.39 inches].",
+   "by": "jerome-vincon",
+   "at": [
+    705.32
+   ],
+   "about": "tailored-design",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "two-bed-drawer-sides",
+   "text": "Drawers occupy both sides of the bed.",
+   "by": "jerome-vincon",
+   "at": [
+    749.48
+   ],
+   "about": "bed-drawers",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "washer-position",
+   "text": "The washing machine is beneath the kitchen.",
+   "by": "jerome-vincon",
+   "at": [
+    759.16
+   ],
+   "about": "washing-machine",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "heater-pair",
+   "text": "Water heaters stand on both sides of the washing machine.",
+   "by": "jerome-vincon",
+   "at": [
+    762.04
+   ],
+   "about": "water-heaters",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "floor-build-up",
+   "text": "Steel members carry infill and a concrete compression layer.",
+   "by": "jerome-vincon",
+   "at": [
+    823.44
+   ],
+   "about": "floor-assembly",
+   "headline": false,
+   "doubt": "The translated caption garbles the infill term as Tercite, so no precise infill specification is attributed.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "floor-thickness",
+   "text": "Floor assembly is approximately 6 centimeters [2.36 inches] thick.",
+   "by": "jerome-vincon",
+   "at": [
+    836.5
+   ],
+   "about": "floor-assembly",
+   "headline": false,
+   "doubt": "The filmmaker’s subtitle says six centimeters, while the machine-translated transcript says sixteen centimeters; the actual spoken figure remains disputed.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "slab-comparison",
+   "text": "The compared concrete slab is 28 centimeters [11.02 inches] thick.",
+   "by": "jerome-vincon",
+   "at": [
+    840.5
+   ],
+   "about": "floor-assembly",
+   "headline": false,
+   "doubt": "The filmmaker’s subtitle gives 28 centimeters, whereas the machine-translated transcript gives 18 centimeters.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "exposed-soffit",
+   "text": "The floor underside was retained without a concealing false ceiling.",
+   "by": "jerome-vincon",
+   "at": [
+    844.0
+   ],
+   "about": "floor-assembly",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "oak-continuity",
+   "text": "Oak connects the kitchen, bedroom and bathroom finishes.",
+   "by": "jerome-vincon",
+   "at": [
+    883.12
+   ],
+   "about": "oak-surfaces",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shower-lamp",
+   "text": "The illuminated shower acts as a living-room lamp.",
+   "by": "jerome-vincon",
+   "at": [
+    181.519
+   ],
+   "about": "shower-glazing",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "convent-study",
+   "text": "Jérôme studied bodily dimensions through Le Corbusier’s convent rooms.",
+   "by": "description",
+   "at": [],
+   "about": "tailored-design",
+   "headline": false
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "http://www.aajv.fr/",
+   "kind": "practice",
+   "entity": {
+    "type": "organisation",
+    "name": "Atelier d'architecture Jerome Vinçon",
+    "people": [
+     "jerome-vincon"
+    ],
+    "entity": "ent-atelier-d-architecture-jerome-vincon"
+   },
+   "by": "description",
+   "line": "Atelier d'architecture Jerome Vinçon: http://www.aajv.fr/",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "suspended-shower",
+   "predicate": "sits above",
+   "object": "steel-worktop",
+   "time": [
+    246.5,
+    248.5
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "extractor",
+   "predicate": "sits above",
+   "object": "black-hob",
+   "time": [
+    349.5,
+    351.0
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "window",
+   "predicate": "admits daylight toward",
+   "object": "chef-kitchen",
+   "time": [
+    305.0,
+    316.0
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "shower-glazing",
+   "predicate": "transmits light into",
+   "object": "living-landing",
+   "time": [
+    189.5,
+    210.0
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "floor-assembly",
+   "predicate": "sits above",
+   "object": "bedroom",
+   "time": [
+    816.0,
+    849.0
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "bedroom-tv",
+   "predicate": "pivots toward",
+   "object": "bedroom",
+   "time": [
+    789.0,
+    796.0
+   ],
+   "status": "shown"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "apartment",
+   "title": "Michel and Gaelle’s split-level apartment",
+   "place": "apartment",
+   "category": "Structure",
+   "description": "The finished flat combines an upper bathroom, living platform, lower kitchen and basement bedroom connected by stairs. The description names Michel Craca and Gaelle Potel as purchasers and Jérôme Vinçon as architect, and describes four levels within a former doorman’s room and cellar.",
+   "unknown": "Purchase price, renovation cost, completion date and current tenure are not disclosed.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "daylight",
+    "bathroom",
+    "chef-kitchen",
+    "tailored-design",
+    "street-signs"
+   ],
+   "terms": [
+    "apartment",
+    "split-level",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 54.199,
+     "end": 78.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 616.959,
+     "end": 650.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0090",
+     "time": 253.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0090.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0090.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0232",
+     "time": 657.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0232.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0232.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 653.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0231.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0090.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "former-lodge",
+   "title": "Former doorman’s room and cellar",
+   "place": "apartment",
+   "category": "Structure",
+   "description": "Current exterior and interior views accompany the account; the earlier arrangement is not shown. Jérôme says the flat began as a concierge’s lodge, and the description identifies the cellar as part of the conversion.",
+   "unknown": "Original condition, partitions and conversion date are not documented.",
+   "phase": "historical",
+   "part_of": "apartment",
+   "related_ids": [],
+   "terms": [
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 16.72,
+     "end": 21.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0005",
+     "time": 20.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0005.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0005.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 25.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0007.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0005.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "family-occupancy",
+   "title": "Former three-person household",
+   "place": "apartment",
+   "category": "Life",
+   "description": "The film shows a present-day tour rather than the former family’s daily life. Jérôme says Michel lived here with his wife, they had a baby, and all three lived here before leaving.",
+   "unknown": "Length of residence, baby’s sleeping arrangements and occupancy at filming are unstated.",
+   "phase": "historical",
+   "part_of": "apartment",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 935.079,
+     "end": 948.319,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0331",
+     "time": 953.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0331.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0331.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 25.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0007.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0331.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "circulation",
+   "title": "Staircase integrated with living platforms",
+   "place": "apartment",
+   "category": "Structure",
+   "description": "Open steps, broad landings and voids connect the domestic functions. Jérôme says he made stair circulation into an inhabitable space rather than treating it as a compact stair object.",
+   "unknown": "No dimensioned drawing, guard specification or construction sequence is supplied.",
+   "phase": "current",
+   "part_of": "apartment",
+   "related_ids": [
+    "daylight",
+    "bathroom",
+    "chef-kitchen"
+   ],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 54.199,
+     "end": 78.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0028",
+     "time": 85.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0028.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0028.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0090",
+     "time": 253.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0090.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0090.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0232",
+     "time": 657.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0232.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0232.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0028.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "upper-stair",
+   "title": "Pale open-tread bathroom staircase",
+   "place": "apartment",
+   "category": "Structure",
+   "description": "Pale open treads climb beside the suspended shower, with stair members visible from below. Jérôme demonstrates how his head passes between two members when he stands at the kitchen.",
+   "unknown": "Material of each member, fixings and measured headroom are not established.",
+   "phase": "current",
+   "part_of": "circulation",
+   "related_ids": [],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 723.519,
+     "end": 739.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0233",
+     "time": 659.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0233.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0233.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0259",
+     "time": 735.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0259.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0259.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 734.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0258.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0233.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lower-stair",
+   "title": "Narrow basement stair with steel sides",
+   "place": "apartment",
+   "category": "Structure",
+   "description": "The lower stair descends between dark side plates with slim metal handrails. Jérôme demonstrates shoulder fit, and the description compares the stair to those in boats.",
+   "unknown": "Tread dimensions and full handrail fixing details are not shown.",
+   "phase": "current",
+   "part_of": "circulation",
+   "related_ids": [
+    "tailored-design",
+    "bedroom"
+   ],
+   "terms": [
+    "stair",
+    "steel"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 691.0,
+     "end": 724.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0222",
+     "time": 618.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0222.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0222.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0253",
+     "time": 719.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0253.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0253.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0286",
+     "time": 800.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0286.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0286.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0222.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "living-landing",
+   "title": "Living platform beside the tall window",
+   "place": "living",
+   "category": "Life",
+   "description": "A wood-finished platform holds a sofa and small tables beside the window, open toward the kitchen and upper stairs. Jérôme identifies it as a place to relax and read.",
+   "unknown": "No separate dining arrangement or sofa-to-bed conversion is demonstrated.",
+   "phase": "current",
+   "part_of": "apartment",
+   "related_ids": [
+    "daylight",
+    "circulation"
+   ],
+   "terms": [
+    "timber",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 138.56,
+     "end": 155.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 25.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0007.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0313",
+     "time": 888.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0313.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0313.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0331",
+     "time": 953.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0331.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0331.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0007.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sofa-tables",
+   "title": "Sofa, paired tables and shaggy rug",
+   "place": "living",
+   "category": "Life",
+   "description": "A long brown upholstered sofa faces two small light-topped tables on a dark shaggy rug. These furnishings are shown without individual spoken explanations.",
+   "unknown": "Makers, precise materials and purchase history are not given.",
+   "phase": "current",
+   "part_of": "living-landing",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0313",
+     "time": 888.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0313.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0313.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 25.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0007.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0313.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "living-media",
+   "title": "Low living-room television cabinet",
+   "place": "living",
+   "category": "Life",
+   "description": "A television stands on a low dark-and-light cabinet opposite the sofa. Wide views show it beside the open stairs without a dedicated explanation.",
+   "unknown": "Cabinet contents, electronics and cable routes are not shown.",
+   "phase": "current",
+   "part_of": "living-landing",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 92.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0031.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0342",
+     "time": 981.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0342.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0342.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0031.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "intercom",
+   "title": "Recessed handset beside the upper stairs",
+   "place": "living",
+   "category": "Life",
+   "description": "A white corded handset occupies a dark recess in the tall wood-fronted panel beside the upper opening. Nobody demonstrates or discusses it.",
+   "unknown": "It resembles an entry intercom, but operation and any door-release link are not established.",
+   "phase": "current",
+   "part_of": "apartment",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0072",
+     "time": 198.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0072.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0072.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0318",
+     "time": 900.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0318.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0318.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0072.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "floor-assembly",
+   "title": "Exposed ribbed infill and steel floor",
+   "place": "bedroom",
+   "category": "Structure",
+   "description": "Orange ribbed infill and pale metal members remain exposed above the bedroom. Jérôme describes steel members and a concrete compression layer above, and says he kept the underside visible instead of adding a false ceiling. Thickness figures conflict between the film subtitles and machine transcript.",
+   "unknown": "Upper layers, infill specification, actual thickness and acoustic performance are not independently established.",
+   "phase": "current",
+   "part_of": "apartment",
+   "related_ids": [
+    "bedroom",
+    "oak-surfaces"
+   ],
+   "terms": [
+    "steel",
+    "concrete",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 798.76,
+     "end": 858.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0302",
+     "time": 849.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0302.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0302.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0301",
+     "time": 846.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0301.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0301.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0296",
+     "time": 836.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0296.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0296.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0302.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "daylight",
+   "title": "One window shared across living levels",
+   "place": "apartment",
+   "category": "Climate",
+   "description": "Views from the kitchen include the tall window beyond the living platform, while the upper shower has a translucent face. Jérôme says the sole window drove the arrangement so cooking and showering could both receive daylight.",
+   "unknown": "Orientation, glazing performance and measured illuminance are not provided.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "circulation",
+    "bathroom",
+    "chef-kitchen"
+   ],
+   "terms": [
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 98.079,
+     "end": 162.239,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 264.919,
+     "end": 317.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0115",
+     "time": 319.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0115.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0115.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 105.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0034.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0056",
+     "time": 161.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0056.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0056.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0115.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "window",
+   "title": "Tall divided window with dark curtains",
+   "place": "living",
+   "category": "Structure",
+   "description": "A tall many-paned window overlooks the street with long dark curtains at its sides. Jérôme calls it the apartment’s only window and says its height helps light reach deeper inside.",
+   "unknown": "Dimensions, opening mechanism and glazing build-up are not shown.",
+   "phase": "current",
+   "part_of": "daylight",
+   "related_ids": [
+    "street-signs"
+   ],
+   "terms": [
+    "window",
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 98.079,
+     "end": 111.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 264.919,
+     "end": 275.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 105.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0034.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0094",
+     "time": 266.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0094.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0094.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0313",
+     "time": 888.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0313.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0313.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0034.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "floor-setback",
+   "title": "Stepped floor edge admitting kitchen daylight",
+   "place": "apartment",
+   "category": "Structure",
+   "description": "The living platform ends above the lower kitchen and broad descending steps, leaving an open path toward the window. Jérôme explains that shifting the floor edge lets light continue down to the cooking area.",
+   "unknown": "No measured comparison against the earlier layout is given.",
+   "phase": "current",
+   "part_of": "daylight",
+   "related_ids": [
+    "chef-kitchen",
+    "circulation"
+   ],
+   "terms": [
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 275.28,
+     "end": 317.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0101",
+     "time": 288.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0101.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0101.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0116",
+     "time": 323.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0116.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0116.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0331",
+     "time": 953.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0331.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0331.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0101.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "old-kitchen-orientation",
+   "title": "Earlier kitchen facing away from light",
+   "place": "kitchen",
+   "category": "Process",
+   "description": "Current views show cooking positions facing the window. Jérôme recalls that the original kitchen had its back to the light; the film subtitle clarifies the machine translation here.",
+   "unknown": "No photograph, drawing or date documents the earlier arrangement.",
+   "phase": "historical",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 300.36,
+     "end": 317.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 305.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0107.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0109",
+     "time": 309.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0109.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0109.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0107.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom",
+   "title": "Open upper bathroom above the kitchen",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "The upper bathroom combines the projecting shower enclosure and a small basin area visible through the stair opening. Jérôme describes daylight in the shower and the open edge as a balcony-like place for conversation with someone below.",
+   "unknown": "A toilet is not securely visible; drainage, ventilation and privacy arrangements are not fully documented.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "daylight",
+    "chef-kitchen",
+    "circulation"
+   ],
+   "terms": [
+    "bathroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 155.0,
+     "end": 177.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 903.32,
+     "end": 923.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0084",
+     "time": 240.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0084.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0084.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0315",
+     "time": 893.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0315.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0315.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0318",
+     "time": 900.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0318.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0318.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0084.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "suspended-shower",
+   "title": "Suspended stone-lined walk-in shower",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A white projecting box contains beige stone-colored surfaces and a floor-level glazed entrance above the kitchen. Jérôme calls the finish stone, says the shower attaches to a building beam and describes fitting a trayless shower over the kitchen counter.",
+   "unknown": "Stone species, supports, waterproofing and drain route are not visible; wording of the two-meter measurement conflicts.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "related_ids": [
+    "extractor",
+    "shower-glazing",
+    "shower-fittings"
+   ],
+   "terms": [
+    "shower",
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 208.28,
+     "end": 258.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 347.88,
+     "end": 364.08,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0089",
+     "time": 252.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0089.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0089.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0081",
+     "time": 227.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0081.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0081.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 246.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0087.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0089.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-glazing",
+   "title": "Translucent shower panel facing the living room",
+   "place": "bathroom",
+   "category": "Materials",
+   "description": "A translucent panel with metallic border blurs the person inside while admitting light. Jérôme says the shower light makes this face glow into the living room in the evening.",
+   "unknown": "Material, privacy rating and any separate dimmer control are not established.",
+   "phase": "current",
+   "part_of": "suspended-shower",
+   "related_ids": [
+    "daylight",
+    "lighting"
+   ],
+   "terms": [
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 169.4,
+     "end": 196.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 210.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0073.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 193.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0070.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0037",
+     "time": 117.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0037.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0037.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0073.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-fittings",
+   "title": "Square shower fittings and handheld spray",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "Several square chrome controls and outlets sit beside a slender handheld spray and hose. Close views show these fittings without explaining their individual functions.",
+   "unknown": "Purpose of each square fitting, pressure and equipment maker are not established.",
+   "phase": "current",
+   "part_of": "suspended-shower",
+   "related_ids": [],
+   "terms": [
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0075",
+     "time": 216.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0075.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0075.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 223.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0079.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0075.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-support",
+   "title": "Shower attachment to the building beam",
+   "place": "bathroom",
+   "category": "Structure",
+   "description": "The enclosure is shown below the upper ceiling, but its anchorage is concealed. Jérôme says the shower is attached to a beam belonging to the building.",
+   "unknown": "Beam construction, hangers, loads and fixing details cannot be seen.",
+   "phase": "current",
+   "part_of": "suspended-shower",
+   "related_ids": [],
+   "terms": [
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 228.48,
+     "end": 240.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0082",
+     "time": 235.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0082.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0082.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0083",
+     "time": 237.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0083.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0083.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0082.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "basin",
+   "title": "Rectangular basin on an upper wood shelf",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A small white rectangular basin rests on a wood-toned shelf beside the shower opening. Dark folded items occupy storage below; the basin has no spoken explanation.",
+   "unknown": "Tap, supply, drainage and cabinet details remain obscured.",
+   "phase": "current",
+   "part_of": "bathroom",
+   "related_ids": [
+    "oak-surfaces"
+   ],
+   "terms": [
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0071",
+     "time": 195.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0071.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0071.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0315",
+     "time": 893.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0315.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0315.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0071.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "chef-kitchen",
+   "title": "Bespoke kitchenette for a professional chef",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A steel preparation unit with sink and hob faces the window amid wood cabinetry and fitted equipment. Jérôme says Michel is a professional chef and they tailored the kitchen to let him cook properly in the small space. The description supplies its area.",
+   "unknown": "Cooking performance, daily workflow, ventilation rate and electrical capacity are not tested.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "daylight",
+    "bathroom",
+    "oak-surfaces",
+    "tailored-design"
+   ],
+   "terms": [
+    "kitchen",
+    "steel",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 321.919,
+     "end": 343.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 555.0,
+     "end": 610.75,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0216",
+     "time": 598.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0216.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0216.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0147",
+     "time": 408.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0147.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0147.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0116",
+     "time": 323.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0116.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0116.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0216.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "steel-worktop",
+   "title": "Steel worktop with integrated deep sink",
+   "place": "kitchen",
+   "category": "Water",
+   "description": "The steel unit combines a deep rectangular sink, angular mixer, preparation strip and upstands beside the cooking surface. Jérôme describes the sink as unusually deep and close to restaurant equipment, and says he wanted an attractive object visible from the living room.",
+   "unknown": "Alloy, fabrication, depth and role of the cylindrical sink insert are not explained.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "steel",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 385.319,
+     "end": 418.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0145",
+     "time": 402.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0145.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0145.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0147",
+     "time": 408.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0147.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0147.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0143",
+     "time": 396.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0143.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0143.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0145.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "black-hob",
+   "title": "Two-zone black glass cooktop",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A black glass cooktop with two marked circular zones sits beside the sink. Its surface is clear in several shots but its heating technology is not specified.",
+   "unknown": "Induction versus radiant operation, rated power and circuit are not established.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0212",
+     "time": 576.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0212.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0212.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 611.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0219.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0317",
+     "time": 896.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0317.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0317.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0212.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "inset-pans",
+   "title": "Three lidded containers beside the hob",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "Three small rectangular metal containers with separate lids occupy the worktop beside the hob. They are shown during discussion of professional fittings but not individually identified.",
+   "unknown": "Capacity, contents and any heating or cooling function are not established.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0123",
+     "time": 344.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0123.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0123.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0121",
+     "time": 335.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0121.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0121.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0123.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "worktop-sockets",
+   "title": "Covered electrical sockets beside the preparation area",
+   "place": "kitchen",
+   "category": "Energy",
+   "description": "Jérôme lifts covers to reveal round sockets in a metal fitting beside the lidded containers. He says food processors can plug in there.",
+   "unknown": "Circuit capacity, protective rating and hidden wiring are not shown.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 338.44,
+     "end": 347.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0122",
+     "time": 340.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0122.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0122.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0123",
+     "time": 344.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0123.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0123.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0122.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "extractor",
+   "title": "Extractor hood beneath the shower box",
+   "place": "kitchen",
+   "category": "Climate",
+   "description": "A broad metal hood grille occupies the underside of the shower above the kitchen. Jérôme says it extracts air instead of recirculating it.",
+   "unknown": "Discharge, duct route, fan specification and measured airflow are not shown.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [
+    "suspended-shower"
+   ],
+   "terms": [
+    "ventilation fan",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 364.08,
+     "end": 376.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0124",
+     "time": 349.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0124.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0124.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 246.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0087.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 371.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0133.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0124.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bin",
+   "title": "Countertop bin opening with side access",
+   "place": "kitchen",
+   "category": "Life",
+   "description": "A metal-lidded opening sits in the worktop, and Jérôme opens a side cupboard to demonstrate emptying the bin. Top and side access both appear.",
+   "unknown": "Capacity, liner arrangement and waste-separation practice are not given.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 371.88,
+     "end": 385.319,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0135",
+     "time": 376.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0135.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0135.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0140",
+     "time": 387.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0140.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0140.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0138",
+     "time": 382.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0138.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0138.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0135.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fold-down-worktop",
+   "title": "Cupboard door folding into a work surface",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A wood cupboard door folds down on metal side arms into a horizontal preparation surface, then closes back into the cabinet. Jérôme says he and Michel devised it because the permanent work area was limited.",
+   "unknown": "Load rating, hardware maker and surface finish are not stated.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 419.68,
+     "end": 444.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0156",
+     "time": 437.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0156.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0156.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0151",
+     "time": 422.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0151.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0151.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0158",
+     "time": 443.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0158.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0158.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0156.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rail-storage",
+   "title": "Rails with detachable bowl and roll holder",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "Horizontal rails carry a paper-roll holder and detachable metal bowl which Jérôme lifts and replaces. He says accessories fit into the rail but is unsure of its origin.",
+   "unknown": "Manufacturer, origin and full accessory range are not established.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "storage",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 443.84,
+     "end": 461.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0159",
+     "time": 445.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0159.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0159.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0164",
+     "time": 455.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0164.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0164.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0165",
+     "time": 462.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0165.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0165.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0159.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "plate-slots",
+   "title": "Vertical plates held in cut shelf grooves",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "Plates stand on edge in individual grooves within narrow dark openings. Jérôme explains that vertical storage saves space.",
+   "unknown": "Groove spacing, capacity and whether plates dry here are not established.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 461.0,
+     "end": 478.12,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0170",
+     "time": 472.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0170.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0170.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0171",
+     "time": 473.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0171.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0171.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0193",
+     "time": 533.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0193.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0193.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0170.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "microwave",
+   "title": "Shallow built-in microwave in wood cabinetry",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A stainless-faced microwave sits flush in wood cabinetry and is opened to reveal a turntable cavity. Jérôme says finding a shallow model was difficult and describes components above and beside rather than behind it.",
+   "unknown": "Claimed depth is not measured; rear casing, installation clearances and model number are not shown.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "microwave"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 478.12,
+     "end": 519.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0180",
+     "time": 501.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0180.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0180.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0183",
+     "time": 507.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0183.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0183.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0188",
+     "time": 518.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0188.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0188.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0180.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dedicated-shelves",
+   "title": "Shallow glassware cupboard and bottle cells",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A shallow cupboard holds glasses and utensils while narrow cells accommodate cups, plates and a horizontal bottle. Jérôme says shelves are dedicated to specific items, including wine bottles.",
+   "unknown": "Capacity and internal dimensions apart from the stated cupboard depth are not verified.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 477.5,
+     "end": 486.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 518.399,
+     "end": 534.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0173",
+     "time": 482.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0173.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0173.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0193",
+     "time": 533.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0193.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0193.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0190",
+     "time": 524.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0190.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0190.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0173.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cold-storage",
+   "title": "Wood-fronted undercounter cold-storage cabinets",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "Wood-faced doors open onto white-lined cold-storage interiors with shelves in two kitchen positions. They are demonstrated visually while the conversation concerns bespoke design rather than appliance type.",
+   "unknown": "Refrigerator/freezer allocation, capacities and energy ratings are not established.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "terms": [
+    "refrigerator",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0206",
+     "time": 563.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0206.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0206.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0208",
+     "time": 567.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0208.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0208.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0206.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "coffee-station",
+   "title": "Countertop coffee maker and cups",
+   "place": "kitchen",
+   "category": "Food",
+   "description": "A dark coffee maker and small white cups sit on the rear counter among fitted storage. They appear during cabinet demonstrations without a spoken description.",
+   "unknown": "Machine type, operation and electrical connection are not demonstrated.",
+   "phase": "current",
+   "part_of": "chef-kitchen",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0166",
+     "time": 464.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0166.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0166.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0053",
+     "time": 153.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0053.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0053.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0191",
+     "time": 525.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0191.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0191.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0166.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "bedroom",
+   "title": "Windowless basement sleeping room",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "A double bed fills most of the lower room beneath an exposed ceiling, with fitted storage at its foot and sides. Jérôme says he chose the basement for darkness and quiet away from street noise.",
+   "unknown": "Noise, ventilation, humidity and bed dimensions are not documented.",
+   "phase": "current",
+   "part_of": "apartment",
+   "related_ids": [
+    "bedroom-storage",
+    "utility-bay",
+    "lighting"
+   ],
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 616.959,
+     "end": 650.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 737.76,
+     "end": 745.12,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 628.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0225.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 641.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0227.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0341",
+     "time": 979.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0341.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0341.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0225.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bedroom-storage",
+   "title": "Fitted storage around the basement bed",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "Wood-fronted drawers and cupboards surround the bed and occupy the circulation margins. Jérôme says walking space doubles as storage access and demonstrates custom compartments.",
+   "unknown": "Total capacity and full concealed layout are not shown.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "bedroom",
+    "utility-bay",
+    "oak-surfaces"
+   ],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 737.76,
+     "end": 789.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 653.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0231.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0268",
+     "time": 753.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0268.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0268.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0278",
+     "time": 777.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0278.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0278.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0231.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bed-drawers",
+   "title": "Long drawers opening beside the bed",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "Long dark-lined drawers slide from bed-side joinery into the walking strip. Jérôme says there are drawers on both sides.",
+   "unknown": "Both complete drawer runs and their dimensions are not documented.",
+   "phase": "current",
+   "part_of": "bedroom-storage",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 742.0,
+     "end": 754.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0266",
+     "time": 750.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0266.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0266.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0267",
+     "time": 751.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0267.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0267.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0268",
+     "time": 753.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0268.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0268.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0266.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sliding-wardrobe",
+   "title": "Sliding wood-fronted bedroom wardrobe",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "Tall wood panels slide open to reveal fitted storage, with hanging space and shelves visible. Jérôme calls it a large closet; the picture shows a fitted cupboard rather than a separately toured dressing room.",
+   "unknown": "Internal depth and full division of clothing storage and services remain unclear.",
+   "phase": "current",
+   "part_of": "bedroom-storage",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 751.5,
+     "end": 760.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0269",
+     "time": 754.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0269.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0269.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 653.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0231.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0307",
+     "time": 864.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0307.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0307.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0269.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "deep-drawers",
+   "title": "Custom deep drawers beside service storage",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "Narrow wood-fronted drawers pull far out of the fitted storage wall. Jérôme says they use leftover depth near a water heater and lists clothes and shoes among their uses.",
+   "unknown": "Drawer measurements and concealed heater position are not visible.",
+   "phase": "current",
+   "part_of": "bedroom-storage",
+   "related_ids": [
+    "water-heaters"
+   ],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 768.92,
+     "end": 789.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0278",
+     "time": 777.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0278.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0278.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0277",
+     "time": 776.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0277.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0277.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0283",
+     "time": 788.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0283.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0283.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0278.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bedroom-tv",
+   "title": "Pivoting television recessed in the wardrobe",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "A small screen pulls from a dark recess and angles toward the bed. Jérôme demonstrates that it can turn or push back.",
+   "unknown": "Bracket, screen size and cable route are not shown.",
+   "phase": "current",
+   "part_of": "bedroom-storage",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 789.0,
+     "end": 799.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0285",
+     "time": 796.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0285.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0285.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0284",
+     "time": 789.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0284.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0284.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0285.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "utility-bay",
+   "title": "Utility storage beneath the kitchen",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "The lower fitted storage opens onto a washing machine and folded drying rack in a dark alcove. Jérôme says it occupies space beneath the kitchen with water heaters alongside.",
+   "unknown": "Full enclosure and equipment connections are concealed.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "bedroom-storage",
+    "chef-kitchen"
+   ],
+   "terms": [
+    "storage",
+    "washing machine"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 754.12,
+     "end": 769.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0273",
+     "time": 766.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0273.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0273.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0274",
+     "time": 769.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0274.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0274.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0273.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "washing-machine",
+   "title": "Front-loading washer in the lower cupboard",
+   "place": "bedroom",
+   "category": "Water",
+   "description": "A front-loading machine stands in the utility alcove. Jérôme identifies it as the washing machine beneath the kitchen.",
+   "unknown": "Inlet, drain, capacity and vibration isolation are not shown.",
+   "phase": "current",
+   "part_of": "utility-bay",
+   "related_ids": [],
+   "terms": [
+    "washing machine"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 756.12,
+     "end": 764.12,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0273",
+     "time": 766.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0273.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0273.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0271",
+     "time": 762.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0271.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0271.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0273.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "water-heaters",
+   "title": "Concealed heaters beside the washing machine",
+   "place": "bedroom",
+   "category": "Water",
+   "description": "The washer alcove provides context, but the described pair of heaters is not clearly exposed. Jérôme says water heaters occupy spaces to the right and left of the washer.",
+   "unknown": "Type, capacity, energy source and supplied fixtures are not established.",
+   "phase": "current",
+   "part_of": "utility-bay",
+   "related_ids": [],
+   "terms": [
+    "hot water"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 760.04,
+     "end": 780.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0272",
+     "time": 764.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0272.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0272.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0274",
+     "time": 769.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0274.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0274.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0272.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "drying-rack",
+   "title": "Folded drying rack beside the washer",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "A folded metal drying rack leans upright beside the washing machine. It is shown when the cupboard opens without a spoken explanation.",
+   "unknown": "Its deployed position and household drying practice are not shown.",
+   "phase": "current",
+   "part_of": "utility-bay",
+   "related_ids": [],
+   "terms": [
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0273",
+     "time": 766.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0273.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0273.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0273.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "oak-surfaces",
+   "title": "Oak finishes carried across the levels",
+   "place": "apartment",
+   "category": "Materials",
+   "description": "Wood surfaces recur on floors, steps, cabinetry and the bedroom headboard. Jérôme identifies oak as the material intended to accompany movement through kitchen, bedroom and bathroom.",
+   "unknown": "The film does not establish that all wood surfaces share one construction, grade or finish.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "apartment",
+    "chef-kitchen",
+    "bedroom-storage",
+    "bathroom"
+   ],
+   "terms": [
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 880.88,
+     "end": 898.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0317",
+     "time": 896.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0317.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0317.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0313",
+     "time": 888.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0313.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0313.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 653.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0231.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0317.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cabinet-panels",
+   "title": "Oak-faced kitchen cupboard panels",
+   "place": "kitchen",
+   "category": "Materials",
+   "description": "Jérôme handles an overhead cupboard door edge, exposing a slim wood-finished panel. Film subtitles describe using oak in this form as stronger than a solid piece in the kitchen.",
+   "unknown": "Core, veneer thickness, adhesive and strength comparison cannot be verified from the view.",
+   "phase": "current",
+   "part_of": "oak-surfaces",
+   "related_ids": [
+    "chef-kitchen"
+   ],
+   "terms": [
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 543.839,
+     "end": 555.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0200",
+     "time": 550.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0200.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0200.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0196",
+     "time": 540.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0196.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0196.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0200.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lighting",
+   "title": "Built-in lighting across the apartment levels",
+   "place": "apartment",
+   "category": "Energy",
+   "description": "Recessed lamps, bedroom wall washes and the glowing shower panel provide several visible lighting effects. Jérôme explains the shower’s evening light and demonstrates a reduced night setting for reaching the bathroom.",
+   "unknown": "Lamp specifications, circuits and energy use are not supplied.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "shower-glazing",
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 181.519,
+     "end": 194.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 858.639,
+     "end": 878.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 246.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0087.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 641.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0227.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0308",
+     "time": 876.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0308.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0308.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0087.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "kitchen-task-lights",
+   "title": "Recessed lamps below the shower enclosure",
+   "place": "kitchen",
+   "category": "Energy",
+   "description": "Small recessed lamps flank the hood below the shower box and light the kitchen work area. They are visible without a separate spoken explanation.",
+   "unknown": "Lamp type, wattage and controls are not identified.",
+   "phase": "current",
+   "part_of": "lighting",
+   "related_ids": [
+    "chef-kitchen",
+    "suspended-shower"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 246.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0087.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0124",
+     "time": 349.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0124.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0124.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0087.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "bedside-lights",
+   "title": "Backlit headboard and adjustable reading lamps",
+   "place": "bedroom",
+   "category": "Energy",
+   "description": "An illuminated strip above the headboard is accompanied by small adjustable reading lamps. Lower square lights and wall-washing spots are also visible around the bed without a detailed spoken specification.",
+   "unknown": "Individual circuits, lamp types and the headboard light source are not shown.",
+   "phase": "current",
+   "part_of": "lighting",
+   "related_ids": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 628.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0225.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0262",
+     "time": 741.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0262.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0262.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 641.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0227.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0225.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "night-route",
+   "title": "Switchable nighttime route lighting",
+   "place": "bedroom",
+   "category": "Energy",
+   "description": "The bedroom darkens to show small lights along the wall and stair access. Jérôme points out a switch for nighttime movement to the bathroom.",
+   "unknown": "Complete route, switching logic and light levels are not documented.",
+   "phase": "current",
+   "part_of": "lighting",
+   "related_ids": [
+    "lower-stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 858.639,
+     "end": 878.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0308",
+     "time": 876.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0308.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0308.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0307",
+     "time": 864.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0307.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0307.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0308.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "tailored-design",
+   "title": "Design fitted to occupants and body clearances",
+   "place": "apartment",
+   "category": "Process",
+   "description": "Jérôme demonstrates shoulder and head fit in the stair passages and opens furniture designed for particular uses. He says he worked to the centimeter and compares the design with made-to-measure clothing. He also recalls small-space studies and a stay in Le Corbusier’s convent.",
+   "unknown": "These are design-intent accounts, not an as-built survey; the convent is not shown.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "chef-kitchen",
+    "circulation",
+    "bedroom-storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 32.52,
+     "end": 49.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 555.0,
+     "end": 596.839,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 665.56,
+     "end": 735.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0253",
+     "time": 719.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0253.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0253.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 734.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0258.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0156",
+     "time": 437.5,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0156.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0156.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0253.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "street-signs",
+   "title": "Montparnasse shopfront signs",
+   "place": "street",
+   "category": "Plan",
+   "description": "The exterior montage shows Lamartine and hairdresser signs, then a blue awning whose visible lettering begins L’ATELIER B. These signs document filmed street context; the description locates the flat in Montparnasse, Paris.",
+   "unknown": "The cuts do not prove the entrance, exact address or which restaurant employed the owners.",
+   "phase": "current",
+   "part_of": null,
+   "related_ids": [
+    "apartment",
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 16.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0004.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0005",
+     "time": 20.0,
+     "path": "review/koKg8Hgz-mE/evidence/frame-0005.jpg",
+     "preview_path": "review/koKg8Hgz-mE/sample-0005.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/koKg8Hgz-mE/sample-0004.jpg",
+   "model_objects": [],
+   "terms": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0.0,
+   "end": 22.0,
+   "title": "Montparnasse streets and facade",
+   "visible": "Street junction, mural and shopfront signs, followed by ground-floor facade beside blue awning.",
+   "gaps": "Exterior montage does not establish an apartment door-to-interior connection.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0005.jpg"
+  },
+  {
+   "start": 22.0,
+   "end": 54.0,
+   "title": "First apartment overview",
+   "visible": "Architect, living platform, sofa, upper shower, lower kitchen and basement bed glimpsed in completed flat.",
+   "gaps": "No construction archive or measured plan; owners not identified on camera.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0007.jpg"
+  },
+  {
+   "start": 54.0,
+   "end": 98.0,
+   "title": "Staircase becomes living space",
+   "visible": "Broad landing, pale open-tread upper stair and views down to steel kitchen.",
+   "gaps": "Stair dimensions and concealed connections are not established.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0028.jpg"
+  },
+  {
+   "start": 98.0,
+   "end": 163.0,
+   "title": "Sharing the sole window",
+   "visible": "Tall divided window, sofa, translucent shower and kitchen across connected levels.",
+   "gaps": "No building survey or measured daylight performance.",
+   "sample_count": 24,
+   "sample_ids": [
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0034.jpg"
+  },
+  {
+   "start": 163.0,
+   "end": 198.0,
+   "title": "Inside the daylit shower",
+   "visible": "Stone-colored walls and floor, chrome fittings, handheld spray and translucent panel; illuminated silhouette seen outside.",
+   "gaps": "Stone and glazing specifications and plumbing routes are unknown.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0061.jpg"
+  },
+  {
+   "start": 198.0,
+   "end": 264.0,
+   "title": "Suspended shower and floor-level entry",
+   "visible": "Shower enclosure, flush entrance, upper beam area and underside with hood.",
+   "gaps": "Anchorage concealed; two-meter subtitle and transcript differ in meaning.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0087.jpg"
+  },
+  {
+   "start": 264.0,
+   "end": 320.0,
+   "title": "Window light reaches the lower kitchen",
+   "visible": "Window above sofa, stepped floor edge and kitchen cooking position facing window.",
+   "gaps": "Original layout only recalled; no before image or light measurement.",
+   "sample_count": 23,
+   "sample_ids": [
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0107.jpg"
+  },
+  {
+   "start": 320.0,
+   "end": 348.0,
+   "title": "Professional kitchenette fittings",
+   "visible": "Sink, black hob, three lidded containers and opening electrical socket covers.",
+   "gaps": "No cooking or performance test.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122",
+    "frame-0123"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0123.jpg"
+  },
+  {
+   "start": 348.0,
+   "end": 375.0,
+   "title": "Shower over extractor hood",
+   "visible": "Metal grille and recessed lights below shower, directly over kitchen.",
+   "gaps": "External duct and waterproofing hidden.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0124",
+    "frame-0125",
+    "frame-0126",
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0133.jpg"
+  },
+  {
+   "start": 375.0,
+   "end": 418.0,
+   "title": "Bin and deep sink",
+   "visible": "Top-access bin opening, side emptying cupboard, deep sink, cylindrical insert and angular mixer.",
+   "gaps": "Insert function and bin capacity not established.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0143.jpg"
+  },
+  {
+   "start": 418.0,
+   "end": 445.0,
+   "title": "Cupboard door becomes worktop",
+   "visible": "Cupboard face folds down on arms for extra preparation area, then closes.",
+   "gaps": "Load rating and hardware unspecified.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0156.jpg"
+  },
+  {
+   "start": 445.0,
+   "end": 480.0,
+   "title": "Rails and vertical plate storage",
+   "visible": "Detachable bowl and paper roll on rail; plate edges in cut grooves.",
+   "gaps": "Rail origin uncertain; storage capacity not counted.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166",
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0170.jpg"
+  },
+  {
+   "start": 480.0,
+   "end": 519.0,
+   "title": "Shallow cupboard and microwave",
+   "visible": "Open glassware cupboard, built-in microwave and turntable cavity.",
+   "gaps": "Depth not measured; rear casing and ventilation clearances not shown.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0173",
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0180.jpg"
+  },
+  {
+   "start": 519.0,
+   "end": 558.0,
+   "title": "Dedicated shelves and oak cupboard fronts",
+   "visible": "Bottle cells, plate cubbies and overhead pan cupboard; wood panel edge handled.",
+   "gaps": "Cabinet core and strength comparison not verified.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197",
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0193.jpg"
+  },
+  {
+   "start": 558.0,
+   "end": 614.0,
+   "title": "Concealed cold storage and bespoke cooking space",
+   "visible": "Two wood-fronted cold-storage interiors opened; fitted kitchen viewed from several levels.",
+   "gaps": "Fridge/freezer allocation unconfirmed; recalled dish not cooked.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0216.jpg"
+  },
+  {
+   "start": 614.0,
+   "end": 664.0,
+   "title": "Descent into basement bedroom",
+   "visible": "Continuous narrow-stair descent to bed, headboard lights and wardrobe; brief facade insert.",
+   "gaps": "Darkness and quiet not measured; exterior cut does not show entrance route.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0231.jpg"
+  },
+  {
+   "start": 664.0,
+   "end": 723.0,
+   "title": "Convent recollection and body-sized passage",
+   "visible": "Architect gestures to shoulder fit in lower stair; inserts remain apartment views.",
+   "gaps": "Convent never shown; recollected dimensions garbled in translated captions.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0235",
+    "frame-0236",
+    "frame-0237",
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0239.jpg"
+  },
+  {
+   "start": 723.0,
+   "end": 744.0,
+   "title": "Head clearance beneath upper stairs",
+   "visible": "Architect fits head between stair members, followed by view toward bed.",
+   "gaps": "No measured headroom or engineering assessment.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260",
+    "frame-0261",
+    "frame-0262"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0259.jpg"
+  },
+  {
+   "start": 744.0,
+   "end": 789.0,
+   "title": "Bed drawers and utility cupboard",
+   "visible": "Bed-side drawers, washing machine, folded drying rack and deep fitted drawers.",
+   "gaps": "Heater pair not clearly exposed; connections hidden.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274",
+    "frame-0275",
+    "frame-0276",
+    "frame-0277",
+    "frame-0278",
+    "frame-0279",
+    "frame-0280",
+    "frame-0281",
+    "frame-0282",
+    "frame-0283"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0273.jpg"
+  },
+  {
+   "start": 789.0,
+   "end": 800.0,
+   "title": "Pivoting bedroom television",
+   "visible": "Small screen pulls and angles out of wardrobe recess.",
+   "gaps": "Mount specification and full travel not given.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0284",
+    "frame-0285"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0285.jpg"
+  },
+  {
+   "start": 800.0,
+   "end": 859.0,
+   "title": "Exposed intermediate floor underside",
+   "visible": "Orange ribbed infill, pale metal members and dark edge beam above bedroom.",
+   "gaps": "Upper concrete concealed; thickness figures conflict between subtitle and transcript.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0286",
+    "frame-0287",
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292",
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296",
+    "frame-0297",
+    "frame-0298",
+    "frame-0299",
+    "frame-0300",
+    "frame-0301",
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0302.jpg"
+  },
+  {
+   "start": 859.0,
+   "end": 880.0,
+   "title": "Night route lighting",
+   "visible": "Bedroom darkens; small lights illuminate wall and narrow stair access.",
+   "gaps": "Full circuit, route and illuminance not established.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0307",
+    "frame-0308",
+    "frame-0309"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0308.jpg"
+  },
+  {
+   "start": 880.0,
+   "end": 930.0,
+   "title": "Oak continuity and open upper bathroom",
+   "visible": "Movement across wood-finished levels; upper basin and shower overlooking living and kitchen.",
+   "gaps": "No toilet securely seen; matching appearance does not establish identical panel construction.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0310",
+    "frame-0311",
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315",
+    "frame-0316",
+    "frame-0317",
+    "frame-0318",
+    "frame-0319",
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323",
+    "frame-0324",
+    "frame-0325"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0315.jpg"
+  },
+  {
+   "start": 930.0,
+   "end": 965.0,
+   "title": "Former family occupancy recalled",
+   "visible": "Unnamed woman with camera descends upper stairs; architect and visitor in kitchen and living areas.",
+   "gaps": "Current tour footage, not former family occupancy footage.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329",
+    "frame-0330",
+    "frame-0331",
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335",
+    "frame-0336"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0331.jpg"
+  },
+  {
+   "start": 965.0,
+   "end": 1005.761,
+   "title": "Closing movement between levels",
+   "visible": "Visitor and architect move through bedroom stair, kitchen, living and bathroom; final shower-facing shot.",
+   "gaps": "Visitor identity and current occupancy not disclosed.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0337",
+    "frame-0338",
+    "frame-0339",
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343",
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348"
+   ],
+   "thumbnail": "review/koKg8Hgz-mE/sample-0341.jpg"
+  }
+ ]
+}

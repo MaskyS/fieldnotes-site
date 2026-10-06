@@ -1,0 +1,7 @@
+# Review
+
+Selected: candidate-2.png, generated with the built-in image_gen tool using prompt-2.txt and the same four film reference frames listed in prompt order in item.json. Candidate 2 was visually inspected directly in the tool output. Stop at the required two-candidate maximum.
+
+The second candidate removes the unsupported raised shelf rims, shows plain thin boards with dashed original meeting positions, and opens the distant roof-member continuations. It keeps the narrow-edged deep uprights, warm timber, parallel overhead members, exact attributed thickness label, and the text-only connection to Harada's hand-carrying and craft account. Unseen wall and roof layers remain white. There are no people, assumed fasteners, load values or gatehouse claims.
+
+Remaining limitations: the near ends of roof fragments retain solid lower edges beside the dashed unresolved joint volumes; these should be read as diagrammatic fragment boundaries, not verified member terminations. The shelf-board separation is modest and right-hand shelf edges visually approach the upright. Neither detail establishes joinery. The camera viewpoint, three shelf levels, illustrative grain, proportions, pitch, relative alignment and explosion offsets are reconstructed for explanation, not measured or an exact bay record. Dashed meeting envelopes do not specify a joint type. The caption declares representative geometry and dashed concealed conditions. No construction sequence is depicted.

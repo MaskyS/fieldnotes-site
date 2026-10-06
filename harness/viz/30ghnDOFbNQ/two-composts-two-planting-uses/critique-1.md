@@ -1,0 +1,9 @@
+# Candidate 1 critique
+
+Inspected candidate-1.png against all four full-size selected film references.
+
+The dark green-black cylindrical bin retains its shallow conical lid, central knob, front seam, two silver catches and upper side grip. Its opening detail retains mixed dark scraps, pale pieces and fine strands. The timber heap retains its low rectangular enclosure, weathered horizontal boards, lower gaps, tangled brown mound and broad panel leaning toward the foreground left. These are solid drawings. Both inputs and destinations are accurate text labels, and all four transfer/use arrows are dashed and explicitly attributed to Marie. There are no people or separator. No finished compost, treatment stage, elapsed time or application has been illustrated; omissions and lack of demonstrated endpoint are written on the image.
+
+Cosmetic deviations and editorial additions: the bin's gray highlights are more mottled than the smooth filmed surface; its perspective is slightly more frontal. The circular opening detail is flattened and enlarged for readability, with individual scraps and strands approximated rather than traced. Timber grain, board joints and exposed corner edges are sharpened where the film is soft or partly obscured; the irregular plank spacing, individual leaf and twig positions, and local ground wash are illustrative simplifications. The heap's perspective is slightly compressed. The inset, row arrangement, labels, arrows, paper texture and typographic hierarchy are editorial additions, not filmed objects or a site plan. The inset is clearly captioned as inside the same bin, not a second container or finished stage. Garden background and unrelated loose disc are omitted intentionally.
+
+No material deviation in material appearance, colour, count, identity, process distinction or arrangement is found. No new substantive physical element or unfilmed process stage is asserted. Only cosmetic issues remain; stop at one candidate.

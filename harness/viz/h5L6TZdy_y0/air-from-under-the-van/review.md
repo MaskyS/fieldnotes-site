@@ -1,0 +1,7 @@
+# Review
+
+Selected candidate-2.png, generated with the built-in image tool using prompt-2.txt. Both generated candidates were viewed. Candidate 2 removes the invented forward furniture and door hardware, reduces the grip, uses one dashed conceptual airflow path with one terminal arrow, and keeps the concealed mechanism blank. The only enlarged operating detail is the cord at the bench. Reversible operation is attributed to Dave. No performance figures or cooling claims appear.
+
+Remaining abstractions: the mesh appears as a narrow hatched band in section rather than reproducing its square underside appearance; the roof fan is a symbolic section and does not display its circular face. The smoke-grey lid is simplified to a tilted slab. The grip silhouette and exposed exit point are approximations, explicitly labelled simplified; the complete linkage is omitted. The dashed shell, sleeping envelope, wood bench extent, fan offset, and blue path are compositional reconstructions rather than surveyed geometry. The airflow crosses the bench silhouette diagrammatically and should not be read as a documented internal duct. Some double shell/floor lines remain, but specify no construction thickness. No inlet depth or water protection system is depicted.
+
+The second candidate is materially closer to the evidence. Stopped at the required maximum of two candidates. The first network request failed without an image; the retry produced candidate 1. No filmed plan or document was present in the supplied reference set.

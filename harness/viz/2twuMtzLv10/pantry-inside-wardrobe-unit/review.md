@@ -1,0 +1,7 @@
+# Review
+
+Selected: candidate-2.png, generated with the built-in image tool using prompt-2.txt. Both candidates were viewed. The second improves the vertical door grips, restrained mirror frame, single movement arrow and dashed concealed envelope, while retaining the observed two doors, two drawers, clothes and pantry beside the mirrored end.
+
+Remaining limitations: this is an indicative local axonometric reconstruction, not a measured construction drawing. Simultaneous opening, proportions, depth, travel and closed pantry envelope are reconstructed. Container/garment arrangements are simplified. Candidate 2 adds a vertical pantry handle and framed outer panel treatment that are not clearly established by the selected frames; these are residual invented details. Some top/bottom pantry edges and apparent timber joints remain solid inside the dashed uncertainty envelope; the dashed envelope and note should not be read as evidence for their construction. Clothes obscure the lower interior and its division remains uncertain. Dimensions, loading and off-season storage are deliberately unfilled. No further generation: two-candidate limit reached.
+
+Provenance: all five catalogue frames named in prompt-2.txt are listed in item.json, including frame-0077, which was described rather than attached. The extracted fridge-document check was not used to generate the drawing and is not included as drawing provenance.

@@ -1,0 +1,4536 @@
+{
+ "title": "Marie and Charles’s greenhouse-enclosed summer house",
+ "source": {
+  "id": "30ghnDOFbNQ",
+  "url": "https://www.youtube.com/watch?v=30ghnDOFbNQ",
+  "duration": 1111.321,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "Automatic English captions supplied in transcript.txt; noisy names and occasional garbling, with large gaps during Charles’s speech. No captions.json translation metadata file was present. Filmmaker-supplied English subtitles were read directly from extracted video frames for those passages and take precedence for names and figures; their timings are included among transcript_spans as timed spoken evidence. Speaker attribution uses the filmed interviews and description; unidentified voices remain narrator.",
+  "context": {
+   "location": {
+    "country": "Sweden",
+    "state_or_region": "Stockholm archipelago",
+    "nearest_place": "Stockholm",
+    "precision": "Regional only; island, municipality and address not disclosed. The description says Stockholm archipelago; the film says just outside Stockholm.",
+    "climate": {
+     "koppen": "Dfb",
+     "name": "warm-summer humid continental",
+     "group": "continental",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Stockholm, Sweden",
+      "lat": 59.325,
+      "lon": 18.071,
+      "matched": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+      "stands_for": "city",
+      "precision": "Regional only; island, municipality and address not disclosed. The description says Stockholm archipelago; the film says just outside Stockholm."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 590,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Stockholm, Sweden",
+      "lat": 59.325,
+      "lon": 18.071,
+      "matched": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+      "stands_for": "city",
+      "precision": "Regional only; island, municipality and address not disclosed. The description says Stockholm archipelago; the film says just outside Stockholm."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "7b",
+     "mean_annual_extreme_min_c": -14.4,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Stockholm, Sweden",
+      "lat": 59.325,
+      "lon": 18.071,
+      "matched": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+      "stands_for": "city",
+      "precision": "Regional only; island, municipality and address not disclosed. The description says Stockholm archipelago; the film says just outside Stockholm."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 23,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Stockholm, Sweden",
+      "lat": 59.325,
+      "lon": 18.071,
+      "matched": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+      "stands_for": "city",
+      "precision": "Regional only; island, municipality and address not disclosed. The description says Stockholm archipelago; the film says just outside Stockholm."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "stated": {
+     "low temperature": {
+      "claim": "severe-cold",
+      "at": [
+       404.36
+      ],
+      "by": "marie",
+      "said": {
+       "value": -20,
+       "unit": "C"
+      },
+      "value": -20,
+      "unit": "°C",
+      "derived": -14.4,
+      "agrees": true
+     }
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2015-11-11"
+  },
+  "transcript_kind": "automatic captions",
+  "text_sources": [
+   {
+    "start": 138,
+    "end": 183,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 262,
+    "end": 303,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 465,
+    "end": 490,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 501,
+    "end": 511,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 611,
+    "end": 678,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 682,
+    "end": 688,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 701,
+    "end": 723,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 764,
+    "end": 771,
+    "kind": "burned-in subtitles"
+   },
+   {
+    "start": 927,
+    "end": 936,
+    "kind": "burned-in subtitles"
+   }
+  ]
+ },
+ "sampling": {
+  "frames": 274,
+  "candidate_shots": 123,
+  "contact_sheets": 10,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/30ghnDOFbNQ"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "marie",
+   "charles"
+  ],
+  "gist": "Marie and Charles enclosed a summer house in a greenhouse for year-round family life, gaining a rooftop playground but still waking to winter cold.",
+  "story": {
+   "text": "Marie and Charles wrap a summer house in an ordinary greenhouse so their family can live there all year. Taking off the house roof gives them a sheltered terrace for playing and relaxing, and Marie notices that a cold, rainy summer bothers her far less than it bothers her friends. She can drink morning coffee beside a fig tree without getting wet. Charles brings his engineering skills to a wastewater system that feeds planted beds. Winter still means warm slippers and lighting a fire: this is a home that follows the seasons. They keep experimenting, with storing summer heat for winter still waiting on money and time.",
+   "moments": [
+    {
+     "phrase": "wrap a summer house in an ordinary greenhouse",
+     "at": 34.44
+    },
+    {
+     "phrase": "a sheltered terrace for playing and relaxing",
+     "at": 223.12
+    },
+    {
+     "phrase": "a cold, rainy summer bothers her far less",
+     "at": 313.919
+    },
+    {
+     "phrase": "a wastewater system that feeds planted beds",
+     "at": 690.96
+    },
+    {
+     "phrase": "Winter still means warm slippers and lighting a fire",
+     "at": 979.759
+    },
+    {
+     "phrase": "storing summer heat for winter still waiting on money and time",
+     "at": 1060.799
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Granmar–Sacilotto household site",
+   "kind": "site",
+   "within": null,
+   "caveat": "Stockholm archipelago according to the description; island, address and boundaries are not disclosed.",
+   "entity": "ent-marie-charles-greenhouse-enclosed-summer-house"
+  },
+  {
+   "id": "greenhouse",
+   "title": "Greenhouse enclosing the home",
+   "kind": "building",
+   "within": "site",
+   "caveat": "The shell and enclosed house are visibly distinct; no measured plan is inferred."
+  },
+  {
+   "id": "house",
+   "title": "Marie and Charles’s timber house",
+   "kind": "building",
+   "within": "greenhouse",
+   "caveat": "A pale entrance projection is visible at the edge of the enclosing shell; its exact enclosure boundary is not mapped."
+  },
+  {
+   "id": "hall",
+   "title": "Bedroom passage",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Brief passage view; doors to the boys’ rooms are indicated without entering them."
+  },
+  {
+   "id": "main-bedroom",
+   "title": "Marie and Charles’s bedroom",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Shown briefly with direct access to the sheltered balcony."
+  },
+  {
+   "id": "boys-bedrooms",
+   "title": "Boys’ bedrooms, indicated only",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Marie identifies these rooms at about 414–417 seconds; their interiors and individual boundaries are not shown."
+  },
+  {
+   "id": "living-room",
+   "title": "Living room",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Windows overlook the enclosed planting; kitchen connection is visible in one shot."
+  },
+  {
+   "id": "kitchen",
+   "title": "Kitchen glimpsed beyond the fireplace",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Visible through a continuous opening from the living room; not separately toured."
+  },
+  {
+   "id": "toilet-room",
+   "title": "Room with separating toilet",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Entered with Charles; adjacency to other house rooms is not inferred from the cut."
+  },
+  {
+   "id": "cellar",
+   "title": "Cellar with wastewater equipment",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Also used for household storage; no complete layout is available."
+  },
+  {
+   "id": "terrace",
+   "title": "Roof terrace inside the greenhouse",
+   "kind": "room",
+   "within": "house",
+   "caveat": "A sheltered open terrace above the house, under the greenhouse roof; room denotes the occupied interior space."
+  },
+  {
+   "id": "balcony",
+   "title": "Sheltered bedroom balcony",
+   "kind": "room",
+   "within": "greenhouse",
+   "caveat": "Direct bedroom doorway connection is shown; not open to outdoor weather."
+  },
+  {
+   "id": "growing-passage",
+   "title": "Greenhouse decks and growing passage",
+   "kind": "room",
+   "within": "greenhouse",
+   "caveat": "Circulation and planting beside the house, including the fish basin; no continuous plan is inferred."
+  },
+  {
+   "id": "filter-room",
+   "title": "Enclosed planted-treatment space",
+   "kind": "room",
+   "within": "greenhouse",
+   "caveat": "Low plywood-ceilinged lean-to built against the old stone foundation wall of the house and entered from the greenhouse passage; whether its roof is part of the greenhouse glazing or separate is not shown."
+  },
+  {
+   "id": "garden",
+   "title": "Wooded garden around the greenhouse",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Includes lawn, rough planting and fruit trees; boundaries not surveyed."
+  },
+  {
+   "id": "pond-place",
+   "title": "Vegetated wastewater pond",
+   "kind": "land feature",
+   "within": "garden",
+   "caveat": "Marie identifies the heavily planted depression as the treatment pond; water surface is largely obscured."
+  },
+  {
+   "id": "compost-area",
+   "title": "Garden compost area",
+   "kind": "outdoor area",
+   "within": "garden",
+   "caveat": "Both the dark food bin and open timber heap are shown together."
+  },
+  {
+   "id": "shelter-place",
+   "title": "Open-front garden shelter",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Seen only from outside; use is not identified."
+  },
+  {
+   "id": "neighborhood",
+   "title": "Opening neighborhood street and homes",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Opening context footage; street identity and exact relation to the household route are not established.",
+   "outside": true
+  }
+ ],
+ "people": [
+  {
+   "id": "marie",
+   "name": "Marie Granmar",
+   "relation": "owner",
+   "note": "Resident and principal English-speaking guide; full name supplied by the description."
+  },
+  {
+   "id": "charles",
+   "name": "Charles Sacilotto",
+   "relation": "owner",
+   "note": "Resident, builder of the wastewater system and engineer by training; most of his explanations appear in filmmaker-supplied English subtitles."
+  },
+  {
+   "id": "bengt",
+   "name": "Bengt Warne",
+   "relation": "designer",
+   "note": "Architect credited in the description and Charles’s subtitles for the Nature House/greenhouse design; not shown or interviewed."
+  },
+  {
+   "id": "kirsten",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Named as uploader in source metadata; unnamed off-camera questions remain attributed to narrator rather than assuming speaker identity.",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "household-concept",
+   "text": "A summer house enclosed in a greenhouse for year-round living.",
+   "by": "marie",
+   "at": [
+    34.44
+   ],
+   "about": "house",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "archipelago-location",
+   "text": "The home is on the Stockholm archipelago.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true
+  },
+  {
+   "id": "shell-footprint",
+   "text": "The greenhouse footprint is nearly twice the home’s footprint.",
+   "by": "description",
+   "at": [],
+   "about": "greenhouse",
+   "headline": true
+  },
+  {
+   "id": "shell-cost",
+   "text": "At that time, more than ten years ago, the greenhouse cost about €80,000.",
+   "by": "charles",
+   "at": [
+    508
+   ],
+   "about": "greenhouse",
+   "headline": true,
+   "doubt": "The subtitled answer follows a greenhouse-cost question but does not define scope; the year is given only as more than ten years before filming.",
+   "quantity": {
+    "value": 80000,
+    "unit": "EUR",
+    "of": "component cost",
+    "approx": true
+   },
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "project-age",
+   "text": "The home was built more than ten years before filming.",
+   "by": "charles",
+   "at": [
+    505
+   ],
+   "about": "house",
+   "headline": true,
+   "quantity": {
+    "value": 10,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "glass-thickness",
+   "text": "Glass thickness is 4 millimeters [0.157 inches].",
+   "by": "charles",
+   "at": [
+    466
+   ],
+   "about": "safety-glass",
+   "headline": true,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "sewage-independence",
+   "text": "The household is completely independent of city sewage.",
+   "by": "description",
+   "at": [],
+   "about": "wastewater-system",
+   "headline": true
+  },
+  {
+   "id": "heating-season",
+   "text": "Additional heating runs only from mid-October to the end of March instead of from the end of September to May, cutting off several months a year.",
+   "by": "marie",
+   "at": [
+    1028.48
+   ],
+   "about": "supplemental-heating",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "ordinary-greenhouse",
+   "text": "The enclosure is an ordinary commercially available greenhouse.",
+   "by": "marie",
+   "at": [
+    110.759,
+    492.159
+   ],
+   "about": "greenhouse",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "warne-design",
+   "text": "Bengt Warne designed the greenhouse.",
+   "by": "charles",
+   "at": [
+    169
+   ],
+   "about": "greenhouse",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "warne-first-design",
+   "text": "Bengt Warne began designing the first Naturhus in 1974.",
+   "by": "description",
+   "at": [],
+   "about": "house",
+   "headline": false
+  },
+  {
+   "id": "warne-1990s",
+   "text": "Warne’s Nature House ideas are associated with the 1990s.",
+   "by": "marie",
+   "at": [
+    119.079
+   ],
+   "about": "house",
+   "headline": false,
+   "doubt": "The transcript dates the ideas to the 1990s; the description clarifies book-era influence and gives 1974 for the first design.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "original-site-search",
+   "text": "A vacant-lot search became a purchase with an existing house.",
+   "by": "charles",
+   "at": [
+    145
+   ],
+   "about": "former-summer-house",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "enclosure-before-enlargement",
+   "text": "The greenhouse preceded enlargement of the enclosed house.",
+   "by": "charles",
+   "at": [
+    163
+   ],
+   "about": "house-enlargement",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "linseed-only",
+   "text": "The reconstructed timber exterior received only linseed oil.",
+   "by": "marie",
+   "at": [
+    74.799
+   ],
+   "about": "oiled-cladding",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cladding-age",
+   "text": "The exterior was reconstructed a few years before filming.",
+   "by": "marie",
+   "at": [
+    71.4,
+    92.84
+   ],
+   "about": "oiled-cladding",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "sheltered-exterior",
+   "text": "The greenhouse keeps rain and wind off the house.",
+   "by": "marie",
+   "at": [
+    80.759
+   ],
+   "about": "oiled-cladding",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "reduced-insulation",
+   "text": "Retaining solar energy reduces the amount of insulation needed.",
+   "by": "marie",
+   "at": [
+    95.72
+   ],
+   "about": "house",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "roof-taken-off",
+   "text": "Removing the house roof created an additional living terrace.",
+   "by": "marie",
+   "at": [
+    186.56,
+    223.12
+   ],
+   "about": "roof-removal",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "automatic-roof-venting",
+   "text": "Roof vents open and close automatically with temperature.",
+   "by": "marie",
+   "at": [
+    209.56
+   ],
+   "about": "roof-vents",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "southern-sun",
+   "text": "The house receives southern sun all day.",
+   "by": "marie",
+   "at": [
+    244.56
+   ],
+   "about": "solar-climate",
+   "headline": false,
+   "facing": "south",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "without-sun",
+   "text": "Without sun, greenhouse temperature is nearly the same as outdoors.",
+   "by": "charles",
+   "at": [
+    268
+   ],
+   "about": "solar-climate",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "january-example",
+   "text": "For example at the end of January it can be −2°C [28.4°F] outside and 15–20°C [59–68°F] upstairs.",
+   "by": "charles",
+   "at": [
+    292
+   ],
+   "about": "solar-climate",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "severe-cold",
+   "text": "Even in this greenhouse it gets cold in winter: at −20°C [−4°F] outside it gets maybe −10°C [14°F] in here, so some insulation and heating are still needed.",
+   "by": "marie",
+   "at": [
+    404.36
+   ],
+   "about": "solar-climate",
+   "headline": false,
+   "quantity": {
+    "value": -20,
+    "unit": "C",
+    "of": "low temperature"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "winter-season",
+   "text": "The cold season runs from late October to early April.",
+   "by": "marie",
+   "at": [
+    383.72
+   ],
+   "about": "solar-climate",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fig-frost",
+   "text": "Fig trees do not survive freezing temperatures outdoors here.",
+   "by": "marie",
+   "at": [
+    374.96
+   ],
+   "about": "fig-tree",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fig-harvest",
+   "text": "The fig tree has many fruits this year.",
+   "by": "marie",
+   "at": [
+    372.199
+   ],
+   "about": "fig-tree",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "safety-glass-overhead",
+   "text": "Almost all glazing, including everything overhead, is security glass.",
+   "by": "charles",
+   "at": [
+    469
+   ],
+   "about": "safety-glass",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "glass-breakage",
+   "text": "If broken, the security glass breaks into tiny pieces.",
+   "by": "charles",
+   "at": [
+    484
+   ],
+   "about": "safety-glass",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "grape-juice",
+   "text": "The household makes juice from its grapes.",
+   "by": "marie",
+   "at": [
+    522.399
+   ],
+   "about": "grapevine",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rainwater-irrigates",
+   "text": "Underground rainwater collection supplies plant watering.",
+   "by": "marie",
+   "at": [
+    531.399
+   ],
+   "about": "rainwater-irrigation",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "chemical-free-treatment",
+   "text": "No chemicals are added to the sewage treatment system.",
+   "by": "marie",
+   "at": [
+    600.44
+   ],
+   "about": "wastewater-system",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "charles-built-system",
+   "text": "Charles built the sewage system.",
+   "by": "description",
+   "at": [],
+   "about": "wastewater-system",
+   "headline": false
+  },
+  {
+   "id": "engineer-training",
+   "text": "Charles trained as an engineer.",
+   "by": "charles",
+   "at": [
+    705
+   ],
+   "about": "wastewater-system",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "toilet-compartments",
+   "text": "The toilet has two compartments, separating urine from other waste.",
+   "by": "charles",
+   "at": [
+    613
+   ],
+   "about": "separating-toilet",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "urine-flush",
+   "text": "Urine-only flushing uses 2–3 deciliters [0.2–0.3 liters] of water.",
+   "by": "charles",
+   "at": [
+    631
+   ],
+   "about": "separating-toilet",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "cistern-volume",
+   "text": "Two greywater/urine cisterns provide 2 cubic meters [2,000 liters].",
+   "by": "charles",
+   "at": [
+    637
+   ],
+   "about": "greywater-cisterns",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "greywater-inputs",
+   "text": "Shower and dishwasher water enter the greywater treatment tanks.",
+   "by": "marie",
+   "at": [
+    583.279
+   ],
+   "about": "greywater-cisterns",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tank-bacteria",
+   "text": "Bacteria die off while water stays in the tanks.",
+   "by": "marie",
+   "at": [
+    575.32,
+    595.76
+   ],
+   "about": "wastewater-system",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "centrifuge-separation",
+   "text": "Centrifugal force separates toilet solids from blackwater liquid.",
+   "by": "charles",
+   "at": [
+    655
+   ],
+   "about": "centrifugal-separator",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "separator-emptying",
+   "text": "The separator needs emptying approximately every six months.",
+   "by": "marie",
+   "at": [
+    735.199
+   ],
+   "about": "centrifugal-separator",
+   "headline": false,
+   "quantity": {
+    "value": 6,
+    "unit": "month",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "gravity-flow",
+   "text": "Incoming cistern water displaces an equal volume onward by gravity.",
+   "by": "charles",
+   "at": [
+    711
+   ],
+   "about": "planted-filter",
+   "headline": false,
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "drainage-tube-dimension",
+   "text": "Drainage tubes are described as 30 centimeters [11.8 inches].",
+   "by": "charles",
+   "at": [
+    717
+   ],
+   "about": "filter-pipework",
+   "headline": false,
+   "doubt": "The English subtitle gives no dimension qualifier, so depth, diameter and spacing cannot be distinguished.",
+   "text_source": "burned-in subtitles"
+  },
+  {
+   "id": "soil-filtration",
+   "text": "Greywater filters through the planted bed’s soil.",
+   "by": "marie",
+   "at": [
+    695.399
+   ],
+   "about": "planted-filter",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "nutrient-reuse",
+   "text": "Wastewater fertilizes plants in the treatment bed.",
+   "by": "marie",
+   "at": [
+    750.04
+   ],
+   "about": "planted-filter",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "more-bed-crops",
+   "text": "More plants could be grown in the treatment bed.",
+   "by": "marie",
+   "at": [
+    756.04
+   ],
+   "about": "future-filter-planting",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pond-third-stage",
+   "text": "The garden pond is the third treatment stage.",
+   "by": "marie",
+   "at": [
+    793.199
+   ],
+   "about": "treatment-pond",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pond-acceptable",
+   "text": "Pond bacteria levels are described as acceptable.",
+   "by": "marie",
+   "at": [
+    800.279
+   ],
+   "about": "pond-testing",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pond-ecoli",
+   "text": "The pond has high E. coli levels.",
+   "by": "marie",
+   "at": [
+    815.399
+   ],
+   "about": "pond-testing",
+   "headline": false,
+   "doubt": "The automatic caption renders the organism as “EOL”; E. coli is a tentative reading, not a confirmed transcription.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pond-not-drinkable",
+   "text": "Pond water is not for drinking.",
+   "by": "marie",
+   "at": [
+    807.959
+   ],
+   "about": "treatment-pond",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pond-laboratory-testing",
+   "text": "Pond samples have to be sent to a laboratory; they do that once a year or so.",
+   "by": "marie",
+   "at": [
+    826.32
+   ],
+   "about": "pond-testing",
+   "headline": false,
+   "quantity": {
+    "value": 1,
+    "unit": "year",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "garden-fruit",
+   "text": "The garden has an apple tree and a cherry tree.",
+   "by": "marie",
+   "at": [
+    844.6
+   ],
+   "about": "garden-fruit-trees",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "food-compost-use",
+   "text": "Food compost is used for edible plants.",
+   "by": "marie",
+   "at": [
+    900.079
+   ],
+   "about": "food-compost-bin",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "solids-compost-use",
+   "text": "Composted toilet solids are used only for non-edible planting.",
+   "by": "marie",
+   "at": [
+    865.72,
+    895.48
+   ],
+   "about": "solids-compost",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "dry-residue",
+   "text": "Separated toilet solids become a dry, dust-like residue.",
+   "by": "marie",
+   "at": [
+    885.759
+   ],
+   "about": "centrifugal-separator",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "child-seed-growing",
+   "text": "Marie grew the tomatoes from seed with her four-year-old son.",
+   "by": "marie",
+   "at": [
+    953.16
+   ],
+   "about": "family-seed-growing",
+   "headline": false,
+   "quantity": {
+    "value": 4,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tomato-height",
+   "text": "The tomato plants grew a meter high [3.28 feet].",
+   "by": "marie",
+   "at": [
+    960.519
+   ],
+   "about": "tomatoes",
+   "headline": false,
+   "quantity": {
+    "value": 1,
+    "unit": "m",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "seasonal-variation",
+   "text": "Indoor comfort varies with the season, including cold winter mornings.",
+   "by": "marie",
+   "at": [
+    979.759
+   ],
+   "about": "solar-climate",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "heat-storage-unpurchased",
+   "text": "No proposed solar heat-storage system has been purchased.",
+   "by": "marie",
+   "at": [
+    1071.08
+   ],
+   "about": "future-heat-store",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "development-resources",
+   "text": "Further development needs money and time.",
+   "by": "marie",
+   "at": [
+    1089.48
+   ],
+   "about": "future-heat-store",
+   "headline": false,
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://www.nok.se/titlar/allmanlitteratur-illustrerad-fack/naturhus/20e41e9c-31f3-4035-958c-1011bd1b6697",
+   "kind": "book",
+   "entity": {
+    "type": "work",
+    "name": "Naturhus",
+    "people": [
+     "marie"
+    ],
+    "entity": "ent-naturhus"
+   },
+   "by": "description",
+   "line": "Granmar's book Naturhus (in Swedish) https://www.nok.se/titlar/allmanlitteratur-illustrerad-fack/naturhus/20e41e9c-31f3-4035-958c-1011bd1b6697",
+   "channel": "Kirsten Dirksen",
+   "note": "in Swedish"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "centrifugal-separator",
+   "predicate": "drains liquid through a visible pipe to",
+   "object": "blackwater-cistern",
+   "time": [
+    565,
+    574,
+    673,
+    681
+   ],
+   "status": "Visible pipe connection; liquid routing also explained by Marie and Charles."
+  },
+  {
+   "subject": "bedroom-balcony-door",
+   "predicate": "opens directly onto",
+   "object": "sheltered-balcony",
+   "time": [
+    420,
+    441
+   ],
+   "status": "Continuous doorway movement shows the connection."
+  },
+  {
+   "subject": "metal-stair",
+   "predicate": "provides access to",
+   "object": "roof-terrace",
+   "time": [
+    210,
+    217.5
+   ],
+   "status": "Marie is filmed ascending the stair to the terrace."
+  },
+  {
+   "subject": "house-windows",
+   "predicate": "look directly onto",
+   "object": "tomatoes",
+   "time": [
+    960,
+    976
+   ],
+   "status": "Plants and interior window frames appear in the same shots."
+  },
+  {
+   "subject": "fish-basin-box",
+   "predicate": "discharges through a visible outlet into",
+   "object": "fish-basin",
+   "time": [
+    512,
+    517
+   ],
+   "status": "Outlet and falling water visible at basin edge; device function unidentified."
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "house",
+   "title": "Summer house adapted for year-round living",
+   "place": "house",
+   "category": "Structure",
+   "description": "A timber-clad home stands within a much larger glass enclosure. Marie says it was a summer house that was not originally intended for year-round occupation, and that the greenhouse makes comfortable year-round use possible. Charles describes enlarging the house after enclosing it.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The original footprint, room areas, foundations and full insulation build-up are not established.",
+   "related_ids": [
+    "greenhouse",
+    "solar-climate"
+   ],
+   "terms": [
+    "timber",
+    "greenhouse-enclosed",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 34.44,
+     "end": 45.719,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 142,
+     "end": 183,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 163.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0034.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0011",
+     "time": 48.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0011.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0011.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0254",
+     "time": 999.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0254.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0254.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0034.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "former-summer-house",
+   "title": "Former summer-only house",
+   "place": "house",
+   "category": "Structure",
+   "description": "The film uses current exterior views while discussing the earlier house. Marie says it was built for summer occupation; Charles says their first intention was to find a vacant lot, but they chose this plot with a small existing house.",
+   "phase": "historical",
+   "part_of": "house",
+   "unknown": "No photograph or footage establishes the original building’s appearance, date or condition.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 34.44,
+     "end": 45.719,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 142,
+     "end": 166,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0032",
+     "time": 155.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0032.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0032.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 163.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0034.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0032.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "house-enlargement",
+   "title": "Enlargement inside the completed greenhouse",
+   "place": "house",
+   "category": "Process",
+   "description": "Current views show the enlarged timber home beneath the glass shell. Charles’s on-screen English subtitles say they first built the Nature House around the small house, then built and enlarged the house inside it.",
+   "phase": "historical",
+   "part_of": "house",
+   "unknown": "No construction sequence, addition boundary, contractor record or dated drawing is shown.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "greenhouse-enclosed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 160,
+     "end": 183,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0036",
+     "time": 174.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0036.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0036.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 178.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0038.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0036.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "oiled-cladding",
+   "title": "Horizontal timber cladding with linseed oil",
+   "place": "house",
+   "category": "Materials",
+   "description": "Close views show overlapping horizontal timber boards, knots, trim and house windows. Marie says they reconstructed this exterior a few years earlier and coated it only with linseed oil because rain and wind do not reach it inside the greenhouse.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Timber species, oil formulation, treatment frequency and hidden wall layers are not specified.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "linseed oil"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 69.9,
+     "end": 100.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0016",
+     "time": 80.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0016.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0016.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0015",
+     "time": 74.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0015.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0015.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 85.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0019.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0016.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "house-windows",
+   "title": "House windows facing greenhouse planting",
+   "place": "house",
+   "category": "Structure",
+   "description": "White-framed house windows open or look into the greenhouse rather than directly outdoors. Tomatoes are visible immediately beyond the living-room glazing. Marie says the family enjoys seeing the tomatoes they grew through these windows.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Glazing specifications, airtightness and the orientation of each room are not given.",
+   "related_ids": [
+    "tomatoes"
+   ],
+   "terms": [
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 960,
+     "end": 972.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0249",
+     "time": 976.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0249.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0249.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0248",
+     "time": 968.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0248.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0248.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 108.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0024.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0249.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "living-room-furnishings",
+   "title": "Living room with piano and bookshelves",
+   "place": "living-room",
+   "category": "Life",
+   "description": "The living room has a red sofa by the greenhouse-facing windows, an upright piano and tall shelves filled with books and discs. These furnishings are visible during the indoor tour but are not discussed.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "The film does not identify the furniture, piano maker or room dimensions.",
+   "related_ids": [
+    "house-windows",
+    "fireplace"
+   ],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0248",
+     "time": 968.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0248.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0248.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0245",
+     "time": 960.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0245.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0245.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0254",
+     "time": 999.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0254.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0254.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0248.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "timber-floor",
+   "title": "Timber floor through the living space",
+   "place": "living-room",
+   "category": "Materials",
+   "description": "Warm-toned timber floorboards extend across the living room and toward the kitchen opening. The camera briefly tilts down to show the floor and seating area.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Wood species, floor build-up, insulation and whether any underfloor heating exists are not established.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0252",
+     "time": 994.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0252.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0252.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0254",
+     "time": 999.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0254.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0254.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0252.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "kitchen-counter",
+   "title": "Kitchen counter and stools beside fireplace",
+   "place": "kitchen",
+   "category": "Life",
+   "description": "A kitchen with white cabinetry, refrigerator, microwave and a narrow counter with stools is visible beyond the fireplace. A continuous shot establishes its open connection to the living room.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "The kitchen is not toured closely, and appliance models, fuel sources and plumbing are not explained.",
+   "related_ids": [
+    "fireplace"
+   ],
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0254",
+     "time": 999.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0254.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0254.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0253",
+     "time": 997.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0253.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0253.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0254.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bedroom-balcony-door",
+   "title": "Bedroom doorway onto sheltered balcony",
+   "place": "main-bedroom",
+   "category": "Structure",
+   "description": "The bedroom contains a bed, light curtains, pictures and a small desk or table. Marie walks through its glazed door directly onto the sheltered balcony and describes enjoying morning coffee there.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Bedroom dimensions and construction details are not given; neighboring bedroom interiors remain unseen.",
+   "related_ids": [
+    "sheltered-balcony"
+   ],
+   "terms": [
+    "door",
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 414,
+     "end": 450.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 420.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0100.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0104",
+     "time": 430.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0104.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0104.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0102",
+     "time": 425.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0102.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0102.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0100.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "entrance-porch",
+   "title": "Pale projecting entrance and timber steps",
+   "place": "house",
+   "category": "Structure",
+   "description": "Exterior views show a pale-clad projecting entrance with glazed doors and a short flight of timber steps with railings. It sits beside the timber house at the edge of the glass enclosure.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Its construction date, thermal envelope and relationship to the original house are not explained.",
+   "related_ids": [],
+   "terms": [
+    "porch",
+    "timber",
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0032",
+     "time": 155.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0032.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0032.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 160.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0033.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 25.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0007.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0032.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse",
+   "title": "Metal-framed greenhouse enclosing the home",
+   "place": "greenhouse",
+   "category": "Structure",
+   "description": "A tall glazed enclosure surrounds the timber house and leaves room for growing and circulation around it. Marie calls it an ordinary commercially available greenhouse used to retain solar warmth; Charles’s subtitles credit Bengt Warne with its design. In the cost exchange Charles gives an approximate €80,000 figure and says the home was built more than ten years earlier.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The cost’s exact scope is unclear and its year is given only as the build, more than ten years before filming; the film supplies no invoice, shell dimensions or structural specification.",
+   "related_ids": [
+    "house",
+    "solar-climate"
+   ],
+   "terms": [
+    "greenhouse",
+    "greenhouse-enclosed",
+    "glass",
+    "metal",
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 54.28,
+     "end": 69.7,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 110.759,
+     "end": 133.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 168,
+     "end": 174,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 492.159,
+     "end": 511.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0011",
+     "time": 48.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0011.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0011.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0025",
+     "time": 115.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0025.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0025.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0126",
+     "time": 498.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0126.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0126.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0011.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "safety-glass",
+   "title": "Four-millimeter overhead safety glazing",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "Repeated rectangular panes are held in the metal wall and roof frame. Charles’s English subtitles call the material 4 millimeter glass [0.157 inches] and say almost the entire greenhouse, including everything overhead, is security glass that breaks into tiny pieces.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "No manufacturer certificate, exact heat treatment, pane schedule or exception locations are shown.",
+   "related_ids": [],
+   "terms": [
+    "glass",
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 465,
+     "end": 491,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0121",
+     "time": 480.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0121.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0121.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0120",
+     "time": 474.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0120.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0120.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0123",
+     "time": 486.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0123.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0123.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0121.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-fabrics",
+   "title": "Striped fabrics suspended below roof glazing",
+   "place": "terrace",
+   "category": "Climate",
+   "description": "Long striped fabric panels hang in loose folds beneath the sloping greenhouse roof. They are visible above the terrace and play area, with some sections gathered along the structure.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "Nobody names their material or confirms whether they serve as shading, insulation or decoration.",
+   "related_ids": [
+    "roof-terrace",
+    "solar-climate"
+   ],
+   "terms": [
+    "fabric",
+    "shading"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0096",
+     "time": 408.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0096.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0096.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0256",
+     "time": 1005.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0256.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0256.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 333.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0073.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0096.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fish-basin",
+   "title": "Goldfish basin beside greenhouse decking",
+   "place": "growing-passage",
+   "category": "Water",
+   "description": "A narrow open basin lies beside the timber deck, with greenish water, lily-like pads and a short upright fitting. A black liner folds over the basin edge, and a hose-fed black filter box stands on the deck beside it. Marie identifies the fish as goldfish.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "The fish are difficult to resolve in the water; volume, water source and any link to wastewater treatment are not established.",
+   "related_ids": [],
+   "terms": [
+    "pond",
+    "waterproof membrane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 514.68,
+     "end": 518.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0131",
+     "time": 517.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0131.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0131.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0130",
+     "time": 513.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0130.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0130.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0131.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fish-basin-box",
+   "title": "Black hose-fed filter box at fish basin",
+   "place": "growing-passage",
+   "category": "Water",
+   "description": "A black lidded rectangular box stands on the deck at the basin edge, fed by a corrugated hose, with a short discharge back into the basin: the arrangement of a pond filter box.",
+   "phase": "current",
+   "part_of": "fish-basin",
+   "unknown": "Make, pump location and flow rate are not shown, and nobody speaks about it.",
+   "related_ids": [],
+   "terms": [
+    "water filter"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0130",
+     "time": 513.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0130.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0130.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0129",
+     "time": 512.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0129.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0129.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0130.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-creature",
+   "title": "Small creature encountered at greenhouse glazing",
+   "place": "growing-passage",
+   "category": "Life",
+   "description": "Marie reaches toward a tiny indistinct creature by the greenhouse door glazing. She remarks that many animals like living there.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "Motion blur and scale prevent identification even in enlarged extracted frames; no species is asserted.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 938.92,
+     "end": 945.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0242",
+     "time": 941.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0242.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0242.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0243",
+     "time": 943.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0243.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0243.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0242.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "solar-climate",
+   "title": "Solar warmth with seasonal temperature variation",
+   "place": "greenhouse",
+   "category": "Climate",
+   "description": "Sunlight enters the glass enclosure and reaches the house and roof terrace. Marie says the site receives southern sun all day, while Charles’s subtitles stress that temperatures approach outdoors when there is no sun. He gives a January example of −2°C [28.4°F] outside and 15–20°C [59–68°F] upstairs; Marie also describes severe cold still penetrating the enclosure.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No monitored temperature series or energy model is shown; the claimed benefit does not establish tropical or uniform year-round conditions.",
+   "related_ids": [
+    "greenhouse",
+    "supplemental-heating"
+   ],
+   "terms": [
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 244.56,
+     "end": 256.199,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 264,
+     "end": 304,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 401.28,
+     "end": 413.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 979.759,
+     "end": 1021.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0060",
+     "time": 260.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0060.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0060.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0261",
+     "time": 1024.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0261.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0261.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0263",
+     "time": 1052.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0263.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0263.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0060.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-vents",
+   "title": "Temperature-controlled opening roof vents",
+   "place": "greenhouse",
+   "category": "Climate",
+   "description": "Raised glazing panels form visible openings along the greenhouse roof; in frame-0072 an opened panel is held up on a push-rod. Marie says they open and close automatically with temperature to release excess summer heat.",
+   "phase": "current",
+   "part_of": "solar-climate",
+   "unknown": "The controls, setpoints, whether the push-rod is a thermal actuator, and failure behavior are not shown.",
+   "related_ids": [
+    "greenhouse"
+   ],
+   "terms": [
+    "skylight",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 194.319,
+     "end": 214.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 197.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0045.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 200.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0046.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0072",
+     "time": 331.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0072.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0072.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0045.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "future-heat-store",
+   "title": "Possible future salt-based heat storage",
+   "place": "greenhouse",
+   "category": "Plan",
+   "description": "The camera shows the existing terrace and enclosure while Marie discusses heat currently escaping through the roof. She suggests that storing solar heat in salt or another system could improve heating independence and says they have not bought such a system.",
+   "phase": "planned",
+   "part_of": "solar-climate",
+   "unknown": "This is an aspiration rather than a specified project; technology, budget, sizing and installation date are not established.",
+   "related_ids": [],
+   "terms": [
+    "thermal storage",
+    "salt"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1060.799,
+     "end": 1081.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0266",
+     "time": 1069.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0266.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0266.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0269",
+     "time": 1083.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0269.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0269.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0266.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-terrace",
+   "title": "Glass-covered roof terrace for family use",
+   "place": "terrace",
+   "category": "Life",
+   "description": "A large dark-surfaced terrace occupies the top of the house within the greenhouse. It has railings, outdoor seating and children’s play equipment, and is reached by the metal stair. Marie says removing the old roof created this extra living area for playing and relaxing.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Usable area, floor construction and permitted loads are not disclosed.",
+   "related_ids": [
+    "house",
+    "solar-climate"
+   ],
+   "terms": [
+    "roof terrace"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 186.56,
+     "end": 214.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 216.68,
+     "end": 244.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 217.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0051.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 333.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0073.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0263",
+     "time": 1052.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0263.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0263.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0051.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-removal",
+   "title": "Former house roof removed for terrace",
+   "place": "house",
+   "category": "Process",
+   "description": "Present-day terrace views illustrate the earlier roof removal. Marie confirms that the house originally had a roof and that taking it off provided the terrace.",
+   "phase": "historical",
+   "part_of": "roof-terrace",
+   "unknown": "No image of the original roof or removal work is included, and no date or structural assessment is stated.",
+   "related_ids": [],
+   "terms": [
+    "roof terrace",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 219.56,
+     "end": 238.959,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 217.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0051.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0053",
+     "time": 222.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0053.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0053.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0051.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "metal-stair",
+   "title": "Open metal stair to roof terrace",
+   "place": "growing-passage",
+   "category": "Structure",
+   "description": "An open-tread metal stair and tubular railings stand between house cladding and greenhouse glazing. Marie is filmed climbing from the lower deck toward the roof terrace.",
+   "phase": "current",
+   "part_of": "roof-terrace",
+   "unknown": "Metal grade, fixing details and design loads are not identified.",
+   "related_ids": [],
+   "terms": [
+    "metal",
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 210.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0048.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 212.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0049.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 349.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0077.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0048.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rope-swing",
+   "title": "Rope swing beneath greenhouse roof",
+   "place": "terrace",
+   "category": "Life",
+   "description": "A child swings on a plank seat suspended by ropes from above the terrace. Marie accompanies and pushes the child in several continuous shots.",
+   "phase": "current",
+   "part_of": "roof-terrace",
+   "unknown": "The attachment design and loading are not explained.",
+   "related_ids": [],
+   "terms": [
+    "rope",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 308.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0067.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 326.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0070.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 341.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0074.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0067.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "terrace-play-equipment",
+   "title": "Bicycle, slide and trampoline on terrace",
+   "place": "terrace",
+   "category": "Life",
+   "description": "The roof-level play area contains a small child’s bicycle, a blue slide and a small circular trampoline. These objects appear in terrace views alongside the family’s play.",
+   "phase": "current",
+   "part_of": "roof-terrace",
+   "unknown": "The film gives no makers, ages or installation details.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 217.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0051.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 230.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0054.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 232.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0055.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0051.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "terrace-seating",
+   "title": "Recliners and seating under glass roof",
+   "place": "terrace",
+   "category": "Life",
+   "description": "Blue fabric recliners, dark woven-looking seats and a low table are arranged on the terrace. A star-shaped hanging light and round white wall lights are also visible.",
+   "phase": "current",
+   "part_of": "roof-terrace",
+   "unknown": "Furniture materials and electrical arrangements are not described.",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 333.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0073.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0050",
+     "time": 215.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0050.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0050.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0257",
+     "time": 1009.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0257.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0257.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0073.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sheltered-balcony",
+   "title": "Bedroom balcony protected by greenhouse",
+   "place": "balcony",
+   "category": "Life",
+   "description": "The sheltered timber balcony has a small round slatted table, chairs, rugs and potted plants beside the bedroom doorway. Marie describes using it for morning coffee without getting wet when it rains outdoors.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not establish a separate heating system or winter comfort level for this balcony.",
+   "related_ids": [
+    "bedroom-balcony-door",
+    "fig-tree"
+   ],
+   "terms": [
+    "timber",
+    "balcony"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 419.72,
+     "end": 454.11,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 437.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0107.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0108",
+     "time": 439.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0108.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0108.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 123.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0027.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0107.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "paddling-pool",
+   "title": "Small inflatable pool on sheltered balcony",
+   "place": "balcony",
+   "category": "Life",
+   "description": "A small round inflatable paddling pool with a blue interior rests beside the house wall and balcony furniture. The overhead view shows it within the greenhouse enclosure.",
+   "phase": "current",
+   "part_of": "sheltered-balcony",
+   "unknown": "The film does not discuss its use, water supply or whether it is filled.",
+   "related_ids": [],
+   "terms": [
+    "swimming pool"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 123.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0027.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0116",
+     "time": 464.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0116.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0116.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0027.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-crops",
+   "title": "Food growing around the enclosed house",
+   "place": "growing-passage",
+   "category": "Food",
+   "description": "Tomato vines, cucumber growth, a fig tree and overhead grapes occupy the spaces between house and glass. Marie says the greenhouse enables crops that are difficult to grow locally outdoors and provides food for the family.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Growing area, annual yield, inputs and dietary self-sufficiency are not quantified.",
+   "related_ids": [
+    "rainwater-irrigation",
+    "solar-climate"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 346.199,
+     "end": 398.319,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 514.68,
+     "end": 526.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 540.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0136.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0094",
+     "time": 400.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0094.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0094.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 526.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0133.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0136.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "tomatoes",
+   "title": "Fruiting tomatoes beside house windows",
+   "place": "growing-passage",
+   "category": "Food",
+   "description": "Red and green tomatoes hang on tall vines beside the stair and timber facade. The plants also appear through the living-room windows, and Marie describes enjoying their own tomatoes.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Varieties, yield and planting dates are not specified.",
+   "related_ids": [
+    "house-windows"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 346.199,
+     "end": 357.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 945.68,
+     "end": 972.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 352.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0079.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 540.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0136.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0249",
+     "time": 976.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0249.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0249.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0079.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "cucumbers",
+   "title": "Cucumber vine at metal stair",
+   "place": "growing-passage",
+   "category": "Food",
+   "description": "A small cucumber hangs beside the metal stair and vertical supports. Marie says they have already eaten their cucumbers and points out a remaining small one.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Cultivar, growing medium and total harvest are not given.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 353.8,
+     "end": 366.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0082",
+     "time": 361.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0082.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0082.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0081",
+     "time": 360.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0081.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0081.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0082.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "fig-tree",
+   "title": "Fruiting fig beside sheltered balcony",
+   "place": "growing-passage",
+   "category": "Food",
+   "description": "Large lobed leaves and figs are visible beside the balcony rail and glazing. Marie names the tree as a fig, says it has many fruits that year, and describes its appeal beside her morning sitting place.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Cultivar, root conditions and winter protection are not explained; the film does not prove her general statement about outdoor frost survival.",
+   "related_ids": [
+    "sheltered-balcony"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 366.24,
+     "end": 398.319,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 429.28,
+     "end": 435.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0088",
+     "time": 379.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0088.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0088.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 373.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0086.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0094",
+     "time": 400.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0094.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0094.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0088.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "grapevine",
+   "title": "Overhead grapevine harvested for juice",
+   "place": "growing-passage",
+   "category": "Food",
+   "description": "Bunches of grapes hang above the lower greenhouse passage. Marie says they make juice from them rather than wine.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Grape variety, quantity and juice-making equipment are not shown.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 516.479,
+     "end": 526.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0132",
+     "time": 519.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0132.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0132.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 526.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0133.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0132.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "family-seed-growing",
+   "title": "Growing tomatoes from seed with a child",
+   "place": "growing-passage",
+   "category": "Life",
+   "description": "Established tomato plants appear beyond the living-room windows. Marie says she and her four-year-old son planted small seeds and enjoy seeing the resulting plants, which she describes as a meter high [3.28 feet].",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Sowing is not filmed, and the height and child’s age are reported rather than independently verified.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 949.8,
+     "end": 972.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0249",
+     "time": 976.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0249.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0249.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0245",
+     "time": 960.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0245.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0245.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0249.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "rainwater-irrigation",
+   "title": "Rainwater used for greenhouse irrigation",
+   "place": "growing-passage",
+   "category": "Water",
+   "description": "Hoses and potted plants are visible along the sheltered growing strip. Marie says they collect rainwater underground and use it to water the plants.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not demonstrate a complete collection or delivery route, nor water quality or annual volume.",
+   "related_ids": [
+    "greenhouse-crops"
+   ],
+   "terms": [
+    "rainwater",
+    "irrigation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 526.44,
+     "end": 542.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0134",
+     "time": 533.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0134.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0134.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 540.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0136.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0134.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "underground-rainwater-tank",
+   "title": "Underground rainwater collection tank",
+   "place": "site",
+   "category": "Water",
+   "description": "Current growing-area views provide context while Marie describes an underground tank collecting rainwater. The tank itself is not exposed.",
+   "phase": "current",
+   "part_of": "rainwater-irrigation",
+   "unknown": "Its location, capacity, construction, roof connection, pumping arrangement and overflow are not established.",
+   "related_ids": [],
+   "terms": [
+    "rainwater",
+    "tank"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 529.24,
+     "end": 542.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0134",
+     "time": 533.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0134.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0134.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0135",
+     "time": 535.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0135.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0135.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0134.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wastewater-system",
+   "title": "Household wastewater separation and planted treatment",
+   "place": "site",
+   "category": "Water",
+   "description": "The tour visits the separating toilet, cellar equipment, planted bed and vegetated garden pond. Marie and Charles describe treating household wastewater on site, and the description says the home is independent of city sewage. Marie says no chemicals are added to the process.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No complete process drawing, performance report or regulatory approval is shown; potable water supply is separate and unexplained.",
+   "related_ids": [
+    "composting"
+   ],
+   "terms": [
+    "greywater",
+    "blackwater",
+    "constructed wetland"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 547.12,
+     "end": 608.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 691,
+     "end": 723,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 772.88,
+     "end": 844.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0150",
+     "time": 583.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0150.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0150.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0179",
+     "time": 697.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0179.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0179.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0215",
+     "time": 805.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0215.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0215.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0150.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "separating-toilet",
+   "title": "Two-compartment urine-separating toilet",
+   "place": "toilet-room",
+   "category": "Water",
+   "description": "The toilet bowl has a visible front compartment divided from the larger rear opening. Charles demonstrates the arrangement and says in the on-screen subtitles that a urine-only flush uses 2 or 3 deciliters [0.2–0.3 liters].",
+   "phase": "current",
+   "part_of": "wastewater-system",
+   "unknown": "Manufacturer, full-flush volume and maintenance regime are not given, and the claimed water use is not measured.",
+   "related_ids": [],
+   "terms": [
+    "urine-separating toilet",
+    "flush toilet"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 605.839,
+     "end": 608.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 611,
+     "end": 635,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0164",
+     "time": 633.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0164.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0164.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0158",
+     "time": 610.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0158.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0158.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0160",
+     "time": 616.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0160.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0160.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0164.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "centrifugal-separator",
+   "title": "Centrifugal toilet-solids separator in cellar",
+   "place": "cellar",
+   "category": "Water",
+   "description": "A pale cylindrical collection vessel sits beneath a covered upper assembly, with grey drain pipes connected to it. Marie and Charles describe centrifugal separation of toilet solids and liquid, and Charles points out the separate routes. Marie says the retained dry solids need emptying roughly every six months.",
+   "phase": "current",
+   "part_of": "wastewater-system",
+   "unknown": "The mechanism is not opened or operated, and drying, power use and pathogen reduction are not demonstrated.",
+   "related_ids": [
+    "solids-compost"
+   ],
+   "terms": [
+    "blackwater",
+    "centrifugal separator"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 558.279,
+     "end": 571.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 653,
+     "end": 681,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 731,
+     "end": 744.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0170",
+     "time": 658.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0170.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0170.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0171",
+     "time": 660.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0171.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0171.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0173",
+     "time": 673.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0173.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0173.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0170.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "blackwater-cistern",
+   "title": "Round blackwater-liquid holding tank",
+   "place": "cellar",
+   "category": "Water",
+   "description": "A large dark round tank stands below and beside the separator, joined by visible grey pipework. Marie says liquid remains here before further treatment, and Charles identifies it as the toilet-water cistern.",
+   "phase": "current",
+   "part_of": "wastewater-system",
+   "unknown": "Capacity, retention time and actual microbial change are not quantified.",
+   "related_ids": [],
+   "terms": [
+    "blackwater",
+    "cistern"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 571.32,
+     "end": 583.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 649,
+     "end": 653,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 673,
+     "end": 681,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0147",
+     "time": 574.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0147.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0147.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0168",
+     "time": 650.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0168.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0168.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0147.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greywater-cisterns",
+   "title": "Paired caged greywater and urine cisterns",
+   "place": "cellar",
+   "category": "Water",
+   "description": "Two rectangular metal-caged cisterns have grey connecting pipes across their tops. Charles’s subtitles identify storage for greywater and urine, with a combined volume of 2 cubic meters [2,000 liters]. Marie names shower and dishwasher water among the inputs.",
+   "phase": "current",
+   "part_of": "wastewater-system",
+   "unknown": "Exact internal flow sequence, retention time and cleaning schedule are not established.",
+   "related_ids": [],
+   "terms": [
+    "greywater",
+    "cistern"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 583.279,
+     "end": 605.839,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 635.5,
+     "end": 648,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0150",
+     "time": 583.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0150.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0150.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0153",
+     "time": 590.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0153.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0153.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0166",
+     "time": 643.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0166.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0166.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0150.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "planted-filter",
+   "title": "Raised soil bed for wastewater filtration",
+   "place": "filter-room",
+   "category": "Water",
+   "description": "A long raised bed fills a low plywood-ceilinged lean-to built against the old stone foundation wall of the house, with dense plants, crossbars and pipe penetrations. Marie says greywater filters through the soil, and Charles’s subtitles describe gravity sending water onward when water arrives in the cistern.",
+   "phase": "current",
+   "part_of": "wastewater-system",
+   "unknown": "Bed layers, hydraulic loading, liner and measured treatment effectiveness are not supplied; the automatic caption’s Swedish bed name is garbled.",
+   "related_ids": [
+    "mint",
+    "future-filter-planting"
+   ],
+   "terms": [
+    "greywater",
+    "constructed wetland",
+    "raised bed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 691,
+     "end": 699,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 707,
+     "end": 723,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 724.71,
+     "end": 767,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0179",
+     "time": 697.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0179.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0179.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0182",
+     "time": 707.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0182.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0182.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0198",
+     "time": 750.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0198.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0198.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0179.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "filter-pipework",
+   "title": "Visible inlet and outlet pipes at soil bed",
+   "place": "filter-room",
+   "category": "Water",
+   "description": "A grey pipe passes through the wall toward the planted bed, and an elbow at the bed’s end drops toward the ground. Marie traces the inlet and outlet; Charles’s subtitles describe drainage tubes as 30 centimeters [11.8 inches] without specifying the dimension.",
+   "phase": "current",
+   "part_of": "planted-filter",
+   "unknown": "Buried pipe routes are not visible, and the 30-centimeter figure cannot securely be assigned to depth, spacing or diameter.",
+   "related_ids": [
+    "treatment-pond"
+   ],
+   "terms": [
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 714,
+     "end": 723,
+     "source": "Subtitles burned into the film by the filmmaker",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 724.71,
+     "end": 735.199,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 772.88,
+     "end": 785.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0192",
+     "time": 728.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0192.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0192.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0204",
+     "time": 775.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0204.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0204.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0205",
+     "time": 780.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0205.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0205.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0192.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mint",
+   "title": "Mint growing in the wastewater filter bed",
+   "place": "filter-room",
+   "category": "Food",
+   "description": "Dense bright green mint occupies the front of the planted treatment bed, with other trailing foliage around it. Marie identifies mint and says wastewater supplies fertilizer to the plants.",
+   "phase": "current",
+   "part_of": "planted-filter",
+   "unknown": "Species, harvest use and safety of eating these particular plants are not established; the film does not show consumption.",
+   "related_ids": [
+    "greenhouse-crops"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 750.04,
+     "end": 767,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 761.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0202.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 759.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0201.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0202.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "hanging-bed-fixtures",
+   "title": "Rectangular fixtures suspended above planted bed",
+   "place": "filter-room",
+   "category": "Energy",
+   "description": "Two pale rectangular fixtures hang from brackets above the planted bed, with looped cables visible. Their form resembles lamps, but nobody identifies them or switches them on.",
+   "phase": "current",
+   "part_of": "planted-filter",
+   "unknown": "Their exact function, lamp type, power rating and operating schedule remain unknown.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0198",
+     "time": 750.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0198.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0198.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0199",
+     "time": 752.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0199.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0199.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0185",
+     "time": 713.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0185.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0185.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0198.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "future-filter-planting",
+   "title": "Additional planting proposed for treatment bed",
+   "place": "filter-room",
+   "category": "Plan",
+   "description": "Marie stands beside the mint-filled bed while suggesting that they should grow more plants there. The existing bed provides context for a possible future change.",
+   "phase": "planned",
+   "part_of": "planted-filter",
+   "unknown": "No species list, planting schedule, food-use decision or committed work is specified.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 750.04,
+     "end": 767,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0200",
+     "time": 757.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0200.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0200.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 761.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0202.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0200.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "treatment-pond",
+   "title": "Vegetated garden pond as final treatment step",
+   "place": "pond-place",
+   "category": "Water",
+   "description": "A depression in the garden is densely covered with grasses and flowering plants, obscuring most of the water. Marie identifies it as the third cleaning step after the planted bed and says the water returns to the garden environment.",
+   "phase": "current",
+   "part_of": "wastewater-system",
+   "unknown": "Liner, depth, water volume, outfall route and measured removal rates are not visible or documented.",
+   "related_ids": [
+    "filter-pipework",
+    "wooded-garden"
+   ],
+   "terms": [
+    "pond",
+    "constructed wetland"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 772.88,
+     "end": 844.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0215",
+     "time": 805.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0215.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0215.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0211",
+     "time": 794.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0211.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0211.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0220",
+     "time": 848.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0220.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0220.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0215.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pond-testing",
+   "title": "Periodic laboratory testing of pond water",
+   "place": "pond-place",
+   "category": "Process",
+   "description": "The camera shows the vegetated pond and Marie’s explanation, without a sampling procedure or report. She says they send samples to a laboratory roughly yearly, describes levels as acceptable while mentioning high E. coli, and says the water is not for drinking.",
+   "phase": "current",
+   "part_of": "treatment-pond",
+   "unknown": "No laboratory values, acceptance criteria or legal basis for testing are identified.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 797,
+     "end": 835.759,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0215",
+     "time": 805.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0215.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0215.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0218",
+     "time": 831.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0218.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0218.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0215.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "composting",
+   "title": "Separate compost streams for different planting uses",
+   "place": "compost-area",
+   "category": "Process",
+   "description": "An enclosed dark bin and a separate timber-sided heap are visible together in the wooded garden. Marie distinguishes food compost used for edible plants from the heap receiving dried toilet solids for flowers and other non-edible planting.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not demonstrate decomposition times, temperatures, pathogen removal or finished-soil testing.",
+   "related_ids": [
+    "wastewater-system"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 852.759,
+     "end": 908.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0236",
+     "time": 908.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0236.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0236.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0237",
+     "time": 910.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0237.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0237.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0232",
+     "time": 893.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0232.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0232.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0236.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "food-compost-bin",
+   "title": "Lidded food-compost bin for edible planting",
+   "place": "compost-area",
+   "category": "Food",
+   "description": "Marie removes the lid of a dark cylindrical bin, revealing food scraps and other decomposing material. She says this compost is used for plants the family eats.",
+   "phase": "current",
+   "part_of": "composting",
+   "unknown": "Bin capacity, processing time and actual application are not shown.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 852.759,
+     "end": 861.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 897.24,
+     "end": 908.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0224",
+     "time": 860.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0224.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0224.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 864.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0225.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0234",
+     "time": 904.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0234.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0234.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0224.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "solids-compost",
+   "title": "Open compost heap for dried toilet solids",
+   "place": "compost-area",
+   "category": "Process",
+   "description": "A timber-sided open heap contains brown plant material, branches and decomposing matter beside the food bin. Marie identifies it as the destination for dry toilet residues and says its soil is for flowers or other plants they do not eat.",
+   "phase": "current",
+   "part_of": "composting",
+   "unknown": "No toilet residue can be independently identified in the image, and no safe-treatment endpoint is demonstrated.",
+   "related_ids": [
+    "centrifugal-separator"
+   ],
+   "terms": [
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 864.519,
+     "end": 900.079,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0230",
+     "time": 878.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0230.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0230.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 884.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0231.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0233",
+     "time": 901.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0233.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0233.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0230.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wooded-garden",
+   "title": "Wooded sloping garden around the greenhouse",
+   "place": "garden",
+   "category": "Land",
+   "description": "Mature trees, exposed rocks, lawn and areas of rough vegetation surround the greenhouse. Wide views establish a leafy household garden rather than a dense built-up plot.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Land area, ownership boundaries, species inventory and management history are not disclosed.",
+   "related_ids": [
+    "treatment-pond"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 21.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0006.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0208",
+     "time": 786.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0208.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0208.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 838.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0219.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0271",
+     "time": 1100.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0271.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0271.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0006.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "garden-fruit-trees",
+   "title": "Apple and cherry trees in the garden",
+   "place": "garden",
+   "category": "Food",
+   "description": "Trees appear behind the pond and near the compost area. Marie names an apple tree and a cherry tree in the garden.",
+   "phase": "current",
+   "part_of": "wooded-garden",
+   "unknown": "The frames do not securely distinguish which individual tree is which, and yields and cultivars are not given.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 844.6,
+     "end": 849.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 838.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0219.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0220",
+     "time": 848.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0220.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0220.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0219.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "garden-shelter",
+   "title": "Open-front timber garden shelter",
+   "place": "shelter-place",
+   "category": "Structure",
+   "description": "A small dark timber shelter with an open front and shallow roof stands near the garden lawn. It appears in exterior views beside the greenhouse and in the background of the pond walk.",
+   "phase": "current",
+   "part_of": "wooded-garden",
+   "unknown": "Nobody explains its use, contents, age or construction.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "shed"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0238",
+     "time": 932.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0238.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0238.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0209",
+     "time": 789.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0209.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0209.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0011",
+     "time": 48.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0011.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0011.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0238.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "supplemental-heating",
+   "title": "Supplemental heating during the cold season",
+   "place": "house",
+   "category": "Energy",
+   "description": "A glazed fireplace is visible in the living room, while a fan unit is separately visible by the treatment bed. Marie says the house still needs heating and insulation in winter, including a fire on cold mornings. She says their additional-heating period is roughly mid-October through March rather than late September through May.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No fuel consumption, energy bills, system diagram or measured savings are shown, and the fan unit’s contribution is unexplained.",
+   "related_ids": [
+    "solar-climate"
+   ],
+   "terms": [
+    "fireplace",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 401.28,
+     "end": 413.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 542.32,
+     "end": 549.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 979.759,
+     "end": 1007.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1028.48,
+     "end": 1049.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0253",
+     "time": 997.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0253.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0253.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0191",
+     "time": 727.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0191.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0191.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0253.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fireplace",
+   "title": "Glazed fireplace with brick hearth and hood",
+   "place": "living-room",
+   "category": "Energy",
+   "description": "A multi-faced glazed firebox sits in a curved brick surround beneath a pale hood, with tools and a basket nearby. Its brick chimney rises from the house and passes up through the greenhouse roof glazing, seen from outside at 0:28, 1:01 and 2:31 to 2:45. Marie describes making a fire for warmth in winter, and earlier mentions wood available for heating.",
+   "phase": "current",
+   "part_of": "supplemental-heating",
+   "unknown": "The fire is unlit; output, efficiency, whether it heats water, and how the flue is sealed where it passes the glazing are not established.",
+   "related_ids": [],
+   "terms": [
+    "fireplace",
+    "brick",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 542.32,
+     "end": 547.12,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 979.759,
+     "end": 997.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0253",
+     "time": 997.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0253.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0253.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0254",
+     "time": 999.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0254.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0254.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 163.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0034.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0253.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fan-unit",
+   "title": "Wall-mounted fan unit beside the filter bed",
+   "place": "filter-room",
+   "category": "Energy",
+   "description": "A wall-mounted outdoor-style fan unit with insulated lines running below it along the wall beside the treatment bed.",
+   "phase": "current",
+   "part_of": "supplemental-heating",
+   "unknown": "Its label reads Toshiba Daiseikai, which no speaker says, so its make is not a fact of the film; nobody identifies its model, heating or cooling mode, the rooms it serves or whether it runs.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0190",
+     "time": 725.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0190.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0190.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0191",
+     "time": 727.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0191.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0191.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0190.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "road-signs",
+   "title": "Neighborhood warning and dead-end road signs",
+   "place": "neighborhood",
+   "category": "Plan",
+   "description": "The opening street footage includes a blue dead-end sign beside a neighboring white house and triangular roadside warning signs. These are visible context documents outside the subject household.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The signs do not identify a street, address or the route to the household; warning pictograms are not resolved sufficiently to name each warning.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 13.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0004.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0003",
+     "time": 10.5,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0003.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0003.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0001",
+     "time": 1.0,
+     "path": "review/30ghnDOFbNQ/evidence/frame-0001.jpg",
+     "preview_path": "review/30ghnDOFbNQ/sample-0001.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/30ghnDOFbNQ/sample-0004.jpg",
+   "model_objects": [],
+   "terms": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 20.804,
+   "title": "Neighborhood approach outside the subject",
+   "visible": "A bus, roadside warning signs, a dead-end sign, pedestrians and conventional neighboring houses on leafy streets.",
+   "gaps": "No named street, property boundary or continuous route to the household is established.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0004.jpg"
+  },
+  {
+   "start": 20.804,
+   "end": 69.7,
+   "title": "Greenhouse around the timber home",
+   "visible": "Wooded sloping plot, full glass enclosure, timber house, pale projecting entrance and outdoor steps.",
+   "gaps": "No original construction footage, measured area or foundation detail.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0011.jpg"
+  },
+  {
+   "start": 69.7,
+   "end": 119,
+   "title": "Sheltered timber facade",
+   "visible": "Marie touches horizontal timber boards; camera follows the narrow deck past windows, storage and a trampoline, then returns outside.",
+   "gaps": "Oil treatment and reduced insulation are spoken claims; wall layers are concealed.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0016.jpg"
+  },
+  {
+   "start": 119,
+   "end": 184,
+   "title": "Nature House origins and enlargement",
+   "visible": "Exterior and high-angle present-day views alternate with Charles explaining the project in English subtitles.",
+   "gaps": "The original summer house and building sequence are not shown as historical footage.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0035.jpg"
+  },
+  {
+   "start": 184,
+   "end": 210,
+   "title": "Open greenhouse roof vents",
+   "visible": "Marie points from the garden to visibly raised glazing panels along the greenhouse roof.",
+   "gaps": "The thermostat and vent actuator are not demonstrated.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046",
+    "frame-0047"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0045.jpg"
+  },
+  {
+   "start": 210,
+   "end": 260,
+   "title": "Stair to the roof terrace",
+   "visible": "Marie climbs the metal stair and reaches dark flooring, seating, railings and children’s play objects above the house.",
+   "gaps": "The removed roof is not shown; floor material and load capacity are unknown.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0051.jpg"
+  },
+  {
+   "start": 260,
+   "end": 313,
+   "title": "Sun-dependent warmth and terrace play",
+   "visible": "Greenhouse exterior, Charles beside the house, then Marie and a child using the rope swing under roof fabrics.",
+   "gaps": "January temperatures are subtitled testimony over growing-season images, not measurements filmed in winter.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0068.jpg"
+  },
+  {
+   "start": 313,
+   "end": 346,
+   "title": "Sheltered family recreation",
+   "visible": "Swing play, seating, fabric lengths, a hanging star lamp and a high view of the planted lower level.",
+   "gaps": "No measured climate comparison or named fabric specification.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0073.jpg"
+  },
+  {
+   "start": 346,
+   "end": 370,
+   "title": "Tomatoes and cucumber by the stair",
+   "visible": "Marie shows fruiting tomato vines and a small cucumber beside the metal stair and house windows.",
+   "gaps": "No harvest weights or cultivar identification.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0079.jpg"
+  },
+  {
+   "start": 370,
+   "end": 414,
+   "title": "Fig and winter limitations",
+   "visible": "Fig leaves and fruit, the greenhouse balcony, exterior glazing and roof fabrics accompany Marie’s explanation of winter cold.",
+   "gaps": "No freezing conditions, insulation sections or winter thermometer readings are shown.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0088.jpg"
+  },
+  {
+   "start": 414,
+   "end": 453,
+   "title": "Bedroom opening onto the balcony",
+   "visible": "Hallway and indicated boys’ bedroom doors; the main bedroom, its open doorway, small table, chairs, plants and sheltered balcony.",
+   "gaps": "Boys’ bedroom interiors are not toured; no complete interior plan is established.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0107.jpg"
+  },
+  {
+   "start": 453,
+   "end": 512,
+   "title": "Glass specification and approximate cost",
+   "visible": "Greenhouse walls and overhead glazing, Charles beside the stair, and exterior views with filmmaker-supplied English subtitles.",
+   "gaps": "Glass certification is not shown; the approximate cost’s scope and price year remain unspecified.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126",
+    "frame-0127",
+    "frame-0128"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0121.jpg"
+  },
+  {
+   "start": 512,
+   "end": 549,
+   "title": "Fish basin, grapes and rainwater use",
+   "visible": "Open water basin at the deck edge, black hose-connected box, grape bunches, potted plants and hoses alongside the house.",
+   "gaps": "The underground rainwater tank and drinking-water source are not exposed.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0132.jpg"
+  },
+  {
+   "start": 549,
+   "end": 606,
+   "title": "Cellar wastewater equipment",
+   "visible": "Marie enters the cellar and points out a cylindrical separator, round tank, pipework and metal-caged rectangular cisterns.",
+   "gaps": "Treatment effectiveness, retention periods and internal equipment operation are not demonstrated.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0150.jpg"
+  },
+  {
+   "start": 606,
+   "end": 635.5,
+   "title": "Two-compartment toilet",
+   "visible": "Charles opens and points into a divided toilet bowl and operates its flush control in a small toilet room.",
+   "gaps": "The claimed 2–3 deciliters are not measured on camera.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0164.jpg"
+  },
+  {
+   "start": 635.5,
+   "end": 688,
+   "title": "Cisterns and centrifugal separator",
+   "visible": "Charles demonstrates two caged cisterns, a separate blackwater tank, separator housing and visible connecting pipework.",
+   "gaps": "No running centrifuge, laboratory result or complete underground plumbing route.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0165",
+    "frame-0166",
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0170.jpg"
+  },
+  {
+   "start": 688,
+   "end": 724,
+   "title": "Planted filter and gravity explanation",
+   "visible": "Greenhouse passage and doorway into a low growing enclosure with a long planted bed, crossbars, visible pipes and hanging fixtures.",
+   "gaps": "The buried drain layout and meaning of the subtitled 30-centimeter figure are unclear.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0182.jpg"
+  },
+  {
+   "start": 724,
+   "end": 774,
+   "title": "Mint bed, inlet and maintenance",
+   "visible": "Wall-mounted Toshiba fan unit, grey pipe entering the planted bed, mint foliage and Marie describing emptying solids and possible additional planting.",
+   "gaps": "The fan unit’s operating mode, soil layers and proposed planting scheme are not established.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197",
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0202.jpg"
+  },
+  {
+   "start": 774,
+   "end": 790,
+   "title": "Filter outlet toward the garden",
+   "visible": "Close views of the planted bed’s exterior outlet pipe, then garden views through the enclosure and along a grassy route.",
+   "gaps": "The buried route to the pond is narrated but not exposed continuously.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0204.jpg"
+  },
+  {
+   "start": 790,
+   "end": 851,
+   "title": "Vegetated treatment pond and testing",
+   "visible": "Marie stands by a heavily overgrown depression, with grasses, flowering plants, nearby trees and an open-front shelter behind.",
+   "gaps": "Open-water extent, lab results, legal testing requirements and exact tree identities are not established.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219",
+    "frame-0220"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0215.jpg"
+  },
+  {
+   "start": 851,
+   "end": 908,
+   "title": "Separate food and toilet-solids compost",
+   "visible": "Marie opens a dark cylindrical compost bin, shows decomposing scraps, and points to a nearby open timber-sided heap.",
+   "gaps": "No transfer of toilet solids, finished compost use or sanitation results are filmed.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0233.jpg"
+  },
+  {
+   "start": 908,
+   "end": 936.5,
+   "title": "Return toward the greenhouse",
+   "visible": "Wide garden views with both compost areas, then the greenhouse facade and shelter while Marie walks back; Charles’s subtitled philosophy appears.",
+   "gaps": "No new construction stage or additional property is shown.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0236",
+    "frame-0237",
+    "frame-0238"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0238.jpg"
+  },
+  {
+   "start": 936.5,
+   "end": 979,
+   "title": "Greenhouse creature and indoor crop views",
+   "visible": "Marie gestures toward a tiny indistinct creature at the glazing; inside, living-room windows overlook tomato plants, with sofa, piano and shelves visible.",
+   "gaps": "The creature cannot be identified; planting and harvesting with the child are recounted rather than filmed.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0248.jpg"
+  },
+  {
+   "start": 979,
+   "end": 1010,
+   "title": "Living-room heating and kitchen glimpse",
+   "visible": "House exterior cutaway, living room, timber floor, glazed brick-surrounded fireplace, connected kitchen and return to roof glazing.",
+   "gaps": "The fireplace is not lit, and the kitchen is only glimpsed.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0253.jpg"
+  },
+  {
+   "start": 1010,
+   "end": 1060,
+   "title": "Seasonal comfort and heating period",
+   "visible": "Marie on the terrace, sunlit exterior through trees, and family play on the dark terrace floor.",
+   "gaps": "The claimed shorter heating season is not supported by bills or monitoring graphs.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0258",
+    "frame-0259",
+    "frame-0260",
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0263.jpg"
+  },
+  {
+   "start": 1060,
+   "end": 1111.321,
+   "title": "Future heat storage and closing views",
+   "visible": "Marie and child on the terrace followed by the roof structure and final exterior views fading to black.",
+   "gaps": "Salt heat storage is only an aspiration; no purchased or installed system appears.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274"
+   ],
+   "thumbnail": "review/30ghnDOFbNQ/sample-0269.jpg"
+  }
+ ]
+}

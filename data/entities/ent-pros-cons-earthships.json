@@ -1,0 +1,48 @@
+{
+ "id": "ent-pros-cons-earthships",
+ "type": "work",
+ "name": "Pros and cons of earthships",
+ "aliases": [],
+ "public_basis": "a work the film's description gives an address for",
+ "computed": {
+  "films": [
+   {
+    "film": "efI77fzBgvg",
+    "title": "Greater World’s Earthship community",
+    "where": "New Mexico, United States",
+    "film_year": "2014",
+    "upload_date": "2014-10-06",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=efI77fzBgvg",
+    "records": [
+     {
+      "kind": "link",
+      "url": "http://www.archinia.com/index.php/58-publications/publications/216-earthship-pros-and-cons",
+      "name": "Pros and cons of earthships"
+     }
+    ],
+    "claims": [],
+    "links": [
+     {
+      "url": "http://www.archinia.com/index.php/58-publications/publications/216-earthship-pros-and-cons",
+      "kind": "article",
+      "line": "— Pros and cons of earthships: http://www.archinia.com/index.php/58-publications/publications/216-earthship-pros-and-cons"
+     }
+    ],
+    "behind": []
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 1,
+   "mentions": 0,
+   "years": [
+    "2014"
+   ]
+  },
+  "instance_hash": "a7618ed0d7fe352a",
+  "built": "2026-10-06T13:18:27"
+ }
+}

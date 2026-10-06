@@ -1,0 +1,12 @@
+# Candidate 1 critique
+
+Viewed candidate-1.png and compared with all ten source frames.
+
+- Grazing: black stocky cattle and green grass are supported, but individual poses, number, spacing, small ear details and walking direction are invented representative arrangements. The illustration discloses this, but should explicitly say three stages do not equal three paddocks.
+- Landscape: tree placement, horizon, flower density and grassy patch geometry are composed rather than traced. Recovery is drawn as fully tall grass though no time series documents that outcome. Label recovery as conceptual and avoid an apparent measured height comparison.
+- Fence: two pale wires and orange-loop tops are supported by 48:45. The posts are too thick and upright/uniform; the visible source has thin stakes, varied angles and a red loop on the closest stake. Repeated spacings are invented. Reduce the detail to slender stakes and do not imply a complete circuit. Dashed outlines correctly disclose the invented complete boundaries.
+- Hay sequence is materially misleading: rectangular bale under “Bale” followed by round bale under “Store dry” may imply shape conversion or outdoor dry storage. Josh describes round baling. Use words for the operations with one round bale at “Bale”; dry storage should be text-only, connected conceptually to the exterior barn.
+- Cut hay windrows are an invented specific cutting arrangement. Remove this scene; cutting machinery and operation layout are not shown in selected references. Keep “Cut” as text.
+- Barn: long form, blue-gray ribbed roof and pale draped side covering are supported. However the gable is mirrored relative to the broad exterior reference and appears solid plank-clad rather than translucent plastic over framing. Roof pitch, structural bay counts, vine placement and crisp dimensions are inventions. Use the source's right-gable orientation, pale wrinkled plastic, and simplify unseen details. Do not invent interior hay.
+- Archive: inset is correctly marked historical and the interior identity disclaimer is correct, but isolated rectangular bale stack on ground and round bale grouping are rearranged from transport scenes. Label them as bale studies from archive; omit invented background terrain and counts as actual quantities.
+- Text and arithmetic are faithful paraphrases of Josh's method. No numerical values invented; count and interval fields are blank. Footer provides the required indicative-layout warning. No people or invented machinery appear.

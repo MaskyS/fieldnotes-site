@@ -1,0 +1,2926 @@
+{
+ "title": "Steve Mallinger’s timber pavilion home",
+ "source": {
+  "id": "RNbPNnAx9xE",
+  "url": "https://www.youtube.com/watch?v=RNbPNnAx9xE",
+  "duration": 388.741,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "English captions marked generated=false in the caption provenance file; treated as human captions. Several material terms and the creek name remain uncertain. On-screen owner caption reads Stephen Mallinger; he introduces himself as Steve.",
+  "transcript_kind": "human captions",
+  "context": {
+   "location": {
+    "country": "Australia",
+    "state_or_region": "New South Wales",
+    "nearest_place": "Middle Dural",
+    "precision": "locality",
+    "climate": {
+     "koppen": "Cfa",
+     "name": "humid subtropical",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Middle Dural, New South Wales, Australia",
+      "lat": -33.637,
+      "lon": 151.013,
+      "matched": "Middle Dural, Sydney, New South Wales, Australia",
+      "stands_for": "suburb",
+      "precision": "locality"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 1125,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Middle Dural, New South Wales, Australia",
+      "lat": -33.637,
+      "lon": 151.013,
+      "matched": "Middle Dural, Sydney, New South Wales, Australia",
+      "stands_for": "suburb",
+      "precision": "locality"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "10a",
+     "mean_annual_extreme_min_c": 1.6,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Middle Dural, New South Wales, Australia",
+      "lat": -33.637,
+      "lon": 151.013,
+      "matched": "Middle Dural, Sydney, New South Wales, Australia",
+      "stands_for": "suburb",
+      "precision": "locality"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 148,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Middle Dural, New South Wales, Australia",
+      "lat": -33.637,
+      "lon": 151.013,
+      "matched": "Middle Dural, Sydney, New South Wales, Australia",
+      "stands_for": "suburb",
+      "precision": "locality"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "The Local Project",
+   "upload_date": "2026-08-14"
+  }
+ },
+ "sampling": {
+  "frames": 105,
+  "candidate_shots": 100,
+  "contact_sheets": 4,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/RNbPNnAx9xE"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "steve-mallinger"
+  ],
+  "gist": "Builder Steve pursues a barn-inspired home with Andrew, then looks back in disbelief at the undertaking and pride at the result.",
+  "story": {
+   "text": "Steve is a builder who asks Andrew for a Scandinavian barn-inspired home, then watches its materials develop as the design takes shape. The dark approach opens into timber-lined rooms looking out into bushland. He wants the gardens to feel as though they have always belonged here, while Andrew makes room for both large gatherings and a quieter pool-house retreat. Looking back, Steve wonders how and why he started such a huge undertaking. He calls it five years in the making and says he is proud of the result, although the film’s description gives a different duration.",
+   "moments": [
+    {
+     "phrase": "a Scandinavian barn-inspired home",
+     "at": 123.2
+    },
+    {
+     "phrase": "its materials develop",
+     "at": 132.8
+    },
+    {
+     "phrase": "the gardens to feel as though they have always belonged here",
+     "at": 303.6
+    },
+    {
+     "phrase": "a quieter pool-house retreat",
+     "at": 271.92
+    },
+    {
+     "phrase": "how and why he started such a huge undertaking",
+     "at": 359.6
+    },
+    {
+     "phrase": "proud of the result",
+     "at": 368.72
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Steve Mallinger’s household site",
+   "kind": "site",
+   "within": null,
+   "caveat": "Land boundaries are not drawn; regional aerials extend beyond the clearly landscaped grounds.",
+   "entity": "ent-steve-mallinger-timber-pavilion-home"
+  },
+  {
+   "id": "house",
+   "title": "Connected main-house pavilions",
+   "kind": "building",
+   "within": "site",
+   "caveat": "An ensemble of connected volumes. The film describes six pavilions but does not assign every interior to an individually identified pavilion."
+  },
+  {
+   "id": "main-room",
+   "title": "Main living, dining and black kitchen",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Reverse views are identified by matching dining furniture, sofas, glazing and timber portals."
+  },
+  {
+   "id": "entrance-hall",
+   "title": "Entrance and batten-ceiling corridor",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Door-opening sequence establishes entrance into the hall; the full corridor is not traversed."
+  },
+  {
+   "id": "glazed-links",
+   "title": "Glazed circulation links",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Several links are visible; their complete branching arrangement is not established."
+  },
+  {
+   "id": "back-kitchen",
+   "title": "Dark back-kitchen passage",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Counter-lined passage shown briefly; precise function and pavilion position are not stated."
+  },
+  {
+   "id": "bathroom",
+   "title": "Bathroom glimpsed through doorway",
+   "kind": "room",
+   "within": "house",
+   "caveat": "A bathtub identifies the room; its position within the connected house is unresolved."
+  },
+  {
+   "id": "pool-house",
+   "title": "Pool house and cabana pavilion",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Identified by Andrew’s narration over its furnished interior; membership of the stated six-pavilion count is not explicitly itemised."
+  },
+  {
+   "id": "arrival",
+   "title": "Arrival drive and entrance forecourt",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": ""
+  },
+  {
+   "id": "gardens",
+   "title": "Designed gardens and courtyards",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Grouped because no named individual courtyards or full route between them are given."
+  },
+  {
+   "id": "terrace",
+   "title": "Covered outdoor living terrace",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Furnished roofed terrace visibly faces a glazed gable across planted ground."
+  },
+  {
+   "id": "court",
+   "title": "Fenced sports court",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Tennis markings, net and end basketball hoop are visible in aerial footage."
+  },
+  {
+   "id": "pool-area",
+   "title": "Swimming pool and surround",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Partly visible behind Steve during interviews; not directly toured."
+  },
+  {
+   "id": "woodland",
+   "title": "Wooded slope below the landscaped house",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "The wider woodland continues beyond unmarked site boundaries."
+  },
+  {
+   "id": "creek",
+   "title": "Creek below the site",
+   "kind": "land feature",
+   "within": "site",
+   "caveat": "Spoken of as below the sloping site, but not visually identified; name transcribed as Pangari Creek, spelling unverified."
+  }
+ ],
+ "people": [
+  {
+   "id": "steve-mallinger",
+   "name": "Stephen (Steve) Mallinger",
+   "relation": "owner",
+   "note": "Introduces himself as Steve, owner and builder; on-screen name caption reads Stephen Mallinger. Associated with Mallinger Constructions."
+  },
+  {
+   "id": "andrew-donaldson",
+   "name": "Andrew Donaldson",
+   "relation": "designer",
+   "note": "Introduces himself as architect and interior designer from ADAD; tours the house and gives the main design commentary."
+  },
+  {
+   "id": "pablo-veiga",
+   "name": "Pablo Veiga",
+   "relation": "other",
+   "note": "Credited as photographer in the video description; not identified on camera."
+  }
+ ],
+ "claims": [
+  {
+   "id": "site-area",
+   "text": "The site covers twenty hectares.",
+   "by": "andrew-donaldson",
+   "at": [
+    61.92
+   ],
+   "about": "woodland-setting",
+   "headline": true,
+   "quantity": {
+    "value": 20,
+    "unit": "ha",
+    "of": "land area"
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "pavilion-count",
+   "text": "The house is arranged as six pavilions.",
+   "by": "andrew-donaldson",
+   "at": [
+    160
+   ],
+   "about": "pavilion-house",
+   "headline": true,
+   "text_source": "human captions"
+  },
+  {
+   "id": "corridor-length",
+   "text": "The linking corridor is ninety metres long.",
+   "by": "andrew-donaldson",
+   "at": [
+    169.76
+   ],
+   "about": "batten-corridor",
+   "headline": true,
+   "quantity": {
+    "value": 90,
+    "unit": "m",
+    "of": "length"
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "five-year-build",
+   "text": "The project was five years in the making.",
+   "by": "steve-mallinger",
+   "at": [
+    364.24
+   ],
+   "about": "owner-build-process",
+   "headline": true,
+   "doubt": "Steve says five years, while the title and description repeatedly say six years.",
+   "quantity": {
+    "value": 5,
+    "unit": "year",
+    "of": "build time"
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "six-year-build-description",
+   "text": "The family spent six years building the home.",
+   "by": "description",
+   "at": [],
+   "about": "owner-build-process",
+   "headline": true,
+   "doubt": "The title and description say six years, while Steve says five years at 364.24 seconds.",
+   "quantity": {
+    "value": 6,
+    "unit": "year",
+    "of": "build time"
+   }
+  },
+  {
+   "id": "off-grid-title",
+   "text": "The home is off-grid.",
+   "by": "description",
+   "at": [],
+   "about": "off-grid-description",
+   "headline": true
+  },
+  {
+   "id": "owner-and-builder",
+   "text": "Steve is the property’s owner and builder.",
+   "by": "steve-mallinger",
+   "at": [
+    114.4
+   ],
+   "about": "owner-build-process",
+   "headline": true,
+   "text_source": "human captions"
+  },
+  {
+   "id": "scandinavian-barn-brief",
+   "text": "The brief was a Scandinavian barn-inspired house.",
+   "by": "steve-mallinger",
+   "at": [
+    123.2
+   ],
+   "about": "pavilion-house",
+   "headline": true,
+   "text_source": "human captions"
+  },
+  {
+   "id": "architect-interior-designer",
+   "text": "Andrew Donaldson designed the architecture and interiors.",
+   "by": "andrew-donaldson",
+   "at": [
+    41.36
+   ],
+   "about": "pavilion-house",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "middle-dural-location",
+   "text": "The property is in Middle Dural near Sydney.",
+   "by": "andrew-donaldson",
+   "at": [
+    51.28
+   ],
+   "about": null,
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "location-description",
+   "text": "Middle Dural, New South Wales, Australia.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": false
+  },
+  {
+   "id": "eastward-slope",
+   "text": "The site slopes east from the road.",
+   "by": "andrew-donaldson",
+   "at": [
+    67.12
+   ],
+   "about": "woodland-setting",
+   "headline": false,
+   "facing": "east",
+   "text_source": "human captions"
+  },
+  {
+   "id": "former-orchard-claim",
+   "text": "An orchard previously stood on the site.",
+   "by": "andrew-donaldson",
+   "at": [
+    72.08
+   ],
+   "about": "former-orchard",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "creek-name-claim",
+   "text": "The site drops steeply toward Pangari Creek.",
+   "by": "andrew-donaldson",
+   "at": [
+    72.08
+   ],
+   "about": "creek-below",
+   "headline": false,
+   "doubt": "The creek name comes only from the caption spelling; no on-screen label corroborates it.",
+   "text_source": "human captions"
+  },
+  {
+   "id": "privacy-glazing",
+   "text": "Rural privacy allows glazing on almost all sides.",
+   "by": "andrew-donaldson",
+   "at": [
+    82
+   ],
+   "about": "full-height-glazing",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "family-wing-entry",
+   "text": "Entry is through the central family-wing pavilion.",
+   "by": "andrew-donaldson",
+   "at": [
+    160
+   ],
+   "about": "pivot-entry",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "contoured-corridor",
+   "text": "The corridor kinks with the ridge contour.",
+   "by": "andrew-donaldson",
+   "at": [
+    173.92
+   ],
+   "about": "batten-corridor",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "laminated-portals-claim",
+   "text": "Laminated timber portals structure the high interior spaces.",
+   "by": "andrew-donaldson",
+   "at": [
+    186.4
+   ],
+   "about": "timber-portals",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "charred-cladding-spoken",
+   "text": "Shou sugi ban emerged during material selection.",
+   "by": "steve-mallinger",
+   "at": [
+    137.76
+   ],
+   "about": "charred-cladding",
+   "headline": false,
+   "doubt": "The following caption phrase “tried hard” is garbled; the description supplies the separate hardwood identification.",
+   "text_source": "human captions"
+  },
+  {
+   "id": "hardwood-description",
+   "text": "The exterior uses shou sugi ban charred hardwood.",
+   "by": "description",
+   "at": [],
+   "about": "charred-cladding",
+   "headline": false
+  },
+  {
+   "id": "standing-seam-spoken",
+   "text": "Standing-seam roofing evolved during design.",
+   "by": "steve-mallinger",
+   "at": [
+    146.48
+   ],
+   "about": "standing-seam-roof",
+   "headline": false,
+   "doubt": "Captions say “sanding seam”; the description names standing seam and the images show raised seams.",
+   "text_source": "human captions"
+  },
+  {
+   "id": "black-kitchen-material",
+   "text": "The black kitchen echoes charred timber but is not charred.",
+   "by": "andrew-donaldson",
+   "at": [
+    194.64
+   ],
+   "about": "black-kitchen",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "porcelain-kitchen",
+   "text": "The kitchen material palette includes porcelain.",
+   "by": "andrew-donaldson",
+   "at": [
+    199.2
+   ],
+   "about": "black-island",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "miele-integration",
+   "text": "Miele appliances were chosen for seamless black integration.",
+   "by": "andrew-donaldson",
+   "at": [
+    209.12
+   ],
+   "about": "miele-ovens",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "miele-every-project",
+   "text": "Steve has used Miele in every project since starting.",
+   "by": "steve-mallinger",
+   "at": [
+    228.08
+   ],
+   "about": "miele-ovens",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "external-entertaining",
+   "text": "The adjoining outdoor living area serves large-group entertaining.",
+   "by": "andrew-donaldson",
+   "at": [
+    255.68
+   ],
+   "about": "outdoor-entertaining",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "pool-retreat",
+   "text": "The pool house offers a smaller, cosier retreat.",
+   "by": "andrew-donaldson",
+   "at": [
+    271.92
+   ],
+   "about": "pool-house-retreat",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "wood-fired-retreat",
+   "text": "The pool-house retreat has a wood-fired stove.",
+   "by": "andrew-donaldson",
+   "at": [
+    275.68
+   ],
+   "about": "wood-stove",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "landscape-intent",
+   "text": "Landscaping should feel as though it has always belonged.",
+   "by": "steve-mallinger",
+   "at": [
+    293.04
+   ],
+   "about": "designed-gardens",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "landscape-designer",
+   "text": "Rolling Stone Landscapes designed the landscape.",
+   "by": "description",
+   "at": [],
+   "about": "designed-gardens",
+   "headline": false
+  },
+  {
+   "id": "fog-claim",
+   "text": "The property gets fog in the mornings.",
+   "by": "andrew-donaldson",
+   "at": [
+    324.56
+   ],
+   "about": "morning-fog",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "build-credit",
+   "text": "Mallinger Constructions built the house.",
+   "by": "description",
+   "at": [],
+   "about": "owner-build-process",
+   "headline": false
+  }
+ ],
+ "links": [],
+ "relationships": [
+  {
+   "subject": "timber-portals",
+   "predicate": "supports",
+   "object": "timber-ceilings",
+   "time": 187,
+   "status": "visible"
+  },
+  {
+   "subject": "firewood-storage",
+   "predicate": "sits below",
+   "object": "wood-stove",
+   "time": 253,
+   "status": "visible"
+  },
+  {
+   "subject": "roller-blinds",
+   "predicate": "covers",
+   "object": "full-height-glazing",
+   "time": 109,
+   "status": "visible"
+  },
+  {
+   "subject": "pool-glass-barrier",
+   "predicate": "separates sitting area from",
+   "object": "swimming-pool",
+   "time": 371,
+   "status": "visible"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "pavilion-house",
+   "title": "Linked barn-form timber house",
+   "place": "house",
+   "category": "Structure",
+   "description": "Dark gabled volumes and lower connecting roofs extend across the landscaped site. Steve says he asked Andrew for a Scandinavian barn concept; Andrew describes a series of six pavilions with a central family wing.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not identify the function of every pavilion, total floor area or concealed construction.",
+   "related_ids": [],
+   "terms": [
+    "barn",
+    "timber frame"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 123.2,
+     "end": 129.44,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 160,
+     "end": 186.4,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 63.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0018.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 149.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0039.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0097",
+     "time": 362.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0097.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0097.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "charred-cladding",
+   "title": "Shou sugi ban vertical hardwood cladding",
+   "place": "house",
+   "category": "Materials",
+   "description": "Close exterior shots show dark vertical boards around openings and across low elevations. Steve discusses shou sugi ban as an evolving choice; the description identifies charred hardwood.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Species, charring treatment, substrate and fire performance are not supplied; the spoken caption around hardwood is garbled.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 137.76,
+     "end": 146.48,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0037",
+     "time": 141.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0037.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0037.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 144.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0038.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0037.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "standing-seam-roof",
+   "title": "Dark standing-seam pitched roofs",
+   "place": "house",
+   "category": "Materials",
+   "description": "Pitched roof surfaces have closely spaced raised seams, with lower connecting roofs between gables. Steve discusses the roof during the material-selection account, and the description names standing seam.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Metal type, insulation, drainage details and roof area are not disclosed; captions transcribe the roof term as “sanding seam”.",
+   "related_ids": [],
+   "terms": [
+    "metal",
+    "roof"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 146.48,
+     "end": 154,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 144.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0038.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 63.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0018.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 149.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0039.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0038.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "timber-portals",
+   "title": "Exposed laminated timber portal frames",
+   "place": "main-room",
+   "category": "Structure",
+   "description": "Large timber posts and paired rafters repeat through the open room, with laminations visible on the members. Andrew says laminated timber portals structure these high barn-like spaces.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Timber species, grades, spans, joinery and engineering design are not established.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "timber frame"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 177.76,
+     "end": 191.12,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 187.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0049.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0050",
+     "time": 190.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0050.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0050.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 181.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0048.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0049.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "timber-ceilings",
+   "title": "Timber-lined pitched ceilings",
+   "place": "main-room",
+   "category": "Materials",
+   "description": "Narrow timber boards line the pitched ceiling between exposed portal frames. Andrew draws attention to timber craftsmanship on entering the house.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Board species, fixing system and insulation above are not stated.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "ceiling"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 26.88,
+     "end": 28.88,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0008",
+     "time": 27.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0008.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0008.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 187.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0049.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0008.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "full-height-glazing",
+   "title": "Full-height black-framed landscape glazing",
+   "place": "main-room",
+   "category": "Structure",
+   "description": "Long walls and gable ends have black-framed glazing with views into planting and trees. Andrew says the rural setting allows glass on almost all sides without close-neighbour privacy concerns.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Glass build-up, thermal performance, operable sections and safety specification are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "glass",
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 82,
+     "end": 105.28,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0025",
+     "time": 92.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0025.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0025.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 90.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0024.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0030",
+     "time": 112.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0030.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0030.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0025.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pivot-entry",
+   "title": "Broad black pivot entrance door",
+   "place": "entrance-hall",
+   "category": "Structure",
+   "description": "Andrew opens a broad dark entrance leaf and steps into the lower-ceilinged hall. He describes the pivot door as a transition from a compressed arrival into a calm timber interior.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Door dimensions, pivot hardware and security or weather seals are not shown in detail.",
+   "related_ids": [],
+   "terms": [
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 19.36,
+     "end": 26.88,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0044",
+     "time": 166.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0044.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0044.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 170.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0045.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0043",
+     "time": 164.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0043.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0043.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0044.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "batten-corridor",
+   "title": "Timber-battened linking corridor",
+   "place": "entrance-hall",
+   "category": "Structure",
+   "description": "A long pale corridor has a linear timber-batten ceiling and repeated side windows. Andrew says it kinks with the ridge and calls it a 90-metre [295-foot] corridor, one of Steve’s favourite spaces.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Its complete length and route are not demonstrated; the film supplies no measured plan.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "ceiling"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 164.8,
+     "end": 177.76,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 172.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0046.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 259.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0068.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0046.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "glazed-courtyard-links",
+   "title": "Glazed passages overlooking planted courtyards",
+   "place": "glazed-links",
+   "category": "Structure",
+   "description": "Black-framed passages look directly onto planted outdoor spaces and adjacent roofed areas. Andrew describes sightlines through courtyards and glazed links.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "The number, lengths and exact connections of the links cannot be reconstructed from the cuts.",
+   "related_ids": [],
+   "terms": [
+    "glass",
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 95.76,
+     "end": 105.28,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 100.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0027.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0028",
+     "time": 102.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0028.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0028.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 96.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0026.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0027.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pale-unit-floor",
+   "title": "Pale rectangular living-room floor units",
+   "place": "main-room",
+   "category": "Materials",
+   "description": "Pale mottled rectangular units form a jointed floor under the dining table and living-room seating. The floor material is not named in the dialogue.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "The images do not distinguish natural stone from a stone-look manufactured tile or identify its finish.",
+   "related_ids": [],
+   "terms": [
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 181.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0048.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0030",
+     "time": 112.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0030.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0030.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0048.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roller-blinds",
+   "title": "Dark translucent roller window blinds",
+   "place": "main-room",
+   "category": "Climate",
+   "description": "A dark translucent blind is partially lowered over the landscape-facing glazing, leaving a clear strip below. Nobody explains the blind in the transcript.",
+   "phase": "current",
+   "part_of": "full-height-glazing",
+   "unknown": "Fabric, controls, automation and measured heat or glare reduction are unknown.",
+   "related_ids": [],
+   "terms": [
+    "shading"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0029",
+     "time": 109.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0029.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0029.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0029.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "main-living-dining",
+   "title": "Open living and dining beneath timber portals",
+   "place": "main-room",
+   "category": "Life",
+   "description": "A long timber dining table and pale sofas occupy the same high glazed room as the black kitchen. Andrew describes shared spaces intended for entertaining large groups.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "Household occupancy and the number of guests the room accommodates are not given.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 255.68,
+     "end": 269.04,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 181.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0048.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0010",
+     "time": 34.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0010.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0010.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0097",
+     "time": 362.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0097.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0097.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0048.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom-fitout",
+   "title": "Glazed bathroom with freestanding dark bath",
+   "place": "bathroom",
+   "category": "Life",
+   "description": "A doorway view shows a dark freestanding bath with a pale interior and black spout. Timber framing, a clear internal glass panel and an obscured lower window are visible; nobody describes the bathroom.",
+   "phase": "current",
+   "part_of": "pavilion-house",
+   "unknown": "The room’s pavilion position, full fixture layout and water systems are not established.",
+   "related_ids": [],
+   "terms": [
+    "bathroom",
+    "bath",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0069",
+     "time": 261.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0069.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0069.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0069.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "black-kitchen",
+   "title": "Black kitchen with integrated appliances",
+   "place": "main-room",
+   "category": "Food",
+   "description": "A dark island and tall black joinery sit behind the dining table under the timber roof. Andrew says the kitchen echoes the charred exterior without itself being charred timber, including its porcelain surfaces.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Porcelain location is not fully itemised, and cabinet substrates, brands other than the appliances and costs are not specified.",
+   "related_ids": [
+    "main-living-dining"
+   ],
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 191.12,
+     "end": 228,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0052",
+     "time": 199.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0052.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0052.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 194.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0051.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0097",
+     "time": 362.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0097.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0097.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0052.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "black-island",
+   "title": "Dark kitchen island and recessed work niche",
+   "place": "main-room",
+   "category": "Materials",
+   "description": "A long dark island fronts a tall black unit with a recessed working niche and decorative objects. Andrew describes the kitchen as completely black and mentions porcelain in the palette.",
+   "phase": "current",
+   "part_of": "black-kitchen",
+   "unknown": "The exact surface assigned to porcelain and the island’s internal storage layout are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 194.64,
+     "end": 209.12,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0052",
+     "time": 199.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0052.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0052.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 194.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0051.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0052.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "back-kitchen-passage",
+   "title": "Counter-lined dark back-kitchen passage",
+   "place": "back-kitchen",
+   "category": "Food",
+   "description": "A narrow passage has dark full-height cabinetry, a continuous counter and a window at its far end. The accompanying discussion mentions joinery mechanisms without naming this space.",
+   "phase": "current",
+   "part_of": "black-kitchen",
+   "unknown": "The film does not establish whether this is a pantry, scullery or another service area.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0053",
+     "time": 203.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0053.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0053.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0053.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "miele-ovens",
+   "title": "Black integrated Miele oven stack",
+   "place": "main-room",
+   "category": "Food",
+   "description": "Black built-in oven fronts sit flush with tall cabinetry, and Andrew opens one glazed door. Andrew praises their visual integration; Steve says familiarity across his projects informs his Miele selection.",
+   "phase": "current",
+   "part_of": "black-kitchen",
+   "unknown": "Models, capacities and operating modes are not legible or stated; the film contains promotional Miele commentary and appliance credits, without establishing sponsorship terms.",
+   "related_ids": [],
+   "terms": [
+    "electric cooking"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 209.12,
+     "end": 242.56,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0058",
+     "time": 223.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0058.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0058.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 208.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0054.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0056",
+     "time": 215.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0056.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0056.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0058.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "integrated-dishwasher",
+   "title": "Concealed Miele dishwasher",
+   "place": "main-room",
+   "category": "Food",
+   "description": "A cabinet-fronted dishwasher opens downward, with Miele visible on its upper door edge. It is demonstrated during Steve’s discussion of appliance choice.",
+   "phase": "current",
+   "part_of": "black-kitchen",
+   "unknown": "Model, water consumption and energy use are not given; the demonstration accompanies promotional brand commentary.",
+   "related_ids": [],
+   "terms": [
+    "dishwasher"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 228.08,
+     "end": 246,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0062",
+     "time": 237.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0062.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0062.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0061",
+     "time": 234.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0061.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0061.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0062.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "black-cooktop",
+   "title": "Flush black glass cooking surface",
+   "place": "main-room",
+   "category": "Food",
+   "description": "A flat black cooking surface sits in the counter, with a pot placed on it in close-up. No cooktop type or model is spoken.",
+   "phase": "current",
+   "part_of": "black-kitchen",
+   "unknown": "The image does not establish induction versus another electric technology, extraction arrangement or rated power; it appears within the promotional appliance montage.",
+   "related_ids": [],
+   "terms": [
+    "electric cooking",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0063",
+     "time": 241.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0063.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0063.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0064",
+     "time": 243.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0064.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0064.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0063.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "kitchen-sink",
+   "title": "Dark sink niche and black tap",
+   "place": "main-room",
+   "category": "Water",
+   "description": "A black tap rises over the sink area in a recessed dark work niche beside the oven stack. Nobody separately describes its water supply or fittings.",
+   "phase": "current",
+   "part_of": "black-kitchen",
+   "unknown": "Water source, treatment, drainage and fixture specification are not shown.",
+   "related_ids": [],
+   "terms": [
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0058",
+     "time": 223.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0058.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0058.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 208.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0054.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0058.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-house-retreat",
+   "title": "Pool house and cabana retreat",
+   "place": "pool-house",
+   "category": "Life",
+   "description": "A smaller furnished gabled interior contains pale seating, dining space, a white kitchenette and a lit stove. Andrew calls the pool house and cabana a cosier retreat connected to the pool.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Its full plan, guest accommodation and exact relationship to the stated pavilion count remain unspecified.",
+   "related_ids": [
+    "swimming-pool"
+   ],
+   "terms": [
+    "barn",
+    "timber frame"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 269.04,
+     "end": 285,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 274.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0073.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 277.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0074.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 284.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0076.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0073.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wood-stove",
+   "title": "Glazed wood stove with exposed flue",
+   "place": "pool-house",
+   "category": "Energy",
+   "description": "Flames burn behind a wide glazed stove front supported on a low black stand, with a vertical flue above. Andrew identifies a wood-fired stove as part of the cosy retreat.",
+   "phase": "current",
+   "part_of": "pool-house-retreat",
+   "unknown": "Heat output, flue specification and whether other house spaces use the same heating arrangement are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "wood stove",
+    "chimney"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 271.92,
+     "end": 285,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 253.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0066.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 277.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0074.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0066.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "firewood-storage",
+   "title": "Firewood baskets and under-stove log storage",
+   "place": "pool-house",
+   "category": "Life",
+   "description": "Split logs lie under the stove and in woven baskets beside it. Nobody explains fuel sourcing or storage routines.",
+   "phase": "current",
+   "part_of": "wood-stove",
+   "unknown": "Wood source, seasoning, annual consumption and larger storage areas are unknown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 253.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0066.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 277.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0074.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0066.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-kitchenette",
+   "title": "Pale pool-house kitchenette",
+   "place": "pool-house",
+   "category": "Food",
+   "description": "Pale upper and lower cabinets and a sink/tap area occupy the far end behind the dining table. The narration describes the retreat without itemising its kitchenette.",
+   "phase": "current",
+   "part_of": "pool-house-retreat",
+   "unknown": "Appliance inventory, cabinet materials and services are not explained.",
+   "related_ids": [],
+   "terms": [
+    "kitchen",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 274.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0073.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0073.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-ceiling-fan",
+   "title": "Black fan below the timber ridge",
+   "place": "pool-house",
+   "category": "Climate",
+   "description": "A black ceiling fan hangs below the timber-lined ridge above the pool-house sitting area. Nobody mentions its operation.",
+   "phase": "current",
+   "part_of": "pool-house-retreat",
+   "unknown": "Fan model, controls and any mechanical ventilation system remain unknown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 274.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0073.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0073.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-curtains",
+   "title": "Full-height pale pool-house curtains",
+   "place": "pool-house",
+   "category": "Climate",
+   "description": "Pale curtains hang beside the pool-house glazing from near ceiling level. They are not discussed in the dialogue.",
+   "phase": "current",
+   "part_of": "pool-house-retreat",
+   "unknown": "Fabric, lining, operation and thermal performance are not stated.",
+   "related_ids": [],
+   "terms": [
+    "fabric",
+    "shading"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 274.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0073.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0073.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "arched-floor-lamp",
+   "title": "Arched black floor lamp over seating",
+   "place": "pool-house",
+   "category": "Life",
+   "description": "A long curved black stem carries a large cylindrical shade over the sofa area. No lamp manufacturer or purpose is discussed.",
+   "phase": "current",
+   "part_of": "pool-house-retreat",
+   "unknown": "Manufacturer, lamp source and controls are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 274.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0073.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 277.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0074.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0073.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "swimming-pool",
+   "title": "Swimming pool behind glazed sitting area",
+   "place": "pool-area",
+   "category": "Life",
+   "description": "Pale pool water and coping are partly visible beyond the glazing in Steve’s interviews. Andrew refers to a connection between the pool and the smaller retreat.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Dimensions, construction, heating, filtration and water source are not shown; available views are partly blocked by the interview subject.",
+   "related_ids": [
+    "pool-house-retreat"
+   ],
+   "terms": [
+    "swimming pool"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 271.92,
+     "end": 285,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 115.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0031.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 371.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0099.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0031.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-glass-barrier",
+   "title": "Clear glass barrier around pool surround",
+   "place": "pool-area",
+   "category": "Structure",
+   "description": "Clear panels with small base fixings separate the visible pool edge from the foreground sitting area. The barrier is not described verbally.",
+   "phase": "current",
+   "part_of": "swimming-pool",
+   "unknown": "Its full route, gates, specification and compliance status are not established.",
+   "related_ids": [],
+   "terms": [
+    "glass",
+    "fence"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 371.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0099.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 115.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0031.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0099.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "outdoor-entertaining",
+   "title": "Roofed outdoor dining and lounge terrace",
+   "place": "terrace",
+   "category": "Life",
+   "description": "An outdoor dining table and pale lounge seating stand beneath a roof facing a glazed gable and planted court. Andrew says an external living area adjoining the shared spaces serves large-group entertaining.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film gives no capacity, weather protection performance or complete connection route.",
+   "related_ids": [
+    "main-living-dining"
+   ],
+   "terms": [
+    "porch"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 255.68,
+     "end": 269.04,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 263.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0070.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 90.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0024.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0070.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "designed-gardens",
+   "title": "Designed gardens among existing bushland",
+   "place": "gardens",
+   "category": "Land",
+   "description": "Grasses, rounded shrubs, lawns, rocks and trees surround the pavilions and paths. Steve says he wants the landscaping to feel as though it has always been there; the description credits Rolling Stone Landscapes.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Plant schedule, irrigation, establishment dates and ecological performance are not given.",
+   "related_ids": [
+    "woodland-setting"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 293.04,
+     "end": 308,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 314.32,
+     "end": 333,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 318.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0086.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0081",
+     "time": 301.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0081.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0081.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 296.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0079.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0086.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "ornamental-grasses",
+   "title": "Massed pale and reddish ornamental grasses",
+   "place": "gardens",
+   "category": "Land",
+   "description": "Dense grass clumps carry pale and reddish feathery seed heads beside paths, glazing and roofs. No species is named in the narration.",
+   "phase": "current",
+   "part_of": "designed-gardens",
+   "unknown": "Species, provenance, seasonal maintenance and water demand are unknown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 296.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0079.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 300.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0080.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 323.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0087.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0079.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rounded-shrubs",
+   "title": "Rounded shrubs and layered entrance planting",
+   "place": "gardens",
+   "category": "Land",
+   "description": "Low rounded shrubs form repeated mounds among taller grasses and occasional trees near the arrival area. The speakers discuss the designed landscape generally without naming this planting.",
+   "phase": "current",
+   "part_of": "designed-gardens",
+   "unknown": "Species and whether the rounded forms are clipped or naturally shaped are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0081",
+     "time": 301.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0081.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0081.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 318.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0086.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0094",
+     "time": 351.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0094.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0094.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0081.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "garden-rockwork",
+   "title": "Rock terraces and broad garden steps",
+   "place": "gardens",
+   "category": "Land",
+   "description": "Large rough rocks retain planted slopes, with broad irregular steps climbing between them beneath mature trees. Nobody explains the rockwork.",
+   "phase": "current",
+   "part_of": "designed-gardens",
+   "unknown": "Stone type, source, retaining construction and drainage behind it are not visible.",
+   "related_ids": [],
+   "terms": [
+    "stone",
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0071",
+     "time": 267.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0071.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0071.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0072",
+     "time": 269.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0072.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0072.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 12.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0004.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0071.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mown-garden-paths",
+   "title": "Mown lawns and woodland garden paths",
+   "place": "gardens",
+   "category": "Land",
+   "description": "Mown grassy strips curve between planted beds and continue beneath trees at the woodland edge. These surfaces are not individually described.",
+   "phase": "current",
+   "part_of": "designed-gardens",
+   "unknown": "Maintenance regime, grass species and former ground conditions are unknown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0083",
+     "time": 308.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0083.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0083.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 318.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0086.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 83.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0022.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0083.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "courtyard-trees",
+   "title": "Planted courtyards between glazed pavilions",
+   "place": "gardens",
+   "category": "Land",
+   "description": "Trees and dense low planting occupy open spaces between pale gable ends, dark walls and connecting roofs. Andrew describes seeing through each courtyard and glazed link.",
+   "phase": "current",
+   "part_of": "designed-gardens",
+   "unknown": "Courtyard count, plant species and all connecting paths remain unspecified.",
+   "related_ids": [
+    "glazed-courtyard-links"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 95.76,
+     "end": 105.28,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 126.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0034.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0093",
+     "time": 346.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0093.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0093.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 100.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0027.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0034.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "arrival-drive",
+   "title": "Looping arrival drive around planted islands",
+   "place": "arrival",
+   "category": "Structure",
+   "description": "A broad pale drive curves around planted islands before reaching the dark entrance elevations. The drive’s material and use are not separately discussed.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Surface composition, drainage, turning dimensions and property access boundary are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 59.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0017.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 292.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0078.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 63.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0018.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0017.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "entrance-path-lights",
+   "title": "Low black lights beside entrance paths",
+   "place": "arrival",
+   "category": "Life",
+   "description": "Small black right-angled light fittings repeat beside planted pedestrian approaches. Nobody describes their electrical supply or controls.",
+   "phase": "current",
+   "part_of": "arrival-drive",
+   "unknown": "Lamp technology, wiring, automation and whether they share the claimed off-grid supply are unknown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0035",
+     "time": 130.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0035.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0035.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0090",
+     "time": 338.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0090.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0090.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0035.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sports-court",
+   "title": "Fenced red-and-green tennis court",
+   "place": "court",
+   "category": "Life",
+   "description": "A red perimeter surrounds a green court with tennis markings and a net; tall fencing encloses it beside the house. The court is never mentioned in the transcript.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Dimensions, surfacing material, lighting and construction date are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "fence"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 63.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0018.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 156.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0041.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "basketball-hoop",
+   "title": "Basketball hoop at tennis-court end",
+   "place": "court",
+   "category": "Life",
+   "description": "A backboard and hoop stand at one end of the fenced tennis court. Nobody explains the combined sporting use.",
+   "phase": "current",
+   "part_of": "sports-court",
+   "unknown": "Adjustability, court markings for basketball and manufacturer are unknown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 63.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0018.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "woodland-setting",
+   "title": "Semi-rural woodland slope and distant views",
+   "place": "woodland",
+   "category": "Land",
+   "description": "Mature trees surround lawns and pavilions, with wider wooded country visible in aerial shots. Andrew says the site covers 20 hectares [49.4 acres] and slopes east from the road before dropping more steeply toward a creek.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Boundaries, surveyed levels and the share of the stated area visible in the film are not established.",
+   "related_ids": [
+    "designed-gardens"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 51.28,
+     "end": 77.12,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 68.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0019.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0012",
+     "time": 39.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0012.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0012.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0020",
+     "time": 72.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0020.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0020.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0019.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "creek-below",
+   "title": "Creek below the wooded site",
+   "place": "creek",
+   "category": "Water",
+   "description": "Wooded slopes provide context, but no creek channel or flowing water is identified. Andrew says the site drops steeply to a creek, captioned as Pangari Creek.",
+   "phase": "current",
+   "part_of": "woodland-setting",
+   "unknown": "The spelling, exact course, ownership, seasonal flow and any household use of its water are unknown.",
+   "related_ids": [],
+   "terms": [
+    "creek"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 72.08,
+     "end": 77.12,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 68.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0019.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0020",
+     "time": 72.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0020.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0020.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0019.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "former-orchard",
+   "title": "Former orchard on the site",
+   "place": "site",
+   "category": "Land",
+   "description": "Current aerials show the grounds and roofs rather than an identifiable former orchard. Andrew says an orchard used to stand where the site becomes less visible from the road.",
+   "phase": "historical",
+   "part_of": "woodland-setting",
+   "unknown": "The orchard’s date, crop, extent and exact location are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 67.12,
+     "end": 77.12,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 68.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0019.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0019.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "morning-fog",
+   "title": "Morning fog around the wooded house",
+   "place": "woodland",
+   "category": "Climate",
+   "description": "Opening shots and regional aerials show fog among the trees and roofs. Andrew says the house gets morning fog and makes the different seasons noticeable.",
+   "phase": "current",
+   "part_of": "woodland-setting",
+   "unknown": "Frequency, seasonal weather patterns and indoor comfort effects are not measured.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 324.56,
+     "end": 333,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0014",
+     "time": 47.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0014.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0014.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0005",
+     "time": 15.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0005.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0005.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 18.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0006.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0014.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "off-grid-description",
+   "title": "Off-grid household claim",
+   "place": "site",
+   "category": "Energy",
+   "description": "Exterior and interior views give context but show no identifiable off-grid supply equipment. The title and description call the home off-grid without explaining what services the term covers.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Power generation, storage, backup, water supply, wastewater and the extent of grid disconnection are all unestablished.",
+   "related_ids": [],
+   "terms": [
+    "off-grid"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 63.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0018.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 152.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0040.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "owner-build-process",
+   "title": "Owner-builder collaboration and evolving materials",
+   "place": "site",
+   "category": "Process",
+   "description": "The film shows the completed house while Steve and Andrew reflect on its design and making. Steve identifies himself as owner and builder, describes a stable barn-inspired brief with evolving materials, and calls the undertaking five years in the making; the description says six years.",
+   "phase": "historical",
+   "part_of": null,
+   "unknown": "No build-stage evidence, cost, financing, detailed timeline or explanation of the conflicting durations is supplied.",
+   "related_ids": [
+    "pavilion-house",
+    "charred-cladding",
+    "standing-seam-roof"
+   ],
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 114.4,
+     "end": 154,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 359.6,
+     "end": 373,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0097",
+     "time": 362.0,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0097.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0097.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 152.5,
+     "path": "review/RNbPNnAx9xE/evidence/frame-0040.jpg",
+     "preview_path": "review/RNbPNnAx9xE/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/RNbPNnAx9xE/sample-0097.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 14.96,
+   "title": "Opening titles and gabled house",
+   "visible": "Misty garden, ornamental grasses and glazed gabled exterior; film title and architecture credit.",
+   "gaps": "No dimensions, construction history or system equipment.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0004.jpg"
+  },
+  {
+   "start": 14.96,
+   "end": 26.36,
+   "title": "Woodland approach and entrance",
+   "visible": "Trees and lawn, black roof forms, open dark entrance looking toward planted drive.",
+   "gaps": "A complete entrance route is not shown in this introductory montage.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0005",
+    "frame-0006",
+    "frame-0007"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0006.jpg"
+  },
+  {
+   "start": 26.36,
+   "end": 41.4,
+   "title": "Timber interior and bushland",
+   "visible": "Timber portals and pitched lining, main living/dining room, black kitchen and woodland cutaway.",
+   "gaps": "Timber species and concealed structure are not established.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0010.jpg"
+  },
+  {
+   "start": 41.4,
+   "end": 63.2,
+   "title": "Architect introduction and regional aerials",
+   "visible": "Andrew seated in main room; fog over wooded landscape; arrival drive and planted islands from above.",
+   "gaps": "Regional aerials do not establish property boundaries.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0017.jpg"
+  },
+  {
+   "start": 63.2,
+   "end": 82,
+   "title": "House ensemble on wooded slope",
+   "visible": "Aerials of linked roofs, loop drive, lawns, fenced tennis court and wooded falling ground.",
+   "gaps": "The creek and former orchard mentioned here are not identifiable in the images.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0018.jpg"
+  },
+  {
+   "start": 82,
+   "end": 99.36,
+   "title": "Glazed living room and courtyard thresholds",
+   "visible": "Glazed gable on lawn, main room in reverse view, timber column and covered courtyard threshold.",
+   "gaps": "No complete pavilion floor plan or glazing specification.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0024.jpg"
+  },
+  {
+   "start": 99.36,
+   "end": 114.4,
+   "title": "Glazed links and window blind",
+   "visible": "Black-framed courtyard glazing, partially lowered dark roller blind, wide living/dining view.",
+   "gaps": "Blind controls and the exact connection sequence between pavilions are not explained.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0029.jpg"
+  },
+  {
+   "start": 114.4,
+   "end": 129.88,
+   "title": "Owner introduction and barn brief",
+   "visible": "Steve seated by glazing with pool beyond; exterior gables and pale roofed link amid planting.",
+   "gaps": "Interview view only partly shows pool; no building-stage footage.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0034.jpg"
+  },
+  {
+   "start": 129.88,
+   "end": 148.28,
+   "title": "Dark cladding and roof palette",
+   "visible": "Low black elevations, close vertical-board cladding, ribbed pitched roofs and planted paths.",
+   "gaps": "Caption wording for cladding and roof is garbled; no wall build-up.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0037.jpg"
+  },
+  {
+   "start": 148.28,
+   "end": 160,
+   "title": "Linked pavilions and grounds",
+   "visible": "Glazed gable, curved arrival area, aerial lawn and sports court beside long roof forms.",
+   "gaps": "Cuts do not identify the use of every pavilion.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0039",
+    "frame-0040",
+    "frame-0041"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0041.jpg"
+  },
+  {
+   "start": 160,
+   "end": 175.8,
+   "title": "Pivot entrance and batten corridor",
+   "visible": "Andrew walks to large black entrance, opens pivot door and enters; long pale hall with timber battens.",
+   "gaps": "The entire stated corridor length is not traversed or measured.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0046.jpg"
+  },
+  {
+   "start": 175.8,
+   "end": 194.72,
+   "title": "Roof layout and timber portals",
+   "visible": "Top-down roof/drive view, main living/dining space and close pitched timber portal frames.",
+   "gaps": "Aerial is footage, not a plan; no engineering dimensions or connection detail.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0049.jpg"
+  },
+  {
+   "start": 194.72,
+   "end": 207.52,
+   "title": "Black kitchen and service passage",
+   "visible": "Black island and tall joinery, worktop, then a narrow dark counter-lined back-kitchen passage.",
+   "gaps": "Joinery substrate and the passage function are not explicitly named.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0052",
+    "frame-0053"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0052.jpg"
+  },
+  {
+   "start": 207.52,
+   "end": 232.36,
+   "title": "Installed Miele appliance presentation",
+   "visible": "Oven stack, sink niche, reflective panel, Andrew opening oven and standing beside kitchen.",
+   "gaps": "Promotional appliance commentary provides no model specifications or independent performance tests.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0058.jpg"
+  },
+  {
+   "start": 232.36,
+   "end": 248.36,
+   "title": "Dishwasher and cooking surface demonstration",
+   "visible": "Flush cabinetry, opened integrated dishwasher with Miele marking, black cooktop and pot.",
+   "gaps": "Controls, cooking technology and energy use are not established.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0062.jpg"
+  },
+  {
+   "start": 248.36,
+   "end": 263,
+   "title": "Wood stove, corridor and bathroom glimpse",
+   "visible": "Woodland cutaway, lit horizontal wood stove, Andrew in hall, dark bath through internal glass.",
+   "gaps": "Bathroom pavilion position, water services and whole-house heating are not established.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0066.jpg"
+  },
+  {
+   "start": 263,
+   "end": 273.08,
+   "title": "Covered terrace and rock garden",
+   "visible": "Furnished roofed dining/lounge faces a glazed gable; rock-edged slope and broad stone steps.",
+   "gaps": "No measured outdoor capacity or exact route to the rock steps.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0070",
+    "frame-0071",
+    "frame-0072"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0070.jpg"
+  },
+  {
+   "start": 273.08,
+   "end": 287.36,
+   "title": "Pool-house and cabana retreat",
+   "visible": "Pale sofa, dining area, white kitchenette, timber ceiling, fan, arched lamp, curtains, stove and garden glazing.",
+   "gaps": "Pool equipment and exact connection to the main house are not toured.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0073.jpg"
+  },
+  {
+   "start": 287.36,
+   "end": 307.88,
+   "title": "Arrival landscape and planting",
+   "visible": "Aerial lawn and roofs, looping drive, red and pale grass seed heads, clipped shrubs and dark elevations.",
+   "gaps": "Mention of a previous project does not identify any image as that other location.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0078.jpg"
+  },
+  {
+   "start": 307.88,
+   "end": 329.64,
+   "title": "Woodland lawn and designed gardens",
+   "visible": "Mown ground beneath trees, roofs behind grasses, curved lawns and planted glazed gable beside court fencing.",
+   "gaps": "Plant species, irrigation and season dates are not disclosed.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0086.jpg"
+  },
+  {
+   "start": 329.64,
+   "end": 349.72,
+   "title": "Garden walk and architect reflection",
+   "visible": "Black gable and courtyard links, Andrew walking approach, seated interview, garden path below connecting roof.",
+   "gaps": "All appears complete; no historical comparison footage.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0093.jpg"
+  },
+  {
+   "start": 349.72,
+   "end": 361.96,
+   "title": "Entrance and outward views",
+   "visible": "Entrance elevation, Andrew standing at glazing and looking over grasses and trees.",
+   "gaps": "No additional room identity or technical system is established.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0094",
+    "frame-0095",
+    "frame-0096"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0094.jpg"
+  },
+  {
+   "start": 361.96,
+   "end": 381.12,
+   "title": "Owner reflection and final house aerial",
+   "visible": "Main kitchen/dining, Steve seated with pool beyond, aerial of arrival drive, court and pavilion ensemble.",
+   "gaps": "Five-year spoken account conflicts with six-year description; no cost is given.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0097.jpg"
+  },
+  {
+   "start": 381.12,
+   "end": 388.741,
+   "title": "Closing channel card",
+   "visible": "Close ornamental grass seed heads beneath The Local Project logo, fading to black.",
+   "gaps": "End graphics add no property facts.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105"
+   ],
+   "thumbnail": "review/RNbPNnAx9xE/sample-0102.jpg"
+  }
+ ]
+}

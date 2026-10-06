@@ -1,0 +1,488 @@
+{
+ "property_id": "aucsiGWbEyU",
+ "items": [
+  {
+   "id": "portrait",
+   "title": "Vosges homestead, winter sunlight",
+   "kind": "portrait",
+   "hero": true,
+   "path": "data/illustrations/aucsiGWbEyU/portrait.png",
+   "invention_log": "harness/viz/aucsiGWbEyU/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "timber-straw-house",
+    "turf-roofs",
+    "annex-straw-structure",
+    "sunken-greenhouse",
+    "greenhouse-roof",
+    "solar-electricity",
+    "solar-thermal-water",
+    "reused-openings"
+   ],
+   "references": [
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0102.jpg",
+     "time": 348.666667,
+     "role": "vantage"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0040.jpg",
+     "time": 156.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0019.jpg",
+     "time": 71.166667,
+     "role": "detail"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0142.jpg",
+     "time": 440.566667,
+     "role": "detail"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0244.jpg",
+     "time": 838.0,
+     "role": "detail"
+    }
+   ]
+  },
+  {
+   "id": "spring-to-house-water",
+   "title": "Spring to house water",
+   "kind": "diagram",
+   "feature_ids": [
+    "spring-capture",
+    "spring-tank",
+    "annex-water-filter",
+    "countertop-filter",
+    "solar-thermal-water",
+    "winter-shower-water"
+   ],
+   "references": [
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0208.jpg",
+     "time": 678.833333,
+     "shows": "Covered spring collection"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0213.jpg",
+     "time": 705.333333,
+     "shows": "Covered spring collection"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0200.jpg",
+     "time": 636.0,
+     "shows": "No internal tank or measured capacity; 1,000 L and gravity feed are Mathieu’s account. No inferred outlet positions."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0225.jpg",
+     "time": 745.4,
+     "shows": "No internal tank or measured capacity; 1,000 L and gravity feed are Mathieu’s account. No inferred outlet positions."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0269.jpg",
+     "time": 924.0,
+     "shows": "Annex first-stage filter"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0270.jpg",
+     "time": 929.166667,
+     "shows": "Annex first-stage filter"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0655.jpg",
+     "time": 2208.733333,
+     "shows": "Countertop drinking filter"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0074.jpg",
+     "time": 258.7,
+     "shows": "Pale enamel body, dark top and flue. A heated bucket is described, not clearly shown here: dashed generic vessel, no material or shape claim."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0534.jpg",
+     "time": 1796.7,
+     "shows": "Blue-grey body and short hose visible; transfer never continuously demonstrated, all functional links dashed."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0535.jpg",
+     "time": 1800.0,
+     "shows": "Actual vessel largely enclosed. Use dashed generic reserve symbol, reported 30 L attributed to Mathieu; no construction inferred."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0530.jpg",
+     "time": 1776.0,
+     "shows": "Summer collector and storage"
+    }
+   ],
+   "path": "data/illustrations/aucsiGWbEyU/spring-to-house-water.png",
+   "invention_log": "harness/viz/aucsiGWbEyU/spring-to-house-water/review.md",
+   "why": "Both: connects a distinctive gravity-fed supply and seasonal shower system whose buried routes and separate components never appear together in the film."
+  },
+  {
+   "id": "propertymap",
+   "title": "Property in winter",
+   "kind": "map",
+   "path": "data/illustrations/aucsiGWbEyU/propertymap.png",
+   "invention_log": "harness/viz/aucsiGWbEyU/propertymap/review.md",
+   "feature_ids": [
+    "timber-straw-house",
+    "willow-hedge",
+    "shed-temporary-home",
+    "solar-electricity",
+    "sunken-greenhouse",
+    "greenhouse-roof",
+    "cold-frame",
+    "garden-orchard",
+    "shiitake-logs",
+    "cattail-patch",
+    "spring-capture",
+    "spring-tank",
+    "turf-roofs",
+    "annex-straw-structure",
+    "land-purchase"
+   ],
+   "references": [
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0040.jpg",
+     "time": 156.0,
+     "shows": "Front ground view and oblique aerial; brown rounded walls, blue-grey openings, roundwood porch posts, shallow planted roof."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0062.jpg",
+     "time": 220.933333,
+     "shows": "Front ground view and oblique aerial; brown rounded walls, blue-grey openings, roundwood porch posts, shallow planted roof."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0632.jpg",
+     "time": 2109.666667,
+     "shows": "Front ground view and oblique aerial; brown rounded walls, blue-grey openings, roundwood porch posts, shallow planted roof."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0019.jpg",
+     "time": 71.166667,
+     "shows": "Ground front/side and opposing aerials; small steep red tile gable roof, blue rectangular panels, low corrugated lean-to."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0231.jpg",
+     "time": 779.3,
+     "shows": "Ground front/side and opposing aerials; small steep red tile gable roof, blue rectangular panels, low corrugated lean-to."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0142.jpg",
+     "time": 440.566667,
+     "shows": "Front inclined glazed wall, inside looking up, aerial beside dwelling; reused timber window frames, earthen end wall, translucent corrugated shallow roof."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0164.jpg",
+     "time": 504.0,
+     "shows": "Front inclined glazed wall, inside looking up, aerial beside dwelling; reused timber window frames, earthen end wall, translucent corrugated shallow roof."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0244.jpg",
+     "time": 838.0,
+     "shows": "Eave from ground and roof overhead; brown earthen wall, planted low roof with round central skylight, uphill/left of main house in frame 632."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0235.jpg",
+     "time": 798.966667,
+     "shows": "Eave from ground and roof overhead; brown earthen wall, planted low roof with round central skylight, uphill/left of main house in frame 632."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0015.jpg",
+     "time": 41.2,
+     "shows": "Ground view toward house through thin reddish leafless stems."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0171.jpg",
+     "time": 528.0,
+     "shows": "Downward oblique view of low planted enclosure and loose open reused window frames."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0177.jpg",
+     "time": 551.7,
+     "shows": "Ground views of bare elongated bed and low shrubs; aerial winter meadow with scattered leafless trees."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0180.jpg",
+     "time": 562.6,
+     "shows": "Ground views of bare elongated bed and low shrubs; aerial winter meadow with scattered leafless trees."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0184.jpg",
+     "time": 578.9,
+     "shows": "Ground side view of irregular leaning/stacked grey-brown logs under thin trees; close-up fungus."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0188.jpg",
+     "time": 596.066667,
+     "shows": "Ground side view of irregular leaning/stacked grey-brown logs under thin trees; close-up fungus."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0191.jpg",
+     "time": 606.066667,
+     "shows": "Ground view into dense dry beige reeds amid shrubs."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0208.jpg",
+     "time": 678.833333,
+     "shows": "Downward view of covered wet ground and small pipe."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0213.jpg",
+     "time": 705.333333,
+     "shows": "Downward view of covered wet ground and small pipe."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0223.jpg",
+     "time": 737.866667,
+     "shows": "Side partial view and top detail; black-plastic-wrapped cuboid, round black lid, blue and green hoses."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0225.jpg",
+     "time": 745.4,
+     "shows": "Side partial view and top detail; black-plastic-wrapped cuboid, round black lid, blue and green hoses."
+    }
+   ]
+  },
+  {
+   "id": "construction",
+   "title": "Main house wall and roof",
+   "kind": "section",
+   "path": "data/illustrations/aucsiGWbEyU/construction.png",
+   "invention_log": "harness/viz/aucsiGWbEyU/construction/review.md",
+   "feature_ids": [
+    "timber-straw-house",
+    "rubble-foundation",
+    "turf-roofs",
+    "plaster-maintenance",
+    "solar-shading"
+   ],
+   "references": [
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0374.jpg",
+     "time": 1284.0,
+     "shows": "Historical inside view of posts, beams and straw infill; upward view of round rafters and brown plank ceiling; porch front view."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0066.jpg",
+     "time": 234.933333,
+     "shows": "Historical inside view of posts, beams and straw infill; upward view of round rafters and brown plank ceiling; porch front view."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0627.jpg",
+     "time": 2084.866667,
+     "shows": "Historical inside view of posts, beams and straw infill; upward view of round rafters and brown plank ceiling; porch front view."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0395.jpg",
+     "time": 1353.1,
+     "shows": "Historical bare golden-brown straw infill with conduits; exterior brown plaster, smoother sheltered and rough fibrous weathered edges."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0397.jpg",
+     "time": 1356.0,
+     "shows": "Historical bare golden-brown straw infill with conduits; exterior brown plaster, smoother sheltered and rough fibrous weathered edges."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0506.jpg",
+     "time": 1697.1,
+     "shows": "Historical bare golden-brown straw infill with conduits; exterior brown plaster, smoother sheltered and rough fibrous weathered edges."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0359.jpg",
+     "time": 1236.0,
+     "shows": "Historical oblique low masonry, aggregate, timber plates and dark pipe; current wall base side close-up."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0354.jpg",
+     "time": 1224.0,
+     "shows": "Historical oblique low masonry, aggregate, timber plates and dark pipe; current wall base side close-up."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0358.jpg",
+     "time": 1233.9,
+     "shows": "Historical oblique low masonry, aggregate, timber plates and dark pipe; current wall base side close-up."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0062.jpg",
+     "time": 220.933333,
+     "shows": "Oblique aerial of winter turf; interior upward roundwood and planks; broad shallow eave from front."
+    }
+   ]
+  },
+  {
+   "id": "cutaway",
+   "title": "Inside the main dwelling",
+   "kind": "cutaway",
+   "path": "data/illustrations/aucsiGWbEyU/cutaway.png",
+   "invention_log": "harness/viz/aucsiGWbEyU/cutaway/review.md",
+   "feature_ids": [
+    "timber-straw-house",
+    "finished-earth-floor",
+    "cordwood-partition",
+    "willow-partitions",
+    "branch-bark-kitchen",
+    "branch-bed",
+    "dry-toilet",
+    "tatami-platform",
+    "wood-cookstove",
+    "reused-openings"
+   ],
+   "references": [
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0030.jpg",
+     "time": 105.633333,
+     "shows": "Historical plan and section; current front; upward ceiling. Rounded ends, broad shallow mono-pitch roof, timber posts and pale interior."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0031.jpg",
+     "time": 108.0,
+     "shows": "Historical plan and section; current front; upward ceiling. Rounded ends, broad shallow mono-pitch roof, timber posts and pale interior."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0041.jpg",
+     "time": 158.266667,
+     "shows": "Historical plan and section; current front; upward ceiling. Rounded ends, broad shallow mono-pitch roof, timber posts and pale interior."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0051.jpg",
+     "time": 192.0,
+     "shows": "Downward interior views: continuous smooth dark brown earthen floor."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0066.jpg",
+     "time": 234.933333,
+     "shows": "Historical plan and section; current front; upward ceiling. Rounded ends, broad shallow mono-pitch roof, timber posts and pale interior."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0412.jpg",
+     "time": 1399.866667,
+     "shows": "inside face of shortened blue-grey panelled entrance door with semicircular fan glazing, cordwood panel beside it. Exterior face details and full wall plan rema"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0441.jpg",
+     "time": 1485.333333,
+     "shows": "Downward interior views: continuous smooth dark brown earthen floor."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0449.jpg",
+     "time": 1512.0,
+     "shows": "Close interior face beside blue entrance: irregular circular/oval cut log ends in pale plaster."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0455.jpg",
+     "time": 1521.0,
+     "shows": "Historical face with horizontal willow weaving on upright sticks and partial plaster; current dark woven door with pale branch handle."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0464.jpg",
+     "time": 1548.0,
+     "shows": "Historical face with horizontal willow weaving on upright sticks and partial plaster; current dark woven door with pale branch handle."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0474.jpg",
+     "time": 1572.0,
+     "shows": "Counter/shelves oblique view and cabinet face close-up: pale irregular branch supports, brown woven bark doors."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0487.jpg",
+     "time": 1632.0,
+     "shows": "Counter/shelves oblique view and cabinet face close-up: pale irregular branch supports, brown woven bark doors."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0492.jpg",
+     "time": 1656.0,
+     "shows": "Oblique headboard view, pale irregular branches and blue bedding."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0518.jpg",
+     "time": 1741.933333,
+     "shows": "Downward close-up of blue box, wooden oval seat and metal bucket."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0683.jpg",
+     "time": 2280.0,
+     "shows": "Front oblique firebox/oven area of metal wood range."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0691.jpg",
+     "time": 2306.133333,
+     "shows": "close frontal/oblique range view, worn pale blue-grey right oven door and dark brown left firebox, dark metal cooking surface. Full flue connections and exact s"
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0699.jpg",
+     "time": 2336.1,
+     "shows": "Interior side view: low blue base, pale mats, cushions, bookshelves."
+    }
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water collection and filtration",
+   "kind": "diagram",
+   "path": "data/illustrations/aucsiGWbEyU/water.png",
+   "invention_log": "harness/viz/aucsiGWbEyU/water/review.md",
+   "feature_ids": [
+    "spring-capture",
+    "spring-tank",
+    "annex-water-filter",
+    "countertop-filter"
+   ],
+   "references": [
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0201.jpg",
+     "time": 643.3,
+     "shows": "Downward close views of wet leaves, grass, cover material and small pipe."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0208.jpg",
+     "time": 678.833333,
+     "shows": "Downward close views of wet leaves, grass, cover material and small pipe."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0213.jpg",
+     "time": 705.333333,
+     "shows": "Downward close views of wet leaves, grass, cover material and small pipe."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0223.jpg",
+     "time": 737.866667,
+     "shows": "Partial side black-wrapped cuboid with hoses and top round black lid."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0225.jpg",
+     "time": 745.4,
+     "shows": "Partial side black-wrapped cuboid with hoses and top round black lid."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0269.jpg",
+     "time": 924.0,
+     "shows": "Interior oblique wall view: clear cylinder under pale cap, black hoses, red fittings/line, yellow bucket, cracked earth floor."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0270.jpg",
+     "time": 929.166667,
+     "shows": "Interior oblique wall view: clear cylinder under pale cap, black hoses, red fittings/line, yellow bucket, cracked earth floor."
+    },
+    {
+     "path": "review/aucsiGWbEyU/evidence/frame-0118.jpg",
+     "time": 393.0,
+     "shows": "Kitchen counter oblique face: stacked shiny steel cylinders with lid and small dark tap."
+    }
+   ]
+  }
+ ]
+}

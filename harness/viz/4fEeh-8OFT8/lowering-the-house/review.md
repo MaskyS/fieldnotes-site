@@ -1,0 +1,7 @@
+# Review
+
+Selected: candidate-2.png, generated using the built-in image_gen tool with prompt-2.txt and the four film references listed there. Candidate 2 was visually inspected after generation.
+
+The second candidate removes the invented solid roof contours, perspective returns, intermediate floor gap and raised entrance block. It conveys the requested relationship: a symbolic step down, an empty low garden-facing room, and a taller pitched upper volume. The height explanation is explicitly Masahiro Harada’s account. Regulatory boundary and estimated ground are dashed and undimensioned; unseen construction and subsurface work are blank with a written note.
+
+Remaining abstractions: the symmetric roof pitch, room proportions, alignment, placement of the entry symbol and garden, and separation from the schematic height limit are explanatory choices, not measured geometry. Small dashed roof extensions are indicative, not evidence of actual eaves. The blue-grey strip is a glazing cue, not a measured window section; its exact vertical extent is not established. Pale ochre is an abstraction of visible timber, not a claim about concealed construction. The garden wash does not reconstruct planting positions. Furniture, storage and individual ceiling timbers are intentionally omitted. These limitations are compatible with the requested conceptual section and are labelled in the image. No third candidate was generated.

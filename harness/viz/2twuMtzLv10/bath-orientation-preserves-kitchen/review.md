@@ -1,0 +1,9 @@
+# Review
+
+Selected: candidate-2.png, generated with the built-in image tool using prompt-2.txt. Candidate 1 was rejected for unsupported architectural details and unreadable background. Two candidates were generated; no further generation.
+
+The selected image clearly shows approach over the bathtub’s short-end rim, the window on its long side, and the kitchen’s white worktop, teal cabinet edge and sink to the left of the range. The kitchen-space benefit is explicitly Margo’s account. The spatial break and dashed partition prevent these local fragments from becoming an asserted as-built floor plan. The historical model is the first prompt reference and is explicitly identified in the caption as unverified as built.
+
+Remaining interpretation: all top-down shapes, relative scale, basin elongation, window divisions and fragment placement are schematic, not traced measured geometry. The window divisions should not be read as a verified count of panes. The kitchen crop simplifies the range to a labelled rectangle and omits its silver front; a top-down crop need not show that front. The grey wash abstracts the pale veined surround. The title requested in the prompt is omitted, a cosmetic issue; item.json supplies the title. No dimensions, area-saving measurements, plumbing, alternative layout or people are drawn. The detached dashed partition is an uncertainty symbol, not a located partition. Reference images were described in the prompts rather than attached to the generator.
+
+Provenance: document-63.5.jpg is a full-resolution film extraction at the catalogue design-screen frame time, 63.5 seconds, corresponding to review/2twuMtzLv10/evidence/frame-0016.jpg. It is listed under its actual extracted path because that is the reference used in both prompts. All other reference paths and times are copied from packet.json, in prompt order.

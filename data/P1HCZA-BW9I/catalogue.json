@@ -1,0 +1,2756 @@
+{
+ "title": "A family’s Eaglemont brick home",
+ "source": {
+  "id": "P1HCZA-BW9I",
+  "url": "https://www.youtube.com/watch?v=P1HCZA-BW9I",
+  "duration": 356.501,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "English captions; source captions metadata reports generated=false. Repeated timestamps and occasional awkward wording are retained as transcription limitations.",
+  "transcript_kind": "human captions",
+  "context": {
+   "location": {
+    "country": "Australia",
+    "state_or_region": "Victoria",
+    "nearest_place": "Melbourne",
+    "precision": "city",
+    "note": "Description explicitly gives Melbourne, Victoria, Australia. Eaglemont Residence is the project name; exact address is not disclosed.",
+    "climate": {
+     "koppen": "Cfb",
+     "name": "temperate oceanic",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Melbourne, Victoria, Australia",
+      "lat": -37.814,
+      "lon": 144.963,
+      "matched": "Melbourne, Victoria, Australia",
+      "stands_for": "city",
+      "precision": "city"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 625,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Melbourne, Victoria, Australia",
+      "lat": -37.814,
+      "lon": 144.963,
+      "matched": "Melbourne, Victoria, Australia",
+      "stands_for": "city",
+      "precision": "city"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "10a",
+     "mean_annual_extreme_min_c": 0.5,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Melbourne, Victoria, Australia",
+      "lat": -37.814,
+      "lon": 144.963,
+      "matched": "Melbourne, Victoria, Australia",
+      "stands_for": "city",
+      "precision": "city"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 19,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Melbourne, Victoria, Australia",
+      "lat": -37.814,
+      "lon": 144.963,
+      "matched": "Melbourne, Victoria, Australia",
+      "stands_for": "city",
+      "precision": "city"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "The Local Project",
+   "upload_date": "2026-08-28"
+  }
+ },
+ "sampling": {
+  "frames": 93,
+  "candidate_shots": 82,
+  "contact_sheets": 4,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/P1HCZA-BW9I"
+ },
+ "subject": {
+  "place": "site",
+  "people": [],
+  "gist": "Unnamed parents ask Adam Kane for a lasting family home where they can stay connected, retreat when needed, and cook without interruption.",
+  "story": {
+   "text": "The unnamed clients want a forever home where their children can be together without losing their own space. Architect Adam Kane works with a sloping site, giving the house a private face to the street and opening it toward gardens and distant views. A spiral stair links the levels, while glimpses of landscape make the route through the house unfold gradually. The clients prefer to cook without being bothered, so the working kitchen sits back from the sculptural island. Adam uses textured brick, warm cabinetry and soft curtains to make the strong forms feel calm, and hopes the house will settle further into its gardens as they mature.",
+   "moments": [
+    {
+     "phrase": "a forever home",
+     "at": 89.16
+    },
+    {
+     "phrase": "a sloping site",
+     "at": 94.88
+    },
+    {
+     "phrase": "A spiral stair links the levels",
+     "at": 150.24
+    },
+    {
+     "phrase": "cook without being bothered",
+     "at": 239.88
+    },
+    {
+     "phrase": "as they mature",
+     "at": 327.36
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Eaglemont Residence household site",
+   "kind": "site",
+   "within": null,
+   "caveat": "Exact address and lot boundaries are not disclosed; neighbouring houses appear only in contextual views.",
+   "entity": "ent-family-eaglemont-brick-home"
+  },
+  {
+   "id": "house",
+   "title": "Eaglemont Residence",
+   "kind": "building",
+   "within": "site",
+   "caveat": "One completed home. Adam describes two storeys at the front and three at the rear; no complete floor plan is shown."
+  },
+  {
+   "id": "front-court",
+   "title": "Front approach and entrance garden",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Paved approach, entrance planting and door are visible; no surveyed limits."
+  },
+  {
+   "id": "rear-garden",
+   "title": "Rear lawn and terraced side garden",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Exterior steps and planting follow the slope; their full extent is not established."
+  },
+  {
+   "id": "pool-terrace",
+   "title": "Swimming pool terrace",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Poolside paving and barriers are visible; no equipment area visited."
+  },
+  {
+   "id": "foyer",
+   "title": "Entry corridor and stair foyer",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Door, sightline and curved stair are shown; precise level assignments remain unmeasured."
+  },
+  {
+   "id": "living",
+   "title": "Open living dining and kitchen",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Wide frames show the dining table, lounge and island together."
+  },
+  {
+   "id": "working-kitchen",
+   "title": "Recessed working kitchen zone",
+   "kind": "room",
+   "within": "living",
+   "caveat": "Visibly continuous with the island area; a zone of the open kitchen, not a proven separate pantry."
+  },
+  {
+   "id": "upper-hall",
+   "title": "Upper hall",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Associated with upstairs by narration; connections beyond visible doorways are not assigned."
+  },
+  {
+   "id": "bedroom",
+   "title": "Unassigned bedroom",
+   "kind": "room",
+   "within": "house",
+   "caveat": "A bedroom is shown after narration about upstairs rooms; primary or child ownership is not established."
+  },
+  {
+   "id": "paired-vanity-room",
+   "title": "Paired-vanity bathroom",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Mirrored double vanity and adjoining corridor are visible; no ensuite assignment or full bathroom tour."
+  },
+  {
+   "id": "single-basin-room",
+   "title": "Single-basin washroom",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Distinct raised basin and narrow mirror; location and other sanitary fittings unestablished."
+  }
+ ],
+ "people": [
+  {
+   "id": "adam-kane",
+   "name": "Adam Kane",
+   "relation": "designer",
+   "note": "Interviewed architect and interior designer; on-screen lower third gives his full name and director role at Adam Kane Architects. Not presented as an owner."
+  },
+  {
+   "id": "nickolas-gurtler",
+   "name": "Nickolas Gurtler",
+   "relation": "designer",
+   "note": "Description credits interior decoration; not introduced on camera."
+  },
+  {
+   "id": "timothy-kaye",
+   "name": "Timothy Kaye",
+   "relation": "other",
+   "note": "Description credits photography; not introduced on camera."
+  }
+ ],
+ "claims": [
+  {
+   "id": "forever-home",
+   "text": "The clients want a forever home.",
+   "by": "adam-kane",
+   "at": [
+    85.44
+   ],
+   "about": "family-brief",
+   "headline": true,
+   "text_source": "human captions"
+  },
+  {
+   "id": "children",
+   "text": "The clients have three young children.",
+   "by": "adam-kane",
+   "at": [
+    89.16
+   ],
+   "about": "family-brief",
+   "headline": true,
+   "quantity": {
+    "value": 3,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "front-storeys",
+   "text": "The house has two storeys at the front.",
+   "by": "adam-kane",
+   "at": [
+    94.88
+   ],
+   "about": "house",
+   "headline": true,
+   "quantity": {
+    "value": 2,
+    "unit": "storey",
+    "of": "count"
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "rear-storeys",
+   "text": "The house has three storeys at the rear.",
+   "by": "adam-kane",
+   "at": [
+    99.32
+   ],
+   "about": "house",
+   "headline": true,
+   "quantity": {
+    "value": 3,
+    "unit": "storey",
+    "of": "count"
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "sloping-site",
+   "text": "The site slopes enough to constrain the design.",
+   "by": "adam-kane",
+   "at": [
+    94.88
+   ],
+   "about": "house",
+   "headline": true,
+   "text_source": "human captions"
+  },
+  {
+   "id": "family-connection",
+   "text": "The family wants separation without isolation.",
+   "by": "adam-kane",
+   "at": [
+    108.48
+   ],
+   "about": "family-brief",
+   "headline": true,
+   "text_source": "human captions"
+  },
+  {
+   "id": "location",
+   "text": "The residence is in Melbourne, Victoria, Australia.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true
+  },
+  {
+   "id": "travel-time",
+   "text": "15–20 minutes northeast of Melbourne CBD.",
+   "by": "adam-kane",
+   "at": [
+    56.64
+   ],
+   "about": null,
+   "headline": false,
+   "quantity": {
+    "value": 17.5,
+    "unit": "minute",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "architect",
+   "text": "Adam Kane is the architect and interior designer.",
+   "by": "adam-kane",
+   "at": [
+    47
+   ],
+   "about": "design-team",
+   "headline": true,
+   "text_source": "human captions"
+  },
+  {
+   "id": "builder",
+   "text": "Dimpat built the home.",
+   "by": "description",
+   "at": [],
+   "about": "design-team",
+   "headline": false
+  },
+  {
+   "id": "decorator",
+   "text": "Nickolas Gurtler provided interior decoration.",
+   "by": "description",
+   "at": [],
+   "about": "design-team",
+   "headline": false
+  },
+  {
+   "id": "privacy",
+   "text": "Street-facing monolithic forms provide privacy from adjoining neighbours.",
+   "by": "adam-kane",
+   "at": [
+    120.56
+   ],
+   "about": "house",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "entry-view",
+   "text": "The entry frames vegetation and a mountain-range view.",
+   "by": "adam-kane",
+   "at": [
+    140.92
+   ],
+   "about": "views",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "foyer-height",
+   "text": "The foyer is double height.",
+   "by": "adam-kane",
+   "at": [
+    150.24
+   ],
+   "about": "foyer-stair",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "stair-levels",
+   "text": "The spiral stair connects three floors.",
+   "by": "adam-kane",
+   "at": [
+    155.44
+   ],
+   "about": "foyer-stair",
+   "headline": false,
+   "quantity": {
+    "value": 3,
+    "unit": "storey",
+    "of": "count"
+   },
+   "text_source": "human captions"
+  },
+  {
+   "id": "brick-continuity",
+   "text": "Feature brick runs from outside to inside.",
+   "by": "adam-kane",
+   "at": [
+    165.44
+   ],
+   "about": "brick-walls",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "concealed-storage",
+   "text": "Veneer cabinetry conceals everyday necessities.",
+   "by": "adam-kane",
+   "at": [
+    170.56
+   ],
+   "about": "veneer-storage",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "upper-program",
+   "text": "Upstairs includes living areas, children’s bedrooms and the primary suite.",
+   "by": "adam-kane",
+   "at": [
+    181.56
+   ],
+   "about": "upstairs-rooms",
+   "headline": false,
+   "doubt": "The caption reads “on the for the home” before listing rooms; the upper-floor description is awkwardly transcribed.",
+   "text_source": "human captions"
+  },
+  {
+   "id": "hidden-pool",
+   "text": "The pool is progressively glimpsed behind a wall.",
+   "by": "adam-kane",
+   "at": [
+    201.48
+   ],
+   "about": "pool",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "private-cooking",
+   "text": "The clients prefer cooking without being bothered.",
+   "by": "adam-kane",
+   "at": [
+    239.88
+   ],
+   "about": "kitchen",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "appliance-selection",
+   "text": "Gaggenau appliances were chosen for discreet integration.",
+   "by": "adam-kane",
+   "at": [
+    245.28
+   ],
+   "about": "ovens",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "oven-series",
+   "text": "The installed ovens are Gaggenau’s Expressive series.",
+   "by": "adam-kane",
+   "at": [
+    260.92
+   ],
+   "about": "ovens",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "grille-flush",
+   "text": "The oven ventilation grille is recessed flush with adjoining wall.",
+   "by": "adam-kane",
+   "at": [
+    265.32
+   ],
+   "about": "oven-grille",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "hand-finished",
+   "text": "The oven stainless steel is hand-finished by a craftsman.",
+   "by": "adam-kane",
+   "at": [
+    275.96
+   ],
+   "about": "oven-steel",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "future-garden",
+   "text": "Maturing gardens are intended to nestle the house into its setting.",
+   "by": "adam-kane",
+   "at": [
+    327.36
+   ],
+   "about": "garden",
+   "headline": false,
+   "text_source": "human captions"
+  },
+  {
+   "id": "brick-title",
+   "text": "Brick is presented as the home’s design starting point.",
+   "by": "description",
+   "at": [],
+   "about": "brick-walls",
+   "headline": false,
+   "doubt": "The title says “From One Brick,” while the film describes feature brick without explaining what “one” denotes."
+  }
+ ],
+ "links": [],
+ "relationships": [
+  {
+   "subject": "stair-rooflight",
+   "predicate": "admits daylight over",
+   "object": "foyer-stair",
+   "time": 25,
+   "status": "visible"
+  },
+  {
+   "subject": "sheer-curtains",
+   "predicate": "filters light through",
+   "object": "daylight",
+   "time": 326,
+   "status": "visible"
+  },
+  {
+   "subject": "pool-barrier",
+   "predicate": "borders",
+   "object": "pool",
+   "time": 82.5,
+   "status": "visible"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "house",
+   "title": "Pale-brick house stepping down a slope",
+   "place": "house",
+   "category": "Structure",
+   "description": "The completed house presents closed rectangular brick forms to the approach and stacked levels toward the rear lawn. Adam Kane says the sloping site produces two storeys at the front and three at the rear.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Floor area, structural frame, foundations and construction dates are not disclosed.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 94.88,
+     "end": 104.16,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0011",
+     "time": 42.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0011.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0011.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0016",
+     "time": 63.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0016.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0016.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 71.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0019.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0011.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "brick-walls",
+   "title": "Textured pale brick inside and outside",
+   "place": "house",
+   "category": "Materials",
+   "description": "Long pale bricks and rough joints cover the facade and an interior living-space wall. Adam Kane says the feature brick runs seamlessly from outside to inside.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Brick manufacturer, load-bearing role, insulation and concealed wall layers are not established.",
+   "related_ids": [],
+   "terms": [
+    "brick",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 165.44,
+     "end": 170.56,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0083",
+     "time": 314.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0083.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0083.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 16.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0004.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0028",
+     "time": 104.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0028.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0028.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0083.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "vertical-brick-band",
+   "title": "Vertical brick bands at facade openings",
+   "place": "house",
+   "category": "Materials",
+   "description": "A close view shows elongated bricks arranged vertically beneath a strong diagonal shadow. Similar vertical bands border facade openings.",
+   "phase": "current",
+   "part_of": "brick-walls",
+   "unknown": "Bond specification, fixing and structural function are not identified.",
+   "related_ids": [],
+   "terms": [
+    "brick"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 16.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0004.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 130.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0034.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0004.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "deep-reveals",
+   "title": "Deep rectangular window and door reveals",
+   "place": "house",
+   "category": "Structure",
+   "description": "Windows and doors sit back within thick-looking brick surrounds. Adam Kane identifies deep reveals as part of the intended enduring character.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "The film does not establish wall thickness or thermal performance.",
+   "related_ids": [],
+   "terms": [
+    "window",
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 319.56,
+     "end": 327.36,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0028",
+     "time": 104.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0028.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0028.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 130.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0034.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0037",
+     "time": 142.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0037.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0037.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0028.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "upper-projection",
+   "title": "Broad projecting upper floor over glazing",
+   "place": "house",
+   "category": "Structure",
+   "description": "A wide horizontal upper volume projects beyond the recessed rear glazing. Its flat underside is also shown in close view.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Structural cantilever details and quantified shading performance are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "overhang"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 71.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0019.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 117.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0031.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0019.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "grey-floor",
+   "title": "Continuous smooth grey main-level floor",
+   "place": "house",
+   "category": "Materials",
+   "description": "A smooth mottled grey floor runs around the stair and through the main living area. Window shadows reveal its continuous-looking surface.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Concrete, stone and applied finish cannot be distinguished reliably from the footage.",
+   "related_ids": [],
+   "terms": [
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0005",
+     "time": 19.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0005.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0005.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 22.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0006.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 160.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0041.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0005.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "foyer-stair",
+   "title": "Spiral stair in a tall entrance foyer",
+   "place": "foyer",
+   "category": "Structure",
+   "description": "Pale solid parapets spiral around wedge-shaped treads in a tall foyer. Adam Kane describes a double-height foyer and a stair running up and down across three floors.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Stair structure, coating, dimensions and all landing destinations are not established.",
+   "related_ids": [],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 150.24,
+     "end": 160.24,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 22.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0006.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 156.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0040.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0053",
+     "time": 213.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0053.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0053.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0006.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "stair-rooflight",
+   "title": "Circular roof light above the stair",
+   "place": "foyer",
+   "category": "Climate",
+   "description": "An upward view through the winding stair ends in a bright circular roof opening. Daylight falls across the curved surfaces below.",
+   "phase": "current",
+   "part_of": "foyer-stair",
+   "unknown": "Opening dimensions, glazing type and ventilation capability are not established.",
+   "related_ids": [],
+   "terms": [
+    "skylight"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 25.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0007.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0008",
+     "time": 29.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0008.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0008.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0007.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "upper-handrail",
+   "title": "Continuous pale handrail along upper hall",
+   "place": "upper-hall",
+   "category": "Structure",
+   "description": "A slim pale handrail follows the corridor wall toward a narrow window. Door openings are visible along the softly lit hall.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Exact route, rail material and compliance dimensions are not supplied.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 181.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0046.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0047",
+     "time": 186.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0047.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0047.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0046.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "family-brief",
+   "title": "Connected family life with private retreats",
+   "place": "house",
+   "category": "Life",
+   "description": "The film shows a communal living area and separate bedroom and hall views. Adam Kane says the clients want a forever home where their close family can separate without feeling isolated.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The owners do not speak; their names, occupations and experience of living here are not disclosed.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 85.44,
+     "end": 112.96,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 181.56,
+     "end": 192,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0043",
+     "time": 169.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0043.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0043.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 192.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0049.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 181.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0046.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0043.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "upstairs-rooms",
+   "title": "Upstairs family living and sleeping rooms",
+   "place": "house",
+   "category": "Life",
+   "description": "An upper corridor and an unlabelled bedroom provide context for the sleeping accommodation. Adam Kane says upstairs includes living spaces, the children’s bedrooms and the primary suite.",
+   "phase": "current",
+   "part_of": "family-brief",
+   "unknown": "The complete set of rooms is never shown or individually labelled; caption wording at 181.56 seconds is awkward.",
+   "related_ids": [],
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 181.56,
+     "end": 190,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 181.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0046.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 192.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0049.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0046.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "design-team",
+   "title": "Architect-led design and contracted construction",
+   "place": "house",
+   "category": "Process",
+   "description": "Adam Kane is interviewed beside the completed stair and identifies himself as architect and interior designer. The description credits Adam Kane Architects, decorator Nickolas Gurtler and builder Dimpat.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Fees, procurement, build duration and cost are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "contracted"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 47,
+     "end": 53,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0011",
+     "time": 42.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0011.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0011.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0012",
+     "time": 48.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0012.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0012.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0011.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "garden",
+   "title": "Lawn and layered planting on sloping ground",
+   "place": "rear-garden",
+   "category": "Land",
+   "description": "A broad rear lawn meets young trees, shrubs, gravel beds and stepped planted terraces. Adam Kane says he wants the house nestled in landscape and connected to surrounding gardens.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Site area, plant schedule, irrigation and planting dates are not supplied.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 61.64,
+     "end": 79,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 327.36,
+     "end": 342,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0020",
+     "time": 76.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0020.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0020.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 71.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0019.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0088",
+     "time": 333.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0088.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0088.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0020.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "garden-stairs",
+   "title": "External stairs through terraced planting",
+   "place": "rear-garden",
+   "category": "Structure",
+   "description": "Straight exterior stair flights climb alongside the house, interrupted by landings and bordered by planted beds. Slender dark handrails follow parts of the route.",
+   "phase": "current",
+   "part_of": "garden",
+   "unknown": "The film gives no dimensions or complete circulation map.",
+   "related_ids": [],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 68.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0018.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 66.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0017.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "front-landscape",
+   "title": "Tree-planted entrance court with low brick walls",
+   "place": "front-court",
+   "category": "Land",
+   "description": "A mature tree shades the paved entrance approach among low brick walls and planted beds. Smaller trees stand close to the facade.",
+   "phase": "current",
+   "part_of": "garden",
+   "unknown": "Tree species and whether mature trees predate construction are not stated.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 96.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0026.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 125.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0033.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0014",
+     "time": 54.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0014.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0014.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0026.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "potted-fruit",
+   "title": "Potted trees carrying orange-coloured fruit",
+   "place": "rear-garden",
+   "category": "Food",
+   "description": "Large pale pots hold small glossy-leaved trees, including one with orange-coloured fruit. They stand beside the planted exterior wall.",
+   "phase": "current",
+   "part_of": "garden",
+   "unknown": "Exact species, edibility, yield and household food use are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0021",
+     "time": 79.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0021.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0021.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0021.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool",
+   "title": "Narrow outdoor swimming pool",
+   "place": "pool-terrace",
+   "category": "Water",
+   "description": "A long rectangular pool sits within a paved terrace and is also shown at sunset. Adam Kane describes the pool as a feature glimpsed from behind a wall while moving through the house.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Size, water supply, heating, filtration and maintenance are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "swimming pool"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 201.48,
+     "end": 210.84,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 82.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0022.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 290.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0073.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0022.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-barrier",
+   "title": "Dark vertical-bar poolside barrier",
+   "place": "pool-terrace",
+   "category": "Structure",
+   "description": "Closely spaced dark vertical bars border the outer pool terrace. The landscape remains visible between the bars.",
+   "phase": "current",
+   "part_of": "pool",
+   "unknown": "No compliance, height, gate or boundary ownership claim is made.",
+   "related_ids": [],
+   "terms": [
+    "fence",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 82.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0022.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0022.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-loungers",
+   "title": "Wheeled reclining pool loungers",
+   "place": "pool-terrace",
+   "category": "Life",
+   "description": "Light upholstered loungers stand on the paving at the end of the pool. Large dark wheels are visible beneath their frames.",
+   "phase": "current",
+   "part_of": "pool",
+   "unknown": "Maker and upholstery specification are not identified.",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 82.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0022.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0022.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pool-screen",
+   "title": "Tall mesh and reed-like boundary screening",
+   "place": "pool-terrace",
+   "category": "Structure",
+   "description": "A tall mesh or shade-fabric screen rises above a lower reed-like fence alongside the planted pool edge. It is distinct from the dark vertical-bar terrace barrier.",
+   "phase": "current",
+   "part_of": "pool",
+   "unknown": "Exact materials, purpose and ownership of the high screen are not established.",
+   "related_ids": [],
+   "terms": [
+    "fence"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 82.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0022.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0022.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "kitchen",
+   "title": "Kitchen with public island and recessed work run",
+   "place": "living",
+   "category": "Food",
+   "description": "A sculptural island faces the shared room while a narrower counter and appliance run sit behind it. Adam Kane says the clients prefer to cook without being bothered and the appliances are deliberately understated.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No measured plan or account from the clients confirms how the arrangement works in daily use.",
+   "related_ids": [],
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 175.6,
+     "end": 181.56,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 225.8,
+     "end": 254,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 176.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0045.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0057",
+     "time": 233.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0057.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0057.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0059",
+     "time": 242.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0059.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0059.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0045.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "island",
+   "title": "Veined stone island with waterfall ends",
+   "place": "living",
+   "category": "Materials",
+   "description": "A large pale, strongly veined island has slab-like sides and an extended seating edge. Adam Kane calls it monolithic and sculptural.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Stone species, slab thickness, internal support and cost are not stated.",
+   "related_ids": [],
+   "terms": [
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 175.6,
+     "end": 181.56,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 176.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0045.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 223.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0055.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0045.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "island-sink",
+   "title": "Matching veined island sink and angular mixer",
+   "place": "living",
+   "category": "Water",
+   "description": "A rectangular sink is formed within the island’s veined surface, with an angular metal spout and separate control. The overhead view shows the basin and its base.",
+   "phase": "current",
+   "part_of": "island",
+   "unknown": "Stone treatment, drainage assembly and water source are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "sink",
+    "stone",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 223.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0055.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0055.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "island-stools",
+   "title": "Pale upholstered bar stools on slender frames",
+   "place": "living",
+   "category": "Life",
+   "description": "Pale textured bar stools line the island’s seating side. Their open slender frames leave the floor visible below.",
+   "phase": "current",
+   "part_of": "island",
+   "unknown": "Maker, frame alloy and fabric type are not identified.",
+   "related_ids": [],
+   "terms": [
+    "fabric",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 176.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0045.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0059",
+     "time": 242.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0059.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0059.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0045.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "veneer-storage",
+   "title": "Full-height veneer cabinetry concealing storage",
+   "place": "living",
+   "category": "Materials",
+   "description": "Tall warm-toned veneer doors form a continuous cabinet wall beyond the island. Adam Kane says this cabinetry conceals mess and everyday essentials.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Timber species, substrate and contents behind the closed doors are not shown.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 170.56,
+     "end": 175.6,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0044",
+     "time": 173.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0044.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0044.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 295.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0076.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0044.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "working-counter",
+   "title": "Window-side working counter with second sink",
+   "place": "working-kitchen",
+   "category": "Food",
+   "description": "A long pale worktop under broad glazing includes a dark rectangular sink with angular tap. Pale drawers continue beneath it toward the cooktop.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Countertop composition and the second sink’s intended tasks are not stated.",
+   "related_ids": [],
+   "terms": [
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0057",
+     "time": 233.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0057.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0057.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0063",
+     "time": 259.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0063.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0063.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0057.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cooktop",
+   "title": "Flush dark cooktop with circular fascia controls",
+   "place": "working-kitchen",
+   "category": "Food",
+   "description": "A dark flush cooking surface sits in the window-side counter. Circular metal controls are set into the vertical fascia below.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Exact model and heating technology are not stated; the film is made in partnership with Gaggenau.",
+   "related_ids": [],
+   "terms": [
+    "electric cooking"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0057",
+     "time": 233.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0057.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0057.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0058",
+     "time": 238.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0058.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0058.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0057.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "ovens",
+   "title": "Integrated Gaggenau Expressive series ovens",
+   "place": "working-kitchen",
+   "category": "Food",
+   "description": "Stacked glazed oven fronts are integrated into tall cabinetry, and a door is opened during the demonstration. Adam Kane identifies Gaggenau’s Expressive series and praises its detailing.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "The film is made in partnership with Gaggenau; exact models, price and tested performance are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "electric cooking",
+    "glass",
+    "steel"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 245.28,
+     "end": 254,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 260.92,
+     "end": 284,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 276.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0068.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0065",
+     "time": 266.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0065.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0065.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 269.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0066.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0068.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "oven-grille",
+   "title": "Oven ventilation grille recessed flush with wall",
+   "place": "working-kitchen",
+   "category": "Materials",
+   "description": "A narrow horizontal grille crosses the metal oven front beside flush adjoining surfaces. Adam Kane says the ventilation grille is recessed flush with the adjoining wall.",
+   "phase": "current",
+   "part_of": "ovens",
+   "unknown": "The film is made in partnership with Gaggenau; airflow design and measured clearances are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "steel"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 265.32,
+     "end": 275.96,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 271.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0067.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0067.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "oven-steel",
+   "title": "Brushed stainless-steel oven framing",
+   "place": "working-kitchen",
+   "category": "Materials",
+   "description": "Brushed metal surrounds the dark oven glazing and circular control. Adam Kane describes the stainless steel as hand-finished by a craftsman.",
+   "phase": "current",
+   "part_of": "ovens",
+   "unknown": "The film is made in partnership with Gaggenau; manufacturing work is not shown, so hand-finishing remains a spoken claim.",
+   "related_ids": [],
+   "terms": [
+    "steel"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 271,
+     "end": 284,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0065",
+     "time": 266.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0065.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0065.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 271.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0067.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 280.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0070.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0065.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wine-cabinet",
+   "title": "Integrated wine cabinet with pull-out racks",
+   "place": "working-kitchen",
+   "category": "Food",
+   "description": "An opened tall cabinet reveals bottles lying horizontally on pull-out racks. A close view shows warm interior lighting and timber rack surfaces.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Temperature settings and exact model are not identified; the film is made in partnership with Gaggenau.",
+   "related_ids": [],
+   "terms": [
+    "refrigerator",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0061",
+     "time": 251.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0061.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0061.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 176.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0045.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0061.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "brick-door",
+   "title": "Flush brick-faced door at kitchen end",
+   "place": "working-kitchen",
+   "category": "Structure",
+   "description": "A narrow perimeter joint and dark lever outline a door faced to match the surrounding pale brick. It closes the far end of the working-kitchen view.",
+   "phase": "current",
+   "part_of": "kitchen",
+   "unknown": "Its destination and construction method are not shown.",
+   "related_ids": [],
+   "terms": [
+    "brick",
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0081",
+     "time": 309.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0081.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0081.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0057",
+     "time": 233.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0057.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0057.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0081.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shared-furnishing",
+   "title": "Living and dining furnishings in one open space",
+   "place": "living",
+   "category": "Life",
+   "description": "Wide views place a dining table between the island and lounge seating, within the same open room. Adam Kane says the living, dining and kitchen open up to expansive views and light.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not demonstrate daily occupancy or the full furniture specification.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 155.44,
+     "end": 170.56,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0043",
+     "time": 169.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0043.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0043.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 160.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0041.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 322.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0085.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0043.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "modular-sofa",
+   "title": "Low pale modular sofa with rounded cushions",
+   "place": "living",
+   "category": "Life",
+   "description": "Low pale lounge modules have generous rounded back and seat cushions. They face across the shared room toward the brick end wall.",
+   "phase": "current",
+   "part_of": "shared-furnishing",
+   "unknown": "Designer and fabric composition are not identified.",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 322.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0085.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0043",
+     "time": 169.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0043.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0043.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0085.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dining-table",
+   "title": "Dark dining table with upholstered chairs",
+   "place": "living",
+   "category": "Life",
+   "description": "A dark table and upholstered chairs occupy the zone beside the island. Sculptural vessels sit on its surface.",
+   "phase": "current",
+   "part_of": "shared-furnishing",
+   "unknown": "Furniture makers, seat count beyond what is visible and materials are not specified.",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0009",
+     "time": 35.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0009.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0009.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 160.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0041.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0009.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "television",
+   "title": "Black television against interior brick wall",
+   "place": "living",
+   "category": "Life",
+   "description": "A black rectangular screen stands against the brick end wall beyond the dining area. Its dark face contrasts with the pale room.",
+   "phase": "current",
+   "part_of": "shared-furnishing",
+   "unknown": "Mounting, cabling and other media equipment are not shown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 160.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0041.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0042",
+     "time": 163.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0042.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0042.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0041.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "daylight",
+   "title": "Broad living-room glazing with sheer curtains",
+   "place": "living",
+   "category": "Climate",
+   "description": "Large glazed openings admit direct light and give views across the garden and horizon. Adam Kane praises the light qualities of the open living space.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Glazing performance, orientation, heating and cooling loads are not stated.",
+   "related_ids": [],
+   "terms": [
+    "glazing",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 160.24,
+     "end": 170.56,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0010",
+     "time": 38.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0010.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0010.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0043",
+     "time": 169.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0043.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0043.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0084",
+     "time": 317.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0084.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0084.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0010.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sheer-curtains",
+   "title": "Full-height sheers softening living-room light",
+   "place": "living",
+   "category": "Climate",
+   "description": "Long translucent curtains cover the tall glazing and billow in several shots. Sunlight casts tree silhouettes and soft shadows through the fabric.",
+   "phase": "current",
+   "part_of": "daylight",
+   "unknown": "Fabric, track detail and any thermal performance are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "fabric",
+    "shading"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 326.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0086.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 328.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0087.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0084",
+     "time": 317.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0084.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0084.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0086.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "views",
+   "title": "Framed garden and distant horizon sightlines",
+   "place": "house",
+   "category": "Land",
+   "description": "The entrance passage frames a distant landscape while broad living glazing opens toward trees and horizon. Adam Kane describes deliberately revealing different gardens and views as people circulate.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The mountain range is unnamed; cuts do not establish all room-to-view relationships.",
+   "related_ids": [
+    "pool",
+    "foyer-stair"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 140.92,
+     "end": 150.24,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 194.76,
+     "end": 221,
+     "source": "The uploader's own captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0024",
+     "time": 89.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0024.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0024.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0010",
+     "time": 38.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0010.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0010.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0030",
+     "time": 113.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0030.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0030.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0024.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "front-door",
+   "title": "Tall glazed front door opening to planted court",
+   "place": "foyer",
+   "category": "Structure",
+   "description": "A tall framed glazed door opens toward the entrance planting. The film shows an adult using it, with the stair visible inside in nearby wide views.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Door system, security details and glazing specification are not given.",
+   "related_ids": [],
+   "terms": [
+    "door",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 221.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0054.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0037",
+     "time": 142.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0037.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0037.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0054.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bedroom-fitout",
+   "title": "Pale platform-bed bedroom furnishings",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "A low broad platform bed with pale bedding sits beside tall curtained glazing. Small cylindrical bedside fixtures flank the bed area.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The room is not labelled as the primary suite or a child’s bedroom; furniture makers are unknown.",
+   "related_ids": [],
+   "terms": [
+    "bedroom",
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 192.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0049.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 298.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0077.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0049.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bedroom-curtain",
+   "title": "Long sheer curtain beside the platform bed",
+   "place": "bedroom",
+   "category": "Climate",
+   "description": "A long light curtain lifts inward beside the bed and filters the window light. The passage view shows the same pale sleeping area.",
+   "phase": "current",
+   "part_of": "bedroom-fitout",
+   "unknown": "Window opening hardware and any ventilation strategy are not established.",
+   "related_ids": [],
+   "terms": [
+    "fabric",
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 192.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0049.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 298.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0077.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0049.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom-fitout",
+   "title": "Paired stone bathroom vanity and mirror",
+   "place": "paired-vanity-room",
+   "category": "Water",
+   "description": "A long veined vanity contains paired rectangular basins and angular dark taps beneath a broad mirror. Reflections repeat the taps in the image.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Stone species, water heating, room ownership and other bathroom fixtures are not established.",
+   "related_ids": [],
+   "terms": [
+    "sink",
+    "stone",
+    "bathroom"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 187.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0048.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0048.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom-light",
+   "title": "High daylight opening over paired vanity",
+   "place": "paired-vanity-room",
+   "category": "Climate",
+   "description": "A bright overhead opening lights the wall and vanity beside the mirror. Tall pale storage doors line the adjoining passage.",
+   "phase": "current",
+   "part_of": "bathroom-fitout",
+   "unknown": "The exterior form and glazing assembly of this opening are not visible.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 187.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0048.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0048.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "timber-upper-floor",
+   "title": "Pale timber-board floor beside vanity",
+   "place": "paired-vanity-room",
+   "category": "Materials",
+   "description": "Long pale boards run along the corridor beside the paired vanity. Their joints and grain are visible in the full-resolution frame.",
+   "phase": "current",
+   "part_of": "bathroom-fitout",
+   "unknown": "Species, engineered or solid construction and wet-area treatment are not stated.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 187.5,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0048.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0048.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "single-basin",
+   "title": "Raised veined basin beneath narrow vertical mirror",
+   "place": "single-basin-room",
+   "category": "Water",
+   "description": "A block-like raised rectangular basin sits against a pale wall beneath a very narrow mirror. An angular dark tap rises from the basin top.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Exact room use, stone type and peripheral cylindrical wall fittings are not identified.",
+   "related_ids": [],
+   "terms": [
+    "sink",
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 302.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0079.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 304.0,
+     "path": "review/P1HCZA-BW9I/evidence/frame-0080.jpg",
+     "preview_path": "review/P1HCZA-BW9I/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/P1HCZA-BW9I/sample-0079.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 7.5,
+   "title": "Opening production title",
+   "visible": "Logo over the upward spiral stair and circular roof light.",
+   "gaps": "No household identity or stair specification.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0001.jpg"
+  },
+  {
+   "start": 7.5,
+   "end": 20.5,
+   "title": "Project title and material details",
+   "visible": "Eaglemont Residence title over pale brick, vertical brick band and grey floor shadows.",
+   "gaps": "Brick product, floor composition and structural wall layers unestablished.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0003",
+    "frame-0004",
+    "frame-0005"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0003.jpg"
+  },
+  {
+   "start": 20.5,
+   "end": 34,
+   "title": "Spiral stair and circular roof light",
+   "visible": "Pale curved stair parapet, treads and central roof-light opening.",
+   "gaps": "Support structure, coating and dimensions not disclosed.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0006",
+    "frame-0007",
+    "frame-0008"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0006.jpg"
+  },
+  {
+   "start": 34,
+   "end": 46,
+   "title": "Living spaces and rear elevation",
+   "visible": "Dining, veined island, cabinetry, glazed horizon and stepped rear facade over lawn.",
+   "gaps": "Montage does not establish a complete floor plan.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0009",
+    "frame-0010",
+    "frame-0011"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0009.jpg"
+  },
+  {
+   "start": 46,
+   "end": 55.5,
+   "title": "Architect introduction",
+   "visible": "Adam Kane interviewed beside the stair, identified by lower third; brief exterior cut.",
+   "gaps": "Clients are not introduced or named.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0012",
+    "frame-0013",
+    "frame-0014"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0012.jpg"
+  },
+  {
+   "start": 55.5,
+   "end": 65,
+   "title": "Neighbourhood and street facade",
+   "visible": "Aerial over treed suburb and closed brick front facade beside paved approach.",
+   "gaps": "Property boundaries and exact address unestablished.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0015",
+    "frame-0016"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0015.jpg"
+  },
+  {
+   "start": 65,
+   "end": 80.5,
+   "title": "Sloping garden and external steps",
+   "visible": "Side stairs, terraced beds, lawn, lower doorway and fruiting potted trees.",
+   "gaps": "Plant species, land area and irrigation unestablished.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0017.jpg"
+  },
+  {
+   "start": 80.5,
+   "end": 94.5,
+   "title": "Pool and entrance sightline",
+   "visible": "Narrow pool and loungers, reflected light on wall, dark entry framing distant view.",
+   "gaps": "Pool services and source of projected ripples not established.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0022.jpg"
+  },
+  {
+   "start": 94.5,
+   "end": 111,
+   "title": "Entrance landscape and brick reveals",
+   "visible": "Front court tree, low walls, small gnarled tree and recessed facade details.",
+   "gaps": "No planting schedule or wall section.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0026.jpg"
+  },
+  {
+   "start": 111,
+   "end": 123,
+   "title": "Distant views and projecting volume",
+   "visible": "Person facing wooded horizon, underside of projecting upper floor and shrubs.",
+   "gaps": "No named mountain range or structural support detail.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0030",
+    "frame-0031",
+    "frame-0032"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0030.jpg"
+  },
+  {
+   "start": 123,
+   "end": 140,
+   "title": "Street privacy and aerial setting",
+   "visible": "Paved front court, narrow windows, tree-framed brick wall and aerial property context.",
+   "gaps": "No street survey or proof of lot lines.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0033.jpg"
+  },
+  {
+   "start": 140,
+   "end": 159,
+   "title": "Entrance and double-height foyer",
+   "visible": "Front door sightline, foyer and stair from below and above.",
+   "gaps": "Every room served by the stair is not shown.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0037.jpg"
+  },
+  {
+   "start": 159,
+   "end": 179,
+   "title": "Open living dining and kitchen",
+   "visible": "Long island, dining table, pale lounge seating, veneer doors and broad glazing.",
+   "gaps": "Storage contents and dimensions are not shown.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0041.jpg"
+  },
+  {
+   "start": 179,
+   "end": 195,
+   "title": "Upper hall bedroom and paired vanity",
+   "visible": "Upper corridor and handrail, bathroom with paired basins, bedroom with platform bed.",
+   "gaps": "Room ownership, ensuite connection and bedroom count not visually established.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0046.jpg"
+  },
+  {
+   "start": 195,
+   "end": 222,
+   "title": "Garden walk and revealed views",
+   "visible": "Adult walks beside brick facade, entry view, stair and front door opening to garden.",
+   "gaps": "Cuts do not prove a continuous route through all these spaces.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0050.jpg"
+  },
+  {
+   "start": 222,
+   "end": 245,
+   "title": "Cooking preferences and working counter",
+   "visible": "Island sink, interview, narrow kitchen work run, cooktop controls and stools.",
+   "gaps": "Client preference is reported by Adam; cooktop model not disclosed.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0055.jpg"
+  },
+  {
+   "start": 245,
+   "end": 265,
+   "title": "Installed appliance demonstration — promotional segment",
+   "visible": "Wine cabinet racks and oven use within the installed kitchen.",
+   "gaps": "Gaggenau partnership applies; no independent appliance performance evidence.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0060.jpg"
+  },
+  {
+   "start": 265,
+   "end": 289,
+   "title": "Gaggenau oven details — promotional segment",
+   "visible": "Stacked ovens, open rack, flush grille, brushed metal frames and rotary control.",
+   "gaps": "Hand-finishing and craftsmanship are spoken claims; exact model and efficiency unestablished.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0065.jpg"
+  },
+  {
+   "start": 289,
+   "end": 296,
+   "title": "Pool at sunset and veneer detail",
+   "visible": "Sunset over pool and close veneer surface.",
+   "gaps": "No elapsed seasonal change or timber species established.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0073.jpg"
+  },
+  {
+   "start": 296,
+   "end": 307,
+   "title": "Bedroom passage and single-basin washroom",
+   "visible": "Curtained view toward bed; raised block basin beneath narrow mirror.",
+   "gaps": "This washroom is not proven to connect to the earlier paired vanity.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0077.jpg"
+  },
+  {
+   "start": 307,
+   "end": 321,
+   "title": "Brick-faced door and living room",
+   "visible": "Kitchen-end concealed brick-faced door, brick texture, dining and sheer curtains.",
+   "gaps": "Door destination and ceiling-slot function unknown.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0081.jpg"
+  },
+  {
+   "start": 321,
+   "end": 342,
+   "title": "Curtains and planted facade",
+   "visible": "Pale lounge, moving sheers, long brick wall and planted terraces.",
+   "gaps": "Long-term durability and future garden maturity remain design expectations.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0085.jpg"
+  },
+  {
+   "start": 342,
+   "end": 345,
+   "title": "Project closing title",
+   "visible": "Eaglemont Residence and Adam Kane Architects title over landscaped entrance.",
+   "gaps": "Editorial title is not a physical sign.",
+   "sample_count": 1,
+   "sample_ids": [
+    "frame-0089"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0089.jpg"
+  },
+  {
+   "start": 345,
+   "end": 348,
+   "title": "Sponsor partnership credit",
+   "visible": "In partnership with Gaggenau text over front entrance.",
+   "gaps": "Credit supplies no new property feature or performance evidence.",
+   "sample_count": 1,
+   "sample_ids": [
+    "frame-0090"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0090.jpg"
+  },
+  {
+   "start": 348,
+   "end": 356.501,
+   "title": "Production end card",
+   "visible": "The Local Project logo over exterior foliage fading dark.",
+   "gaps": "No additional room or system is shown.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0091",
+    "frame-0092",
+    "frame-0093"
+   ],
+   "thumbnail": "review/P1HCZA-BW9I/sample-0091.jpg"
+  }
+ ]
+}

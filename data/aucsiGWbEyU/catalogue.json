@@ -1,0 +1,4635 @@
+{
+ "title": "Mathieu Munsch's earth-and-straw house",
+ "source": {
+  "id": "aucsiGWbEyU",
+  "url": "https://www.youtube.com/watch?v=aucsiGWbEyU",
+  "duration": 2645.861,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "automatic English captions; errors retained where unresolved",
+  "transcript_kind": "automatic captions",
+  "context": {
+   "location": {
+    "country": "France",
+    "state_or_region": "Vosges region, northeastern France",
+    "nearest_place": "not disclosed",
+    "precision": "Region only; no town or address disclosed.",
+    "evidence": [
+     {
+      "attribution": "On-screen location caption at 00:09.233",
+      "frame_id": "frame-0006",
+      "claim": "Vosges region / Northeastern France"
+     },
+     {
+      "attribution": "Video description by Kirsten Dirksen",
+      "claim": "Sloping meadow in northeast France"
+     }
+    ],
+    "climate": {
+     "koppen": "Cfb",
+     "name": "temperate oceanic",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Vosges region, France",
+      "lat": 48.41,
+      "lon": 7.068,
+      "matched": "Vosges, Grand Est, Metropolitan France, France",
+      "stands_for": "region",
+      "extent_km": 159,
+      "precision": "Region only; no town or address disclosed."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 1058,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Vosges region, France",
+      "lat": 48.41,
+      "lon": 7.068,
+      "matched": "Vosges, Grand Est, Metropolitan France, France",
+      "stands_for": "region",
+      "extent_km": 159,
+      "precision": "Region only; no town or address disclosed."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "7b",
+     "mean_annual_extreme_min_c": -13.5,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Vosges region, France",
+      "lat": 48.41,
+      "lon": 7.068,
+      "matched": "Vosges, Grand Est, Metropolitan France, France",
+      "stands_for": "region",
+      "extent_km": 159,
+      "precision": "Region only; no town or address disclosed."
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2026-01-11",
+   "source_title": "Quitting 9-to-5 to build genius off-grid homestead, permitted & loan-free",
+   "filming_season": {
+    "value": "Winter main visit, with leafless trees, frost/snow patches and low sunlight; green-season construction and deeper-snow inserts. Exact filming date not disclosed.",
+    "attribution": "Visible scenes, description of a freezing winter visit, and Mathieu’s December/January references."
+   },
+   "not_disclosed": [
+    "Nearest named settlement",
+    "Exact address",
+    "Named train station",
+    "Exact main-house construction dates",
+    "Land ownership shares and legal boundaries",
+    "Complete household budget",
+    "Permit documents and loan records"
+   ],
+   "caption_caveats": "Automatic captions contain errors, including “permanent” in the permit question and “June” for a fermented drink name. Unresolved names are not silently corrected."
+  }
+ },
+ "sampling": {
+  "frames": 779,
+  "candidate_shots": 560,
+  "contact_sheets": 28,
+  "method": "every 12 seconds plus midpoint of each automatically detected candidate shot",
+  "review_directory": "review/aucsiGWbEyU"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "mathieu-munsch"
+  ],
+  "gist": "Mathieu built with earth and straw to escape mortgage payments, living in a shed through construction and retreating to his parents in winter.",
+  "story": {
+   "text": "Mathieu wants time for his own projects instead of twenty years of mortgage payments. He builds a small earth-and-straw house with volunteers, using local materials and shaping it around his love of cooking. One stove cooks dinner, warms the house, heats shower water and dries fruit. Even the hole left by digging plaster earth becomes a greenhouse. Getting here means two years based in a shed, with winter retreats to his parents. Now he grows and forages food, hosts friends and cycles to the train. His advice is to stay near your social network: living off the land need not mean cutting yourself off from people.",
+   "moments": [
+    {
+     "phrase": "time for his own projects instead of twenty years of mortgage payments",
+     "at": 165
+    },
+    {
+     "phrase": "his love of cooking",
+     "at": 2007.12
+    },
+    {
+     "phrase": "the hole left by digging plaster earth becomes a greenhouse",
+     "at": 423.92
+    },
+    {
+     "phrase": "two years based in a shed, with winter retreats to his parents",
+     "at": 2161.44
+    },
+    {
+     "phrase": "stay near your social network",
+     "at": 2167.24
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Mathieu Munsch's earth-and-straw house",
+   "kind": "site",
+   "within": null,
+   "caveat": "The place as a whole.",
+   "entity": "ent-mathieu-munsch-earth-straw-house"
+  },
+  {
+   "id": "house",
+   "title": "Main earth-and-straw house",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Kitchen, sitting/dining area, bedroom and bathroom are treated as one building scene; no floor plan or unshown adjacency inferred."
+  },
+  {
+   "id": "shed",
+   "title": "Original tiled-roof shed",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Current food/material storage and roof solar panels; former sleeping mezzanine is a historical use claimed by Mathieu. No workshop use is assumed."
+  },
+  {
+   "id": "greenhouse",
+   "title": "Sunken greenhouse",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Current winter interior and historical construction inserts; exact excavation dimensions and orientation unknown."
+  },
+  {
+   "id": "annex",
+   "title": "Unfinished earthen annex",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Structure exists at filming; bathhouse is a future use, not an installed bathing facility."
+  },
+  {
+   "id": "garden",
+   "title": "Cultivated beds, orchard and mushroom grove",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Grouped outdoor growing areas visited on the property; exact boundaries, tree count and relationships between individual beds are not surveyed."
+  },
+  {
+   "id": "wetland",
+   "title": "Wet patch, spring collection and water tank",
+   "kind": "land feature",
+   "within": "site",
+   "caveat": "Outdoor wet-ground locations visited during the tour; the full groundwater catchment and hidden pipe route are not established."
+  }
+ ],
+ "people": [
+  {
+   "id": "mathieu-munsch",
+   "name": "Mathieu Munsch",
+   "relation": "owner",
+   "note": "owner, resident and self-builder"
+  },
+  {
+   "id": "kirsten-dirksen",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "filmmaker and channel",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "claim-1",
+   "text": "Sloping meadow in the Vosges, northeast France",
+   "by": "description",
+   "at": [
+    9
+   ],
+   "about": null,
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-2",
+   "text": "50 m² (538 ft²) main house, kept small on purpose",
+   "by": "mathieu-munsch",
+   "at": [
+    89
+   ],
+   "about": null,
+   "headline": true,
+   "quantity": {
+    "value": 50,
+    "unit": "m2",
+    "of": "floor area"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-3",
+   "text": "About €15,000 to build the house",
+   "by": "mathieu-munsch",
+   "at": [
+    83
+   ],
+   "about": null,
+   "headline": true,
+   "quantity": {
+    "value": 15000,
+    "unit": "EUR",
+    "of": "build cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-4",
+   "text": "Two years living in the shed, then the house",
+   "by": "mathieu-munsch",
+   "at": [
+    2161.44
+   ],
+   "about": "shed-temporary-home",
+   "headline": true,
+   "quantity": {
+    "value": 2,
+    "unit": "year",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-5",
+   "text": "Sheltered exterior earth plaster unchanged after five years; only the rain-exposed front has eroded",
+   "by": "mathieu-munsch",
+   "at": [
+    1340.6
+   ],
+   "about": "plaster-maintenance",
+   "headline": true,
+   "quantity": {
+    "value": 5,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-6",
+   "text": "Self-drawn plans; a friend checked the calculations",
+   "by": "mathieu-munsch",
+   "at": [
+    89
+   ],
+   "about": null,
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-8",
+   "text": "No loan, no mortgage",
+   "by": "mathieu-munsch",
+   "at": [
+    165
+   ],
+   "about": null,
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-9",
+   "text": "No real living expenses; about €200 a month for going out with friends",
+   "by": "mathieu-munsch",
+   "at": [
+    2120.84
+   ],
+   "about": null,
+   "headline": true,
+   "quantity": {
+    "value": 200,
+    "unit": "EUR",
+    "of": "running cost",
+    "per": "month",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-10",
+   "text": "Off-grid solar electricity, solar hot water, wood heat",
+   "by": "mathieu-munsch",
+   "at": [
+    1662,
+    1765
+   ],
+   "about": null,
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-11",
+   "text": "Spring water collected into a cistern on the slope",
+   "by": "mathieu-munsch",
+   "at": [
+    623
+   ],
+   "about": null,
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "claim-12",
+   "text": "€35,000 for a south-facing 4,000 m² plot",
+   "by": "mathieu-munsch",
+   "at": [
+    779.2
+   ],
+   "about": null,
+   "headline": true,
+   "quantity": {
+    "value": 35000,
+    "unit": "EUR",
+    "of": "land price"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-1",
+   "text": "A 50 m² [538 ft²] house can be submitted without engineer or architect",
+   "by": "mathieu-munsch",
+   "at": [
+    89.84
+   ],
+   "about": "self-designed-permit",
+   "headline": false,
+   "topic": "law",
+   "quantity": {
+    "value": 50,
+    "unit": "m2",
+    "of": "threshold"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-2",
+   "text": "Round walls were hard to get approved; local houses are square and street-aligned",
+   "by": "mathieu-munsch",
+   "at": [
+    112.44
+   ],
+   "about": "self-designed-permit",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-3",
+   "text": "Authorities could not call it out of keeping: all materials were extracted on site",
+   "by": "mathieu-munsch",
+   "at": [
+    133.04
+   ],
+   "about": "self-designed-permit",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-4",
+   "text": "For a while the house evaded government control and was absent from tax files",
+   "by": "mathieu-munsch",
+   "at": [
+    808.0
+   ],
+   "about": "turf-roofs",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-5",
+   "text": "Under 20 m² [215 ft²] needs no building permit in France; annex built smaller",
+   "by": "mathieu-munsch",
+   "at": [
+    815.8
+   ],
+   "about": "annex-straw-structure",
+   "headline": false,
+   "topic": "law",
+   "quantity": {
+    "value": 20,
+    "unit": "m2",
+    "of": "threshold"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-6",
+   "text": "A building permit had to be submitted for the house",
+   "by": "mathieu-munsch",
+   "at": [
+    1160.19
+   ],
+   "about": "self-designed-permit",
+   "headline": false,
+   "topic": "law",
+   "doubt": "Captions give the question as \"all this was permanent?\"; whether \"all this\" includes the annex is unclear.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-7",
+   "text": "Permit review turned on the house's looks, not on whether it is well built",
+   "by": "mathieu-munsch",
+   "at": [
+    1162.36
+   ],
+   "about": "self-designed-permit",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-8",
+   "text": "Street position defines how a house must be built; this one follows a curve",
+   "by": "mathieu-munsch",
+   "at": [
+    1169.8
+   ],
+   "about": "self-designed-permit",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-9",
+   "text": "Round walls allowed and permit signed after he argued for passive solar gain",
+   "by": "mathieu-munsch",
+   "at": [
+    1181.64
+   ],
+   "about": "self-designed-permit",
+   "headline": false,
+   "topic": "law",
+   "doubt": "Captions read \"they signed in the permit\".",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "f-01",
+   "text": "The land is on a south facing hill so the solar panels can supply enough power for off-grid living.",
+   "by": "mathieu-munsch",
+   "at": [
+    757.839
+   ],
+   "about": null,
+   "headline": false,
+   "facing": "south",
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://habiterlaterre.com/en/",
+   "kind": "own site",
+   "entity": {
+    "type": "person",
+    "id": "mathieu-munsch"
+   },
+   "by": "description",
+   "line": "—Check Mathieu's project and philosophy of life: https://habiterlaterre.com/en/",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-2",
+   "url": "https://www.youtube.com/@Habiterlaterre",
+   "kind": "social",
+   "entity": {
+    "type": "person",
+    "id": "mathieu-munsch"
+   },
+   "by": "description",
+   "line": "—Mathieu's YouTube: https://www.youtube.com/@Habiterlaterre",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "pulley-dryer",
+   "predicate": "hangs above",
+   "object": "wood-cookstove",
+   "time": 185,
+   "status": "visual: tray, stove and suspension cords share the frame; raising is demonstrated around 04:33–04:44."
+  },
+  {
+   "subject": "ceiling-game-net",
+   "predicate": "hangs from rafters inside",
+   "object": "timber-straw-house",
+   "time": 2208,
+   "status": "visual: close-up shows net suspension beneath the same round-log house ceiling."
+  },
+  {
+   "subject": "reciprocal-roof",
+   "predicate": "covers",
+   "object": "annex-straw-structure",
+   "time": 875,
+   "status": "visual_and_spoken: entry/interior views and roof-assembly inserts identify the annex roof."
+  },
+  {
+   "subject": "roof-support-net",
+   "predicate": "spans a gap between rafters of",
+   "object": "reciprocal-roof",
+   "time": 1123,
+   "status": "visual_and_spoken: net and membrane are shown directly between roof timbers at the annex doorway."
+  },
+  {
+   "subject": "greenhouse-roof",
+   "predicate": "covers",
+   "object": "sunken-greenhouse",
+   "time": 471,
+   "status": "visual: translucent sheeting and timber beams are visible over the planted greenhouse interior."
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "timber-straw-house",
+   "title": "Rounded timber-frame house with straw-bale infill",
+   "category": "Structure",
+   "description": "The current house has rounded brown walls, exposed roundwood posts and rafters, and a low sloping roof; historical construction inserts expose the straw infill. Mathieu identifies it as post-and-beam construction with straw serving as insulation, unlike the load-bearing straw of the annex. He says its area is 50 square meters [about 538 square feet].",
+   "phase": "current",
+   "unknown": "A measured plan, structural calculations and hidden connections are not verified by the tour.",
+   "related_ids": [
+    "annex-straw-structure",
+    "self-designed-permit"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "roundwood",
+    "straw bale",
+    "post and beam",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 76.08,
+     "end": 93,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 848.48,
+     "end": 858.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 156.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0040.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 234.933333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0066.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0374",
+     "time": 1284.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0374.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0374.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0040.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "self-designed-permit",
+   "title": "Self-drawn house plans and permit argument",
+   "category": "Process",
+   "description": "Hand-drawn plans and a section appear as inserts alongside the finished house. Mathieu says he drafted the plans and checked calculations with a friend studying mechanical engineering. He says approval involved defending round walls for passive solar gain and alignment with the curved street.",
+   "phase": "historical",
+   "unknown": "No permit document, approval date or regulatory text is shown; this is his account of this build, not general legal guidance.",
+   "related_ids": [
+    "timber-straw-house",
+    "solar-shading"
+   ],
+   "place": "house",
+   "part_of": "timber-straw-house",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 89.84,
+     "end": 141.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1159.16,
+     "end": 1202.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0030",
+     "time": 105.633333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0030.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0030.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 108.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0031.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0339",
+     "time": 1176.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0339.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0339.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0030.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "willow-hedge",
+   "title": "Living fence planted from willow sticks",
+   "category": "Land",
+   "description": "Leafless reddish stems form a low boundary planting in front of the house. Mathieu identifies them as willow sticks pushed into the ground to root and form a hedge.",
+   "phase": "current",
+   "unknown": "The planting date, species and legal boundary are not established.",
+   "related_ids": [
+    "willow-partitions"
+   ],
+   "place": "garden",
+   "part_of": null,
+   "terms": [
+    "willow",
+    "living fence"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 39.12,
+     "end": 52.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0015",
+     "time": 41.2,
+     "path": "review/aucsiGWbEyU/evidence/frame-0015.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0015.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0016",
+     "time": 48.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0016.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0016.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0015.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shed-temporary-home",
+   "title": "Former sleeping mezzanine in the original shed",
+   "category": "Life",
+   "description": "The old tiled shed has a ladder to a low timber mezzanine, now crowded with stored items. Mathieu says the shed was already present when the land was bought and he adapted it to live in while building. He says he used it for two years, retreating to his parents during winter.",
+   "phase": "historical",
+   "unknown": "The historical sleeping arrangement and exact residence dates are not shown.",
+   "related_ids": [
+    "shed-pantry"
+   ],
+   "place": "shed",
+   "part_of": null,
+   "terms": [
+    "shed",
+    "loft",
+    "conversion",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 67.52,
+     "end": 74.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2130.51,
+     "end": 2167.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0639",
+     "time": 2136.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0639.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0639.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0638",
+     "time": 2134.166667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0638.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0638.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 71.166667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0019.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0639.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "finished-earth-floor",
+   "title": "Earthen floor finished with linseed oil and beeswax",
+   "category": "Materials",
+   "description": "A continuous dark brown floor catches sunlight across the living area. Mathieu says it uses the same earthen plaster as the outside walls, hardened with linseed oil and finished with beeswax to make spills easier to wipe up.",
+   "phase": "current",
+   "unknown": "Layer thicknesses, application quantities and long-term wear are not established.",
+   "related_ids": [
+    "thermal-mass"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "earthen plaster",
+    "linseed oil",
+    "beeswax",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1465.96,
+     "end": 1493.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0441",
+     "time": 1485.333333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0441.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0441.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 192.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0051.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0441.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "thermal-mass",
+   "title": "Earthen interior used as a heat store",
+   "category": "Climate",
+   "description": "Sun strikes the floor, and earthen surfaces surround the stove and occupied room. Mathieu describes combining insulation with interior thermal mass and says three small logs can keep the house warm into the next day. He reports about zero outside and 18 degrees inside [assuming Celsius: 32°F and 64.4°F] after the previous day’s fire.",
+   "phase": "current",
+   "unknown": "The scale is not spoken explicitly, and no thermometer or continuous record verifies the claim.",
+   "related_ids": [
+    "finished-earth-floor",
+    "wood-cookstove",
+    "solar-shading"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "earth",
+    "thermal mass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 182.52,
+     "end": 222.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 247.72,
+     "end": 255.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 287.84,
+     "end": 299.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 192.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0051.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 185.933333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0048.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 195.366667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0054.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0051.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wood-cookstove",
+   "title": "Wood-fired range with air control and baking oven",
+   "category": "Energy",
+   "description": "A metal cookstove has a cooking surface, separate firebox and oven doors, a temperature scale and vertical flue. Mathieu demonstrates the air control and describes using it for bread, pizza and casseroles as well as heating the house. He says it can reach 350 degrees [assuming Celsius: 662°F], with a delayed response to air adjustments.",
+   "phase": "current",
+   "unknown": "The make, rated output, flue construction and measured efficiency are not disclosed.",
+   "related_ids": [
+    "thermal-mass",
+    "pulley-dryer",
+    "winter-shower-water",
+    "retained-heat-box"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "wood-fired range"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 182.52,
+     "end": 186.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2250.2,
+     "end": 2314.08,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0691",
+     "time": 2306.133333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0691.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0691.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0683",
+     "time": 2280.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0683.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0683.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0685",
+     "time": 2290.8,
+     "path": "review/aucsiGWbEyU/evidence/frame-0685.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0685.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0692",
+     "time": 2311.266667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0692.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0692.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0691.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "winter-shower-water",
+   "title": "Stove-heated water pumped to a shower reserve",
+   "category": "Water",
+   "description": "The stove area has a water vessel and hose, while a pump and elevated reservoir components are shown in the bathroom. Mathieu says he heats a bucket on the stove and pumps it into a 30 L [about 7.9 US gallon] reserve for showers. He says he uses roughly half that reserve per shower.",
+   "phase": "current",
+   "unknown": "The full transfer is not demonstrated continuously; tank construction, temperature controls and pressure ratings are not disclosed.",
+   "related_ids": [
+    "wood-cookstove",
+    "solar-thermal-water",
+    "spring-tank"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "hot water",
+    "pump",
+    "tank",
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 257.12,
+     "end": 269.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1785,
+     "end": 1816,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0534",
+     "time": 1796.7,
+     "path": "review/aucsiGWbEyU/evidence/frame-0534.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0534.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 258.7,
+     "path": "review/aucsiGWbEyU/evidence/frame-0074.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0535",
+     "time": 1800.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0535.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0535.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0534.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pulley-dryer",
+   "title": "Adjustable drying tray suspended over the cookstove",
+   "category": "Food",
+   "description": "A rectangular mesh tray edged with bent sticks hangs on cords over the stove; Mathieu visibly raises it. He says it moves aside for cooking and lowers afterward for faster drying. Later he identifies the orange slices as mandarins; inserts show mushrooms and pale slices drying too.",
+   "phase": "current",
+   "unknown": "Drying temperatures, times and storage life are not measured.",
+   "related_ids": [
+    "wood-cookstove",
+    "house-food-storage"
+   ],
+   "place": "house",
+   "part_of": "wood-cookstove",
+   "terms": [
+    "roundwood"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 272.8,
+     "end": 287.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 400.4,
+     "end": 417.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2462.76,
+     "end": 2484.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0737",
+     "time": 2463.966667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0737.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0737.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0125",
+     "time": 408.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0125.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0125.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 273.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0078.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0737.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "retained-heat-box",
+   "title": "Foil-lined insulated box for overnight slow cooking",
+   "category": "Energy",
+   "description": "Opening a wooden box reveals insulating fabrics, reflective lining and a covered soup pot. Mathieu calls it a Swedish oven and describes a box within a box with 15 cm [about 5.9 inches] of insulation and a survival blanket. He says the bean soup was heated in the oven for half an hour and then left in the box for 12 hours.",
+   "phase": "current",
+   "unknown": "No temperature history, insulation composition or measured fuel saving is supplied.",
+   "related_ids": [
+    "wood-cookstove",
+    "fermented-foods"
+   ],
+   "place": "house",
+   "part_of": "wood-cookstove",
+   "terms": [
+    "retained-heat cooking",
+    "insulation",
+    "timber",
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 299.16,
+     "end": 338.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1860.84,
+     "end": 1874.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0092",
+     "time": 312.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0092.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0092.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0093",
+     "time": 314.5,
+     "path": "review/aucsiGWbEyU/evidence/frame-0093.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0093.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0097",
+     "time": 333.9,
+     "path": "review/aucsiGWbEyU/evidence/frame-0097.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0097.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0092.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "seasonal-refrigeration",
+   "title": "Summer refrigerator and winter windowsill food baskets",
+   "category": "Energy",
+   "description": "A small refrigerator stands below the counter, while baskets of jars and tubs sit outside an opening window. Mathieu says it is unplugged during winter and outdoor cold stores the food, whereas summer solar electricity is abundant.",
+   "phase": "current",
+   "unknown": "No refrigerator load, outdoor temperature record or monitored food temperature is shown.",
+   "related_ids": [
+    "solar-electricity",
+    "house-food-storage"
+   ],
+   "place": "house",
+   "part_of": "house-food-storage",
+   "terms": [
+    "refrigerator"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 338.48,
+     "end": 363.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0105",
+     "time": 360.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0105.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0105.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 342.1,
+     "path": "review/aucsiGWbEyU/evidence/frame-0100.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0105.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "house-food-storage",
+   "title": "Potato crates, squash and jars of dried harvests",
+   "category": "Food",
+   "description": "The house holds crates of potatoes, squash and rows of glass jars on open shelves. Mathieu identifies cultivated or foraged beans, nuts, dried apples and mushrooms, and says he dries produce over the stove in winter and outside in summer.",
+   "phase": "current",
+   "unknown": "A complete annual food budget, all jar contents and harvest volumes are not established.",
+   "related_ids": [
+    "pulley-dryer",
+    "shed-pantry",
+    "garden-orchard"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 374.72,
+     "end": 417.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0123",
+     "time": 403.133333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0123.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0123.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0114",
+     "time": 384.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0114.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0114.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 392.3,
+     "path": "review/aucsiGWbEyU/evidence/frame-0117.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0123.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sunken-greenhouse",
+   "title": "Salvaged-window greenhouse in the earth-extraction pit",
+   "category": "Structure",
+   "description": "Slanted wooden window frames enclose a sunken planted interior with an earthen bank and rough cob end wall; a green-season construction insert shows helpers moving the glazing. Mathieu says the pit supplied earth for plaster and he reused discarded windows to make a passive greenhouse. He says his last tomatoes were harvested around December 10, compared with October outdoors, and selected the glazing angle for winter sun.",
+   "phase": "current",
+   "unknown": "No monitored temperature comparison or measured excavation depth is given; current vines are winter-killed.",
+   "related_ids": [
+    "greenhouse-roof",
+    "cold-frame",
+    "spent-shiitake-block"
+   ],
+   "place": "greenhouse",
+   "part_of": null,
+   "terms": [
+    "greenhouse",
+    "earth-sheltered",
+    "reclaimed",
+    "glazing",
+    "cob",
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 420.4,
+     "end": 510.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0142",
+     "time": 440.566667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0142.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0142.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 449.066667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0146.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0160",
+     "time": 492.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0160.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0160.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0139",
+     "time": 434.533333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0139.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0139.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0142.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-roof",
+   "title": "Translucent corrugated greenhouse roof on rough timber",
+   "category": "Materials",
+   "description": "Translucent corrugated sheets cover rough roundwood beams above the greenhouse path and earthen bank. Green cords hang among dead plant stems, and narrower wooden pieces cross below the sheeting.",
+   "phase": "current",
+   "unknown": "The sheet material, fastening method and intended use of each cord are not identified in speech.",
+   "related_ids": [
+    "sunken-greenhouse"
+   ],
+   "place": "greenhouse",
+   "part_of": null,
+   "terms": [
+    "roof",
+    "roundwood"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0164",
+     "time": 504.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0164.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0164.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0155",
+     "time": 480.9,
+     "path": "review/aucsiGWbEyU/evidence/frame-0155.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0155.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/aucsiGWbEyU/sample-0164.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cold-frame",
+   "title": "Garden cold frame covered with reused windows",
+   "category": "Food",
+   "description": "Loose glazed frames lie open over a low planted enclosure near the greenhouse. Mathieu calls it a cold frame and says putting the windows on top makes a miniature greenhouse that lets him start plants two months earlier.",
+   "phase": "current",
+   "unknown": "The enclosure is not shown closed and no comparative sowing trial is presented.",
+   "related_ids": [
+    "sunken-greenhouse"
+   ],
+   "place": "garden",
+   "part_of": null,
+   "terms": [
+    "cold frame",
+    "reclaimed",
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 521.039,
+     "end": 537.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0171",
+     "time": 528.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0171.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0171.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0172",
+     "time": 530.733333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0172.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0172.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0171.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "garden-orchard",
+   "title": "Garlic beds, berries around walnuts and an orchard claim",
+   "category": "Food",
+   "description": "Bare beds, low shrubs and leafless trees occupy the winter slope. Mathieu identifies recently planted garlic, currants and a walnut tree with berries around it, describing food production requiring little ongoing work. Earlier he mentions an orchard with 150 trees.",
+   "phase": "current",
+   "unknown": "The tree count, orchard extent, cultivars and annual yields are not verified or mapped.",
+   "related_ids": [
+    "house-food-storage",
+    "cattail-patch"
+   ],
+   "place": "garden",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 393.8,
+     "end": 396.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 548.6,
+     "end": 570.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0177",
+     "time": 551.7,
+     "path": "review/aucsiGWbEyU/evidence/frame-0177.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0177.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0180",
+     "time": 562.6,
+     "path": "review/aucsiGWbEyU/evidence/frame-0180.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0180.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0182",
+     "time": 570.133333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0182.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0182.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0177.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "shiitake-logs",
+   "title": "Shiitake-inoculated logs in a shaded grove",
+   "category": "Food",
+   "description": "Short stacked logs and upright timber lengths show small inoculation marks; Mathieu points out a little fungus. He says he inoculates logs using dowels and identifies the mushroom as shiitake, noting some logs are spent.",
+   "phase": "current",
+   "unknown": "The species is his identification; inoculation dates and sustained yield are not established.",
+   "related_ids": [
+    "mushroom-cultures",
+    "spent-shiitake-block"
+   ],
+   "place": "garden",
+   "part_of": null,
+   "terms": [
+    "log"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 570.6,
+     "end": 597.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0188",
+     "time": 596.066667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0188.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0188.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0184",
+     "time": 578.9,
+     "path": "review/aucsiGWbEyU/evidence/frame-0184.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0184.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0186",
+     "time": 588.533333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0186.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0186.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0188.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "spent-shiitake-block",
+   "title": "Spent shiitake substrate block inside the greenhouse",
+   "category": "Food",
+   "description": "Mathieu handles a compact brown fibrous block flecked with white material. He identifies it as a shiitake block with visible mycelium and says it produced a couple of kilos [roughly 4.4 pounds] of mushrooms.",
+   "phase": "current",
+   "unknown": "The substrate recipe, production dates and weight are not independently established.",
+   "related_ids": [
+    "shiitake-logs",
+    "mushroom-cultures"
+   ],
+   "place": "greenhouse",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 510.16,
+     "end": 517.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0166",
+     "time": 512.833333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0166.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0166.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0167",
+     "time": 516.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0167.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0167.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0166.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "cattail-patch",
+   "title": "Wet patch planted with edible cattail",
+   "category": "Food",
+   "description": "Dense tall dry reedlike stems stand among shrubs on wet ground. Mathieu says he introduced cattail, harvests its shoots and relies on spreading rhizomes to maintain the patch.",
+   "phase": "current",
+   "unknown": "No planting, harvest or species confirmation is shown; the edible identification remains his claim.",
+   "related_ids": [
+    "garden-orchard"
+   ],
+   "place": "wetland",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 597.4,
+     "end": 619.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0191",
+     "time": 606.066667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0191.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0191.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0193",
+     "time": 612.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0193.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0193.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0191.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "spring-capture",
+   "title": "Covered groundwater collection feeding a small pipe",
+   "category": "Water",
+   "description": "Mathieu lifts covering material at a wet stony patch and shows water at a small pipe. He says he funnels groundwater into it, protects it from leaves and filters the water before drinking.",
+   "phase": "current",
+   "unknown": "The catchment, year-round flow, water quality and full buried route are not established.",
+   "related_ids": [
+    "spring-tank",
+    "annex-water-filter",
+    "countertop-filter"
+   ],
+   "place": "wetland",
+   "part_of": null,
+   "terms": [
+    "spring",
+    "drinking-water filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 623.27,
+     "end": 686.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 697.64,
+     "end": 710.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0208",
+     "time": 678.833333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0208.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0208.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0213",
+     "time": 705.333333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0213.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0213.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 643.3,
+     "path": "review/aucsiGWbEyU/evidence/frame-0201.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0208.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "spring-tank",
+   "title": "Dark-wrapped water tank on the slope",
+   "category": "Water",
+   "description": "A cuboid tank is wrapped in dark plastic, with a circular lid and hoses; water visibly runs from a hose into Mathieu’s hand. He says it holds a thousand liters [about 264 US gallons], is supplied by the spring and feeds the house by gravity. He says the wrapping discourages algae.",
+   "phase": "current",
+   "unknown": "Capacity, continuous flow rate and the household pipe route are not measured or fully visible.",
+   "related_ids": [
+    "spring-capture",
+    "annex-water-filter",
+    "winter-shower-water"
+   ],
+   "place": "wetland",
+   "part_of": null,
+   "terms": [
+    "spring",
+    "tank"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 626.6,
+     "end": 650.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 718.67,
+     "end": 745.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 745.4,
+     "path": "review/aucsiGWbEyU/evidence/frame-0225.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0223",
+     "time": 737.866667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0223.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0223.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0200",
+     "time": 636.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0200.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0200.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0225.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "turf-roofs",
+   "title": "Reused site turf covering the earthen buildings",
+   "category": "Materials",
+   "description": "Aerial views show vegetation over the house and annex roofs. Mathieu says turf removed for construction was set aside and replaced with its original plants. For the annex he reports about 15 centimeters [5.9 inches] of earth and says the roof survived 50 centimeters [19.7 inches] of snow the previous winter.",
+   "phase": "current",
+   "unknown": "Roof-layer specifications, wet loading and verified snow depth are not supplied.",
+   "related_ids": [
+    "timber-straw-house",
+    "annex-straw-structure",
+    "reciprocal-roof"
+   ],
+   "place": "site",
+   "part_of": null,
+   "terms": [
+    "turf",
+    "living roof",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 784.16,
+     "end": 814,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 827.68,
+     "end": 845.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0235",
+     "time": 798.966667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0235.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0235.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0236",
+     "time": 804.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0236.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0236.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0062",
+     "time": 220.933333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0062.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0062.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0246",
+     "time": 844.9,
+     "path": "review/aucsiGWbEyU/evidence/frame-0246.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0246.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0235.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "annex-straw-structure",
+   "title": "Unfinished annex with load-bearing straw-bale walls",
+   "category": "Structure",
+   "description": "The small rounded annex has earthen walls, a turf roof and an unfinished interior; historical inserts show its exposed straw bales during assembly. Mathieu contrasts its load-bearing bales with the framed house, saying they support the roof. He says he chose a structure smaller than 20 square meters [about 215 square feet] in connection with his understanding of permit requirements.",
+   "phase": "in progress",
+   "unknown": "No structural test, measured floor area or permit determination is shown; his regulatory statement is not independently checked.",
+   "related_ids": [
+    "timber-straw-house",
+    "reciprocal-roof",
+    "bathhouse-plan"
+   ],
+   "place": "annex",
+   "part_of": null,
+   "terms": [
+    "straw bale",
+    "load-bearing straw bale",
+    "earthen plaster",
+    "living roof"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 815.8,
+     "end": 859.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0244",
+     "time": 838.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0244.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0244.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0259",
+     "time": 888.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0259.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0259.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0266",
+     "time": 916.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0266.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0266.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0244.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "reciprocal-roof",
+   "title": "Annex reciprocal roundwood roof and central skylight",
+   "category": "Structure",
+   "description": "Round rafters overlap around a central glazed opening, with plank decking and no central post in the current room. Mathieu explains assembly on a temporary Charlie post; historical inserts show the assembly stage. He says the timbers came from young trees selected on the land and hauled downhill by hand.",
+   "phase": "in progress",
+   "unknown": "Timber species, joinery design and verified load capacity are not provided.",
+   "related_ids": [
+    "annex-straw-structure",
+    "roof-support-net",
+    "turf-roofs"
+   ],
+   "place": "annex",
+   "part_of": "annex-straw-structure",
+   "terms": [
+    "roundwood",
+    "reciprocal roof",
+    "skylight"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 865.079,
+     "end": 911.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1062.76,
+     "end": 1089.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0255",
+     "time": 875.766667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0255.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0255.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0310",
+     "time": 1076.533333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0310.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0310.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0257",
+     "time": 879.366667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0257.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0257.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0255.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathhouse-plan",
+   "title": "Japanese-inspired bathhouse planned inside the annex",
+   "category": "Plan",
+   "description": "The annex is a bare earthen room with exposed plumbing and no installed bath. Mathieu says he wants to make it a bathhouse because he misses hot baths from living in Japan.",
+   "phase": "planned",
+   "unknown": "Tub type, bathing-water system, budget and completion schedule are not disclosed.",
+   "related_ids": [
+    "annex-straw-structure",
+    "annex-water-filter"
+   ],
+   "place": "annex",
+   "part_of": null,
+   "terms": [
+    "bath",
+    "bathroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 899.16,
+     "end": 935.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0271",
+     "time": 936.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0271.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0271.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0266",
+     "time": 916.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0266.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0266.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/aucsiGWbEyU/sample-0271.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "annex-water-filter",
+   "title": "First-stage water filter and exposed annex plumbing",
+   "category": "Water",
+   "description": "A clear cylindrical filter housing connects to exposed hoses and valves above a yellow bucket. Mathieu identifies it as his first filtration layer, says the water seen at the spring \"goes up here\", and points out a line returning to the house.",
+   "phase": "current",
+   "unknown": "Filter media, pore size and water-testing results are not shown, and the full route is hidden. Whether \"goes up here\" means the supply arrives from higher ground or is lifted to this point is not settled by the captions or the frames.",
+   "related_ids": [
+    "spring-tank",
+    "countertop-filter",
+    "bathhouse-plan"
+   ],
+   "place": "annex",
+   "part_of": "annex-straw-structure",
+   "terms": [
+    "water filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 920.2,
+     "end": 935.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0269",
+     "time": 924.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0269.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0269.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0270",
+     "time": 929.166667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0270.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0270.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0269.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "annex-cob-drying",
+   "title": "Thick cob coatings with drying-related wall patches",
+   "category": "Materials",
+   "description": "The annex window reveal is thick and rough walls contain straw and pale mottled patches. Mathieu says cob combines earth and fiber, with 10 centimeters [about 3.9 inches] on each side of the bale. He identifies the patches as remaining surface mold and says he keeps the building open to dry.",
+   "phase": "in progress",
+   "unknown": "No moisture measurements or independent assessment of the patches support his assurance about drying.",
+   "related_ids": [
+    "annex-straw-structure"
+   ],
+   "place": "annex",
+   "part_of": "annex-straw-structure",
+   "terms": [
+    "cob",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 935.56,
+     "end": 1006.839,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0285",
+     "time": 984.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0285.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0285.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0277",
+     "time": 954.266667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0277.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0277.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0273",
+     "time": 944.1,
+     "path": "review/aucsiGWbEyU/evidence/frame-0273.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0273.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0285.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "annex-earth-floor",
+   "title": "Unfinished earth floor over claimed foam-glass insulation",
+   "category": "Materials",
+   "description": "The annex floor is rough, with polygonal cracks and short projecting pipes. Mathieu says foam glass underneath provides insulation and interrupts capillary water movement, followed by earth and troweled mud ready for final plaster. He identifies foam glass as the material he had to buy for this structure.",
+   "phase": "in progress",
+   "unknown": "The buried insulation is not exposed here; its thickness, product and finished floor performance are unknown.",
+   "related_ids": [
+    "annex-cob-drying",
+    "bathhouse-plan"
+   ],
+   "place": "annex",
+   "part_of": "annex-straw-structure",
+   "terms": [
+    "earth",
+    "foam glass",
+    "insulation",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1006.839,
+     "end": 1060.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0296",
+     "time": 1012.466667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0296.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0296.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0295",
+     "time": 1009.766667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0295.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0295.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0296.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-support-net",
+   "title": "Knotted support net beneath the annex roof membrane",
+   "category": "Structure",
+   "description": "A coarse diamond-pattern rope net spans between round timbers above the annex doorway, directly below a dark sheet. Mathieu calls it a woven hammock and says he added it where rafters were too far apart for the planks, with the waterproof tarp above.",
+   "phase": "in progress",
+   "unknown": "Rope material, attachments, membrane specification and load capacity are not established.",
+   "related_ids": [
+    "reciprocal-roof"
+   ],
+   "place": "annex",
+   "part_of": null,
+   "terms": [
+    "rope"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1091.24,
+     "end": 1126,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0325",
+     "time": 1123.766667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0325.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0325.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0318",
+     "time": 1094.666667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0318.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0318.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0325.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "seasonal-self-build",
+   "title": "Two-summer annex build and volunteer-built main house",
+   "category": "Process",
+   "description": "Construction inserts show helpers at the house and annex assembly, while the winter tour shows the annex still unfinished. Mathieu says he built the main house with volunteers and tried the annex largely by himself, taking two summers to reach this stage. He says wet or frosty weather limits earthen plaster work.",
+   "phase": "historical",
+   "unknown": "No work log establishes person-hours or dates; the visible helpers mean the annex should not be described as entirely unassisted.",
+   "related_ids": [
+    "annex-straw-structure",
+    "timber-straw-house"
+   ],
+   "place": "site",
+   "part_of": null,
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1126,
+     "end": 1151.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 882.166667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0258.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0365",
+     "time": 1253.533333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0365.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0365.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0400",
+     "time": 1361.3,
+     "path": "review/aucsiGWbEyU/evidence/frame-0400.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0400.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0258.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rubble-foundation",
+   "title": "Rubble-trench foundation and raised masonry straw base",
+   "category": "Structure",
+   "description": "Historical construction images show loose aggregate, a low stone wall and timber plates before wall completion. Mathieu says he chose a rubble trench instead of poured concrete, sourcing crushed demolition material, with a drain at the bottom and masonry to keep straw above wet ground.",
+   "phase": "historical",
+   "unknown": "The drain outfall, foundation depth and tested bearing capacity are not shown; the composition of demolition rubble is not fully identified.",
+   "related_ids": [
+    "timber-straw-house"
+   ],
+   "place": "house",
+   "part_of": "timber-straw-house",
+   "terms": [
+    "rubble trench",
+    "foundation",
+    "stone",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1202.8,
+     "end": 1247.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0359",
+     "time": 1236.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0359.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0359.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0354",
+     "time": 1224.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0354.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0354.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0358",
+     "time": 1233.9,
+     "path": "review/aucsiGWbEyU/evidence/frame-0358.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0358.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0359.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "plaster-maintenance",
+   "title": "Planned refresh of rain-eroded exterior earth plaster",
+   "category": "Plan",
+   "description": "Close-ups contrast smoother sheltered plaster with rougher exposed surfaces where straw fibers emerge. Mathieu says sheltered areas have remained unchanged for five years, whereas rain has eroded the front, and he may apply a fresh plaster layer in a couple of years.",
+   "phase": "planned",
+   "unknown": "The timing, extent and recipe of the future repair are unspecified; no erosion measurement is provided.",
+   "related_ids": [
+    "timber-straw-house",
+    "solar-shading"
+   ],
+   "place": "house",
+   "part_of": "timber-straw-house",
+   "terms": [
+    "earthen plaster"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1331.72,
+     "end": 1368.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0395",
+     "time": 1353.1,
+     "path": "review/aucsiGWbEyU/evidence/frame-0395.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0395.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0397",
+     "time": 1356.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0397.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0397.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0390",
+     "time": 1332.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0390.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0390.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0395.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "reused-openings",
+   "title": "House designed around reused windows and a shortened door",
+   "category": "Materials",
+   "description": "Blue-grey framed windows and a short entrance door with a fan-shaped glazed top are visible. Mathieu says he had the windows before designing the house, but later had to cut the bottom from a discarded door to fit the opening.",
+   "phase": "current",
+   "unknown": "Original sources, glazing performance and exact opening dimensions are not supplied.",
+   "related_ids": [
+    "timber-straw-house",
+    "milk-clay-paint"
+   ],
+   "place": "house",
+   "part_of": "timber-straw-house",
+   "terms": [
+    "reclaimed",
+    "window",
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1370.24,
+     "end": 1407.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 158.266667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0041.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0412",
+     "time": 1399.866667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0412.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0412.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0408",
+     "time": 1387.466667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0408.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0408.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0041.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "milk-clay-paint",
+   "title": "Milk paint on joinery and local clay paint on interior walls",
+   "category": "Materials",
+   "description": "The entrance door and tatami base share a blue tone, contrasting with pale earthen walls; Mathieu brushes a clay sample during the visit. He identifies the blue finish as milk paint and says he collected lighter-colored forest clay to reflect more light inside.",
+   "phase": "current",
+   "unknown": "Pigments, binder proportions and long-term finish durability are not disclosed.",
+   "related_ids": [
+    "reused-openings",
+    "tatami-platform"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "milk paint",
+    "clay paint"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1407.04,
+     "end": 1463.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0415",
+     "time": 1410.733333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0415.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0415.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0431",
+     "time": 1435.966667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0431.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0431.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0437",
+     "time": 1464.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0437.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0437.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0415.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cordwood-partition",
+   "title": "Interior cordwood panel made from a leftover log",
+   "category": "Materials",
+   "description": "Circular and oval wood ends are set in a pale wall beside the entrance, with some visible checks in the wood and surrounding finish. Mathieu identifies it as cordwood and says he cut up a leftover log for the panel; a construction insert shows it before the final finish.",
+   "phase": "current",
+   "unknown": "Wood species, wall thickness and the exact surrounding mortar or plaster mix are not established.",
+   "related_ids": [
+    "willow-partitions"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "cordwood",
+    "partition"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1493.52,
+     "end": 1515.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0449",
+     "time": 1512.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0449.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0449.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0447",
+     "time": 1506.2,
+     "path": "review/aucsiGWbEyU/evidence/frame-0447.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0447.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0449.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "willow-partitions",
+   "title": "Woven willow partitions with earthen plaster and a woven door",
+   "category": "Materials",
+   "description": "Historical inserts expose upright sticks with horizontal willow weaving and partial earth plaster; the current house also has a dark woven door with a branch handle. Mathieu says the internal partitions use woven willow plastered with earth and identifies the door as willow too.",
+   "phase": "current",
+   "unknown": "The finished walls conceal most of the weave; attachment details and thickness are not measured.",
+   "related_ids": [
+    "cordwood-partition",
+    "hanging-shelves",
+    "willow-hedge"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "willow",
+    "earthen plaster",
+    "partition",
+    "door",
+    "wattle and daub"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1515.6,
+     "end": 1553.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0458",
+     "time": 1528.3,
+     "path": "review/aucsiGWbEyU/evidence/frame-0458.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0458.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0455",
+     "time": 1521.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0455.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0455.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0464",
+     "time": 1548.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0464.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0464.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0458.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "branch-bark-kitchen",
+   "title": "Pruned-walnut kitchen supports and woven bark cabinet doors",
+   "category": "Materials",
+   "description": "Pale irregular branches support open kitchen shelves, and cabinet doors have broad woven brown strips. Mathieu says the branches came from a pruned walnut tree, with bark removed and woven for the cabinet panels.",
+   "phase": "current",
+   "unknown": "Species and source follow his account; treatment, joints and bark preparation details are not fully demonstrated.",
+   "related_ids": [
+    "branch-bed",
+    "hanging-shelves"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "roundwood",
+    "bark",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1592.84,
+     "end": 1641,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0474",
+     "time": 1572.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0474.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0474.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0487",
+     "time": 1632.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0487.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0487.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0488",
+     "time": 1635.166667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0488.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0488.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0474.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "branch-bed",
+   "title": "Handmade branch bed and paper-covered bedside lamp",
+   "category": "Life",
+   "description": "The bed has a pale irregular-branch headboard and footboard, with a small glowing paper-covered wall light nearby. Mathieu says he designed the bed around wood from the same pruned tree used for the kitchen and made a lampshade by putting paper over a light.",
+   "phase": "current",
+   "unknown": "The joinery, lamp clearances, paper specification and mattress construction are not established.",
+   "related_ids": [
+    "branch-bark-kitchen"
+   ],
+   "place": "house",
+   "part_of": "branch-bark-kitchen",
+   "terms": [
+    "roundwood",
+    "paper"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1643.56,
+     "end": 1661.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0492",
+     "time": 1656.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0492.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0492.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0494",
+     "time": 1663.866667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0494.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0494.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0492.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "solar-electricity",
+   "title": "Roof solar panels with claimed 800 W and 5 kWh storage",
+   "category": "Energy",
+   "description": "Rectangular solar panels are visible on the older tiled shed roof, and a rice cooker is shown by the kitchen sink. Mathieu says he is completely off grid and has 800 watts [0.8 kW] of panels and 5 kilowatt hours [18 MJ] of storage. He says summer electricity is abundant enough for rice-cooker meals, while avoiding electric space heating keeps demand modest.",
+   "phase": "current",
+   "unknown": "The battery, controller and inverter are not inspected, and capacity and output are unverified; he separately discloses purchased gas for cooking.",
+   "related_ids": [
+    "seasonal-refrigeration",
+    "gas-backup",
+    "wood-cookstove"
+   ],
+   "place": "shed",
+   "part_of": null,
+   "terms": [
+    "solar pv",
+    "battery",
+    "off-grid"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 762.68,
+     "end": 772.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1662.56,
+     "end": 1690.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2314.08,
+     "end": 2331.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0102",
+     "time": 348.666667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0102.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0102.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 71.166667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0019.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0695",
+     "time": 2325.533333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0695.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0695.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0102.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "self-installed-wiring",
+   "title": "Electrical conduits laid on straw before plastering",
+   "category": "Process",
+   "description": "Historical images show black electrical conduits and boxes across exposed straw walls; current views show small square switch plates in plaster. Mathieu says he wired the house with his father and neither was a professional electrician.",
+   "phase": "historical",
+   "unknown": "Circuit protection, cable specifications and inspection or certification are not disclosed.",
+   "related_ids": [
+    "solar-electricity",
+    "timber-straw-house"
+   ],
+   "place": "house",
+   "part_of": "timber-straw-house",
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1691.56,
+     "end": 1710,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0506",
+     "time": 1697.1,
+     "path": "review/aucsiGWbEyU/evidence/frame-0506.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0506.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0508",
+     "time": 1704.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0508.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0508.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0506.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dry-toilet",
+   "title": "Bucket dry toilet with wood-shaving compartment",
+   "category": "Water",
+   "description": "A blue toilet box opens to reveal a removable metal bucket beneath a wooden seat and an adjacent compartment of wood shavings. Mathieu calls it a standard dry toilet, just a bucket with no smell, and says the buckets are afterwards used in the garden; Kirsten suggests letting it sit for a year or so and he agrees.",
+   "phase": "current",
+   "unknown": "The storage or composting site, process conditions and final treatment outcome are not shown.",
+   "related_ids": [
+    "garden-orchard"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "dry toilet",
+    "timber",
+    "wood shavings"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1738.64,
+     "end": 1751.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0518",
+     "time": 1741.933333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0518.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0518.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0520",
+     "time": 1748.333333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0520.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0520.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0518.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "solar-thermal-water",
+   "title": "Summer solar-thermal hot-water system",
+   "category": "Water",
+   "description": "The aerial at 29:36 shows a dark flat collector with hoses on the shed's lower metal roof, below the photovoltaic panels on the tiled roof. Mathieu says water flows through a solar thermal panel in summer, is heated by the sun and fills a big tank.",
+   "phase": "current",
+   "unknown": "Collector area, the tank's volume and location, and the circulation method are not established by the images; the collector is identified from the aerial alone.",
+   "related_ids": [
+    "winter-shower-water",
+    "solar-electricity"
+   ],
+   "place": "shed",
+   "part_of": null,
+   "terms": [
+    "solar thermal",
+    "hot water",
+    "tank"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1765.679,
+     "end": 1782.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0530",
+     "time": 1776.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0530.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0530.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0530.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shed-pantry",
+   "title": "Shed pantry of preserves, grain and stored walnuts",
+   "category": "Food",
+   "description": "Long shelves in the shed hold jars and bottles, with buckets of walnuts and other containers below and nearby. Mathieu identifies dried fruit, mushrooms, apple preserves, tomato sauce and grain, and says one walnut harvest could last three or four years.",
+   "phase": "current",
+   "unknown": "Weights, harvest dates, storage conditions and shelf life are not verified.",
+   "related_ids": [
+    "house-food-storage",
+    "shed-temporary-home",
+    "walnut-cracker"
+   ],
+   "place": "shed",
+   "part_of": null,
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2141.8,
+     "end": 2161.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0644",
+     "time": 2159.7,
+     "path": "review/aucsiGWbEyU/evidence/frame-0644.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0644.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0643",
+     "time": 2148.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0643.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0643.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0645",
+     "time": 2160.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0645.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0645.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0644.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mushroom-cultures",
+   "title": "Shiitake liquid culture and grain-spawn jars",
+   "category": "Food",
+   "description": "Mathieu holds a jar of pale material suspended in liquid and another containing grain with white growth. He identifies them as shiitake culture in sugary water and inoculated grain intended for the outdoor logs, and says the grain growth is five days old.",
+   "phase": "current",
+   "unknown": "Species, cleanliness, recipe and incubation conditions cannot be verified visually.",
+   "related_ids": [
+    "shiitake-logs",
+    "spent-shiitake-block"
+   ],
+   "place": "house",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1916.52,
+     "end": 1947.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0579",
+     "time": 1944.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0579.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0579.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0576",
+     "time": 1937.7,
+     "path": "review/aucsiGWbEyU/evidence/frame-0576.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0576.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0570",
+     "time": 1925.333333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0570.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0570.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0579.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "carved-spoons",
+   "title": "Hand-carved wooden spoons used for shared meals",
+   "category": "Life",
+   "description": "A cluster of differently shaped wooden utensils sits by the kitchen, and visitors use wooden spoons at lunch. Mathieu says he can carve a spoon in an hour and started with spoons before carving beams for the house.",
+   "phase": "current",
+   "unknown": "The tools, full carving process and identity of each wood are not shown; only one older spoon is called cherry.",
+   "related_ids": [
+    "branch-bark-kitchen"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "timber",
+    "hand tools"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1952.55,
+     "end": 1977.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2045.84,
+     "end": 2051.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0588",
+     "time": 1968.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0588.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0588.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0589",
+     "time": 1968.333333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0589.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0589.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0588.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fermented-foods",
+   "title": "Home bean miso, honey-fermented drink and vinegar crock",
+   "category": "Food",
+   "description": "Food tubs sit at the winter window, a yellow drink is served at lunch, and a dark ceramic crock with a tap stands on a wall shelf. Mathieu says he makes miso from locally growable beans, describes a honey-based kombucha-like drink, and says the crock turns added wine into vinegar.",
+   "phase": "current",
+   "unknown": "Recipes, organisms, durations and finished acidity are not established; captions render the drink name as “June,” left unresolved.",
+   "related_ids": [
+    "retained-heat-box",
+    "house-food-storage"
+   ],
+   "place": "house",
+   "part_of": "house-food-storage",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 360.6,
+     "end": 372.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1989.71,
+     "end": 1995.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2034.28,
+     "end": 2036.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2436.44,
+     "end": 2461.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0730",
+     "time": 2444.9,
+     "path": "review/aucsiGWbEyU/evidence/frame-0730.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0730.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0600",
+     "time": 1992.866667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0600.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0600.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0106",
+     "time": 360.4,
+     "path": "review/aucsiGWbEyU/evidence/frame-0106.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0106.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0730.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "train-social-life",
+   "title": "Bicycle access to a train station and home-based social life",
+   "category": "Life",
+   "description": "Bicycles and a helmet are visible in the shed, followed by village aerials and house interiors. Mathieu says a train station is about 15 minutes away by bike and describes hosting house parties and board-game nights.",
+   "phase": "current",
+   "unknown": "The station, route and journey conditions are not named or demonstrated.",
+   "related_ids": [
+    "ceiling-game-net",
+    "tatami-platform"
+   ],
+   "place": "site",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2167.24,
+     "end": 2202.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0647",
+     "time": 2172.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0647.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0647.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0650",
+     "time": 2184.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0650.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0650.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/aucsiGWbEyU/sample-0647.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "gas-backup",
+   "title": "Two-burner camping stove with purchased gas backup",
+   "category": "Energy",
+   "description": "A turquoise-lidded two-burner cooker opens on the kitchen counter, and a gas cylinder is visible inside a lower cabinet. Mathieu says he uses it for occasional quick reheating and estimates 30 euro of gas lasts about two years.",
+   "phase": "current",
+   "unknown": "Cylinder capacity, gas type and actual consumption are not given; this is a purchased input despite the off-grid description.",
+   "related_ids": [
+    "wood-cookstove",
+    "solar-electricity"
+   ],
+   "place": "house",
+   "part_of": "wood-cookstove",
+   "terms": [
+    "gas"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2226.91,
+     "end": 2248.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0665",
+     "time": 2236.266667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0665.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0665.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0669",
+     "time": 2244.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0669.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0669.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0665.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "tatami-platform",
+   "title": "Tatami sitting platform convertible to guest sleeping space",
+   "category": "Life",
+   "description": "A low blue-edged platform carries pale mats, cushions and a small table beneath bookshelves; Mathieu and visitors sit on it. Mathieu says it serves as his couch and can take a rolled-out futon for overnight friends.",
+   "phase": "current",
+   "unknown": "Dimensions and an actual guest-bed conversion are not shown.",
+   "related_ids": [
+    "milk-clay-paint",
+    "train-social-life"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "tatami"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2331.64,
+     "end": 2357.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 179.233333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0045.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0699",
+     "time": 2336.1,
+     "path": "review/aucsiGWbEyU/evidence/frame-0699.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0699.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0703",
+     "time": 2352.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0703.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0703.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0045.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "hanging-shelves",
+   "title": "Suspended kitchen shelves and notched roundwood clothes storage",
+   "category": "Structure",
+   "description": "Small plank spice shelves hang on cords, and wardrobe planks meet notches in roundwood uprights. Mathieu explains sliding planks into notches and says he hangs kitchen shelves because the thin walls cannot take built-in fixings.",
+   "phase": "current",
+   "unknown": "Timber sizes, anchors and rated storage loads are not established.",
+   "related_ids": [
+    "willow-partitions",
+    "branch-bark-kitchen"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "timber",
+    "roundwood",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2399.76,
+     "end": 2426.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0724",
+     "time": 2422.7,
+     "path": "review/aucsiGWbEyU/evidence/frame-0724.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0724.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0723",
+     "time": 2412.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0723.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0723.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0724.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "woven-lampshades",
+   "title": "Basket-woven shades with colored lashings",
+   "category": "Life",
+   "description": "Open-weave shades hang below the log ceiling; one has reddish sticks bound with blue-green thread around a bulb. In response to the basket-weaving question, Mathieu says his ex-partner made the shade work being discussed.",
+   "phase": "current",
+   "unknown": "Exact fiber species, electrical fitting and the maker of every shade are not established.",
+   "related_ids": [
+    "branch-bed"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "roundwood"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2429.64,
+     "end": 2436.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0727",
+     "time": 2432.533333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0727.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0727.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0728",
+     "time": 2436.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0728.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0728.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0727.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "ceiling-game-net",
+   "title": "Ceiling-suspended net storing board-game boxes",
+   "category": "Life",
+   "description": "A knotted rope net with pale spreader sticks hangs beneath the round rafters and holds a stack of board-game boxes. The close-up shows the net carrying the boxes, but nobody explains this storage fitting.",
+   "phase": "current",
+   "unknown": "Its maker, rope material, suspension anchors and load capacity are not disclosed.",
+   "related_ids": [
+    "train-social-life",
+    "tatami-platform"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "rope",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0654",
+     "time": 2208.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0654.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0654.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/aucsiGWbEyU/sample-0654.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "branch-framed-mirrors",
+   "title": "Three irregular branch-framed bathroom mirrors",
+   "category": "Life",
+   "description": "Two roughly triangular mirrors and a small rectangular mirror hang as a group on the bathroom wall. Pale stick frames and lashings edge the irregular shapes; reflections distinguish them from openings through the wall.",
+   "phase": "current",
+   "unknown": "Their maker, origin and mounting method are not explained.",
+   "related_ids": [],
+   "place": "house",
+   "part_of": "branch-bark-kitchen",
+   "terms": [
+    "roundwood",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0537",
+     "time": 1810.033333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0537.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0537.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0538",
+     "time": 1812.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0538.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0538.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/aucsiGWbEyU/sample-0537.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "solar-shading",
+   "title": "Roof overhang sized for summer shade and deep winter sun",
+   "category": "Climate",
+   "description": "The broad eaves shelter the earthen walls, and winter sunlight visibly reaches across the room toward the back wall. Mathieu says he calculated the overhang for the site so summer sun stays out while December and January sun reaches deeply inside. He also says the overhang limits rain splash, although wind-driven rain can still wet the walls.",
+   "phase": "current",
+   "unknown": "No overhang dimensions, solar study or summer interior comparison is shown; the seasonal performance remains his explanation.",
+   "related_ids": [
+    "thermal-mass",
+    "timber-straw-house",
+    "plaster-maintenance"
+   ],
+   "place": "house",
+   "part_of": "timber-straw-house",
+   "terms": [
+    "overhang",
+    "shading",
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2077.56,
+     "end": 2094.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2359.96,
+     "end": 2380.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0627",
+     "time": 2084.866667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0627.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0627.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0712",
+     "time": 2381.866667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0712.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0712.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 192.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0051.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0627.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "herb-tea-jars",
+   "title": "Stored nettle and other herbs for teas and cooking",
+   "category": "Food",
+   "description": "Mathieu handles jars of dried leaves and finely crushed green material from the kitchen shelves. He names mint, nettle, mugwort and yarrow and describes using nettle as a caffeine-free tea or matcha substitute and in pesto.",
+   "phase": "current",
+   "unknown": "Plant identities and contents follow his account; quantities and nutritional assertions are not independently verified.",
+   "related_ids": [
+    "house-food-storage"
+   ],
+   "place": "house",
+   "part_of": "house-food-storage",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2484.68,
+     "end": 2537.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0751",
+     "time": 2508.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0751.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0751.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0748",
+     "time": 2489.466667,
+     "path": "review/aucsiGWbEyU/evidence/frame-0748.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0748.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0751.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "walnut-cracker",
+   "title": "Tabletop lever nutcracker used on stored walnuts",
+   "category": "Food",
+   "description": "A metal lever-and-screw device mounted on a wooden base cracks a walnut beside a large white bucket on the dining table. Mathieu demonstrates it while describing easier repeated cracking and says the bucket is only part of his stored harvest.",
+   "phase": "current",
+   "unknown": "The device’s maker, origin and exact harvest quantity are not named.",
+   "related_ids": [
+    "shed-pantry"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "metal",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2564.07,
+     "end": 2590,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0766",
+     "time": 2569.333333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0766.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0766.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0764",
+     "time": 2564.2,
+     "path": "review/aucsiGWbEyU/evidence/frame-0764.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0764.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0766.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "countertop-filter",
+   "title": "Stacked stainless-steel drinking-water filter",
+   "category": "Water",
+   "description": "A tall stacked stainless-steel vessel with a black tap stands on the kitchen counter. Asked whether he filters water, Mathieu points to it and says he does.",
+   "phase": "current",
+   "unknown": "No brand, filter medium, flow rate, maintenance interval or treated-water test is supplied.",
+   "related_ids": [
+    "spring-capture",
+    "annex-water-filter"
+   ],
+   "place": "house",
+   "part_of": null,
+   "terms": [
+    "steel",
+    "drinking-water filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1995.64,
+     "end": 2002.51,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0118",
+     "time": 393.0,
+     "path": "review/aucsiGWbEyU/evidence/frame-0118.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0118.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0655",
+     "time": 2208.733333,
+     "path": "review/aucsiGWbEyU/evidence/frame-0655.jpg",
+     "preview_path": "review/aucsiGWbEyU/sample-0655.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/aucsiGWbEyU/sample-0118.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 19.467,
+   "title": "Opening journey and regional label",
+   "visible": "Channel graphics, valley, wooded road, car occupants and village inn; on-screen Vosges region / Northeastern France label.",
+   "gaps": "Approach footage does not locate a property boundary, town or address.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0006.jpg"
+  },
+  {
+   "start": 19.467,
+   "end": 178,
+   "title": "Arrival, willow hedge and rounded house",
+   "visible": "Mathieu greets visitors; winter house, timber porch, older tiled shed, sloped garden, willow stems, house drawings and village aerials.",
+   "gaps": "Permit paperwork, measured area, costs and exact boundaries are not shown; drawings and village inserts are not live property views.",
+   "sample_count": 35,
+   "sample_ids": [
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0040.jpg"
+  },
+  {
+   "start": 178,
+   "end": 239,
+   "title": "Earthen interior and winter warmth",
+   "visible": "Open house interior, sunlit brown floor, round-log ceiling, low sitting platform, kitchen and visitors.",
+   "gaps": "No thermometer, heat-loss measurement or full-day thermal record.",
+   "sample_count": 23,
+   "sample_ids": [
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0051.jpg"
+  },
+  {
+   "start": 239,
+   "end": 338,
+   "title": "Stove, pulley dryer and insulated cooking box",
+   "visible": "Stove and flue, suspended fruit tray raised by cord, water-heating discussion; foil/fabric-lined box opened around soup pot.",
+   "gaps": "Full shower-water transfer and overnight cooking are not observed.",
+   "sample_count": 31,
+   "sample_ids": [
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0092.jpg"
+  },
+  {
+   "start": 338,
+   "end": 420,
+   "title": "Seasonal refrigeration and food stores",
+   "visible": "Small refrigerator, baskets outside opening window, squash, potato crates and jars; mushroom-drying inserts.",
+   "gaps": "Dates and precise locations of mushroom inserts are unknown; annual harvest totals are not demonstrated.",
+   "sample_count": 30,
+   "sample_ids": [
+    "frame-0099",
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126",
+    "frame-0127",
+    "frame-0128"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0123.jpg"
+  },
+  {
+   "start": 420,
+   "end": 520,
+   "title": "Sunken greenhouse and substrate block",
+   "visible": "Sloping salvaged glazing, brief green-season construction with helpers, current winter interior with earthen bank, cob end wall, translucent corrugated roof, dead vines and handled fungus substrate.",
+   "gaps": "No monitored temperatures, full growing season, exact excavation depth or window-angle measurement.",
+   "sample_count": 40,
+   "sample_ids": [
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166",
+    "frame-0167",
+    "frame-0168"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0142.jpg"
+  },
+  {
+   "start": 520,
+   "end": 598,
+   "title": "Cold frame, beds and inoculated logs",
+   "visible": "Open window frames over low beds, bare soil rows, berry shrubs, walnut tree, logs with inoculation marks and small fungus.",
+   "gaps": "Crop identities rely on speech; yields and exact mushroom species cannot be visually verified.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0171.jpg"
+  },
+  {
+   "start": 598,
+   "end": 623,
+   "title": "Cattail wetland",
+   "visible": "Mathieu points to dense winter reedlike stalks amid wet ground and shrubs.",
+   "gaps": "No harvest, planting event or food preparation from this patch is shown.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0191.jpg"
+  },
+  {
+   "start": 623,
+   "end": 751,
+   "title": "Spring collection and wrapped tank",
+   "visible": "Wet woodland floor, covered water emergence, pipe, dark-wrapped tank and flowing hose held over Mathieu’s hand; tank lid close-up.",
+   "gaps": "Water quality, year-round flow and underground pipe route are not established.",
+   "sample_count": 28,
+   "sample_ids": [
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219",
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0223.jpg"
+  },
+  {
+   "start": 751,
+   "end": 815,
+   "title": "Land selection and turf roofs",
+   "visible": "Walk down wooded slope; valley/site aerials and vegetated annex roof with central dome.",
+   "gaps": "Aspect, land price/area and sourcing of turf are spoken; boundaries and purchase documents absent.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235",
+    "frame-0236",
+    "frame-0237"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0235.jpg"
+  },
+  {
+   "start": 815,
+   "end": 920,
+   "title": "Annex exterior, structural straw and reciprocal roof",
+   "visible": "Rounded annex, heavy turf roof; snow insert, open doorway, bare cracked floor and overlapping rafters around skylight; green-season construction inserts with exposed bales and helpers.",
+   "gaps": "Snow depth, structural capacity, exact completion date and permit exemption are unverified claims.",
+   "sample_count": 30,
+   "sample_ids": [
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260",
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0255.jpg"
+  },
+  {
+   "start": 920,
+   "end": 1008,
+   "title": "Annex filter, cob walls and drying patches",
+   "visible": "Filter housing, exposed red/black pipes, yellow bucket, thick window reveal, coarse fiber-rich walls and pale blotches.",
+   "gaps": "No filter specification, moisture readings or mold assessment; proposed bathhouse remains unfitted.",
+   "sample_count": 25,
+   "sample_ids": [
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274",
+    "frame-0275",
+    "frame-0276",
+    "frame-0277",
+    "frame-0278",
+    "frame-0279",
+    "frame-0280",
+    "frame-0281",
+    "frame-0282",
+    "frame-0283",
+    "frame-0284",
+    "frame-0285",
+    "frame-0286",
+    "frame-0287",
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0269.jpg"
+  },
+  {
+   "start": 1008,
+   "end": 1159,
+   "title": "Annex floor, roundwood and roof net",
+   "visible": "Cracked raw earth floor, short projecting pipes, round rafters/planks and knotted net beneath dark roof membrane at doorway; exterior on exit.",
+   "gaps": "Foam-glass layer is concealed; floor final finish and bathing installation are pending.",
+   "sample_count": 43,
+   "sample_ids": [
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296",
+    "frame-0297",
+    "frame-0298",
+    "frame-0299",
+    "frame-0300",
+    "frame-0301",
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306",
+    "frame-0307",
+    "frame-0308",
+    "frame-0309",
+    "frame-0310",
+    "frame-0311",
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315",
+    "frame-0316",
+    "frame-0317",
+    "frame-0318",
+    "frame-0319",
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323",
+    "frame-0324",
+    "frame-0325",
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329",
+    "frame-0330",
+    "frame-0331",
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0325.jpg"
+  },
+  {
+   "start": 1159,
+   "end": 1248,
+   "title": "House permit explanation and foundation history",
+   "visible": "Return by greenhouse to main house; current wall/base views intercut with rubble/aggregate, masonry, timber plates and roof construction.",
+   "gaps": "Buried drain outfall and regulatory records are absent; archival construction dates not supplied.",
+   "sample_count": 27,
+   "sample_ids": [
+    "frame-0336",
+    "frame-0337",
+    "frame-0338",
+    "frame-0339",
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343",
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348",
+    "frame-0349",
+    "frame-0350",
+    "frame-0351",
+    "frame-0352",
+    "frame-0353",
+    "frame-0354",
+    "frame-0355",
+    "frame-0356",
+    "frame-0357",
+    "frame-0358",
+    "frame-0359",
+    "frame-0360",
+    "frame-0361",
+    "frame-0362"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0359.jpg"
+  },
+  {
+   "start": 1248,
+   "end": 1370,
+   "title": "Straw installation and weathering of earth plaster",
+   "visible": "Green-season house straw stacking, timber framing and successive plaster stages; winter comparison of sheltered smooth wall and exposed rough fibers.",
+   "gaps": "Bale dimensions/orientation, exact plaster recipe and measured erosion rate are not established.",
+   "sample_count": 41,
+   "sample_ids": [
+    "frame-0363",
+    "frame-0364",
+    "frame-0365",
+    "frame-0366",
+    "frame-0367",
+    "frame-0368",
+    "frame-0369",
+    "frame-0370",
+    "frame-0371",
+    "frame-0372",
+    "frame-0373",
+    "frame-0374",
+    "frame-0375",
+    "frame-0376",
+    "frame-0377",
+    "frame-0378",
+    "frame-0379",
+    "frame-0380",
+    "frame-0381",
+    "frame-0382",
+    "frame-0383",
+    "frame-0384",
+    "frame-0385",
+    "frame-0386",
+    "frame-0387",
+    "frame-0388",
+    "frame-0389",
+    "frame-0390",
+    "frame-0391",
+    "frame-0392",
+    "frame-0393",
+    "frame-0394",
+    "frame-0395",
+    "frame-0396",
+    "frame-0397",
+    "frame-0398",
+    "frame-0399",
+    "frame-0400",
+    "frame-0401",
+    "frame-0402",
+    "frame-0403"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0383.jpg"
+  },
+  {
+   "start": 1370,
+   "end": 1495,
+   "title": "Reused door/windows, clay paint and finished floor",
+   "visible": "Winter entry through short blue-grey door; clay fetched and brushed; bright interior and dark finished floor.",
+   "gaps": "Paint binder chemistry and floor finish layers are spoken, not tested; no dimensioned window schedule.",
+   "sample_count": 40,
+   "sample_ids": [
+    "frame-0404",
+    "frame-0405",
+    "frame-0406",
+    "frame-0407",
+    "frame-0408",
+    "frame-0409",
+    "frame-0410",
+    "frame-0411",
+    "frame-0412",
+    "frame-0413",
+    "frame-0414",
+    "frame-0415",
+    "frame-0416",
+    "frame-0417",
+    "frame-0418",
+    "frame-0419",
+    "frame-0420",
+    "frame-0421",
+    "frame-0422",
+    "frame-0423",
+    "frame-0424",
+    "frame-0425",
+    "frame-0426",
+    "frame-0427",
+    "frame-0428",
+    "frame-0429",
+    "frame-0430",
+    "frame-0431",
+    "frame-0432",
+    "frame-0433",
+    "frame-0434",
+    "frame-0435",
+    "frame-0436",
+    "frame-0437",
+    "frame-0438",
+    "frame-0439",
+    "frame-0440",
+    "frame-0441",
+    "frame-0442",
+    "frame-0443"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0437.jpg"
+  },
+  {
+   "start": 1495,
+   "end": 1585,
+   "title": "Cordwood and woven willow partitions",
+   "visible": "Round log ends in pale wall; archival cordwood and willow partition assembly/plastering; woven willow door with branch handle; current interior pans.",
+   "gaps": "Precise wood species for cordwood and all hidden partition connections are not established; summer garden inserts are unplaced.",
+   "sample_count": 33,
+   "sample_ids": [
+    "frame-0444",
+    "frame-0445",
+    "frame-0446",
+    "frame-0447",
+    "frame-0448",
+    "frame-0449",
+    "frame-0450",
+    "frame-0451",
+    "frame-0452",
+    "frame-0453",
+    "frame-0454",
+    "frame-0455",
+    "frame-0456",
+    "frame-0457",
+    "frame-0458",
+    "frame-0459",
+    "frame-0460",
+    "frame-0461",
+    "frame-0462",
+    "frame-0463",
+    "frame-0464",
+    "frame-0465",
+    "frame-0466",
+    "frame-0467",
+    "frame-0468",
+    "frame-0469",
+    "frame-0470",
+    "frame-0471",
+    "frame-0472",
+    "frame-0473",
+    "frame-0474",
+    "frame-0475",
+    "frame-0476"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0449.jpg"
+  },
+  {
+   "start": 1585,
+   "end": 1720,
+   "title": "Branch furnishings and solar electricity",
+   "visible": "Kitchen branch supports, woven bark cabinet doors, branch bed and paper lamp; solar aerial; historical conduit on exposed straw; current switches.",
+   "gaps": "Battery/inverter details and verified electrical production or inspection are absent.",
+   "sample_count": 36,
+   "sample_ids": [
+    "frame-0477",
+    "frame-0478",
+    "frame-0479",
+    "frame-0480",
+    "frame-0481",
+    "frame-0482",
+    "frame-0483",
+    "frame-0484",
+    "frame-0485",
+    "frame-0486",
+    "frame-0487",
+    "frame-0488",
+    "frame-0489",
+    "frame-0490",
+    "frame-0491",
+    "frame-0492",
+    "frame-0493",
+    "frame-0494",
+    "frame-0495",
+    "frame-0496",
+    "frame-0497",
+    "frame-0498",
+    "frame-0499",
+    "frame-0500",
+    "frame-0501",
+    "frame-0502",
+    "frame-0503",
+    "frame-0504",
+    "frame-0505",
+    "frame-0506",
+    "frame-0507",
+    "frame-0508",
+    "frame-0509",
+    "frame-0510",
+    "frame-0511",
+    "frame-0512"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0487.jpg"
+  },
+  {
+   "start": 1720,
+   "end": 1832,
+   "title": "Bathroom, dry toilet and seasonal hot water",
+   "visible": "Running basin tap, bucket toilet, exposed valves, shower curtain/enclosure, overhead pump/tank components; stove-firing insert and exterior aerial.",
+   "gaps": "No complete waste-treatment route or hot-water cycle; solar thermal collector not clearly isolated.",
+   "sample_count": 31,
+   "sample_ids": [
+    "frame-0513",
+    "frame-0514",
+    "frame-0515",
+    "frame-0516",
+    "frame-0517",
+    "frame-0518",
+    "frame-0519",
+    "frame-0520",
+    "frame-0521",
+    "frame-0522",
+    "frame-0523",
+    "frame-0524",
+    "frame-0525",
+    "frame-0526",
+    "frame-0527",
+    "frame-0528",
+    "frame-0529",
+    "frame-0530",
+    "frame-0531",
+    "frame-0532",
+    "frame-0533",
+    "frame-0534",
+    "frame-0535",
+    "frame-0536",
+    "frame-0537",
+    "frame-0538",
+    "frame-0539",
+    "frame-0540",
+    "frame-0541",
+    "frame-0542",
+    "frame-0543"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0518.jpg"
+  },
+  {
+   "start": 1832,
+   "end": 1989,
+   "title": "Kitchen meal preparation and mushroom cultures",
+   "visible": "Kitchen tap and waste pipe, soup pot, bean jars, pastries, grain and liquid culture jars, carved spoons and shared meal.",
+   "gaps": "Food origins, named species, incubation time and cooking duration rely on Mathieu’s explanation.",
+   "sample_count": 55,
+   "sample_ids": [
+    "frame-0544",
+    "frame-0545",
+    "frame-0546",
+    "frame-0547",
+    "frame-0548",
+    "frame-0549",
+    "frame-0550",
+    "frame-0551",
+    "frame-0552",
+    "frame-0553",
+    "frame-0554",
+    "frame-0555",
+    "frame-0556",
+    "frame-0557",
+    "frame-0558",
+    "frame-0559",
+    "frame-0560",
+    "frame-0561",
+    "frame-0562",
+    "frame-0563",
+    "frame-0564",
+    "frame-0565",
+    "frame-0566",
+    "frame-0567",
+    "frame-0568",
+    "frame-0569",
+    "frame-0570",
+    "frame-0571",
+    "frame-0572",
+    "frame-0573",
+    "frame-0574",
+    "frame-0575",
+    "frame-0576",
+    "frame-0577",
+    "frame-0578",
+    "frame-0579",
+    "frame-0580",
+    "frame-0581",
+    "frame-0582",
+    "frame-0583",
+    "frame-0584",
+    "frame-0585",
+    "frame-0586",
+    "frame-0587",
+    "frame-0588",
+    "frame-0589",
+    "frame-0590",
+    "frame-0591",
+    "frame-0592",
+    "frame-0593",
+    "frame-0594",
+    "frame-0595",
+    "frame-0596",
+    "frame-0597",
+    "frame-0598"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0579.jpg"
+  },
+  {
+   "start": 1989,
+   "end": 2124,
+   "title": "Fermented drink, filter, lunch and living costs",
+   "visible": "Drink bottle at table, steel countertop filter, visitors eating, sheep hide under feet, exterior overhang and property aerials.",
+   "gaps": "No nutrition, potable-water test, household accounts or proof of complete food independence.",
+   "sample_count": 35,
+   "sample_ids": [
+    "frame-0599",
+    "frame-0600",
+    "frame-0601",
+    "frame-0602",
+    "frame-0603",
+    "frame-0604",
+    "frame-0605",
+    "frame-0606",
+    "frame-0607",
+    "frame-0608",
+    "frame-0609",
+    "frame-0610",
+    "frame-0611",
+    "frame-0612",
+    "frame-0613",
+    "frame-0614",
+    "frame-0615",
+    "frame-0616",
+    "frame-0617",
+    "frame-0618",
+    "frame-0619",
+    "frame-0620",
+    "frame-0621",
+    "frame-0622",
+    "frame-0623",
+    "frame-0624",
+    "frame-0625",
+    "frame-0626",
+    "frame-0627",
+    "frame-0628",
+    "frame-0629",
+    "frame-0630",
+    "frame-0631",
+    "frame-0632",
+    "frame-0633"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0621.jpg"
+  },
+  {
+   "start": 2124,
+   "end": 2227,
+   "title": "Old shed, food storage and social life",
+   "visible": "Entry to tiled shed, loft ladder, crowded mezzanine, walnut buckets, preserve shelves, bicycles; village aerial and return to house meal with game net and feather.",
+   "gaps": "Historical sleeping arrangement, travel time and harvest duration are claims; exact station and village remain unnamed.",
+   "sample_count": 25,
+   "sample_ids": [
+    "frame-0634",
+    "frame-0635",
+    "frame-0636",
+    "frame-0637",
+    "frame-0638",
+    "frame-0639",
+    "frame-0640",
+    "frame-0641",
+    "frame-0642",
+    "frame-0643",
+    "frame-0644",
+    "frame-0645",
+    "frame-0646",
+    "frame-0647",
+    "frame-0648",
+    "frame-0649",
+    "frame-0650",
+    "frame-0651",
+    "frame-0652",
+    "frame-0653",
+    "frame-0654",
+    "frame-0655",
+    "frame-0656",
+    "frame-0657",
+    "frame-0658"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0644.jpg"
+  },
+  {
+   "start": 2227,
+   "end": 2359,
+   "title": "Gas backup, wood oven and tatami seating",
+   "visible": "Camping stove opened, gas cylinder under counter, wood firebox/air control/oven scale, rice cooker and Mathieu sitting on tatami platform.",
+   "gaps": "Fuel use and oven temperatures not independently measured; no guest futon setup shown.",
+   "sample_count": 47,
+   "sample_ids": [
+    "frame-0659",
+    "frame-0660",
+    "frame-0661",
+    "frame-0662",
+    "frame-0663",
+    "frame-0664",
+    "frame-0665",
+    "frame-0666",
+    "frame-0667",
+    "frame-0668",
+    "frame-0669",
+    "frame-0670",
+    "frame-0671",
+    "frame-0672",
+    "frame-0673",
+    "frame-0674",
+    "frame-0675",
+    "frame-0676",
+    "frame-0677",
+    "frame-0678",
+    "frame-0679",
+    "frame-0680",
+    "frame-0681",
+    "frame-0682",
+    "frame-0683",
+    "frame-0684",
+    "frame-0685",
+    "frame-0686",
+    "frame-0687",
+    "frame-0688",
+    "frame-0689",
+    "frame-0690",
+    "frame-0691",
+    "frame-0692",
+    "frame-0693",
+    "frame-0694",
+    "frame-0695",
+    "frame-0696",
+    "frame-0697",
+    "frame-0698",
+    "frame-0699",
+    "frame-0700",
+    "frame-0701",
+    "frame-0702",
+    "frame-0703",
+    "frame-0704",
+    "frame-0705"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0665.jpg"
+  },
+  {
+   "start": 2359,
+   "end": 2546,
+   "title": "Winter sun, storage, basketry, vinegar and herbs",
+   "visible": "Sunlight at back wall; branch wardrobe shelving, suspended spice shelf, basket shades, vinegar crock, mandarin tray and herb jars.",
+   "gaps": "Summer shading, plant species and vinegar fermentation are explained but not followed over time.",
+   "sample_count": 55,
+   "sample_ids": [
+    "frame-0706",
+    "frame-0707",
+    "frame-0708",
+    "frame-0709",
+    "frame-0710",
+    "frame-0711",
+    "frame-0712",
+    "frame-0713",
+    "frame-0714",
+    "frame-0715",
+    "frame-0716",
+    "frame-0717",
+    "frame-0718",
+    "frame-0719",
+    "frame-0720",
+    "frame-0721",
+    "frame-0722",
+    "frame-0723",
+    "frame-0724",
+    "frame-0725",
+    "frame-0726",
+    "frame-0727",
+    "frame-0728",
+    "frame-0729",
+    "frame-0730",
+    "frame-0731",
+    "frame-0732",
+    "frame-0733",
+    "frame-0734",
+    "frame-0735",
+    "frame-0736",
+    "frame-0737",
+    "frame-0738",
+    "frame-0739",
+    "frame-0740",
+    "frame-0741",
+    "frame-0742",
+    "frame-0743",
+    "frame-0744",
+    "frame-0745",
+    "frame-0746",
+    "frame-0747",
+    "frame-0748",
+    "frame-0749",
+    "frame-0750",
+    "frame-0751",
+    "frame-0752",
+    "frame-0753",
+    "frame-0754",
+    "frame-0755",
+    "frame-0756",
+    "frame-0757",
+    "frame-0758",
+    "frame-0759",
+    "frame-0760"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0724.jpg"
+  },
+  {
+   "start": 2546,
+   "end": 2599,
+   "title": "Walnut cracking and closing interior conversation",
+   "visible": "Visitor at stove, bucket of walnuts, metal tabletop lever cracker demonstrated at dining table, people by cordwood wall.",
+   "gaps": "Tool maker and origin unknown; house performance is discussed rather than tested.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0761",
+    "frame-0762",
+    "frame-0763",
+    "frame-0764",
+    "frame-0765",
+    "frame-0766",
+    "frame-0767",
+    "frame-0768",
+    "frame-0769",
+    "frame-0770",
+    "frame-0771",
+    "frame-0772"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0766.jpg"
+  },
+  {
+   "start": 2599,
+   "end": 2645.861,
+   "title": "Deep-snow montage and channel end card",
+   "visible": "House, greenhouse and annex in deeper snow, blue entrance door, then subscription collage/graphic.",
+   "gaps": "Date of snow footage unknown; end-card imagery is not evidence of additional places on this property.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0773",
+    "frame-0774",
+    "frame-0775",
+    "frame-0776",
+    "frame-0777",
+    "frame-0778",
+    "frame-0779"
+   ],
+   "thumbnail": "review/aucsiGWbEyU/sample-0775.jpg"
+  }
+ ]
+}

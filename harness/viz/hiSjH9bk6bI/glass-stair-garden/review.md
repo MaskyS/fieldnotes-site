@@ -1,0 +1,9 @@
+# Review
+
+Selected: candidate-2.png, generated with the built-in image_gen tool using prompt-2.txt and three attached film frames; all seven film frames described in the prompt are listed in item.json.
+
+Candidate 2 corrects the most consequential defect: the stair now descends from the upper-floor datum. It removes the extra wall-side railing and points the sightline through the glass toward foliage. The rectangular glass floor with crossing dark members, transparent dark-framed stair, white wall, round lights, and living planting beneath are grounded in the references. Unseen floor extents are dashed; glass build-up and bed services are explicitly unshown. No people or lounge furniture appear.
+
+Remaining deviations and inventions: the repeated railing members have been rendered as narrow closed hairpin-like loops rather than an exact reconstruction of the filmed upright/handrail profile; their joints remain more explicit than requested. Exact stair count, pitch, proportions, panel-to-stair distance and bed footprint are not measured. Individual leaves, their arrangement and wallpaper motifs are illustrative. The bottom timber platform is omitted by the crop. The blank lower floor is washed gray rather than showing the filmed timber finish. A faint exterior foliage wash remains despite the correction instruction. A fourth short ochre arrow appears over the plants, rather than the requested total of three arrows; it is qualitative, not a measured light path. The side arrow stops short of the treads. Glass edges are graphic outlines and do not document thickness. No concealed construction or bed services can be inferred from this drawing.
+
+Candidate 2 is preferable for the corrected vertical relationship and clearer plant sightline. It is an explanatory composite, not a construction record. Stop at two candidates as required.

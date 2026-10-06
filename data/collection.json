@@ -1,0 +1,95 @@
+{
+ "default_property_id": "swrez2ZA0cc",
+ "properties": [
+  {
+   "id": "swrez2ZA0cc",
+   "title": "Morris homestead",
+   "catalogue": "data/catalogue.json",
+   "transcript": "transcript.json"
+  },
+  {
+   "id": "LZ6u1AXCefQ",
+   "title": "Jason & Sunni’s cordwood home",
+   "catalogue": "data/LZ6u1AXCefQ/catalogue.json",
+   "transcript": "data/LZ6u1AXCefQ/transcript.json"
+  },
+  {
+   "id": "aucsiGWbEyU",
+   "title": "Mathieu Munsch's earth-and-straw house",
+   "catalogue": "data/aucsiGWbEyU/catalogue.json",
+   "transcript": "data/aucsiGWbEyU/transcript.json"
+  },
+  {
+   "id": "QHpo46tawBs",
+   "title": "Milagro Cohousing, Tucson",
+   "catalogue": "data/QHpo46tawBs/catalogue.json",
+   "transcript": "data/QHpo46tawBs/transcript.json"
+  },
+  {
+   "id": "efI77fzBgvg",
+   "title": "Greater World’s Earthship community",
+   "catalogue": "data/efI77fzBgvg/catalogue.json",
+   "transcript": "data/efI77fzBgvg/transcript.json"
+  },
+  {
+   "id": "2twuMtzLv10",
+   "title": "Margo’s self-built shed home",
+   "catalogue": "data/2twuMtzLv10/catalogue.json",
+   "transcript": "data/2twuMtzLv10/transcript.json"
+  },
+  {
+   "id": "koKg8Hgz-mE",
+   "title": "Michel and Gaelle’s split-level Paris apartment",
+   "catalogue": "data/koKg8Hgz-mE/catalogue.json",
+   "transcript": "data/koKg8Hgz-mE/transcript.json"
+  },
+  {
+   "id": "30ghnDOFbNQ",
+   "title": "Marie and Charles’s greenhouse-enclosed summer house",
+   "catalogue": "data/30ghnDOFbNQ/catalogue.json",
+   "transcript": "data/30ghnDOFbNQ/transcript.json"
+  },
+  {
+   "id": "hiSjH9bk6bI",
+   "title": "Sara and Jérémie’s Panjab houseboat",
+   "catalogue": "data/hiSjH9bk6bI/catalogue.json",
+   "transcript": "data/hiSjH9bk6bI/transcript.json"
+  },
+  {
+   "id": "4fEeh-8OFT8",
+   "title": "An artist couple’s narrow Tokyo home",
+   "catalogue": "data/4fEeh-8OFT8/catalogue.json",
+   "transcript": "data/4fEeh-8OFT8/transcript.json"
+  },
+  {
+   "id": "h5L6TZdy_y0",
+   "title": "Dave Orton’s transforming Transit campervan",
+   "catalogue": "data/h5L6TZdy_y0/catalogue.json",
+   "transcript": "data/h5L6TZdy_y0/transcript.json"
+  },
+  {
+   "id": "P1HCZA-BW9I",
+   "title": "A family’s Eaglemont brick home",
+   "catalogue": "data/P1HCZA-BW9I/catalogue.json",
+   "transcript": "data/P1HCZA-BW9I/transcript.json"
+  },
+  {
+   "id": "RNbPNnAx9xE",
+   "title": "Steve Mallinger’s timber pavilion home",
+   "catalogue": "data/RNbPNnAx9xE/catalogue.json",
+   "transcript": "data/RNbPNnAx9xE/transcript.json"
+  },
+  {
+   "id": "VBspR2p0YYM",
+   "title": "Rob Torcellini’s backyard aquaponic greenhouse",
+   "catalogue": "data/VBspR2p0YYM/catalogue.json",
+   "transcript": "data/VBspR2p0YYM/transcript.json"
+  },
+  {
+   "id": "OQbOrk0_3x4",
+   "title": "Matt and Cristina’s rainforest home",
+   "catalogue": "data/OQbOrk0_3x4/catalogue.json",
+   "transcript": "data/OQbOrk0_3x4/transcript.json"
+  }
+ ]
+}

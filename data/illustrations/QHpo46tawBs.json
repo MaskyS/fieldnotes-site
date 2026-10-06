@@ -1,0 +1,221 @@
+{
+ "property_id": "QHpo46tawBs",
+ "items": [
+  {
+   "id": "portrait",
+   "title": "Milagro Cohousing, clear desert daylight",
+   "kind": "portrait",
+   "hero": true,
+   "path": "data/illustrations/QHpo46tawBs/portrait.png",
+   "invention_log": "harness/viz/QHpo46tawBs/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "clustered-households",
+    "preserved-desert",
+    "pedestrian-paths",
+    "covered-parking",
+    "green-metal-roofs",
+    "desert-wash",
+    "mesquite-shade",
+    "layered-planting"
+   ],
+   "references": [
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0258.jpg",
+     "time": 881.466667,
+     "role": "vantage"
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0313.jpg",
+     "time": 1080.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0262.jpg",
+     "time": 910.566667,
+     "role": "detail"
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0018.jpg",
+     "time": 95.7,
+     "role": "detail"
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0367.jpg",
+     "time": 1295.666667,
+     "role": "detail"
+    }
+   ]
+  },
+  {
+   "id": "propertymap",
+   "title": "Milagro community site",
+   "kind": "map",
+   "path": "data/illustrations/QHpo46tawBs/propertymap.png",
+   "invention_log": "harness/viz/QHpo46tawBs/propertymap/review.md",
+   "feature_ids": [
+    "clustered-households",
+    "pedestrian-paths",
+    "covered-parking",
+    "preserved-desert",
+    "desert-wash",
+    "community-pool",
+    "common-lawn",
+    "common-house-kitchen",
+    "rain-basins",
+    "wetland-beds",
+    "site-cisterns",
+    "rezoning-history"
+   ],
+   "references": [
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0268.jpg",
+     "time": 929.533333,
+     "shows": "elongated stepped cluster; broad organization only, no legible dimensions. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0262.jpg",
+     "time": 910.566667,
+     "shows": "green pitched roofs and dark solar panels around dense tree canopy; parking outside cluster. Unseen reverse sides and concealed construction are not established"
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0313.jpg",
+     "time": 1080.0,
+     "shows": "covered parking and outbuilding above fenced wetland area, homes to right, desert foreground. Unseen reverse sides and concealed construction are not establishe"
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0114.jpg",
+     "time": 404.133333,
+     "shows": "rectangular blue pool beside low shared building and surrounding homes. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0015.jpg",
+     "time": 72.0,
+     "shows": "circular lawn, paths, trees and common-house facade. Unseen reverse sides and concealed construction are not established."
+    }
+   ]
+  },
+  {
+   "id": "water-system",
+   "title": "Water through the community",
+   "kind": "diagram",
+   "path": "data/illustrations/QHpo46tawBs/water-system.png",
+   "invention_log": "harness/viz/QHpo46tawBs/water-system/review.md",
+   "feature_ids": [
+    "roof-runoff",
+    "rain-basins",
+    "septic-separation",
+    "wetland-beds",
+    "wetland-distribution-pipes",
+    "wetland-pump",
+    "reclaimed-irrigation",
+    "wetland-liner"
+   ],
+   "references": [
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0319.jpg",
+     "time": 1110.966667,
+     "shows": "green metal roof edge/gutter above tan adobe facade. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0222.jpg",
+     "time": 768.0,
+     "shows": "rainwater in shallow curving planted basins among paths. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0283.jpg",
+     "time": 983.1,
+     "shows": "gray gravel and sparse reeds, no exposed flowing water. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0296.jpg",
+     "time": 1017.433333,
+     "shows": "green corrugated access riser with red-brown lid and nearby covered boxes. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0303.jpg",
+     "time": 1052.233333,
+     "shows": "dark flexible liner exposed at bed edge and gravel piles. Unseen reverse sides and concealed construction are not established."
+    }
+   ]
+  },
+  {
+   "id": "construction",
+   "title": "Adobe home wall and roof",
+   "kind": "section",
+   "path": "data/illustrations/QHpo46tawBs/construction.png",
+   "invention_log": "harness/viz/QHpo46tawBs/construction/review.md",
+   "feature_ids": [
+    "local-adobe",
+    "adobe-construction-history",
+    "green-metal-roofs"
+   ],
+   "references": [
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0076.jpg",
+     "time": 283.533333,
+     "shows": "rough tan adobe blocks in courses, masonry openings and scaffolding. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0078.jpg",
+     "time": 288.0,
+     "shows": "exposed brown roof sheathing, timber porch beam/post and gable panel. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0085.jpg",
+     "time": 305.1,
+     "shows": "tan exposed adobe, white-painted post/soffit and pale green standing-seam metal roof. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0089.jpg",
+     "time": 314.566667,
+     "shows": "green standing-seam metal surface; wall-to-roof geometry partially obscured. Unseen reverse sides and concealed construction are not established."
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0092.jpg",
+     "time": 324.0,
+     "shows": "exposed tan adobe courses and finished pale sloping ceiling. Unseen reverse sides and concealed construction are not established."
+    }
+   ]
+  },
+  {
+   "id": "common-house",
+   "title": "Common-house dining and kitchen",
+   "kind": "cutaway",
+   "path": "data/illustrations/QHpo46tawBs/common-house.png",
+   "invention_log": "harness/viz/QHpo46tawBs/common-house/review.md",
+   "feature_ids": [
+    "common-house-kitchen",
+    "childrens-common-meals"
+   ],
+   "references": [
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0124.jpg",
+     "time": 434.9,
+     "shows": "honey-colored counter cabinets, dark worktop, silver refrigerator and window; cloth-covered round tables and green chairs foreground. Unseen reverse sides and c"
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0122.jpg",
+     "time": 431.933333,
+     "shows": "tan exposed adobe, tall white-framed glazing, gray curtains, white bowl pendant lamps, ceiling fan and reddish scored floor. Unseen reverse sides and concealed "
+    },
+    {
+     "path": "review/QHpo46tawBs/evidence/frame-0123.jpg",
+     "time": 432.0,
+     "shows": "confirms dining furniture and lighting, right side obscured by wall and people. Unseen reverse sides and concealed construction are not established."
+    }
+   ]
+  }
+ ]
+}

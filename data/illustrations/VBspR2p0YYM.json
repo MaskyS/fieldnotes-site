@@ -1,0 +1,296 @@
+{
+ "property_id": "VBspR2p0YYM",
+ "items": [
+  {
+   "id": "household-growing-map",
+   "title": "Household growing",
+   "kind": "map",
+   "feature_ids": [
+    "greenhouse",
+    "backyard-growing",
+    "garden-fence",
+    "house"
+   ],
+   "references": [
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0004.jpg",
+     "time": 11.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0013.jpg",
+     "time": 61.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0080.jpg",
+     "time": 315.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0002.jpg",
+     "time": 5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0105.jpg",
+     "time": 419.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0106.jpg",
+     "time": 421.5
+    }
+   ],
+   "path": "data/illustrations/VBspR2p0YYM/household-growing-map.png",
+   "invention_log": "harness/viz/VBspR2p0YYM/household-growing-map/review.md"
+  },
+  {
+   "id": "goldfish-to-vegetables-loop",
+   "title": "Goldfish to vegetables",
+   "kind": "diagram",
+   "feature_ids": [
+    "greenhouse-loop",
+    "greenhouse-goldfish",
+    "grow-beds",
+    "growing-media",
+    "greenhouse-sump"
+   ],
+   "references": [
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0017.jpg",
+     "time": 72.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0018.jpg",
+     "time": 75.0
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0027.jpg",
+     "time": 135.0
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0031.jpg",
+     "time": 147.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0033.jpg",
+     "time": 155.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0049.jpg",
+     "time": 214.0
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0053.jpg",
+     "time": 237.0
+    }
+   ],
+   "path": "data/illustrations/VBspR2p0YYM/goldfish-to-vegetables-loop.png",
+   "invention_log": "harness/viz/VBspR2p0YYM/goldfish-to-vegetables-loop/review.md"
+  },
+  {
+   "id": "weighted-cup-drain-sequence",
+   "title": "Weighted-cup bed drain",
+   "kind": "diagram",
+   "feature_ids": [
+    "weighted-cup-drain"
+   ],
+   "references": [
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0037.jpg",
+     "time": 165.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0039.jpg",
+     "time": 170.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0040.jpg",
+     "time": 172.5
+    }
+   ],
+   "path": "data/illustrations/VBspR2p0YYM/weighted-cup-drain-sequence.png",
+   "invention_log": "harness/viz/VBspR2p0YYM/weighted-cup-drain-sequence/review.md"
+  },
+  {
+   "id": "strawberry-tower-section",
+   "title": "Strawberry tower section",
+   "kind": "section",
+   "feature_ids": [
+    "strawberries",
+    "white-strawberry-towers"
+   ],
+   "references": [
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0076.jpg",
+     "time": 308.0
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0073.jpg",
+     "time": 295.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0078.jpg",
+     "time": 313.0
+    }
+   ],
+   "path": "data/illustrations/VBspR2p0YYM/strawberry-tower-section.png",
+   "invention_log": "harness/viz/VBspR2p0YYM/strawberry-tower-section/review.md"
+  },
+  {
+   "id": "temperature-controlled-roof-vents",
+   "title": "Temperature-controlled roof vents",
+   "kind": "diagram",
+   "feature_ids": [
+    "monitoring-computer",
+    "automatic-roof-vents"
+   ],
+   "references": [
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0085.jpg",
+     "time": 333.0
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0086.jpg",
+     "time": 334.0
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0089.jpg",
+     "time": 350.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0092.jpg",
+     "time": 362.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0093.jpg",
+     "time": 364.5
+    }
+   ],
+   "path": "data/illustrations/VBspR2p0YYM/temperature-controlled-roof-vents.png",
+   "invention_log": "harness/viz/VBspR2p0YYM/temperature-controlled-roof-vents/review.md"
+  },
+  {
+   "id": "storage-tote-growing-rack",
+   "title": "Storage-Tote Growing Rack",
+   "kind": "diagram",
+   "feature_ids": [
+    "indoor-system",
+    "indoor-grow-tray",
+    "indoor-expanded-shale",
+    "indoor-bell-siphon",
+    "indoor-aquarium",
+    "indoor-sump",
+    "indoor-pump",
+    "indoor-grow-light",
+    "indoor-shelving"
+   ],
+   "references": [
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0117.jpg",
+     "time": 449.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0118.jpg",
+     "time": 460.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0129.jpg",
+     "time": 493.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0130.jpg",
+     "time": 495.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0131.jpg",
+     "time": 497.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0134.jpg",
+     "time": 509
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0135.jpg",
+     "time": 511
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0121.jpg",
+     "time": 469
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0124.jpg",
+     "time": 476.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0126.jpg",
+     "time": 481.5
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0108.jpg",
+     "time": 425.5
+    }
+   ],
+   "path": "data/illustrations/VBspR2p0YYM/storage-tote-growing-rack.png",
+   "invention_log": "harness/viz/VBspR2p0YYM/storage-tote-growing-rack/review.md"
+  },
+  {
+   "id": "portrait",
+   "title": "Rob’s greenhouse in summer foliage",
+   "kind": "portrait",
+   "hero": true,
+   "scope": "most",
+   "path": "data/illustrations/VBspR2p0YYM/portrait.png",
+   "invention_log": "harness/viz/VBspR2p0YYM/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 2,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 0.882
+     },
+     {
+      "round": 2,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "greenhouse",
+    "greenhouse-panels",
+    "greenhouse-doors",
+    "greenhouse-paving",
+    "automatic-roof-vents",
+    "textured-cylinders",
+    "grow-beds",
+    "greenhouse-crops"
+   ],
+   "references": [
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0158.jpg",
+     "time": 627.5,
+     "role": "vantage"
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0100.jpg",
+     "time": 389.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0006.jpg",
+     "time": 21.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0092.jpg",
+     "time": 362.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/VBspR2p0YYM/evidence/frame-0082.jpg",
+     "time": 327.0,
+     "role": "detail"
+    }
+   ]
+  }
+ ]
+}

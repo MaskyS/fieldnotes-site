@@ -1,0 +1,641 @@
+/* Housecraft DB: a catalogue of filmed properties.
+   One reading column; on a feature, a media stage beside it. Spacing on a 4px scale,
+   six type sizes (--t1 to --t6). The direction is in DESIGN.md. */
+
+/* Three faces, three jobs. Roboto Serif is for reading: titles, place names, prose, the
+   italic source line. IBM Plex Sans is for operating: interface, names, the speaker line.
+   IBM Plex Sans Condensed is for every label and every number, with tabular lining
+   figures, so a time and a cost look like the same kind of thing. Latin subsets,
+   self-hosted from the upstream files (vendor/fonts/README.md). */
+@font-face { font-family: 'Roboto Serif'; font-style: normal; font-weight: 400 700; font-display: swap; src: url(vendor/fonts/roboto-serif-400-700-normal.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'Roboto Serif'; font-style: italic; font-weight: 400; font-display: swap; src: url(vendor/fonts/roboto-serif-400-italic.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Sans'; font-style: normal; font-weight: 400; font-display: swap; src: url(vendor/fonts/ibm-plex-sans-400-normal.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Sans'; font-style: normal; font-weight: 500; font-display: swap; src: url(vendor/fonts/ibm-plex-sans-500-normal.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Sans'; font-style: italic; font-weight: 400; font-display: swap; src: url(vendor/fonts/ibm-plex-sans-400-italic.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Sans Condensed'; font-style: normal; font-weight: 400; font-display: swap; src: url(vendor/fonts/ibm-plex-sans-condensed-400-normal.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: 'IBM Plex Sans Condensed'; font-style: normal; font-weight: 500; font-display: swap; src: url(vendor/fonts/ibm-plex-sans-condensed-500-normal.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+/* Direction (DESIGN.md): frames, quotes, numbers and drawings are the ink; hierarchy
+   comes from size, weight and space, not boxes. Green is spent on what plays the film or
+   is chosen; amber on text that says the evidence is thin. The ground is neutral so the
+   frames carry the colour of the places; the ink is near-black so numbers read. */
+:root {
+  --ink: #141917;
+  --ink-2: #464f4a;
+  --ink-3: #616d67; /* 5.0:1 on paper, so meta text and times pass AA */
+  --paper: #f3f4f0;
+  --card: #ffffff;
+  --line: #dfe2da;
+  --line-strong: #c9ccbf;
+  --placeholder: #e6e8e1;
+  --green: #2f5a43;
+  --green-soft: #e6eedf;
+  --amber: #8a5a1a;
+  --stage: #1d2622;
+  --scrim: #1a1916e6;
+  --s-1: 4px; --s-2: 8px; --s-3: 12px; --s-4: 16px; --s-5: 20px; --s-6: 24px; --s-8: 32px; --s-10: 40px; --s-12: 48px;
+  /* The scale: labels and meta, interface, prose, section heading, place name, page title. */
+  --t1: 13px; --t2: 15px; --t3: 17px; --t4: 22px; --t5: 28px; --t6: 44px;
+  --serif: 'Roboto Serif', Georgia, 'Times New Roman', serif;
+  --sans: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  --cond: 'IBM Plex Sans Condensed', 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+  --stage-width: 880px;
+}
+
+* { box-sizing: border-box; }
+/* No swipe-back: a sideways swipe belongs to the page (the drawings gallery), never to
+   the browser's history. */
+html { font-size: 16px; overscroll-behavior-x: none; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: var(--t2)/1.4 var(--sans); font-optical-sizing: auto; }
+a { color: var(--green); text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { max-width: 100%; display: block; }
+button { font: inherit; color: inherit; cursor: pointer; border: 1px solid var(--line-strong); background: var(--card); border-radius: 6px; padding: var(--s-2) var(--s-3); }
+button:hover { border-color: var(--ink-2); }
+input, select, textarea { font-family: inherit; color: inherit; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+::selection { background: var(--green-soft); }
+/* Reading: the serif carries titles and prose. */
+h1, h2 { margin: 0; font-weight: 500; font-family: var(--serif); letter-spacing: -0.01em; }
+h1 { font-size: var(--t5); line-height: 1.2; text-wrap: balance; }
+h2 { font-size: var(--t4); line-height: 1.25; }
+/* A label: an h3 names a group inside a section, in the condensed at label size, sentence case. */
+h3, .label { margin: 0; font-family: var(--cond); font-size: 14px; font-weight: 500; line-height: 1.3; letter-spacing: 0.01em; color: var(--ink-2); }
+p { margin: 0 0 var(--s-3); }
+.muted { color: var(--ink-3); }
+.small { font-size: var(--t1); }
+small { font-size: var(--t1); }
+/* A number that is compared with another number: the condensed, tabular and lining. */
+time, .num { font-family: var(--cond); font-variant-numeric: tabular-nums lining-nums; }
+
+/* ----- shell ----- */
+.shell { display: grid; grid-template-columns: minmax(0, 1fr); min-height: 100vh; }
+.topbar { display: flex; align-items: center; gap: var(--s-4); padding: var(--s-3) var(--s-8); border-bottom: 1px solid var(--line); }
+/* The wordmark: house in the weight of a wall, craft in the hand's italic, the DB as a label. */
+.topbar .brand { font-family: var(--serif); font-size: var(--t3); color: var(--ink); flex: 0 0 auto; text-decoration: none; }
+.topbar .brand b { font-weight: 700; }
+.topbar .brand i { font-weight: 400; font-style: italic; }
+.topbar .brand span { font-family: var(--cond); font-size: var(--t1); font-weight: 500; color: var(--ink-3); letter-spacing: 0.06em; margin-left: 2px; }
+.topbar select { font: inherit; padding: var(--s-1) var(--s-2); border: 1px solid var(--line-strong); border-radius: 6px; background: var(--card); color: var(--ink); max-width: 320px; min-height: 36px; }
+.topbar nav { margin-left: auto; display: flex; gap: var(--s-4); }
+.topbar nav a { padding: var(--s-1) 0; color: var(--ink-2); border-bottom: 2px solid transparent; }
+.topbar nav a.active { color: var(--ink); border-bottom-color: var(--green); }
+.topbar nav a:hover { text-decoration: none; color: var(--ink); }
+
+/* Before the app mounts, and when a load fails: one paragraph in the page's voice. */
+.notice { max-width: 60ch; margin: var(--s-12) auto; padding: 0 var(--s-4); color: var(--ink-2); font-family: var(--serif); font-size: var(--t3); line-height: 1.5; }
+.notice h1 { margin-bottom: var(--s-3); color: var(--ink); }
+
+/* ----- main ----- */
+.main { padding: var(--s-8) var(--s-10) var(--s-12); min-width: 0; }
+.shell.index .main { max-width: 1240px; margin: 0 auto; width: 100%; }
+.shell.no-sidebar .main { max-width: 1400px; width: 100%; margin: 0 auto; }
+.crumbs { font-size: var(--t1); color: var(--ink-3); margin-bottom: var(--s-3); }
+.crumbs a { color: var(--ink-2); }
+.crumbs span { margin: 0 var(--s-2); }
+.section { margin-top: var(--s-12); }
+.section > h2 { margin-bottom: var(--s-3); }
+.section > .small { max-width: 70ch; margin-bottom: var(--s-5); }
+
+/* ----- home ----- */
+/* No hero: the search is the top of the page, and under it the refine line. */
+.hero { margin: var(--s-4) 0 var(--s-8); }
+.big-search { width: 100%; max-width: 640px; padding: var(--s-3) var(--s-4); font-size: var(--t3); border: 1px solid var(--line-strong); border-radius: 6px; background: var(--card); }
+.big-search::placeholder { color: var(--ink-3); }
+/* Refinement is one quiet line under the search: each facet a question in the label
+   face, its answers plain text. The chosen answer is green; an answer with nothing
+   behind it is greyed so the shape of the collection stays visible. */
+.refine { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-6); align-items: baseline; margin-top: var(--s-3); font-size: var(--t2); }
+.refine .facet { display: inline-flex; flex-wrap: wrap; gap: 0 var(--s-3); align-items: baseline; }
+.refine .facet > span { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-3); letter-spacing: 0.01em; }
+.refine button, .filters button { border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: none; padding: var(--s-1) 0; min-height: 32px; color: var(--ink-2); }
+.refine button:hover, .filters button:hover { color: var(--ink); border-bottom-color: var(--line-strong); }
+.refine button[aria-pressed="true"], .filters button[aria-pressed="true"] { color: var(--green); font-weight: 500; border-bottom-color: var(--green); }
+.refine button:disabled { color: var(--line-strong); cursor: default; border-bottom-color: transparent; }
+/* A glyph (Glyph.js) or a flag in a line of text: the text's colour, sat on its baseline,
+   4px before the label it stands with. A flag is the system's emoji, greyed like any
+   other answer with nothing behind it. */
+.glyph { width: 17px; height: 17px; vertical-align: -0.15em; flex: 0 0 auto; }
+.refine button .glyph { width: 18px; height: 18px; margin-right: 4px; }
+.flag { display: inline-block; width: 20px; height: auto; border-radius: 2px; vertical-align: -0.2em; margin-right: 2px; box-shadow: 0 0 0 1px #0000001a inset; vertical-align: -0.1em; }
+.refine button:disabled .flag { filter: grayscale(1); opacity: 0.4; }
+.property-card .place .glyph { width: 15px; height: 15px; }
+button.ghost { border-color: transparent; background: transparent; color: var(--ink-2); }
+button.ghost:hover { border-color: var(--line-strong); }
+
+/* The shape of the collection in numbers: one strip per figure, every place a dot on a
+   log axis. A drag across a strip keeps the places inside it; the band is the one green
+   fill on the page, because it is what the reader chose. */
+/* At rest each figure is one line in the refine block, the same weight as a facet: name
+   and the two ends. Open, the strip drops under it with its dots and two handles. */
+.strips { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-6); align-items: flex-start; margin-top: var(--s-1); font-size: var(--t2); }
+.strip { display: grid; grid-template-columns: auto auto; grid-template-rows: auto auto; column-gap: var(--s-1); align-items: baseline; }
+.strip .line { grid-row: 1; border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: none; padding: var(--s-1) 0; min-height: 32px; color: var(--ink-2); text-align: left; }
+.strip .line:hover { color: var(--ink); border-bottom-color: var(--line-strong); }
+.strip .line .name { font-family: var(--cond); font-size: 14px; font-weight: 500; letter-spacing: 0.01em; color: var(--ink-3); margin-right: var(--s-1); }
+.strip .line .num { font-size: var(--t2); }
+.strip.active .line .num { color: var(--green); font-weight: 500; }
+.strip.active .line { border-bottom-color: var(--green); }
+.strip .clear { grid-row: 1; border: 0; background: none; padding: 0 var(--s-1); font-size: var(--t2); color: var(--ink-3); border-radius: 0; min-height: 32px; }
+.strip .clear:hover { color: var(--ink); }
+.strip svg { grid-column: 1 / -1; grid-row: 2; display: block; cursor: ew-resize; touch-action: none; overflow: visible; margin: var(--s-1) 0 var(--s-2); }
+.strip .axis { stroke: var(--line-strong); stroke-width: 1; }
+.strip .band { fill: var(--green-soft); }
+.strip circle { fill: var(--ink); stroke: var(--paper); stroke-width: 1.5; }
+.strip circle.out { fill: var(--line-strong); }
+.strip .handle { fill: var(--card); stroke: var(--green); stroke-width: 1.5; }
+.results-head { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-4); margin-bottom: var(--s-3); }
+.results .said-head { margin-top: var(--s-10); }
+.result-group { margin-top: var(--s-6); }
+.result-group h3 { font-family: var(--serif); font-size: var(--t3); font-weight: 500; letter-spacing: -0.01em; color: var(--ink); margin-bottom: var(--s-2); }
+.result-group h3 .small { font-family: var(--sans); font-weight: 400; }
+.result-group ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--s-2) var(--s-6); }
+.result-group li a { display: grid; grid-template-columns: 72px 1fr; gap: var(--s-3); align-items: center; padding: var(--s-1) 0; color: var(--ink); }
+.result-group li img { width: 72px; height: 44px; object-fit: cover; border-radius: 4px; }
+.result-group li b { display: block; font-weight: 500; font-size: var(--t2); line-height: 1.3; }
+.result-group li em { font-style: normal; font-size: var(--t1); color: var(--ink-3); }
+.result-group .statements { list-style: none; margin: 0; padding: 0; display: block; max-width: 72ch; }
+.result-group .statements li a { grid-template-columns: 96px 1fr; align-items: start; padding: var(--s-2) 0; }
+.result-group .statements li img, .statements .no-picture { width: 96px; height: 58px; border-radius: 4px; }
+.statements .no-picture { display: block; background: var(--line); }
+.result-group .statements li b { font-family: var(--serif); font-size: var(--t3); font-weight: 400; line-height: 1.4; }
+.statements small { display: block; font-size: var(--t1); color: var(--amber); margin-top: 2px; }
+/* Search hits: the sentence that found a feature, under its title, whole (a clamp hid
+   the very word searched for); amber when it is the film saying it does not establish
+   the thing. A place's further hits are one link. */
+.result-group li small.why { display: block; font-family: var(--serif); font-size: var(--t1); line-height: 1.4; color: var(--ink-2); margin: 2px 0; }
+.result-group.doubt li small.why { color: var(--amber); }
+.result-group li a { align-items: start; }
+.result-group > .more { display: inline-block; margin-top: var(--s-2); font-size: var(--t1); color: var(--ink-2); text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 3px; }
+/* Not-established hits fold under one heading line when there are real hits. */
+.results details.unestablished > summary { cursor: pointer; list-style: none; }
+.results details.unestablished > summary::-webkit-details-marker { display: none; }
+.results details.unestablished > summary h2 small { font-family: var(--sans); font-size: var(--t1); font-weight: 400; color: var(--ink-3); }
+/* The ideas a search names, one per line above the hits: the term, then its count. */
+.results .ideas { list-style: none; margin: 0 0 var(--s-6); padding: 0; display: grid; gap: var(--s-1); }
+.results .ideas a { font-size: var(--t2); color: var(--ink-2); }
+.results .ideas a b { font-weight: 500; color: var(--ink); margin-right: var(--s-2); text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 3px; }
+.results .ideas small { display: block; font-family: var(--serif); font-size: var(--t1); color: var(--ink-3); }
+
+/* The places as small multiples: the cover leads and is the largest thing; under it the
+   name (operated, so in the sans), where, then the film's figures in the same four slots
+   on every card, so the eye compares across cards without reading. A dash is the film
+   not stating it. No boxes: the slots are aligned by position alone. */
+.results-head .sort { display: inline-flex; flex-wrap: wrap; gap: 0 var(--s-3); align-items: baseline; font-size: var(--t2); }
+.results-head .sort > span { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-3); letter-spacing: 0.01em; }
+.results-head .sort button { border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: none; padding: var(--s-1) 0; color: var(--ink-2); }
+.results-head .sort button:hover { color: var(--ink); border-bottom-color: var(--line-strong); }
+.results-head .sort button[aria-pressed="true"] { color: var(--green); font-weight: 500; border-bottom-color: var(--green); }
+.properties { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr)); gap: var(--s-10) var(--s-6); }
+.property-card .cover { display: block; position: relative; }
+.property-card .cover img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 4px; background: var(--placeholder); }
+.property-card h3 { font-family: var(--sans); font-size: var(--t3); font-weight: 500; line-height: 1.3; letter-spacing: 0; color: var(--ink); margin: var(--s-3) 0 2px; }
+.property-card h3 a { color: var(--ink); }
+.property-card .place { color: var(--ink-3); font-size: var(--t1); margin: 0 0 var(--s-2); }
+.property-card .place .num { font-size: var(--t1); }
+/* A place more than one film is about: its years, leading to the films side by side. */
+.property-card .filmed { font-family: var(--cond); font-size: 14px; font-weight: 500; margin: calc(-1 * var(--s-1)) 0 var(--s-2); }
+.property-card .filmed a { color: var(--ink-2); text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 2px; font-variant-numeric: tabular-nums lining-nums; }
+/* Only the figures the film states, each as label and value; a film that states none has no row. */
+.figures { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-5); margin: 0; padding: var(--s-2) 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.figures > div { display: flex; align-items: baseline; gap: var(--s-2); }
+.figures dt { font-family: var(--cond); font-size: 13px; font-weight: 500; letter-spacing: 0.02em; color: var(--ink-3); }
+.figures dd { margin: 0; font-family: var(--cond); font-size: var(--t2); font-weight: 500; font-variant-numeric: tabular-nums lining-nums; color: var(--ink); line-height: 1.3; }
+.figures dd b { font-weight: 500; white-space: nowrap; }
+.figures dd small { font-size: 12px; font-weight: 400; color: var(--ink-3); margin-left: 2px; }
+/* Picking a card for the comparison: a quiet word after the name; green once picked. */
+.property-card h3 { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-3); }
+.property-card .pick { flex: 0 0 auto; border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: none; padding: 0; font-family: var(--cond); font-size: 13px; font-weight: 500; letter-spacing: 0.01em; color: var(--ink-3); }
+.property-card .pick:hover { color: var(--ink); border-bottom-color: var(--line-strong); }
+.property-card .pick[aria-pressed="true"] { color: var(--green); border-bottom-color: var(--green); }
+.results-head .sort .compare-open { color: var(--green); font-weight: 500; }
+
+/* Places side by side: one column per place, the same facts in the same rows, so the
+   eye compares along a row. The row names sit in the label face; the figures in the
+   condensed; the covers head the columns because the picture is how a stranger tells
+   the places apart before any number means anything. */
+.compare { margin: var(--s-6) 0 var(--s-10); padding: var(--s-4) var(--s-5); background: var(--card); border: 1px solid var(--line); border-radius: 6px; }
+.compare-head { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-4); margin-bottom: var(--s-3); }
+.compare-scroll { overflow-x: auto; }
+.compare table { border-collapse: collapse; width: 100%; min-width: 640px; }
+.compare th, .compare td { text-align: left; vertical-align: top; padding: var(--s-2) var(--s-4) var(--s-2) 0; border-top: 1px solid var(--line); }
+.compare thead th { border-top: 0; padding-top: 0; width: 220px; }
+.compare thead th .cover img { width: 100%; aspect-ratio: 3 / 2; object-fit: cover; border-radius: 4px; background: var(--placeholder); margin-bottom: var(--s-2); }
+.compare thead th .name { display: block; font-family: var(--sans); font-size: var(--t2); font-weight: 500; line-height: 1.3; color: var(--ink); }
+.compare thead th .place { display: block; font-family: var(--sans); font-weight: 400; font-size: var(--t1); color: var(--ink-3); margin: 2px 0 var(--s-1); }
+.compare tbody th { font-family: var(--cond); font-size: 14px; font-weight: 500; letter-spacing: 0.01em; color: var(--ink-3); white-space: nowrap; width: 1%; }
+.compare td { font-family: var(--serif); font-size: var(--t2); line-height: 1.45; color: var(--ink); }
+.compare td.num { font-family: var(--cond); font-size: var(--t3); font-weight: 500; font-variant-numeric: tabular-nums lining-nums; }
+.compare td.num a { color: var(--ink); }
+.compare td.num a:hover { text-decoration-color: var(--green); }
+.compare td small { display: block; font-family: var(--cond); font-size: 12px; font-weight: 400; color: var(--ink-3); }
+.compare td .none { color: var(--line-strong); }
+.compare .rules { list-style: none; margin: 0; padding: 0; }
+.compare .rules li { margin-bottom: var(--s-1); }
+.compare .rules a { color: var(--ink); }
+.compare button.small { font-family: var(--cond); font-size: 13px; padding: 2px 0; }
+/* One line of what the film states, in prose, under the figures. */
+.property-card .said { font-family: var(--serif); font-size: var(--t2); line-height: 1.45; color: var(--ink-2); margin: var(--s-2) 0 0; }
+.generated { position: absolute; left: var(--s-2); bottom: var(--s-2); padding: 2px 8px; border-radius: 4px; background: rgba(20, 18, 14, 0.6); color: #fff; font-family: var(--cond); font-size: var(--t1); font-weight: 500; line-height: 1.4; pointer-events: none; }
+.site-notice { padding: var(--s-2) var(--s-4); background: var(--amber); color: #1a1710; font-size: var(--t1); line-height: 1.4; text-align: center; }
+
+/* ----- place ----- */
+.property-head { margin-bottom: var(--s-4); }
+.property-head h1 { margin: 0; }
+/* The place in one look: the portrait leads on the left, and beside it one tight column
+   of what a reader takes in at a glance. Tight inside the column (8 and 12), generous
+   between the opening, the story and the sections (40 and 48). */
+.opening { margin: 0 0 var(--s-10); }
+.opening.with-portrait { display: grid; grid-template-columns: minmax(0, 7fr) minmax(300px, 5fr); gap: var(--s-8); align-items: start; }
+.hero-drawing { margin: 0; }
+/* The play mark: a translucent disc at the centre of a picture that plays the film (the
+   portrait on the place page, the frame on a feature page), the picture showing
+   through, firmer when the pointer is over it. */
+.plays { position: relative; cursor: pointer; }
+.play-mark { position: absolute; left: 50%; top: 50%; width: 64px; height: 64px; transform: translate(-50%, -50%); display: grid; place-items: center; border-radius: 50%; background: #1a1916a6; color: #fff; backdrop-filter: blur(2px); transition: background 0.15s, transform 0.15s; pointer-events: none; }
+.play-mark svg { margin-left: 3px; }
+.plays:hover .play-mark, .plays:focus-visible .play-mark { background: #1a1916d9; transform: translate(-50%, -50%) scale(1.06); }
+.hero-drawing .timeline { margin-top: var(--s-3); }
+.hero-drawing .drawing { background: none; border: 0; }
+.hero-drawing figcaption { padding: var(--s-2) 0 0; font-size: var(--t1); color: var(--ink-3); }
+.hero-drawing figcaption b { font-weight: 400; }
+.glance { display: flex; flex-direction: column; gap: var(--s-3); font-family: var(--sans); font-size: var(--t2); line-height: 1.4; }
+.glance .gist { font-family: var(--serif); font-size: var(--t4); line-height: 1.35; color: var(--ink); margin: 0; text-wrap: balance; }
+/* The dateline under the title: where, climate, year, in the operating face, quiet. */
+.property-head .context { font-family: var(--sans); font-size: var(--t2); line-height: 1.5; color: var(--ink-3); margin: var(--s-2) 0 0; position: relative; }
+.property-head .context .num { font-size: var(--t2); }
+.glance .story { font-size: var(--t3); line-height: 1.5; margin: 0; max-width: none; }
+.glance .figures { margin: 0; padding: var(--s-3) 0; }
+.glance .madeof { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-3); align-items: baseline; margin: 0; }
+.glance .madeof > span { font-family: var(--cond); font-size: 14px; font-weight: 500; letter-spacing: 0.01em; color: var(--ink-3); }
+.glance .madeof button { border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: none; padding: 2px 0; color: var(--ink-2); }
+.glance .madeof button:hover { color: var(--ink); border-bottom-color: var(--line-strong); }
+.glance .madeof button[aria-pressed="true"] { color: var(--green); font-weight: 500; border-bottom-color: var(--green); }
+.glance .ask { margin: var(--s-1) 0 0; }
+/* People and sources: the description's links, one row per person, place, organisation or work. */
+.glance .links { margin: 0; }
+.glance .links-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 var(--s-2); margin: 0 0 var(--s-1); }
+.glance .links-head > span { font-family: var(--cond); font-size: 14px; font-weight: 500; letter-spacing: 0.01em; color: var(--ink-3); }
+.glance .links-head small { font-size: 13px; color: var(--ink-3); }
+.glance .links ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.glance .links li { color: var(--ink-2); }
+.glance .links .who { color: var(--ink); font-weight: 500; margin-right: var(--s-2); }
+.glance .links .who cite { font-style: italic; }
+.glance .links .who small { font-weight: 400; color: var(--ink-2); font-size: inherit; }
+/* A name an owner-confirmed entity has a page for: the same ink, underlined like an address. */
+.glance .links .who a.entity { color: var(--ink); }
+.glance .links a { color: var(--ink-2); text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 2px; }
+.glance .links a:hover { color: var(--ink); text-decoration-color: var(--ink-2); }
+.glance .links .kind { font-size: 13px; color: var(--ink-3); }
+.glance .links .sponsored { font-size: 13px; color: var(--amber); }
+.glance .links .sep { color: var(--ink-3); }
+/* The record's provenance behind one small control, as a panel that opens over the page. */
+.record { display: inline-block; vertical-align: 0.15em; margin-left: var(--s-2); }
+.record > summary { list-style: none; display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border: 1px solid var(--line-strong); border-radius: 50%; font-family: var(--cond); font-size: 12px; font-weight: 500; color: var(--ink-3); cursor: pointer; }
+.record > summary::-webkit-details-marker { display: none; }
+.record > summary:hover, .record[open] > summary { color: var(--ink); border-color: var(--ink-2); }
+.record dl { position: absolute; z-index: 30; left: 0; top: 100%; margin: var(--s-2) 0 0; padding: var(--s-3) var(--s-4); background: var(--card); border: 1px solid var(--line-strong); border-radius: 6px; box-shadow: 0 8px 24px #0000001f; max-width: 52ch; display: grid; grid-template-columns: max-content 1fr; gap: var(--s-1) var(--s-4); font-family: var(--sans); font-size: var(--t1); line-height: 1.45; }
+.record dt { font-family: var(--cond); font-weight: 500; color: var(--ink-3); }
+.record dd { margin: 0; color: var(--ink); }
+/* The story, after the glance, at reading measure; a phrase in it plays the film where that is said. */
+.story { font-family: var(--serif); font-size: var(--t3); line-height: 1.55; max-width: 65ch; margin: 0 0 var(--s-10); }
+/* A fact that plays the film: the sentence itself is the control; the play mark is the
+   one green thing, and the time lives in the tooltip. */
+.fact { color: inherit; text-decoration: none; cursor: pointer; }
+.fact:hover { text-decoration: underline; text-decoration-color: var(--green); }
+.fact .play { color: var(--green); font-size: 0.75em; margin-left: 3px; vertical-align: 0.1em; }
+/* On a phone the portrait comes first and the glance under it, then the story. */
+@media (max-width: 1000px) { .opening.with-portrait { grid-template-columns: 1fr; gap: var(--s-5); } }
+
+/* A film time, inline with the fact it proves: green because it plays the film. The
+   ink is one word; the hit area (::after) is a thumb's width. */
+button.moment { position: relative; border: 0; background: none; color: var(--green); padding: 0 0 0 5px; border-radius: 3px; font-family: var(--cond); font-size: 14px; font-weight: 500; font-variant-numeric: tabular-nums lining-nums; vertical-align: baseline; line-height: inherit; }
+button.moment::after { content: ''; position: absolute; inset: -12px -6px; }
+button.moment:hover { text-decoration: underline; border: 0; }
+
+/* Drawings: the sheet at a size where its structure reads, its title under it. */
+.drawings { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: var(--s-6); }
+.drawing { margin: 0; }
+.drawing img { width: 100%; background: var(--placeholder); }
+.drawing .open { position: relative; display: block; width: 100%; padding: 0; border: 0; background: none; cursor: zoom-in; border-radius: 4px; }
+.drawing .open.plays { cursor: pointer; } /* the portrait that plays the film is not a zoom */
+.drawing .open img { display: block; width: 100%; border-radius: 4px; border: 1px solid var(--line); background: var(--card); }
+.drawing .open .zoom-hint { position: absolute; right: var(--s-2); bottom: var(--s-2); padding: 2px 8px; border-radius: 4px; background: var(--scrim); color: #fff; font-family: var(--cond); font-size: var(--t1); opacity: 0; transition: opacity 0.15s; }
+.drawing .open:hover .zoom-hint, .drawing .open:focus-visible .zoom-hint { opacity: 1; }
+.drawing figcaption { padding: var(--s-2) 0 0; font-family: var(--serif); font-size: var(--t1); line-height: 1.45; color: var(--ink-2); }
+.drawing figcaption b { display: block; font-family: var(--sans); font-size: var(--t2); font-weight: 500; color: var(--ink); }
+.drawing figcaption .why { display: block; margin-top: var(--s-1); }
+.drawing figcaption .chips { display: flex; flex-wrap: wrap; gap: var(--s-1) var(--s-2); margin-top: var(--s-2); }
+.drawings.large { grid-template-columns: repeat(auto-fit, minmax(min(440px, 100%), 1fr)); gap: var(--s-8) var(--s-6); }
+/* The drawings as a gallery in the page. The large sheet fits whole inside the screen
+   (its height is the viewport less the chrome), the small sheets under it switch it,
+   and the notes follow: the frames it was drawn from, what it explains. */
+/* The small sheets run across the top, the chosen one large under them with its notes
+   beside it. The sheets row is its own row, so nothing in the notes moves it. */
+.plates { --sheet-h: max(480px, calc(100vh - 330px)); display: grid; gap: var(--s-4); scroll-margin-top: var(--s-4); }
+.plates-body { display: grid; grid-template-columns: minmax(0, auto) minmax(240px, 320px); gap: var(--s-5); align-items: start; justify-content: start; }
+/* The figure's width is the sheet's height times its proportion, so the grid column is
+   sized by the picture as shown, not by the file; the page's width still caps it. */
+.plates-lead { margin: 0; position: relative; width: calc(var(--sheet-h) * var(--ratio, 1.5)); max-width: 100%; touch-action: pan-y; }
+/* Small arrows at the picture's edges, shown when the pointer is over it; always there
+   where there is no hover to reveal them. */
+.plates-lead .arrow { position: absolute; top: 50%; transform: translateY(-50%); width: 36px; height: 36px; padding: 0 0 3px; border: 1px solid var(--line); border-radius: 50%; background: color-mix(in srgb, var(--paper) 88%, transparent); color: var(--ink); font-family: var(--serif); font-size: 26px; line-height: 1; cursor: pointer; opacity: 0; transition: opacity 0.15s, background 0.15s; }
+.plates-lead .arrow.prev { left: var(--s-3); }
+.plates-lead .arrow.next { right: var(--s-3); }
+.plates-lead:hover .arrow, .plates-lead .arrow:focus-visible { opacity: 1; }
+.plates-lead .arrow:hover { background: var(--paper); }
+@media (hover: none) { .plates-lead .arrow { opacity: 1; } }
+
+.plates-lead .open { display: block; width: 100%; padding: 0; border: 0; background: none; cursor: zoom-in; border-radius: 4px; }
+.plates-lead .open img { display: block; width: 100%; height: auto; max-height: var(--sheet-h); object-fit: contain; border: 1px solid var(--line); border-radius: 4px; background: var(--card); }
+/* The notes stand beside the sheet, the way a plate's caption stands in the margin. They
+   never grow past the sheet's height: a long fold scrolls inside the column, so the small
+   sheets under the picture stay where they are. */
+.plates-notes { display: grid; gap: var(--s-3); align-content: start; max-height: var(--sheet-h); overflow-y: auto; overscroll-behavior: contain; padding-right: var(--s-2); }
+.plates-notes h3 { margin: 0; font-family: var(--sans); font-size: var(--t3); font-weight: 500; line-height: 1.25; text-wrap: balance; }
+/* The other sheets, small and whole, their titles under them; the chosen one is ringed. */
+.plates-sheets { display: flex; gap: var(--s-4); padding-bottom: var(--s-3); border-bottom: 1px solid var(--line); overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x proximity; scrollbar-width: thin; }
+.plates-sheets button { display: grid; gap: var(--s-1); flex: 0 0 200px; padding: var(--s-1); border: 0; border-radius: 4px; background: none; color: var(--ink-2); text-align: left; scroll-snap-align: start; }
+.plates-sheets button img { display: block; width: 100%; height: 134px; object-fit: contain; border: 1px solid var(--line); border-radius: 3px; background: var(--card); padding: 2px; }
+.plates-sheets button span { font-family: var(--sans); font-size: var(--t1); line-height: 1.3; }
+.plates-sheets button:hover { color: var(--ink); }
+.plates-sheets button[aria-selected="true"] { color: var(--ink); }
+.plates-sheets button[aria-selected="true"] img { box-shadow: 0 0 0 2px var(--green); border-color: var(--green); }
+@media (max-width: 720px) {
+  .plates { --sheet-h: 70vh; }
+  .plates-body { grid-template-columns: minmax(0, 1fr); }
+  .plates-lead { width: 100%; }
+  .plates-notes { max-height: none; overflow: visible; padding-right: 0; }
+}
+/* Two folds under the title: the features the sheet explains, and the film frames it
+   was drawn from. Both are secondary to the sheet, so they open on request. */
+.plates-notes .fold > summary { cursor: pointer; font-family: var(--cond); font-size: 14px; font-weight: 500; letter-spacing: 0.01em; color: var(--ink-2); list-style: none; min-height: 28px; display: flex; align-items: center; }
+.plates-notes .fold > summary::-webkit-details-marker { display: none; }
+.plates-notes .fold > summary .num { margin-left: 0.2em; }
+.plates-notes .fold > summary::before { content: '▸'; display: inline-block; margin-right: var(--s-1); transition: transform 0.15s; }
+.plates-notes .fold[open] > summary::before { transform: rotate(90deg); }
+.plates-notes .fold ul { list-style: none; margin: var(--s-2) 0 0; padding: 0; display: grid; gap: var(--s-2); }
+.plates-notes .explains li a { display: grid; grid-template-columns: 64px 1fr; gap: var(--s-2); align-items: center; min-height: 40px; color: var(--ink); font-size: var(--t1); line-height: 1.3; }
+.plates-notes .explains li img { width: 64px; height: 36px; object-fit: cover; border-radius: 3px; }
+.plates-notes .explains li a small { display: block; font-size: 12px; color: var(--ink-3); }
+/* The parts of a whole, folded under it: smaller frames, set in from the whole's. */
+.plates-notes .explains .parts { margin: var(--s-1) 0 var(--s-2) var(--s-4); padding-left: var(--s-2); border-left: 1px solid var(--line); gap: var(--s-1); }
+.plates-notes .explains .parts li a { grid-template-columns: 48px 1fr; min-height: 32px; color: var(--ink-2); }
+.plates-notes .explains .parts li img { width: 48px; height: 27px; }
+/* Each group of frames: what the painter read in them, once, then the frames, each one
+   playing the film at its moment. */
+.plates-notes .sources ul { gap: var(--s-3); }
+.plates-notes .sources li p { margin: 0 0 var(--s-1); font-family: var(--sans); font-size: var(--t1); line-height: 1.35; color: var(--ink-2); }
+.plates-notes .sources .frames { display: flex; flex-wrap: wrap; gap: var(--s-1); }
+.plates-notes .sources .frames a { position: relative; display: block; border-radius: 3px; }
+.plates-notes .sources .frames img { display: block; width: 96px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 3px; }
+.plates-notes .sources .play { position: absolute; right: 4px; bottom: 2px; color: #fff; font-size: 14px; line-height: 1; text-shadow: 0 0 3px rgba(0,0,0,0.8); }
+.plates-notes .sources .frames a:hover img { outline: 2px solid var(--green); }
+.drawings.large figcaption b { font-size: var(--t3); }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 2px 8px; border-radius: 4px; border: 1px solid var(--line); font-family: var(--sans); font-size: var(--t1); color: var(--ink-2); line-height: 1.3; }
+.chip:hover { text-decoration: none; border-color: var(--ink-3); color: var(--ink); }
+.chip.more { color: var(--ink-3); }
+.chip img { width: 28px; height: 18px; object-fit: cover; border-radius: 3px; }
+
+/* The index of everything catalogued: one filter line, then tiles grouped by theme. */
+.gallery-head { display: flex; align-items: baseline; justify-content: space-between; gap: var(--s-4); flex-wrap: wrap; }
+.gallery-head input { padding: var(--s-2) var(--s-3); border: 1px solid var(--line-strong); border-radius: 6px; font-size: var(--t2); background: var(--card); min-width: 240px; min-height: 36px; }
+.filters { display: flex; flex-wrap: wrap; gap: 0 var(--s-4); margin: var(--s-2) 0 0; align-items: baseline; }
+.filters select { margin-left: auto; padding: var(--s-1) var(--s-2); border: 1px solid var(--line-strong); border-radius: 6px; background: var(--card); font: inherit; min-height: 36px; }
+/* One grid for every theme; a theme spans as many columns as it has tiles (--span, capped
+   at the row by the component), and short themes pack beside each other. Tile width
+   168px and gap 16px are mirrored in Overview.js, which counts the columns. */
+.feature-index { display: grid; grid-template-columns: repeat(var(--cols, 6), minmax(0, 1fr)); grid-auto-flow: row dense; gap: var(--s-8) var(--s-4); margin-top: var(--s-8); align-items: start; }
+.gallery-group { grid-column: span var(--span, 1); display: grid; grid-template-columns: subgrid; row-gap: var(--s-5); }
+.gallery-group h3 { grid-column: 1 / -1; margin: 0; font-family: var(--serif); font-size: var(--t3); font-weight: 500; letter-spacing: -0.01em; color: var(--ink); padding-top: var(--s-3); border-top: 1px solid var(--line); }
+.feature-card { display: block; color: var(--ink); }
+.feature-card:hover { text-decoration: none; }
+.feature-card:hover img { box-shadow: 0 0 0 2px var(--green); }
+.feature-card img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; background: var(--placeholder); margin-bottom: var(--s-2); }
+.feature-card b { display: block; font-size: var(--t2); font-weight: 500; line-height: 1.3; }
+.feature-card .parts { font-weight: 400; color: var(--ink-3); }
+.feature-card .meta { display: block; font-size: var(--t1); color: var(--ink-3); margin-top: 2px; }
+
+/* ----- feature ----- */
+.feature-head { margin-bottom: var(--s-6); max-width: 80ch; }
+.feature-body { display: grid; grid-template-columns: minmax(0, var(--stage-width)) minmax(320px, 440px); gap: var(--s-10); align-items: start; }
+/* The stage and its axis stay in view while the reader reads the column beside them, so
+   a phrase that plays the film plays something the reader can see. */
+.feature-body > div:first-child { position: sticky; top: var(--s-4); }
+.stage { background: var(--stage); border-radius: 6px; overflow: hidden; position: relative; }
+.stage .plays { display: block; width: 100%; padding: 0; border: 0; border-radius: 0; background: none; }
+.stage img, .stage .yt { width: 100%; aspect-ratio: 16 / 9; object-fit: contain; display: block; background: var(--stage); }
+.stage .yt { position: relative; }
+.stage .yt iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.stage .yt-error { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; gap: var(--s-2); padding: var(--s-4); margin: 0; color: #fff; background: var(--stage); font-size: var(--t2); }
+.stage .yt-error a { color: #fff; }
+.stage .overlay { position: absolute; left: var(--s-3); bottom: var(--s-3); display: flex; gap: var(--s-2); align-items: center; }
+.stage .overlay .time { font-family: var(--cond); font-size: var(--t1); font-weight: 500; font-variant-numeric: tabular-nums lining-nums; color: #fff; background: #0008; padding: 2px var(--s-2); border-radius: 4px; }
+.stage .overlay button { background: #fff; border-color: #fff; font-weight: 500; font-size: var(--t2); }
+.stage .overlay a { color: #fff; font-family: var(--cond); font-size: var(--t1); background: #0008; padding: 2px var(--s-2); border-radius: 4px; }
+.frames { display: flex; gap: var(--s-2); margin-top: var(--s-3); overflow-x: auto; padding-bottom: var(--s-1); }
+.frames button { padding: 2px; border-radius: 4px; background: none; border-color: transparent; flex: 0 0 auto; }
+.frames button:hover { border-color: var(--line-strong); }
+.frames button.active { border-color: var(--green); }
+.frames img { width: 96px; height: 54px; object-fit: cover; border-radius: 3px; }
+.frames span { display: block; font-family: var(--cond); font-size: var(--t1); font-variant-numeric: tabular-nums lining-nums; text-align: center; color: var(--ink-3); padding: 2px 0; }
+.reading { font-size: var(--t2); }
+.reading .description { font-family: var(--serif); font-size: var(--t3); line-height: 1.55; }
+/* The words said around the moment on the stage, directly under the description: one
+   paragraph per speaker, the window's start as the one moment that plays. Under them,
+   the other features the film is on at that moment, as rows of thumb and title. */
+.feature-body .words h3, .reading .nearby h3 { margin: var(--s-4) 0 var(--s-2); }
+.feature-body .words { max-width: 68ch; }
+.feature-body .words p { margin: 0 0 var(--s-2); font-family: var(--serif); font-size: var(--t3); color: var(--ink-2); line-height: 1.5; }
+.feature-body .words p .moment { margin: 0 var(--s-2) 0 0; padding: 0; }
+.feature-body .words h3 { margin-bottom: 2px; }
+.feature-body .words p.provenance { font-family: var(--cond); font-size: var(--t1); color: var(--ink-3); line-height: 1.3; margin-bottom: var(--s-3); }
+/* Each caption line plays the film from where it starts; the one being said is marked. */
+.feature-body .words .line { cursor: pointer; border-radius: 2px; -webkit-box-decoration-break: clone; box-decoration-break: clone; transition: background-color 0.4s, color 0.4s; }
+.feature-body .words .line:hover { text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 3px; }
+.feature-body .words .line.now { background: var(--green-soft); color: var(--ink); box-shadow: 0 0 0 2px var(--green-soft); }
+.feature-body .words .sound, .feature-body .words .cut { color: var(--ink-3); font-size: 0.88em; }
+.feature-body .words p.aside { font-family: var(--sans); font-size: var(--t2); color: var(--ink-3); }
+.feature-body .words p .moment.inline { margin: 0; }
+.reading .nearby ul { list-style: none; margin: 0 0 var(--s-4); padding: 0; }
+.reading .nearby li + li { border-top: 1px solid var(--line); }
+.reading .nearby a { display: flex; align-items: center; gap: var(--s-3); min-height: 44px; padding: var(--s-1) 0; color: var(--ink); }
+.reading .nearby a:hover { text-decoration: none; }
+.reading .nearby a:hover b { text-decoration: underline; }
+.reading .nearby img { width: 64px; height: 36px; object-fit: cover; border-radius: 3px; flex: 0 0 auto; }
+.reading .nearby span { display: flex; flex-direction: column; min-width: 0; line-height: 1.3; }
+.reading .nearby b { font-weight: 500; }
+.reading .nearby small { font-family: var(--cond); font-size: var(--t1); color: var(--ink-3); font-variant-numeric: tabular-nums lining-nums; }
+/* One sentence under the description for what the page would otherwise mislead on: an
+   earlier stage, a thing the film only mentions, a thing nobody speaks about. */
+.reading .note { font-family: var(--serif); font-size: var(--t3); line-height: 1.5; color: var(--amber); margin: calc(-1 * var(--s-1)) 0 var(--s-3); }
+/* What the film does not establish: amber text, as quiet as any other sentence. */
+.reading .unknown { font-family: var(--serif); font-size: var(--t3); line-height: 1.5; color: var(--amber); margin: 0 0 var(--s-4); }
+.reading .unknown b { font-weight: 500; }
+.moments { list-style: none; padding: 0; margin: var(--s-3) 0; }
+.moments li { display: flex; gap: var(--s-3); align-items: baseline; padding: var(--s-1) 0; }
+.moments button.moment { flex: 0 0 auto; padding: 0; }
+.moments .what { font-family: var(--serif); color: var(--ink-2); line-height: 1.45; }
+.moments.said .what b { color: var(--ink); font-weight: 500; }
+.moments.said .what .fact b { display: inline; }
+.moments.said .what .who { display: block; font-family: var(--cond); font-size: 13px; font-weight: 500; color: var(--ink-3); margin-top: 1px; }
+.moments.said small { color: var(--amber); }
+.reading h3 { margin: var(--s-8) 0 var(--s-2); }
+.reading .links a { display: block; padding: var(--s-1) 0; }
+.reading .connection { padding: var(--s-2) 0; border-top: 1px solid var(--line); }
+.reading .connection .pred { font-family: var(--serif); color: var(--ink-3); margin: 0 var(--s-1); }
+.reading .connection small { display: block; font-family: var(--serif); color: var(--ink-3); }
+.reading .mini-drawings { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-3); }
+.reading .mini-drawings figcaption b { font-size: var(--t1); font-weight: 400; color: var(--ink-2); }
+
+/* Wholes and parts, in the reading column: the whole this is part of, or its parts. */
+.composition .whole { display: inline-flex; align-items: center; gap: var(--s-3); color: var(--ink); }
+.composition .whole:hover { text-decoration: none; }
+.composition .whole img { width: 96px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; }
+.composition .whole b { font-weight: 500; line-height: 1.3; }
+.composition .siblings { margin-top: var(--s-3); }
+.composition .siblings a { display: inline-flex; align-items: center; gap: var(--s-2); font-size: var(--t2); color: var(--ink-2); margin: 0 var(--s-4) var(--s-2) 0; }
+.composition .siblings img { width: 44px; height: 28px; object-fit: cover; border-radius: 3px; }
+.parts-strip { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: var(--s-3); }
+.parts-strip a, .context-row .row a { display: block; color: var(--ink); font-size: var(--t1); line-height: 1.4; }
+.parts-strip a:hover, .context-row .row a:hover { text-decoration: none; }
+.parts-strip img, .context-row .row img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: var(--s-1); }
+.parts-strip a:hover img, .context-row .row a:hover img { box-shadow: 0 0 0 2px var(--green); }
+
+/* Context row and pager */
+.context-row { margin-top: var(--s-12); }
+.context-row h3 { margin-bottom: var(--s-3); }
+.context-row .row { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: var(--s-3); }
+.pager { display: flex; justify-content: space-between; gap: var(--s-6); margin-top: var(--s-10); padding-top: var(--s-5); border-top: 1px solid var(--line); }
+.pager a { color: var(--ink); max-width: 45%; }
+.pager a:hover { text-decoration: none; }
+.pager a.next { text-align: right; margin-left: auto; }
+.pager small { display: block; font-family: var(--cond); font-size: var(--t1); font-variant-numeric: tabular-nums lining-nums; color: var(--ink-3); margin-bottom: 2px; }
+.pager b { font-weight: 500; line-height: 1.3; }
+
+/* The film as an axis under the frame: coverage as bands, every feature a mark at the
+   moment it is filmed, the current one green. Marks and bands get a hit area larger than
+   their ink so they can be tapped. */
+.timeline { margin-top: var(--s-4); }
+.timeline .track { position: relative; height: 20px; }
+.timeline .segment { position: absolute; top: 8px; height: 4px; border: 0; padding: 0; border-radius: 0; background: var(--line); cursor: pointer; }
+.timeline .segment.odd { background: var(--line-strong); }
+.timeline .segment::after { content: ''; position: absolute; inset: -8px 0; }
+.timeline .segment:hover { background: var(--ink-3); }
+.timeline .tick { position: absolute; top: 3px; width: 2px; height: 14px; margin-left: -1px; border: 0; padding: 0; border-radius: 1px; background: var(--ink-3); opacity: 0.6; cursor: pointer; }
+.timeline .tick::after { content: ''; position: absolute; inset: -6px -4px; }
+.timeline .tick.part { height: 8px; top: 6px; }
+.timeline .tick:hover, .timeline .tick:focus { background: var(--ink); opacity: 1; width: 3px; margin-left: -1.5px; }
+.timeline .tick.current { background: var(--green); opacity: 1; width: 3px; margin-left: -1.5px; height: 20px; top: 0; }
+.timeline .playhead { position: absolute; top: -2px; width: 2px; height: 24px; margin-left: -1px; background: var(--amber); pointer-events: none; }
+.timeline .legend { display: flex; align-items: center; justify-content: space-between; gap: var(--s-3); margin-top: var(--s-1); min-height: 30px; font-family: var(--cond); font-size: var(--t1); font-variant-numeric: tabular-nums lining-nums; color: var(--ink-3); }
+.timeline .hint { display: inline-flex; align-items: center; gap: var(--s-2); color: var(--ink); min-width: 0; }
+.timeline .hint img { width: 48px; height: 30px; object-fit: cover; border-radius: 3px; flex: 0 0 auto; }
+.timeline .hint b { font-family: var(--sans); font-weight: 500; }
+.timeline .hint em { font-style: normal; color: var(--ink-3); }
+.timeline .hint.live b { color: var(--green); }
+.timeline .hint.now b a { color: var(--amber); }
+
+/* ----- coverage ----- */
+.coverage { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--s-8) var(--s-6); }
+.coverage img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; }
+.coverage .body { padding: var(--s-2) 0 0; font-family: var(--serif); line-height: 1.5; }
+.coverage .body .label { color: var(--ink-3); font-weight: 400; }
+.coverage h3 { font-family: var(--serif); font-size: var(--t3); font-weight: 500; letter-spacing: -0.01em; color: var(--ink); margin: 2px 0 var(--s-2); }
+.coverage .gaps { color: var(--amber); }
+.sheets { display: grid; grid-template-columns: 1fr 1fr; gap: var(--s-4); margin-top: var(--s-5); }
+
+/* ----- top-bar search ----- */
+.searchbox { position: relative; flex: 1; max-width: 420px; }
+.searchbox input { width: 100%; padding: var(--s-2) var(--s-3); border: 1px solid var(--line-strong); border-radius: 6px; font-size: var(--t2); background: var(--card); min-height: 36px; }
+.searchbox .results { position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 40; background: var(--card); border: 1px solid var(--line-strong); border-radius: 6px; box-shadow: 0 8px 24px #0000001f; padding: var(--s-2); max-height: 70vh; overflow: auto; }
+.searchbox .hit { display: flex; gap: var(--s-3); align-items: center; width: 100%; text-align: left; padding: var(--s-2); border: 0; background: none; border-radius: 4px; font: inherit; cursor: pointer; }
+.searchbox .hit:hover, .searchbox .hit.active { background: var(--paper); }
+.searchbox .hit.active { outline: 2px solid var(--green); outline-offset: -2px; }
+.searchbox .hit img { width: 64px; height: 40px; object-fit: cover; border-radius: 4px; flex: 0 0 auto; }
+.searchbox .hit b { display: block; font-size: var(--t2); font-weight: 500; line-height: 1.25; }
+.searchbox .hit em { font-style: normal; font-size: var(--t1); color: var(--ink-3); }
+.searchbox .hit.moment time { flex: 0 0 48px; font-size: var(--t1); color: var(--green); font-weight: 500; }
+.searchbox .hit.moment span { font-family: var(--serif); font-size: var(--t2); color: var(--ink-2); }
+.searchbox .label { padding: var(--s-2) var(--s-2) 0; }
+
+/* ----- drawing viewer: pan and zoom, and beside the sheet what a reader needs to trust it ----- */
+.viewer { position: fixed; inset: 0; z-index: 50; background: var(--scrim); display: flex; align-items: center; justify-content: center; padding: var(--s-6); }
+.viewer-body { display: flex; flex-direction: column; gap: var(--s-3); max-width: 1500px; width: 100%; height: calc(100vh - 2 * var(--s-6)); }
+.viewer-head { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); color: #fff; }
+.viewer-head h2 { font-size: var(--t3); color: inherit; margin: 0; }
+.viewer .close { flex: 0 0 auto; width: 32px; height: 32px; border-radius: 50%; border: 1px solid var(--line-strong); background: var(--card); font-family: var(--sans); font-size: 20px; line-height: 1; cursor: pointer; }
+.stage-wrap { display: flex; flex-direction: column; flex: 1; min-height: 0; }
+.stage-zoom { flex: 1; position: relative; overflow: hidden; background: var(--card); border-radius: 6px; display: flex; align-items: center; justify-content: center; cursor: grab; touch-action: none; }
+.stage-zoom:active { cursor: grabbing; }
+.stage-zoom img { max-width: none; transform-origin: center center; will-change: transform; user-select: none; }
+.zoom-bar { display: flex; align-items: center; gap: var(--s-2); padding: var(--s-2) 0 0; color: #ddd; font-family: var(--cond); font-size: var(--t1); font-variant-numeric: tabular-nums lining-nums; }
+.zoom-bar button { min-width: 30px; height: 30px; border-radius: 6px; border: 1px solid #ffffff33; background: #ffffff14; color: #fff; font: inherit; font-size: 16px; cursor: pointer; }
+.zoom-bar button:disabled { opacity: 0.3; cursor: default; }
+.zoom-bar button.pct { font-size: var(--t1); padding: 0 var(--s-2); }
+.zoom-bar .count { padding: 0 var(--s-2); }
+.zoom-bar .gap { width: var(--s-4); }
+.zoom-bar .tip { margin-left: auto; color: #aaa; }
+/* On a phone the sheet sits above its notes; the tip describes mouse gestures, so it goes. */
+@media (max-width: 900px) {
+  .viewer { padding: var(--s-2); }
+  .viewer-body { grid-template-columns: minmax(0, 1fr); grid-template-rows: minmax(0, 1fr) minmax(0, 1fr); gap: var(--s-2); max-height: calc(100vh - 2 * var(--s-2)); height: calc(100vh - 2 * var(--s-2)); }
+  .stage-wrap { min-width: 0; }
+}
+@media (hover: none) { .zoom-bar .tip { display: none; } }
+.moments-link { color: var(--green); font-weight: 500; }
+/* In the viewer's About, a film time is part of the sentence; the frames under Drawn from are the buttons. */
+.md { font-size: 14px; line-height: 1.5; }
+.md p, .md ul { margin: 0 0 var(--s-2); }
+.md ul { padding-left: var(--s-5); }
+.md table { border-collapse: collapse; width: 100%; margin-bottom: var(--s-3); font-family: var(--sans); font-size: var(--t1); }
+.md th, .md td { text-align: left; vertical-align: top; padding: 4px 6px; border-bottom: 1px solid var(--line); }
+.md th { font-family: var(--cond); color: var(--ink-3); font-weight: 500; }
+.md code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.9em; background: var(--paper); padding: 0 3px; border-radius: 3px; }
+/* Times in the notes are read, not pressed: the frames under Drawn from are the buttons. */
+.md .t { font-family: var(--cond); color: var(--ink-2); font-variant-numeric: tabular-nums lining-nums; }
+.md h3, .md h4, .md h5 { margin-top: var(--s-3); }
+.md h4, .md h5 { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-2); }
+
+/* ----- ask about this: a question built from the catalogue, taken to an assistant ----- */
+.ask { border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); padding: var(--s-3) 0; margin: var(--s-4) 0; max-width: 60ch; font-family: var(--sans); font-size: var(--t2); }
+.ask > summary { cursor: pointer; font-weight: 500; color: var(--green); min-height: 24px; }
+.ask[open] > summary { margin-bottom: var(--s-2); }
+.ask label { display: block; font-family: var(--cond); font-size: 14px; font-weight: 500; letter-spacing: 0.01em; color: var(--ink-2); margin-top: var(--s-3); }
+.ask input { display: block; width: 100%; margin-top: var(--s-1); padding: var(--s-2) var(--s-3); font: inherit; font-weight: 400; border: 1px solid var(--line-strong); border-radius: 6px; background: var(--card); }
+.ask .actions { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-3) var(--s-4); margin: var(--s-3) 0; }
+.ask button.primary { background: var(--green); border-color: var(--green); color: #fff; font-weight: 500; min-height: 44px; padding: 0 var(--s-4); }
+.ask button.primary:hover { filter: brightness(1.1); }
+.ask .read summary { cursor: pointer; color: var(--ink-2); }
+.ask pre { white-space: pre-wrap; font: var(--t1)/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: var(--s-3); max-height: 360px; overflow: auto; }
+
+/* ----- phone ----- */
+/* One column: the stage column dissolves (display: contents) so the frame, its axis,
+   then the description and the words said around the moment follow in that order. */
+@media (max-width: 1300px) {
+  .feature-body { grid-template-columns: 1fr; gap: var(--s-6); }
+  .feature-body > div:first-child { display: contents; }
+  .feature-body .frames { margin-top: 0; }
+  .feature-body .timeline { margin-top: 0; }
+  .feature-body .reading { order: 1; }
+}
+@media (max-width: 900px) {
+  .main { padding: var(--s-5) var(--s-4) var(--s-8); }
+  .section { margin-top: var(--s-10); }
+  .topbar { flex-wrap: wrap; gap: var(--s-3); padding: var(--s-3) var(--s-4); }
+  .topbar select { width: 0; min-width: 0; max-width: 100%; flex: 1 1 160px; }
+  .topbar .searchbox { flex: 1 1 100%; max-width: none; margin: 0; }
+  .topbar nav { margin-left: 0; }
+  .topbar nav a, .topbar .brand { padding: var(--s-2) 0; min-height: 44px; display: inline-flex; align-items: center; }
+  .hero { margin-bottom: var(--s-6); }
+  .refine { gap: var(--s-2) var(--s-4); }
+  .refine .facet { display: flex; width: 100%; gap: 0 var(--s-4); }
+  .refine button, .filters button { min-height: 44px; }
+  .properties { gap: var(--s-8); }
+  .results-head { flex-wrap: wrap; }
+  .stage .overlay { left: var(--s-2); bottom: var(--s-2); }
+  .filters select { margin-left: 0; width: 100%; margin-top: var(--s-2); }
+}
+/* After the count, the places a range leaves out for want of the figure: quiet, in the
+   operating face, so the count is never read as the whole collection. */
+.results-head h2 .omitted { font-family: var(--sans); font-size: var(--t1); font-weight: 400; color: var(--ink-3); letter-spacing: 0; }

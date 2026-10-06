@@ -1,0 +1,1243 @@
+{
+ "id": "constructed-wetland",
+ "kind": "term",
+ "title": "Constructed wetland",
+ "pattern": null,
+ "terms": [
+  "constructed wetland"
+ ],
+ "term_group": "water",
+ "aliases_from_vocabulary": [],
+ "computed": {
+  "built": "2026-10-04T14:12:22",
+  "instance_hash": "3640982ea94115ff",
+  "counts": {
+   "instances": 8,
+   "places": 3,
+   "climate_classes": 2,
+   "climates": [
+    "BWh",
+    "Dfb"
+   ],
+   "places_without_climate": 0,
+   "cost_stated_for_instance": 0,
+   "running_cost_stated": 0,
+   "place_build_cost_stated": 0,
+   "claims": 39,
+   "claims_with_kind": 12,
+   "instances_with_no_claim": 1,
+   "seen_and_said": 6,
+   "seen_only": 1,
+   "said_only": 1,
+   "not_current": 3,
+   "follows": 0,
+   "departs": 0
+  },
+  "places": [
+   {
+    "film": "QHpo46tawBs",
+    "title": "Milagro Cohousing, Tucson",
+    "where": "Arizona, United States",
+    "country": "United States",
+    "film_year": "2026",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "BWh",
+      "name": "hot desert"
+     },
+     "rain_mm": 318,
+     "zone": "9b",
+     "elevation_m": 722,
+     "from": "Tucson, Pima County, Arizona, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {
+     "count": [
+      {
+       "id": "k-06",
+       "text": "The founders initially considered putting their two houses on a shared piece of land.",
+       "by": "unnamed speaker",
+       "at": 115.96,
+       "about": null,
+       "scope": "place",
+       "kind": "alternative",
+       "kind_group": "why",
+       "quantity": {
+        "value": 2,
+        "unit": "home",
+        "of": "count"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "age": [
+      {
+       "id": "k-11",
+       "text": "A resident reports living here for 23 years.",
+       "by": "unnamed speaker",
+       "at": 177.88,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 23,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-12",
+       "text": "A resident moved from Wisconsin, having drawn communities as a child and fallen in love with the Sonoran Desert at age five.",
+       "by": "unnamed speaker",
+       "at": 177.88,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 5,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-25",
+       "text": "Beth’s family moved here when her daughter was nine years old.",
+       "by": "Beth",
+       "at": 398.24,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 9,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-56",
+       "text": "A resident raised her children in the Midwest and moved to Tucson at age 44, later growing to love it.",
+       "by": "unnamed speaker",
+       "at": 841.52,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 44,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "build time": [
+      {
+       "id": "k-87",
+       "text": "The description says 28 households have spent 28 years building the community.",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "doubt": "The description’s 28-year account differs from the film’s 1993 starting point; the periods described may be different.",
+       "quantity": {
+        "value": 28,
+        "unit": "year",
+        "of": "build time"
+       }
+      }
+     ]
+    },
+    "claims_total": 103,
+    "claims_with_kind": 102,
+    "link": "?property=QHpo46tawBs"
+   },
+   {
+    "film": "efI77fzBgvg",
+    "title": "Greater World’s Earthship community",
+    "where": "New Mexico, United States",
+    "country": "United States",
+    "film_year": "2014",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "Dfb",
+      "name": "warm-summer humid continental"
+     },
+     "rain_mm": 371,
+     "zone": "6a",
+     "elevation_m": 2125,
+     "from": "Taos, Taos County, New Mexico, 87571, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {
+     "unit cost": [
+      {
+       "id": "global-price",
+       "text": "Globals cost about $225 per square foot.",
+       "by": "Tom Duke",
+       "at": 951.319,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 225,
+        "unit": "USD",
+        "of": "unit cost",
+        "per": "ft2",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "water-delivery-spending",
+       "text": "$200 for a water delivery; about once a year, when it gets really dry, we need a delivery",
+       "by": "Tom Duke",
+       "at": 1670.04,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 200,
+        "unit": "USD",
+        "of": "unit cost",
+        "per": "delivery"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "running cost": [
+      {
+       "id": "propane-spending",
+       "text": "$100 for the propane for my cooking stove",
+       "by": "Tom Duke",
+       "at": 1667.12,
+       "about": null,
+       "scope": "place",
+       "doubt": "The question is cut; the segment opens with \"$300\" and no period is spoken for the $100 or the total.",
+       "quantity": {
+        "value": 100,
+        "unit": "USD",
+        "of": "running cost"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    },
+    "claims_total": 58,
+    "claims_with_kind": 0,
+    "link": "?property=efI77fzBgvg"
+   },
+   {
+    "film": "30ghnDOFbNQ",
+    "title": "Marie and Charles’s greenhouse-enclosed summer house",
+    "where": "Stockholm archipelago, Sweden",
+    "country": "Sweden",
+    "film_year": "2015",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "Dfb",
+      "name": "warm-summer humid continental"
+     },
+     "rain_mm": 590,
+     "zone": "7b",
+     "elevation_m": 23,
+     "from": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {},
+    "claims_total": 60,
+    "claims_with_kind": 0,
+    "link": "?property=30ghnDOFbNQ"
+   }
+  ],
+  "instances": [
+   {
+    "id": "QHpo46tawBs/wetland-beds",
+    "film": "QHpo46tawBs",
+    "feature": "wetland-beds",
+    "title": "Paired gravel-and-reed wastewater treatment beds",
+    "place_title": "Constructed wastewater wetland",
+    "part_of": null,
+    "phase": "current",
+    "category": "Water",
+    "terms": [
+     "constructed wetland",
+     "reed bed",
+     "stone"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "Inside a fenced enclosure are gravel beds with scattered clumps of reeds. The founding man describes two basins, west and east, says one is “40 by 40” without a unit, and says wastewater remains about three days while bacteria between the stones help clean it. He calls the plants reed grass and says summer growth fills the bed.",
+    "unknown": "No dimension unit, water analysis, treatment certification or measured residence time is supplied.",
+    "thumbnail": "review/QHpo46tawBs/sample-0283.jpg",
+    "moments": {
+     "frames": [
+      960.0,
+      983.1,
+      995.67
+     ],
+     "spoken": [
+      [
+       959.99,
+       997.52
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "k-61",
+      "text": "Household water enters underground through a distribution point that directs it to either the west or east wetland basin.",
+      "by": "unnamed speaker",
+      "at": 959.99,
+      "about": "wetland-distribution-pipes",
+      "scope": "part",
+      "kind": "method",
+      "kind_group": "how",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-93",
+      "text": "The wetland basin is “40 by 40” and receives 2,000–3,000 gallons daily, depending on household water use.",
+      "by": "unnamed speaker",
+      "at": 967.0,
+      "about": "wetland-beds",
+      "scope": "feature",
+      "kind": "method",
+      "kind_group": "how",
+      "doubt": "The speaker gives no unit for the basin’s “40 by 40” dimensions.",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-62",
+      "text": "Water stays in the wetland for about three days while bacteria between the stones partly clean it.",
+      "by": "unnamed speaker",
+      "at": 976.04,
+      "about": "wetland-beds",
+      "scope": "feature",
+      "kind": "method",
+      "kind_group": "how",
+      "quantity": {
+       "value": 3,
+       "unit": "day",
+       "of": "component time",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-63",
+      "text": "The wetland’s bacteria arrive naturally in the household wastewater.",
+      "by": "unnamed speaker",
+      "at": 985.44,
+      "about": "wetland-beds",
+      "scope": "feature",
+      "kind": "sourcing",
+      "kind_group": "relied on",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-65",
+      "text": "A buried perforated pipe distributes incoming water through the wetland for treatment.",
+      "by": "unnamed speaker",
+      "at": 997.52,
+      "about": "wetland-distribution-pipes",
+      "scope": "part",
+      "kind": "method",
+      "kind_group": "how",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-66",
+      "text": "An outlet pipe collects treated water and sends it through a box to the collection tank.",
+      "by": "unnamed speaker",
+      "at": 1006.56,
+      "about": "wetland-distribution-pipes",
+      "scope": "part",
+      "kind": "method",
+      "kind_group": "how",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-67",
+      "text": "The collection-tank pump switches on when water reaches a set level and sends water back up into the community.",
+      "by": "unnamed speaker",
+      "at": 1017.88,
+      "about": "wetland-pump",
+      "scope": "part",
+      "kind": "method",
+      "kind_group": "how",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-70",
+      "text": "A liner beneath the wetland bed holds the water in place.",
+      "by": "unnamed speaker",
+      "at": 1053.12,
+      "about": "wetland-liner",
+      "scope": "part",
+      "kind": "method",
+      "kind_group": "how",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [
+     {
+      "id": "k-62",
+      "text": "Water stays in the wetland for about three days while bacteria between the stones partly clean it.",
+      "by": "unnamed speaker",
+      "at": 976.04,
+      "about": "wetland-beds",
+      "scope": "feature",
+      "kind": "method",
+      "kind_group": "how",
+      "quantity": {
+       "value": 3,
+       "unit": "day",
+       "of": "component time",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "kinded": {
+     "how": [
+      "k-61",
+      "k-93",
+      "k-62",
+      "k-65",
+      "k-66",
+      "k-67",
+      "k-70"
+     ],
+     "relied on": [
+      "k-63"
+     ]
+    },
+    "parts_counted": [
+     "wetland-distribution-pipes",
+     "wetland-pump",
+     "wetland-liner"
+    ]
+   },
+   {
+    "id": "QHpo46tawBs/wetland-rehabilitation",
+    "film": "QHpo46tawBs",
+    "feature": "wetland-rehabilitation",
+    "title": "Excavated wetland bed and gravel screening",
+    "place_title": "Constructed wastewater wetland",
+    "part_of": {
+     "id": "wetland-beds",
+     "title": "Paired gravel-and-reed wastewater treatment beds"
+    },
+    "phase": "in progress",
+    "category": "Process",
+    "terms": [
+     "constructed wetland",
+     "stone"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "One treatment area is opened up, with separate soil and gravel piles and a framed screen over a wheeled cart. The founding man says roots and eroded soil have accumulated after about 20 years, so residents are digging out and screening the stone while addressing erosion.",
+    "unknown": "The film does not show workers completing the process, costs, shutdown arrangements or a verified maintenance interval.",
+    "thumbnail": "review/QHpo46tawBs/sample-0301.jpg",
+    "moments": {
+     "frames": [
+      1043.9,
+      1052.23,
+      1056.7
+     ],
+     "spoken": [
+      [
+       1028.04,
+       1049.4
+      ],
+      [
+       1061.44,
+       1072.56
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "k-68",
+      "text": "After 20 years, accumulated eroded soil and roots reduced the wetland’s performance, requiring rehabilitation.",
+      "by": "unnamed speaker",
+      "at": 1028.04,
+      "about": "wetland-rehabilitation",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 20,
+       "unit": "year",
+       "of": "age"
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-69",
+      "text": "Residents painstakingly dig out wetland rocks and screen away dirt because the clogged material no longer works as well.",
+      "by": "unnamed speaker",
+      "at": 1038.12,
+      "about": "wetland-rehabilitation",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [
+     {
+      "id": "k-68",
+      "text": "After 20 years, accumulated eroded soil and roots reduced the wetland’s performance, requiring rehabilitation.",
+      "by": "unnamed speaker",
+      "at": 1028.04,
+      "about": "wetland-rehabilitation",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 20,
+       "unit": "year",
+       "of": "age"
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "kinded": {
+     "living": [
+      "k-68",
+      "k-69"
+     ]
+    },
+    "parts_counted": []
+   },
+   {
+    "id": "QHpo46tawBs/wetland-restoration-plan",
+    "film": "QHpo46tawBs",
+    "feature": "wetland-restoration-plan",
+    "title": "Return cleaned gravel and extend wetland service",
+    "place_title": "Constructed wastewater wetland",
+    "part_of": {
+     "id": "wetland-beds",
+     "title": "Paired gravel-and-reed wastewater treatment beds"
+    },
+    "phase": "planned",
+    "category": "Plan",
+    "terms": [
+     "constructed wetland",
+     "stone"
+    ],
+    "evidence_status": "spoken_only",
+    "seen_or_said": "said, not shown",
+    "description": "The camera shows unfinished excavation and gravel piles, with no restored bed in operation. The founding man says the stone will be cleaned and returned and predicts another 20–30 years of service after cleaning and erosion control.",
+    "unknown": "No completion date, engineering assessment or warranty supports the predicted service life.",
+    "thumbnail": "review/QHpo46tawBs/sample-0306.jpg",
+    "moments": {
+     "frames": [
+      1043.9,
+      1059.5
+     ],
+     "spoken": [
+      [
+       1056.64,
+       1075.48
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "k-71",
+      "text": "The wetland gravel will be cleaned and put back into the bed.",
+      "by": "unnamed speaker",
+      "at": 1054.36,
+      "about": "wetland-restoration-plan",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "k-72",
+      "text": "The residents expect cleaning and erosion control to give the wetland another 20–30 years of service.",
+      "by": "unnamed speaker",
+      "at": 1067.68,
+      "about": "wetland-restoration-plan",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "year",
+       "of": "other",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [
+     {
+      "id": "k-72",
+      "text": "The residents expect cleaning and erosion control to give the wetland another 20–30 years of service.",
+      "by": "unnamed speaker",
+      "at": 1067.68,
+      "about": "wetland-restoration-plan",
+      "scope": "feature",
+      "kind": "upkeep",
+      "kind_group": "living",
+      "quantity": {
+       "value": 25,
+       "unit": "year",
+       "of": "other",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "kinded": {
+     "living": [
+      "k-71",
+      "k-72"
+     ]
+    },
+    "parts_counted": []
+   },
+   {
+    "id": "QHpo46tawBs/wetland-seasonal-archive",
+    "film": "QHpo46tawBs",
+    "feature": "wetland-seasonal-archive",
+    "title": "Earlier wetland beds with dense reed growth",
+    "place_title": "Constructed wastewater wetland",
+    "part_of": {
+     "id": "wetland-beds",
+     "title": "Paired gravel-and-reed wastewater treatment beds"
+    },
+    "phase": "historical",
+    "category": "Water",
+    "terms": [
+     "constructed wetland",
+     "reed bed"
+    ],
+    "evidence_status": "visual_only",
+    "seen_or_said": "seen, not talked about",
+    "description": "Inserted images show freshly arranged beds followed by abundant tall green vegetation, unlike the sparse reeds in the current tour. The images provide historical visual context for the treatment area.",
+    "unknown": "Exact dates and seasons are not stated, and plant density alone cannot establish treatment performance.",
+    "thumbnail": "review/QHpo46tawBs/sample-0308.jpg",
+    "moments": {
+     "frames": [
+      1062.77,
+      1066.57,
+      1068.0,
+      1071.73
+     ],
+     "spoken": []
+    },
+    "claims": [],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": []
+   },
+   {
+    "id": "efI77fzBgvg/duke-wastewater-cell",
+    "film": "efI77fzBgvg",
+    "feature": "duke-wastewater-cell",
+    "title": "Vegetated lined blackwater containment cell",
+    "place_title": "Duke wastewater garden",
+    "part_of": null,
+    "phase": "current",
+    "category": "Water",
+    "terms": [
+     "blackwater",
+     "constructed wetland",
+     "rubber",
+     "stone"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "Dense foliage and small trees grow beside the house, with a vertical inspection pipe visible. Tom says septic overflow enters an EPDM-lined, gravel-filled cell 20 by 40 feet and 6 feet deep [6.10 by 12.19 by 1.83 metres], supporting willows without watering. He places the sewage about 4 feet [1.22 metres] down and says the installation is permitted.",
+    "unknown": "The liner, dimensions, liquid depth, permit and claims of no groundwater pollution or maintenance are not verified by the surface views.",
+    "thumbnail": "review/efI77fzBgvg/sample-0251.jpg",
+    "moments": {
+     "frames": [
+      1488.0,
+      1536.0,
+      1583.63
+     ],
+     "spoken": [
+      [
+       1446,
+       1500.8
+      ],
+      [
+       1511.68,
+       1540.5
+      ],
+      [
+       1565.16,
+       1600.6
+      ],
+      [
+       1631.71,
+       1642
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "blackwater-dimensions",
+      "text": "The lined cell measures 20 by 40 feet, six deep.",
+      "by": "Tom Duke",
+      "at": 1465.08,
+      "about": "duke-wastewater-cell",
+      "scope": "feature",
+      "quantity": {
+       "value": 20,
+       "unit": "ft",
+       "of": "length"
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "blackwater-no-watering",
+      "text": "I never have to water any of this; I don't water this, but these weeds are actually treating sewage",
+      "by": "Tom Duke",
+      "at": 1480.96,
+      "about": "duke-wastewater-cell",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "blackwater-permit",
+      "text": "The Duke wastewater containment system is permitted.",
+      "by": "Tom Duke",
+      "at": 1537.24,
+      "about": "duke-wastewater-cell",
+      "scope": "feature",
+      "topic": "law",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "law-9",
+      "text": "The lined cell is permitted because it works like a traditional leach field",
+      "by": "Tom Duke",
+      "at": 1540.44,
+      "about": "duke-wastewater-cell",
+      "scope": "feature",
+      "topic": "law",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "blackwater-no-pollution",
+      "text": "The contained wastewater does not pollute groundwater.",
+      "by": "Tom Duke",
+      "at": 1585.12,
+      "about": "duke-wastewater-cell",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [
+     {
+      "id": "blackwater-dimensions",
+      "text": "The lined cell measures 20 by 40 feet, six deep.",
+      "by": "Tom Duke",
+      "at": 1465.08,
+      "about": "duke-wastewater-cell",
+      "scope": "feature",
+      "quantity": {
+       "value": 20,
+       "unit": "ft",
+       "of": "length"
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "kinded": {},
+    "parts_counted": []
+   },
+   {
+    "id": "30ghnDOFbNQ/wastewater-system",
+    "film": "30ghnDOFbNQ",
+    "feature": "wastewater-system",
+    "title": "Household wastewater separation and planted treatment",
+    "place_title": "Granmar–Sacilotto household site",
+    "part_of": null,
+    "phase": "current",
+    "category": "Water",
+    "terms": [
+     "greywater",
+     "blackwater",
+     "constructed wetland"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "The tour visits the separating toilet, cellar equipment, planted bed and vegetated garden pond. Marie and Charles describe treating household wastewater on site, and the description says the home is independent of city sewage. Marie says no chemicals are added to the process.",
+    "unknown": "No complete process drawing, performance report or regulatory approval is shown; potable water supply is separate and unexplained.",
+    "thumbnail": "review/30ghnDOFbNQ/sample-0150.jpg",
+    "moments": {
+     "frames": [
+      583.5,
+      697.5,
+      805.5
+     ],
+     "spoken": [
+      [
+       547.12,
+       608.6
+      ],
+      [
+       691,
+       723
+      ],
+      [
+       772.88,
+       844.6
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "tank-bacteria",
+      "text": "Bacteria die off while water stays in the tanks.",
+      "by": "Marie Granmar",
+      "at": 575.32,
+      "about": "wastewater-system",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "greywater-inputs",
+      "text": "Shower and dishwasher water enter the greywater treatment tanks.",
+      "by": "Marie Granmar",
+      "at": 583.279,
+      "about": "greywater-cisterns",
+      "scope": "part",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "chemical-free-treatment",
+      "text": "No chemicals are added to the sewage treatment system.",
+      "by": "Marie Granmar",
+      "at": 600.44,
+      "about": "wastewater-system",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "toilet-compartments",
+      "text": "The toilet has two compartments, separating urine from other waste.",
+      "by": "Charles Sacilotto",
+      "at": 613,
+      "about": "separating-toilet",
+      "scope": "part",
+      "text_source": "burned-in subtitles"
+     },
+     {
+      "id": "urine-flush",
+      "text": "Urine-only flushing uses 2–3 deciliters [0.2–0.3 liters] of water.",
+      "by": "Charles Sacilotto",
+      "at": 631,
+      "about": "separating-toilet",
+      "scope": "part",
+      "text_source": "burned-in subtitles"
+     },
+     {
+      "id": "cistern-volume",
+      "text": "Two greywater/urine cisterns provide 2 cubic meters [2,000 liters].",
+      "by": "Charles Sacilotto",
+      "at": 637,
+      "about": "greywater-cisterns",
+      "scope": "part",
+      "text_source": "burned-in subtitles"
+     },
+     {
+      "id": "centrifuge-separation",
+      "text": "Centrifugal force separates toilet solids from blackwater liquid.",
+      "by": "Charles Sacilotto",
+      "at": 655,
+      "about": "centrifugal-separator",
+      "scope": "part",
+      "text_source": "burned-in subtitles"
+     },
+     {
+      "id": "engineer-training",
+      "text": "Charles trained as an engineer.",
+      "by": "Charles Sacilotto",
+      "at": 705,
+      "about": "wastewater-system",
+      "scope": "feature",
+      "text_source": "burned-in subtitles"
+     },
+     {
+      "id": "separator-emptying",
+      "text": "The separator needs emptying approximately every six months.",
+      "by": "Marie Granmar",
+      "at": 735.199,
+      "about": "centrifugal-separator",
+      "scope": "part",
+      "quantity": {
+       "value": 6,
+       "unit": "month",
+       "of": "other",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "dry-residue",
+      "text": "Separated toilet solids become a dry, dust-like residue.",
+      "by": "Marie Granmar",
+      "at": 885.759,
+      "about": "centrifugal-separator",
+      "scope": "part",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "sewage-independence",
+      "text": "The household is completely independent of city sewage.",
+      "by": "Kirsten Dirksen",
+      "at": null,
+      "about": "wastewater-system",
+      "scope": "feature"
+     },
+     {
+      "id": "charles-built-system",
+      "text": "Charles built the sewage system.",
+      "by": "Kirsten Dirksen",
+      "at": null,
+      "about": "wastewater-system",
+      "scope": "feature"
+     }
+    ],
+    "figures": [
+     {
+      "id": "separator-emptying",
+      "text": "The separator needs emptying approximately every six months.",
+      "by": "Marie Granmar",
+      "at": 735.199,
+      "about": "centrifugal-separator",
+      "scope": "part",
+      "quantity": {
+       "value": 6,
+       "unit": "month",
+       "of": "other",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "kinded": {},
+    "parts_counted": [
+     "separating-toilet",
+     "centrifugal-separator",
+     "blackwater-cistern",
+     "greywater-cisterns"
+    ]
+   },
+   {
+    "id": "30ghnDOFbNQ/planted-filter",
+    "film": "30ghnDOFbNQ",
+    "feature": "planted-filter",
+    "title": "Raised soil bed for wastewater filtration",
+    "place_title": "Enclosed planted-treatment space",
+    "part_of": {
+     "id": "wastewater-system",
+     "title": "Household wastewater separation and planted treatment"
+    },
+    "phase": "current",
+    "category": "Water",
+    "terms": [
+     "greywater",
+     "constructed wetland",
+     "raised bed"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "A long raised bed fills a low plywood-ceilinged lean-to built against the old stone foundation wall of the house, with dense plants, crossbars and pipe penetrations. Marie says greywater filters through the soil, and Charles’s subtitles describe gravity sending water onward when water arrives in the cistern.",
+    "unknown": "Bed layers, hydraulic loading, liner and measured treatment effectiveness are not supplied; the automatic caption’s Swedish bed name is garbled.",
+    "thumbnail": "review/30ghnDOFbNQ/sample-0179.jpg",
+    "moments": {
+     "frames": [
+      697.5,
+      707.5,
+      750.0
+     ],
+     "spoken": [
+      [
+       691,
+       699
+      ],
+      [
+       707,
+       723
+      ],
+      [
+       724.71,
+       767
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "soil-filtration",
+      "text": "Greywater filters through the planted bed’s soil.",
+      "by": "Marie Granmar",
+      "at": 695.399,
+      "about": "planted-filter",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "gravity-flow",
+      "text": "Incoming cistern water displaces an equal volume onward by gravity.",
+      "by": "Charles Sacilotto",
+      "at": 711,
+      "about": "planted-filter",
+      "scope": "feature",
+      "text_source": "burned-in subtitles"
+     },
+     {
+      "id": "drainage-tube-dimension",
+      "text": "Drainage tubes are described as 30 centimeters [11.8 inches].",
+      "by": "Charles Sacilotto",
+      "at": 717,
+      "about": "filter-pipework",
+      "scope": "part",
+      "doubt": "The English subtitle gives no dimension qualifier, so depth, diameter and spacing cannot be distinguished.",
+      "text_source": "burned-in subtitles"
+     },
+     {
+      "id": "nutrient-reuse",
+      "text": "Wastewater fertilizes plants in the treatment bed.",
+      "by": "Marie Granmar",
+      "at": 750.04,
+      "about": "planted-filter",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "more-bed-crops",
+      "text": "More plants could be grown in the treatment bed.",
+      "by": "Marie Granmar",
+      "at": 756.04,
+      "about": "future-filter-planting",
+      "scope": "part",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": [
+     "filter-pipework",
+     "mint",
+     "hanging-bed-fixtures",
+     "future-filter-planting"
+    ]
+   },
+   {
+    "id": "30ghnDOFbNQ/treatment-pond",
+    "film": "30ghnDOFbNQ",
+    "feature": "treatment-pond",
+    "title": "Vegetated garden pond as final treatment step",
+    "place_title": "Vegetated wastewater pond",
+    "part_of": {
+     "id": "wastewater-system",
+     "title": "Household wastewater separation and planted treatment"
+    },
+    "phase": "current",
+    "category": "Water",
+    "terms": [
+     "pond",
+     "constructed wetland"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "A depression in the garden is densely covered with grasses and flowering plants, obscuring most of the water. Marie identifies it as the third cleaning step after the planted bed and says the water returns to the garden environment.",
+    "unknown": "Liner, depth, water volume, outfall route and measured removal rates are not visible or documented.",
+    "thumbnail": "review/30ghnDOFbNQ/sample-0215.jpg",
+    "moments": {
+     "frames": [
+      794.5,
+      805.5,
+      848.5
+     ],
+     "spoken": [
+      [
+       772.88,
+       844.6
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "pond-third-stage",
+      "text": "The garden pond is the third treatment stage.",
+      "by": "Marie Granmar",
+      "at": 793.199,
+      "about": "treatment-pond",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "pond-acceptable",
+      "text": "Pond bacteria levels are described as acceptable.",
+      "by": "Marie Granmar",
+      "at": 800.279,
+      "about": "pond-testing",
+      "scope": "part",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "pond-not-drinkable",
+      "text": "Pond water is not for drinking.",
+      "by": "Marie Granmar",
+      "at": 807.959,
+      "about": "treatment-pond",
+      "scope": "feature",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "pond-ecoli",
+      "text": "The pond has high E. coli levels.",
+      "by": "Marie Granmar",
+      "at": 815.399,
+      "about": "pond-testing",
+      "scope": "part",
+      "doubt": "The automatic caption renders the organism as “EOL”; E. coli is a tentative reading, not a confirmed transcription.",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "pond-laboratory-testing",
+      "text": "Pond samples have to be sent to a laboratory; they do that once a year or so.",
+      "by": "Marie Granmar",
+      "at": 826.32,
+      "about": "pond-testing",
+      "scope": "part",
+      "quantity": {
+       "value": 1,
+       "unit": "year",
+       "of": "other",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [
+     {
+      "id": "pond-laboratory-testing",
+      "text": "Pond samples have to be sent to a laboratory; they do that once a year or so.",
+      "by": "Marie Granmar",
+      "at": 826.32,
+      "about": "pond-testing",
+      "scope": "part",
+      "quantity": {
+       "value": 1,
+       "unit": "year",
+       "of": "other",
+       "approx": true
+      },
+      "text_source": "automatic captions"
+     }
+    ],
+    "kinded": {},
+    "parts_counted": [
+     "pond-testing"
+    ]
+   }
+  ]
+ },
+ "synthesis": {
+  "written_by": "codex",
+  "instance_hash": "3640982ea94115ff",
+  "sentences": [
+   {
+    "text": "Tucson’s location-derived climate is hot desert; Taos’s and Stockholm’s are warm-summer humid continental.",
+    "cites": [
+     "QHpo46tawBs/wetland-beds",
+     "efI77fzBgvg/duke-wastewater-cell",
+     "30ghnDOFbNQ/wastewater-system"
+    ]
+   },
+   {
+    "text": "Tucson’s founder describes gravel-and-reed beds; Tom Duke describes septic overflow feeding a lined gravel cell.",
+    "cites": [
+     "QHpo46tawBs/wetland-beds",
+     "efI77fzBgvg/duke-wastewater-cell"
+    ]
+   },
+   {
+    "text": "Tom says his plants need no watering; Marie in Stockholm says wastewater fertilizes hers.",
+    "cites": [
+     "efI77fzBgvg/duke-wastewater-cell",
+     "30ghnDOFbNQ/planted-filter"
+    ]
+   },
+   {
+    "text": "Stockholm separates toilet waste before planted treatment; Marie reports separator emptying approximately every 6 months.",
+    "cites": [
+     "30ghnDOFbNQ/wastewater-system"
+    ]
+   },
+   {
+    "text": "Tucson’s founder reports digging and screening gravel after roots and eroded soil reduced performance over 20 years.",
+    "cites": [
+     "QHpo46tawBs/wetland-rehabilitation"
+    ]
+   },
+   {
+    "text": "Tucson’s restored bed is planned; no engineering assessment supports its predicted service life.",
+    "cites": [
+     "QHpo46tawBs/wetland-restoration-plan"
+    ]
+   },
+   {
+    "text": "The films do not establish why these systems were chosen, their costs or measured treatment performance.",
+    "cites": [
+     "QHpo46tawBs/wetland-beds",
+     "QHpo46tawBs/wetland-rehabilitation",
+     "QHpo46tawBs/wetland-restoration-plan",
+     "QHpo46tawBs/wetland-seasonal-archive",
+     "efI77fzBgvg/duke-wastewater-cell",
+     "30ghnDOFbNQ/wastewater-system",
+     "30ghnDOFbNQ/planted-filter",
+     "30ghnDOFbNQ/treatment-pond"
+    ]
+   }
+  ],
+  "stale": false,
+  "published": true,
+  "rejected": []
+ },
+ "aliases": [
+  {
+   "surface": "rubber-lined exterior planter",
+   "candidates": [
+    "efI77fzBgvg/global-exterior-sewage"
+   ],
+   "reason": "Tom says toilet discharge enters an outside septic tank and then a rubber-lined exterior planter.",
+   "status": "proposed",
+   "titles": {
+    "efI77fzBgvg/global-exterior-sewage": "Claimed septic and lined exterior blackwater planter, Greater World’s Earthship community"
+   }
+  }
+ ],
+ "lineage": [],
+ "gloss": {
+  "text": "A lined planter that treats sewage and grows plants.",
+  "evidence": {
+   "film": "efI77fzBgvg",
+   "at": 1598.64,
+   "quote": "lined sewage treatment planters that grow plants"
+  },
+  "status": "proposed"
+ },
+ "checks": []
+}

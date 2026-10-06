@@ -1,0 +1,7 @@
+# Review — choose candidate 2
+
+Both viewed. Candidate 2 improves on candidate 1 by separating the dining and kitchen camera views with an explicit unmeasured-junction break, removing the speculative adjoining-room polygon, restoring the fan and faucet, separating the lighting types, and removing invented refrigerator door hardware. Exposed tan adobe, gray curtains, white glazing, bowl lamps, green chairs, patterned tablecloths and honey cabinets/dark counter closely reflect the film. Beth's meal recollection remains a boxed claim and no people appear.
+
+Remaining inventions: the isometric viewpoints, furniture spacing/count, regular floor grid, cabinet door count, fan geometry, precise curtain/door hardware and cloth pattern are artist interpretations. The counter is more regular and right-angled than the filmed angled/faceted front; the kitchen is reduced to a simplified open U, not a verified footprint. The sink basin shape and counter depth are inferred from the faucet/window view. Two matching cone pendants and their locations are not established by the three frames. The peach partition is observed but its position relative to this reconstructed counter is approximate. Blank edges omit hidden rooms, rather than document their absence. The captions should not be used to infer measured dimensions or a full plan. This is the shared common house, not a typical private home's interior.
+
+Both candidates use the same three original catalogue frames in order; no generated image was a generation reference.

@@ -1,0 +1,5 @@
+# Review
+
+Selected candidate-2.png, generated with the built-in image_gen tool using prompt-2.txt and the film references enumerated there. Both candidates were flattened before inspection. Candidate 2 improves the fig, removes added terrace objects and confines dashes more appropriately; it retains the key observed relationship of glazed enclosure, sheltered timber facade, turning stair, occupied roof terrace and food plants.
+
+The image is accepted as an indicative explanatory cutaway with the residual deviations recorded in critique-2.md, not as a construction record. In particular, the regular terrace surface joints are generated texture, not evidence for tiled construction; the white right-hand house plane represents an undetailed solid section. The adjacent caveat expressly discloses these. Roof removal and sun-dependent warmth/winter heating are explained through attributed metadata, not an invented former roof or equipment. References in item.json include all ten evidence frames named in the selected prompt in that same order. The final prompt and both critiques are retained here. Generation stopped at the required maximum of two candidates.

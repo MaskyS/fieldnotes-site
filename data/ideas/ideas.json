@@ -1,0 +1,33 @@
+{
+ "note": "TRIAL (reader review 4 Oct 2026, suggestions 13 to 15): ideas that span places. An idea is a term from data/terms.json (a material, method or system) or a pattern in Alexander's sense (a spatial or lived arrangement). A term idea's instances are every feature carrying one of its `terms`; a pattern idea's instances are its `members`, each assigned by hand with a fit (strong or loose) and a stance (follows or departs) and the source of the assignment. A pattern stores only its number, its name and a one-line paraphrase in our own words, never the book's text. scripts/build_ideas.py compiles each idea to data/ideas/<id>.json; agent-written text sits in data/ideas/written/<id>.json and is checked by scripts/check_ideas.py.",
+ "ideas": [
+  {
+   "id": "thermal-mass",
+   "kind": "term",
+   "title": "Thermal mass",
+   "terms": ["thermal mass"]
+  },
+  {
+   "id": "constructed-wetland",
+   "kind": "term",
+   "title": "Constructed wetland",
+   "terms": ["constructed wetland"]
+  },
+  {
+   "id": "apl-112",
+   "kind": "pattern",
+   "title": "Entrance transition",
+   "pattern": {
+    "number": 112,
+    "name": "Entrance Transition",
+    "paraphrase": "Arriving home goes through a distinct in-between space rather than straight from the street to the door."
+   },
+   "members": [
+    {"film": "QHpo46tawBs", "feature": "beth-deep-porch", "fit": "strong", "stance": "follows", "basis": "A deep roofed porch with a bench sits between the shared path and the front door.", "source": "trial-mapping"},
+    {"film": "4fEeh-8OFT8", "feature": "gatehouse-building", "fit": "strong", "stance": "follows", "basis": "A separate street-front building is passed on the way to the main house.", "source": "trial-mapping"},
+    {"film": "4fEeh-8OFT8", "feature": "courtyard-planting", "fit": "strong", "stance": "follows", "basis": "A planted gravel approach runs between the gatehouse and the main-house door.", "source": "trial-mapping"},
+    {"film": "4fEeh-8OFT8", "feature": "lowered-entry", "fit": "loose", "stance": "follows", "basis": "The way in steps down to the lower rooms, a change of level after the door.", "source": "trial-mapping"}
+   ]
+  }
+ ]
+}

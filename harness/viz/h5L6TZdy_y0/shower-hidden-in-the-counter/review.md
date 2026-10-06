@@ -1,0 +1,9 @@
+# Review
+
+Selected: candidate-2.png, generated with the built-in image_gen tool using prompt-2.txt and five attached evidence photographs; all seven evidence photographs named in the prompt are recorded in item.json.
+
+Candidate 2 improves the toilet by removing the unsupported upright lid and adding the observed rear caps. The counter is now ghosted with a raised alternate position, and the bay reads taller. It faithfully retains the right-hand portable toilet, left-hand pan plug, shallow stainless pan, ribbed translucent lining, two pale wooden bins, and separate hand-valved hose detail. The unlocated tank callout explicitly withholds tank shape, capacity and heater internals. The drawing states that this was a clothed spatial demonstration, not a tested enclosure.
+
+Residual limitations: the exploded counter still sits high in the composition, and the shelves are mostly horizontal ghost positions rather than clearly folded against the wall. Read these as diagrammatic displacement, not exact operating positions. Counter colour is diluted by ghosting. Bin proportions, overall dimensions, panel thickness, fixings, shelf geometry and swing arcs are generalized. The single illustrated rod is schematic and not an assertion of total count. The hose's loop is composed and its illustrated free end approaches the spout; no installed route is established. A tiny illegible mark resembling branding on the toilet is a generation artifact, not identification. Additional wood beside the refrigerator is context, not a measured cabinet reconstruction. No hidden pipe, waterproof joint detail, heater, tank body or toilet-to-greywater connection is depicted.
+
+Stopped at the required maximum of two candidates. Candidate 2 is suitable as a caveated spatial illustration, not a fabrication or plumbing drawing.

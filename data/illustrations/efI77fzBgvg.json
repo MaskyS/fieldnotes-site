@@ -1,0 +1,231 @@
+{
+ "property_id": "efI77fzBgvg",
+ "items": [
+  {
+   "id": "propertymap",
+   "title": "Greater World: places seen in the tour",
+   "kind": "map",
+   "path": "data/illustrations/efI77fzBgvg/propertymap.png",
+   "invention_log": "harness/viz/efI77fzBgvg/propertymap/review.md",
+   "feature_ids": [
+    "off-grid-neighborhood",
+    "experimental-permission",
+    "bottle-bricks",
+    "tire-amphitheater",
+    "can-bottle-complex",
+    "simple-solar",
+    "global-mass-wall",
+    "nest-studio",
+    "duke-wastewater-cell",
+    "food-fish-pond",
+    "fridge-mountain-map",
+    "duke-hut-storage",
+    "duke-solar-glazing",
+    "feed-four-design",
+    "chickens",
+    "wolf-student-room",
+    "gravel-pit-reclamation"
+   ],
+   "references": [
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0288.jpg",
+     "time": 1752.00025,
+     "shows": "Frontal refrigerator mountain trail map; unrelated destination, excluded from site geometry."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0308.jpg",
+     "time": 1920.001417,
+     "shows": "Ground-level frontal view of three neighboring multi-level homes in scrub; their local left-to-right relation is visible."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0004.jpg",
+     "time": 24.007317,
+     "shows": "Experimental grounds from road, sculptural low earth buildings and tall unfinished timber-supported complex."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0104.jpg",
+     "time": 551.30075,
+     "shows": "Oblique Global long sloping timber-framed glass frontage with green roof edge and panels."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0313.jpg",
+     "time": 1967.999367,
+     "shows": "Frontal Nest studio green shallow metal roof, three panels, chimney, earth sides and glazing."
+    }
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water systems shown in the community",
+   "kind": "diagram",
+   "path": "data/illustrations/efI77fzBgvg/water.png",
+   "invention_log": "harness/viz/efI77fzBgvg/water/review.md",
+   "feature_ids": [
+    "global-rain-roof",
+    "global-scupper",
+    "global-greywater-pump",
+    "global-exterior-sewage",
+    "simple-water-reuse",
+    "duke-wastewater-cell",
+    "global-greenhouse-partition"
+   ],
+   "references": [
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0142.jpg",
+     "time": 779.995883,
+     "shows": "broad green profiled metal catchment and high roof openings."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0143.jpg",
+     "time": 792.007883,
+     "shows": "round scupper basin with debris, coarse mesh and screened center beneath green channel."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0116.jpg",
+     "time": 611.994717,
+     "shows": "plants in bed by sloping timber glass and inner glazed partition."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0151.jpg",
+     "time": 847.580067,
+     "shows": "small silver diaphragm pump, large black filter housing, hoses and controls."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0251.jpg",
+     "time": 1488.003183,
+     "shows": "tall dense green foliage and small trees, no open water visible."
+    }
+   ]
+  },
+  {
+   "id": "construction",
+   "title": "Simple Survival demonstration-house section",
+   "kind": "section",
+   "path": "data/illustrations/efI77fzBgvg/construction.png",
+   "invention_log": "harness/viz/efI77fzBgvg/construction/review.md",
+   "feature_ids": [
+    "simple-vault-roof",
+    "simple-greenhouse-zone",
+    "simple-cooling-tube",
+    "simple-solar",
+    "simple-hot-water"
+   ],
+   "references": [
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0050.jpg",
+     "time": 262.345417,
+     "shows": "timber-framed glazing, green metal flashing, long dark photovoltaic strip."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0064.jpg",
+     "time": 327.67735,
+     "shows": "planted edge, timber glazing, inner door division and bottle-pattern end wall."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0072.jpg",
+     "time": 367.0667,
+     "shows": "continuous rounded pale brown plaster vault and wall; tube near floor."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0070.jpg",
+     "time": 353.086067,
+     "shows": "Front close-up of low corrugated dark tube within square wooden opening; hinged wooden cover."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0054.jpg",
+     "time": 282.048433,
+     "shows": "Upper exterior glazing shows dark vessels, rigid small solar panel and roof photovoltaic strip."
+    }
+   ]
+  },
+  {
+   "id": "sharedplace",
+   "title": "Academy gathering and construction places",
+   "kind": "diagram",
+   "path": "data/illustrations/efI77fzBgvg/sharedplace.png",
+   "invention_log": "harness/viz/efI77fzBgvg/sharedplace/review.md",
+   "feature_ids": [
+    "tire-amphitheater",
+    "bottle-bricks",
+    "can-bottle-complex",
+    "student-stairs",
+    "earthship-academy",
+    "future-student-housing"
+   ],
+   "references": [
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0020.jpg",
+     "time": 130.346883,
+     "shows": "Low side view across curved earth-filled black tire amphitheater tiers and rough earth terrace."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0012.jpg",
+     "time": 83.750333,
+     "shows": "loose blue, green and clear bottles and simple worktable."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0023.jpg",
+     "time": 146.679867,
+     "shows": "repeated silver can ends, exposed tires at openings, pointed timber door and sloping glazing."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0026.jpg",
+     "time": 160.2601,
+     "shows": "colored bottle dots around pointed door, can ends, curved stair and timber glass."
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0038.jpg",
+     "time": 215.398517,
+     "shows": "Downward close-up of rough curved stair treads and can ends in risers."
+    }
+   ]
+  },
+  {
+   "id": "portrait",
+   "title": "Greater World under a clouded sky",
+   "kind": "portrait",
+   "hero": true,
+   "scope": "most",
+   "path": "data/illustrations/efI77fzBgvg/portrait.png",
+   "invention_log": "harness/viz/efI77fzBgvg/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "off-grid-neighborhood",
+    "gravel-pit-reclamation"
+   ],
+   "references": [
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0308.jpg",
+     "time": 1920.001417,
+     "role": "vantage"
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0309.jpg",
+     "time": 1927.892633,
+     "role": "detail"
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0306.jpg",
+     "time": 1895.9941,
+     "role": "detail"
+    },
+    {
+     "path": "review/efI77fzBgvg/evidence/frame-0305.jpg",
+     "time": 1883.998783,
+     "role": "detail"
+    }
+   ]
+  }
+ ]
+}

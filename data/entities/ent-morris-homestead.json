@@ -1,0 +1,112 @@
+{
+ "id": "ent-morris-homestead",
+ "type": "place",
+ "name": "Morris homestead",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "swrez2ZA0cc",
+    "title": "Morris homestead",
+    "where": "Ozarks, Missouri, United States",
+    "film_year": "2026",
+    "upload_date": "2026-08-11",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=swrez2ZA0cc",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Morris homestead",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Josh Morris",
+      "relation": "owner"
+     },
+     {
+      "name": "Chiara Morris",
+      "relation": "owner"
+     }
+    ],
+    "gist": "A former Army Ranger and his family built underground for security, slept through a tornado, and traded social time for tending their farm.",
+    "figures": {
+     "land area": [
+      {
+       "id": "claim-1",
+       "text": "360-acre homestead built over 20 years",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 360,
+        "unit": "acre",
+        "of": "land area"
+       }
+      }
+     ]
+    },
+    "point": {
+     "lat": 38.76,
+     "lon": -92.562,
+     "matched": "Missouri, United States",
+     "stands_for": "state",
+     "extent_km": 582
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Dfa",
+      "name": "hot-summer humid continental"
+     },
+     "rain_mm": 1005,
+     "zone": "6b",
+     "elevation_m": null,
+     "from": "Missouri, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2026"
+   ]
+  },
+  "figures": [
+   {
+    "of": "land area",
+    "cells": {
+     "swrez2ZA0cc": [
+      {
+       "id": "claim-1",
+       "text": "360-acre homestead built over 20 years",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 360,
+        "unit": "acre",
+        "of": "land area"
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "location_warnings": [],
+  "instance_hash": "f6b90be13f2e3880",
+  "built": "2026-10-06T13:18:27"
+ }
+}

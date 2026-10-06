@@ -1,0 +1,75 @@
+{
+ "id": "ent-marie-charles-greenhouse-enclosed-summer-house",
+ "type": "place",
+ "name": "Marie and Charles’s greenhouse-enclosed summer house",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "30ghnDOFbNQ",
+    "title": "Marie and Charles’s greenhouse-enclosed summer house",
+    "where": "Stockholm archipelago, Sweden",
+    "film_year": "2015",
+    "upload_date": "2015-11-11",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=30ghnDOFbNQ",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Granmar–Sacilotto household site",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Marie Granmar",
+      "relation": "owner"
+     },
+     {
+      "name": "Charles Sacilotto",
+      "relation": "owner"
+     }
+    ],
+    "gist": "Marie and Charles enclosed a summer house in a greenhouse for year-round family life, gaining a rooftop playground but still waking to winter cold.",
+    "figures": {},
+    "point": {
+     "lat": 59.325,
+     "lon": 18.071,
+     "matched": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+     "stands_for": "city",
+     "extent_km": null
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Dfb",
+      "name": "warm-summer humid continental"
+     },
+     "rain_mm": 590,
+     "zone": "7b",
+     "elevation_m": 23,
+     "from": "Stockholm, Stockholm Municipality, Stockholm County, 111 29, Sweden",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2015"
+   ]
+  },
+  "figures": [],
+  "location_warnings": [],
+  "instance_hash": "cd0fae3c04678b45",
+  "built": "2026-10-06T13:18:27"
+ }
+}

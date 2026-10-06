@@ -1,0 +1,271 @@
+{
+ "property_id": "hiSjH9bk6bI",
+ "items": [
+  {
+   "id": "panjab-at-the-bank",
+   "title": "Panjab at the Seine Bank",
+   "kind": "plan",
+   "feature_ids": [
+    "mooring",
+    "gangway",
+    "converted-barge",
+    "outdoor-living",
+    "deck-spa",
+    "opposite-terrace"
+   ],
+   "references": [
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0061.jpg",
+     "time": 179.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0187.jpg",
+     "time": 597.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0027.jpg",
+     "time": 73.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0194.jpg",
+     "time": 621.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0424.jpg",
+     "time": 1274.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0426.jpg",
+     "time": 1278.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0431.jpg",
+     "time": 1286.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0453.jpg",
+     "time": 1366.0
+    }
+   ],
+   "path": "data/illustrations/hiSjH9bk6bI/panjab-at-the-bank.png",
+   "invention_log": "harness/viz/hiSjH9bk6bI/panjab-at-the-bank/review.md"
+  },
+  {
+   "id": "cargo-hold-to-home",
+   "title": "Cargo Hold to Home",
+   "kind": "diagram",
+   "feature_ids": [
+    "cargo-hull-archive",
+    "conversion-archive",
+    "archive-tow",
+    "converted-barge"
+   ],
+   "references": [
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0125.jpg",
+     "time": 410.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0127.jpg",
+     "time": 419.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0143.jpg",
+     "time": 461.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0151.jpg",
+     "time": 483.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0158.jpg",
+     "time": 502.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0166.jpg",
+     "time": 520.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0173.jpg",
+     "time": 536.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0188.jpg",
+     "time": 602.5
+    }
+   ],
+   "path": "data/illustrations/hiSjH9bk6bI/cargo-hold-to-home.png",
+   "invention_log": "harness/viz/hiSjH9bk6bI/cargo-hold-to-home/review.md"
+  },
+  {
+   "id": "glass-stair-garden",
+   "title": "Glass stair and living garden",
+   "kind": "cutaway",
+   "feature_ids": [
+    "glass-floor",
+    "glass-stair",
+    "stair-garden"
+   ],
+   "references": [
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0036.jpg",
+     "time": 101.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0087.jpg",
+     "time": 309.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0094.jpg",
+     "time": 323.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0098.jpg",
+     "time": 333.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0099.jpg",
+     "time": 339.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0415.jpg",
+     "time": 1255.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0417.jpg",
+     "time": 1259.5
+    }
+   ],
+   "path": "data/illustrations/hiSjH9bk6bI/glass-stair-garden.png",
+   "invention_log": "harness/viz/hiSjH9bk6bI/glass-stair-garden/review.md"
+  },
+  {
+   "id": "living-at-the-waterline",
+   "title": "Living at the Waterline",
+   "kind": "section",
+   "feature_ids": [
+    "water-level-comfort",
+    "lower-lounge-fitout"
+   ],
+   "references": [
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0107.jpg",
+     "time": 359.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0294.jpg",
+     "time": 908.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0297.jpg",
+     "time": 916.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0301.jpg",
+     "time": 931.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0306.jpg",
+     "time": 946.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0372.jpg",
+     "time": 1145.5
+    }
+   ],
+   "path": "data/illustrations/hiSjH9bk6bI/living-at-the-waterline.png",
+   "invention_log": "harness/viz/hiSjH9bk6bI/living-at-the-waterline/review.md"
+  },
+  {
+   "id": "finishes-that-allow-movement",
+   "title": "Finishes that allow movement",
+   "kind": "diagram",
+   "feature_ids": [
+    "flexible-joints",
+    "interior-wood"
+   ],
+   "references": [
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0188.jpg",
+     "time": 602.5
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0357.jpg",
+     "time": 1113.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0365.jpg",
+     "time": 1129.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0367.jpg",
+     "time": 1132.0
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0276.jpg",
+     "time": 850.0
+    }
+   ],
+   "path": "data/illustrations/hiSjH9bk6bI/finishes-that-allow-movement.png",
+   "invention_log": "harness/viz/hiSjH9bk6bI/finishes-that-allow-movement/review.md"
+  },
+  {
+   "id": "portrait",
+   "title": "Panjab in leafy afternoon light",
+   "kind": "portrait",
+   "hero": true,
+   "scope": "whole",
+   "path": "data/illustrations/hiSjH9bk6bI/portrait.png",
+   "invention_log": "harness/viz/hiSjH9bk6bI/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "converted-barge",
+    "upper-glazing",
+    "roof-and-rooflights",
+    "plant-ledge",
+    "opposite-terrace",
+    "mooring",
+    "deck-planting",
+    "current-hull-marking"
+   ],
+   "references": [
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0354.jpg",
+     "time": 1094.5,
+     "role": "vantage"
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0355.jpg",
+     "time": 1097.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0187.jpg",
+     "time": 597.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0050.jpg",
+     "time": 138.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/hiSjH9bk6bI/evidence/frame-0483.jpg",
+     "time": 1483.0,
+     "role": "detail"
+    }
+   ]
+  }
+ ]
+}

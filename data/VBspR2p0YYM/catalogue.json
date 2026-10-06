@@ -1,0 +1,3541 @@
+{
+ "title": "Rob Torcellini’s backyard aquaponic greenhouse",
+ "source": {
+  "id": "VBspR2p0YYM",
+  "url": "https://www.youtube.com/watch?v=VBspR2p0YYM",
+  "duration": 664.361,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "Automatic English captions (generated=true, language=en in captions manifest). Material names and the E. coli comparison contain garbling; speaker attribution is checked against the filmed demonstrations. No translated or burned-in subtitle passages were used.",
+  "transcript_kind": "automatic captions",
+  "context": {
+   "location": {
+    "country": "United States",
+    "state_or_region": "Connecticut",
+    "nearest_place": "not disclosed",
+    "precision": "state_or_region",
+    "climate": {
+     "koppen": "Dfa",
+     "name": "hot-summer humid continental",
+     "group": "continental",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Connecticut, United States",
+      "lat": 41.65,
+      "lon": -72.734,
+      "matched": "Connecticut, United States",
+      "stands_for": "state",
+      "extent_km": 162,
+      "precision": "state_or_region"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 1196,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Connecticut, United States",
+      "lat": 41.65,
+      "lon": -72.734,
+      "matched": "Connecticut, United States",
+      "stands_for": "state",
+      "extent_km": 162,
+      "precision": "state_or_region"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "6b",
+     "mean_annual_extreme_min_c": -18.8,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Connecticut, United States",
+      "lat": 41.65,
+      "lon": -72.734,
+      "matched": "Connecticut, United States",
+      "stands_for": "state",
+      "extent_km": 162,
+      "precision": "state_or_region"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2011-08-22"
+  }
+ },
+ "sampling": {
+  "frames": 165,
+  "candidate_shots": 82,
+  "contact_sheets": 6,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/VBspR2p0YYM"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "rob-torcellini"
+  ],
+  "gist": "Rob adds fish to tackle greenhouse mosquitoes, discovers aquaponics, and automates his growing system while still wrestling with sticky vents and pests.",
+  "story": {
+   "text": "Rob starts with a greenhouse for garden seedlings, then adds a water tank to steady its temperature. Mosquitoes lead him to add fish, and keeping their water clean leads him to aquaponics. He rebuilds the greenhouse around fish tanks and planted beds, delighted by how well things grow. Calling himself a lazy gardener, he automates feeding and ventilation, though the vents still need a helping hand. Inside the house, he shows a smaller system made with storage containers. He still pulls weeds and squashes aphids, and enjoys taking cucumbers to work even when colleagues question the fish-waste fertilizer.",
+   "moments": [
+    {
+     "phrase": "a greenhouse for garden seedlings",
+     "at": 7.399
+    },
+    {
+     "phrase": "Mosquitoes lead him to add fish",
+     "at": 20.64
+    },
+    {
+     "phrase": "he automates feeding and ventilation",
+     "at": 353.28
+    },
+    {
+     "phrase": "a smaller system made with storage containers",
+     "at": 476.639
+    },
+    {
+     "phrase": "pulls weeds and squashes aphids",
+     "at": 544.92
+    },
+    {
+     "phrase": "taking cucumbers to work",
+     "at": 624.04
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Rob Torcellini’s household site",
+   "kind": "site",
+   "within": null,
+   "caveat": "Connecticut is disclosed; town, address, acreage and boundaries are not.",
+   "entity": "ent-rob-torcellini-backyard-aquaponic-greenhouse"
+  },
+  {
+   "id": "yard",
+   "title": "Backyard and driveway",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Exterior views establish lawn, drive, trees and greenhouse setting, not surveyed relationships."
+  },
+  {
+   "id": "garden",
+   "title": "Fenced outdoor growing plot",
+   "kind": "outdoor area",
+   "within": "yard",
+   "caveat": "Seen beside greenhouse; extent and relationship to the spoken main garden are not fully established."
+  },
+  {
+   "id": "greenhouse",
+   "title": "Aquaponic greenhouse",
+   "kind": "building",
+   "within": "site",
+   "caveat": "One greenhouse is toured; dimensions come from description, not measurement."
+  },
+  {
+   "id": "house",
+   "title": "Rob’s house",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Exterior and limited indoor system tour only; connection from yard to interior is through an edit."
+  },
+  {
+   "id": "living-kitchen",
+   "title": "Living and kitchen area glimpse",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Brief view shows sofa, cabinetry and an opening looking into the entry passage; room boundaries are not toured."
+  },
+  {
+   "id": "entry-passage",
+   "title": "Entry passage with aquaponic rack",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Descriptive name based on visible entry door and passage; Rob does not name the room."
+  },
+  {
+   "id": "garage",
+   "title": "Garage exterior",
+   "kind": "building",
+   "within": "site",
+   "caveat": "Garage doors and pale exterior are shown beside the house; no interior tour or construction history."
+  }
+ ],
+ "people": [
+  {
+   "id": "rob-torcellini",
+   "name": "Rob Torcellini",
+   "relation": "owner",
+   "note": "Named in the description; presents the backyard greenhouse and indoor system as his, and demonstrates their construction and operation."
+  },
+  {
+   "id": "kirsten-dirksen",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Named as uploader/channel in metadata; no assumption that every off-camera voice is hers.",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "kit-price",
+   "text": "Greenhouse kit cost $700.",
+   "by": "description",
+   "at": [],
+   "about": "greenhouse",
+   "headline": true,
+   "quantity": {
+    "value": 700,
+    "unit": "USD",
+    "of": "component cost"
+   }
+  },
+  {
+   "id": "greenhouse-width",
+   "text": "One greenhouse dimension is 10 feet.",
+   "by": "description",
+   "at": [],
+   "about": "greenhouse",
+   "headline": true,
+   "quantity": {
+    "value": 10,
+    "unit": "ft",
+    "of": "length"
+   }
+  },
+  {
+   "id": "greenhouse-length",
+   "text": "The other greenhouse dimension is 12 feet.",
+   "by": "description",
+   "at": [],
+   "about": "greenhouse",
+   "headline": false,
+   "quantity": {
+    "value": 12,
+    "unit": "ft",
+    "of": "length"
+   }
+  },
+  {
+   "id": "connecticut",
+   "text": "The backyard greenhouse is in Connecticut.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true
+  },
+  {
+   "id": "scavenged-description",
+   "text": "The greenhouse setup uses mostly scavenged parts.",
+   "by": "description",
+   "at": [],
+   "about": "scavenged-parts",
+   "headline": true
+  },
+  {
+   "id": "seedling-purpose",
+   "text": "The greenhouse originally started seedlings for the main garden.",
+   "by": "rob-torcellini",
+   "at": [
+    7.399
+   ],
+   "about": "seedling-greenhouse",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "heat-sink",
+   "text": "The original water tank helped maintain greenhouse temperature.",
+   "by": "rob-torcellini",
+   "at": [
+    14.36
+   ],
+   "about": "heat-storage-tank",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "mosquitoes",
+   "text": "Fish were introduced to control mosquitoes breeding in the tank.",
+   "by": "rob-torcellini",
+   "at": [
+    20.64
+   ],
+   "about": "heat-storage-tank",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "conversion",
+   "text": "The entire greenhouse was converted to aquaponics.",
+   "by": "rob-torcellini",
+   "at": [
+    44.6
+   ],
+   "about": "aquaponic-conversion",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "goldfish-not-food",
+   "text": "The greenhouse currently keeps goldfish rather than edible fish.",
+   "by": "rob-torcellini",
+   "at": [
+    63.079
+   ],
+   "about": "greenhouse-goldfish",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cold-for-tilapia",
+   "text": "Local conditions are too cold for tilapia.",
+   "by": "rob-torcellini",
+   "at": [
+    79.32
+   ],
+   "about": "greenhouse-goldfish",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "feeder-frequency",
+   "text": "The automatic feeder feeds fish several times daily.",
+   "by": "rob-torcellini",
+   "at": [
+    86.64
+   ],
+   "about": "fish-feeder",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fish-ammonia",
+   "text": "Fish excrete ammonia through their gills.",
+   "by": "rob-torcellini",
+   "at": [
+    93.399
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bacterial-conversion",
+   "text": "Bacteria convert ammonia to nitrites and then nitrates.",
+   "by": "rob-torcellini",
+   "at": [
+    110.759
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "plant-nutrients",
+   "text": "Plants absorb nitrates as fertilizer.",
+   "by": "rob-torcellini",
+   "at": [
+    119.32
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "clean-loop",
+   "text": "Plant filtration returns clean water to the fish.",
+   "by": "rob-torcellini",
+   "at": [
+    127.36
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bed-fill-interval",
+   "text": "The grow bed fills about every hour and a half.",
+   "by": "rob-torcellini",
+   "at": [
+    156.599
+   ],
+   "about": "weighted-cup-drain",
+   "headline": false,
+   "quantity": {
+    "value": 1.5,
+    "unit": "hour",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "root-aeration",
+   "text": "Flooding and draining gives moist roots access to air.",
+   "by": "rob-torcellini",
+   "at": [
+    188.519
+   ],
+   "about": "grow-beds",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "granite",
+   "text": "The bed medium is crushed granite.",
+   "by": "rob-torcellini",
+   "at": [
+    211
+   ],
+   "about": "crushed-granite",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "expanded-medium-name",
+   "text": "The greenhouse uses an expanded growing medium.",
+   "by": "rob-torcellini",
+   "at": [
+    219.76
+   ],
+   "about": "greenhouse-expanded-media",
+   "headline": false,
+   "doubt": "Captions say “expanded shell” here but “expanded Shale” indoors; the greenhouse material name is uncertain.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "wet-media",
+   "text": "The growing medium stays wet all day.",
+   "by": "rob-torcellini",
+   "at": [
+    233.439
+   ],
+   "about": "greenhouse-expanded-media",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "weed-comparison",
+   "text": "There are fewer weeds than in a traditional garden.",
+   "by": "rob-torcellini",
+   "at": [
+    264.32
+   ],
+   "about": "hand-weeding",
+   "headline": false,
+   "doubt": "The comparative caption omits “than,” although the surrounding discussion describes fewer weeds.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tower-flow",
+   "text": "Water enters tower tops and trickles to the bottom.",
+   "by": "rob-torcellini",
+   "at": [
+    289
+   ],
+   "about": "white-strawberry-towers",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tower-footprint",
+   "text": "The towers occupy about five or six square feet.",
+   "by": "rob-torcellini",
+   "at": [
+    295.84
+   ],
+   "about": "strawberries",
+   "headline": false,
+   "quantity": {
+    "value": 5.5,
+    "unit": "ft2",
+    "of": "component area",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "monitoring",
+   "text": "The controller monitors air temperature, water temperature and light.",
+   "by": "rob-torcellini",
+   "at": [
+    334.96
+   ],
+   "about": "monitoring-computer",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "sticking-vents",
+   "text": "The automatic vents occasionally stick and need manual assistance.",
+   "by": "rob-torcellini",
+   "at": [
+    348.68
+   ],
+   "about": "automatic-roof-vents",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "temperature-vents",
+   "text": "Temperature control automatically opens and closes the vents.",
+   "by": "rob-torcellini",
+   "at": [
+    361.16
+   ],
+   "about": "automatic-roof-vents",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "remote-access",
+   "text": "Greenhouse statistics and settings can be accessed from work.",
+   "by": "rob-torcellini",
+   "at": [
+    374.4
+   ],
+   "about": "remote-monitoring",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bed-construction",
+   "text": "Grow beds use welded pipe and rubber pond liner.",
+   "by": "rob-torcellini",
+   "at": [
+    407.28
+   ],
+   "about": "welded-lined-beds",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "indoor-filtering",
+   "text": "The indoor plant tray filters the aquarium water.",
+   "by": "rob-torcellini",
+   "at": [
+    441.039
+   ],
+   "about": "indoor-system",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "filter-replacement",
+   "text": "Charcoal filter sets previously lasted one week.",
+   "by": "rob-torcellini",
+   "at": [
+    454.68
+   ],
+   "about": "previous-charcoal-filters",
+   "headline": false,
+   "quantity": {
+    "value": 1,
+    "unit": "week",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pump-cost",
+   "text": "A standard pond pump costs about $15–$20.",
+   "by": "rob-torcellini",
+   "at": [
+    471.24
+   ],
+   "about": "indoor-pump",
+   "headline": false,
+   "quantity": {
+    "value": 17.5,
+    "unit": "USD",
+    "of": "component cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "indoor-media",
+   "text": "The indoor growing medium is expanded shale.",
+   "by": "rob-torcellini",
+   "at": [
+    498.199
+   ],
+   "about": "indoor-expanded-shale",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cloudy-water",
+   "text": "The indoor aquarium water does not stay completely clear.",
+   "by": "rob-torcellini",
+   "at": [
+    518.599
+   ],
+   "about": "indoor-aquarium",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "window-growing",
+   "text": "A window can replace artificial lighting for indoor plants.",
+   "by": "rob-torcellini",
+   "at": [
+    536.279
+   ],
+   "about": "indoor-grow-light",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "insecticide-fish",
+   "text": "Insecticides entering the water harm the fish.",
+   "by": "rob-torcellini",
+   "at": [
+    553.8
+   ],
+   "about": "pest-management",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "organic-growing",
+   "text": "Everything here is organically grown without introduced outside chemicals.",
+   "by": "rob-torcellini",
+   "at": [
+    561.88
+   ],
+   "about": "pest-management",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fish-food-fertilizer",
+   "text": "Fish food and fish waste water feed the plants.",
+   "by": "rob-torcellini",
+   "at": [
+    567.88
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "ecoli-claim",
+   "text": "E. coli does not come from cold-blooded fish.",
+   "by": "rob-torcellini",
+   "at": [
+    584.399
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "doubt": "The captions garble the following comparison as “cold blooded animals like a cow,” making the intended comparison uncertain.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "drinkable-claim",
+   "text": "The system water could be drunk.",
+   "by": "rob-torcellini",
+   "at": [
+    592.64
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "would-not-drink",
+   "text": "Rob would probably not drink the system water himself.",
+   "by": "rob-torcellini",
+   "at": [
+    595.88
+   ],
+   "about": "greenhouse-loop",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cucumber-sharing",
+   "text": "Rob brings homegrown cucumbers to work.",
+   "by": "rob-torcellini",
+   "at": [
+    624.04
+   ],
+   "about": "cucumbers",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cucumber-performance",
+   "text": "Cucumbers grow extremely well in the greenhouse.",
+   "by": "rob-torcellini",
+   "at": [
+    640.24
+   ],
+   "about": "cucumbers",
+   "headline": false,
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://www.bigelowbrook.com",
+   "kind": "own site",
+   "entity": {
+    "type": "organisation",
+    "name": "Bigelow Brook Farm",
+    "people": [],
+    "entity": "ent-bigelow-brook-farm"
+   },
+   "by": "description",
+   "line": "Bigelow Brook Farm: www.bigelowbrook.com",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "indoor-grow-tray",
+   "predicate": "sits above",
+   "object": "indoor-aquarium",
+   "time": 445,
+   "status": "shown"
+  },
+  {
+   "subject": "indoor-aquarium",
+   "predicate": "sits above",
+   "object": "indoor-sump",
+   "time": 432.5,
+   "status": "shown"
+  },
+  {
+   "subject": "indoor-pump",
+   "predicate": "feeds",
+   "object": "indoor-grow-tray",
+   "time": 469,
+   "status": "shown"
+  },
+  {
+   "subject": "indoor-grow-light",
+   "predicate": "illuminates",
+   "object": "indoor-vegetables",
+   "time": 463,
+   "status": "shown"
+  },
+  {
+   "subject": "fish-feeder",
+   "predicate": "discharges into",
+   "object": "greenhouse-goldfish",
+   "time": 87,
+   "status": "shown"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "greenhouse",
+   "title": "Backyard hobby greenhouse",
+   "place": "greenhouse",
+   "category": "Structure",
+   "description": "Rob Torcellini converted a purchased hobby greenhouse into a backyard aquaponic growing space. The kit cost $700 and measures 10 by 12 feet [about 3.0 by 3.7 metres], according to the film's description. Rob considers this size practical for an urban or suburban yard.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Kit maker, installation date, foundations and total installed cost are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "greenhouse",
+    "kit"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 316.84,
+     "end": 326,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 315.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0080.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0013",
+     "time": 61.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0013.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0013.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 11.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0004.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0080.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-panels",
+   "title": "Translucent framed wall and roof panels",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "Translucent ribbed panels fitted into a slender frame form the greenhouse walls and pitched roof, with separate opening panels incorporated into the roof.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "Panel polymer, frame alloy and thermal specification are not identified.",
+   "related_ids": [],
+   "terms": [
+    "wall",
+    "roof"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0092",
+     "time": 362.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0092.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0092.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0013",
+     "time": 61.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0013.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0013.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0092.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-doors",
+   "title": "Wide opening with paired panel doors",
+   "place": "greenhouse",
+   "category": "Structure",
+   "description": "Two outward-opening panel doors give access to the central aisle between the raised growing beds.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "Door dimensions and weather seals are not established.",
+   "related_ids": [],
+   "terms": [
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 389.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0100.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 315.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0080.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0100.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-paving",
+   "title": "Paved greenhouse aisle and threshold",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "Individual paving slabs form the greenhouse aisle and entrance floor, extending beneath the raised bed frames.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "Paver composition, drainage and sub-base are not explained.",
+   "related_ids": [],
+   "terms": [
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0082",
+     "time": 327.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0082.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0082.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 389.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0100.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0082.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "seedling-greenhouse",
+   "title": "Earlier greenhouse for garden seedlings",
+   "place": "greenhouse",
+   "category": "Process",
+   "description": "Rob originally put up the greenhouse to start seedlings for the household's main garden, before rebuilding its interior for aquaponics.",
+   "phase": "historical",
+   "part_of": "greenhouse",
+   "unknown": "No footage of that earlier arrangement or date of change is supplied.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 7.399,
+     "end": 14.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 11.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0004.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0005",
+     "time": 16.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0005.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0005.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0004.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "heat-storage-tank",
+   "title": "Original water tank as heat sink",
+   "place": "greenhouse",
+   "category": "Climate",
+   "description": "Rob added a large water tank as a heat sink to help maintain the greenhouse temperature. When mosquitoes began breeding in it, he introduced fish to control them; the resulting need to clean the fish water led him towards aquaponics.",
+   "phase": "historical",
+   "part_of": "greenhouse",
+   "unknown": "The original tank is not securely identified among current vessels; capacity and thermal performance are unknown.",
+   "related_ids": [],
+   "terms": [
+    "tank",
+    "thermal mass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 14.36,
+     "end": 27.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 21.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0006.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 26.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0007.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0006.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "aquaponic-conversion",
+   "title": "Rebuilding the greenhouse for aquaponics",
+   "place": "greenhouse",
+   "category": "Process",
+   "description": "Looking for a way to clean the water after introducing fish, Rob found an online community practising aquaponics. He emptied the greenhouse, rebuilt it with different tanks and homemade grow beds, and converted the whole interior to the system. Rob says the plants' growth quickly got him hooked.",
+   "phase": "historical",
+   "part_of": "greenhouse",
+   "unknown": "Conversion date, duration and total expenditure are not given.",
+   "related_ids": [
+    "greenhouse-loop"
+   ],
+   "terms": [
+    "conversion",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 27.8,
+     "end": 57.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0010",
+     "time": 52.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0010.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0010.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0012",
+     "time": 58.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0012.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0012.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0010.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-loop",
+   "title": "Recirculating fish and plant water system",
+   "place": "greenhouse",
+   "category": "Water",
+   "description": "Water circulates from the fish tank through planted grow beds, drains into a lower sump and is pumped back to the fish. Rob explains that bacteria convert ammonia excreted by the fish into nitrites and then nitrates, which the plants take up as fertilizer, cleaning the circulating water. He describes fish food and the resulting fish waste as the inputs that feed the plants.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The camera does not trace every concealed pipe or establish water chemistry, replacement-water demand or microbiological safety.",
+   "related_ids": [
+    "growing-media",
+    "greenhouse-crops",
+    "strawberries"
+   ],
+   "terms": [
+    "tank",
+    "pump"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 60.12,
+     "end": 70.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 93.399,
+     "end": 153.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 155.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0033.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 72.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0017.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 147.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0031.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0033.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-goldfish",
+   "title": "Goldfish in round greenhouse tank",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob keeps goldfish in the greenhouse tank to supply the aquaponic system, rather than raising fish for eating. He says he cannot keep the water warm enough for tilapia in New England and mentions trout or perch as fish other growers use in colder areas.",
+   "phase": "current",
+   "part_of": "greenhouse-loop",
+   "unknown": "Fish count, tank capacity and heating provisions are unstated; the temperature scale is not spoken in the captions.",
+   "related_ids": [],
+   "terms": [
+    "tank"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 60.12,
+     "end": 86.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 75.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0018.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0155",
+     "time": 602.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0155.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0155.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 72.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0017.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fish-tank-cover",
+   "title": "Removable translucent fish-tank cover",
+   "place": "greenhouse",
+   "category": "Structure",
+   "description": "A loose translucent sheet rests across the round fish tank and can be lifted away for access to the water and fish.",
+   "phase": "current",
+   "part_of": "greenhouse-goldfish",
+   "unknown": "Cover material and its purpose are not explained.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0016",
+     "time": 71.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0016.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0016.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 72.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0017.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0016.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "fish-feeder",
+   "title": "Motorized hopper fish feeder",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "A hopper feeds a motor-driven dispenser above the fish tank. Rob says it feeds the goldfish several times a day, and his controller monitors water temperature as part of the feeding arrangement. He built the automation to avoid having to come out each day to feed them himself.",
+   "phase": "current",
+   "part_of": "greenhouse-goldfish",
+   "unknown": "Exact schedule, ration size and temperature-control logic are not disclosed.",
+   "related_ids": [
+    "automation"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 86.64,
+     "end": 93.399,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 366.759,
+     "end": 374.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 87.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0022.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0022.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "grow-beds",
+   "title": "Raised lined aquaponic grow beds",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Raised, lined beds hold loose mineral growing media and receive water from the fish system. Their drains let the beds fill and empty repeatedly; Rob uses this cycle to keep the roots moist while giving them access to air.",
+   "phase": "current",
+   "part_of": "greenhouse-loop",
+   "unknown": "Bed capacities, load ratings and measured flood depths are not given.",
+   "related_ids": [
+    "growing-media"
+   ],
+   "terms": [
+    "raised bed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 156.599,
+     "end": 180.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 188.519,
+     "end": 207.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 155.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0033.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 201.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0046.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0033.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "welded-lined-beds",
+   "title": "Welded pipe frames and pond liner",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "Rob made the grow beds by welding pipe frames together and fitting rubber pond liner inside them to contain the water and growing media.",
+   "phase": "current",
+   "part_of": "grow-beds",
+   "unknown": "Pipe specification, liner grade and applicability to the other kinds of containers are not established.",
+   "related_ids": [],
+   "terms": [
+    "metal",
+    "rubber",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 404.44,
+     "end": 413.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 155.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0033.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 243.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0055.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0033.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "horizontal-troughs",
+   "title": "Long dark troughs with planting openings",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Long cylindrical containers serve as narrow growing beds, with sections of their upper surfaces cut away for planting into loose mineral media.",
+   "phase": "current",
+   "part_of": "grow-beds",
+   "unknown": "Rob does not separately identify their material, construction method or hydraulic connection.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0103",
+     "time": 403.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0103.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0103.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0104",
+     "time": 406.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0104.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0104.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0064",
+     "time": 274.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0064.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0064.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0103.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "weighted-cup-drain",
+   "title": "Weighted cup and lever bed drain",
+   "place": "greenhouse",
+   "category": "Water",
+   "description": "As the bed fills, water overflows into a suspended cup made from a cut plastic bottle. Rob explains that the cup's increasing weight pulls down a lever, lifting a plunger at the bottom to drain the bed. He puts the filling interval at about an hour and a half.",
+   "phase": "current",
+   "part_of": "grow-beds",
+   "unknown": "The concealed plunger and an uninterrupted full cycle are not shown.",
+   "related_ids": [],
+   "terms": [
+    "drainage",
+    "plastic"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 156.599,
+     "end": 178.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 170.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0039.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 172.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0040.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0037",
+     "time": 165.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0037.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0037.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0039.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-bell-siphon",
+   "title": "Bell siphon with central standpipe",
+   "place": "greenhouse",
+   "category": "Water",
+   "description": "A bell siphon provides another way to drain a grow bed, with a removable bell over a central standpipe inside a wider sleeve that separates it from the growing media. Rob uses flooding and draining to leave roots moist but exposed to air between floods.",
+   "phase": "current",
+   "part_of": "grow-beds",
+   "unknown": "Siphon dimensions, flow thresholds and long-term reliability are unknown.",
+   "related_ids": [],
+   "terms": [
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 180.4,
+     "end": 207.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0044",
+     "time": 190.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0044.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0044.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 194.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0045.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 201.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0046.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0044.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-sump",
+   "title": "Lower sump and return pumping",
+   "place": "greenhouse",
+   "category": "Water",
+   "description": "The lower sump receives water draining from the grow beds, and a pump sends it back to the fish tanks to complete the circulation loop.",
+   "phase": "current",
+   "part_of": "greenhouse-loop",
+   "unknown": "The sump vessel is partly obscured; its capacity, pump model and complete pipe route cannot be established.",
+   "related_ids": [],
+   "terms": [
+    "tank",
+    "pump"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 129.319,
+     "end": 153.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 135.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0027.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 147.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0031.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 177.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0041.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0027.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "growing-media",
+   "title": "Loose mineral media for plant roots",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "The plants root in loose mineral media instead of garden soil, with different beds using crushed granite and an expanded medium. Rob finds the expanded material easy to pull old plants from and replant directly, avoiding the rototilling or hoeing he would otherwise need.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No measured water retention, chemistry or media-life comparison is supplied.",
+   "related_ids": [
+    "grow-beds"
+   ],
+   "terms": [
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 211,
+     "end": 259.239,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0053",
+     "time": 237.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0053.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0053.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 214.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0049.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0053.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "crushed-granite",
+   "title": "Crushed granite growing medium",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "Crushed granite serves as the rooting medium in one flood-and-drain bed. Rob describes stone as one of the cheapest choices for aquaponics, with the drawback that it is extremely heavy.",
+   "phase": "current",
+   "part_of": "growing-media",
+   "unknown": "No price, aggregate grade or structural loading calculation is given.",
+   "related_ids": [],
+   "terms": [
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 211,
+     "end": 219.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 214.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0049.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0048",
+     "time": 211.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0048.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0048.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0049.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-expanded-media",
+   "title": "Coarse expanded growing medium",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "Rob uses a coarse expanded growing medium that he finds easy to work with when removing or replacing plants. He says it stays wet all day, keeping even roots near the surface moist; disturbed material can simply be pushed back over them. Once a crop is finished, he pulls it out by the base and replants the same spot without tilling.",
+   "phase": "current",
+   "part_of": "growing-media",
+   "unknown": "The name is uncertain here; the later indoor medium is explicitly captioned as expanded shale, which does not prove both beds use the same material.",
+   "related_ids": [],
+   "terms": [
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 219.76,
+     "end": 259.239,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0053",
+     "time": 237.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0053.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0053.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0052",
+     "time": 230.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0052.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0052.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 239.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0054.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0053.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "strawberries",
+   "title": "Vertical strawberry growing",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob grows strawberries vertically to fit more plants into the greenhouse. He estimates that about five or six square feet [roughly 0.46–0.56 square metres] can accommodate 50 or 60 plants, and considers the towers a cost-effective approach where space is tight.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The footprint and capacity are estimates, not a measured layout or counted crop; yield is not given.",
+   "related_ids": [
+    "greenhouse-loop"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 284.199,
+     "end": 314.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 308.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0076.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 313.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0078.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0076.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "white-strawberry-towers",
+   "title": "White pipe strawberry towers",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob made upright pipe towers with planting pockets at successive heights. Water enters at the top and trickles down through the tower to the bottom, supplying the strawberry plants along the way.",
+   "phase": "current",
+   "part_of": "strawberries",
+   "unknown": "Internal medium, bottom return route and flow distribution are not revealed.",
+   "related_ids": [],
+   "terms": [
+    "irrigation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 284.199,
+     "end": 295.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 308.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0076.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 295.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0073.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0076.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "green-strawberry-pockets",
+   "title": "Green stacked strawberry planting pockets",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Stacked green planting pockets hold strawberries at successive heights, providing another vertical growing arrangement beside the white pipe towers.",
+   "phase": "current",
+   "part_of": "strawberries",
+   "unknown": "Their make, feed connection and internal construction are not individually explained.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 313.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0078.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 314.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0079.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 311.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0077.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0078.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-crops",
+   "title": "Mixed greenhouse vegetables",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob grows a mixture of vegetables in beds supplied by the recirculating fish water, including peppers, carrots and cucumbers. He credits the growth he obtained with persuading him to continue aquaponics, and takes surplus cucumbers to work.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film supplies no full crop inventory, annual growing calendar or measured household food contribution.",
+   "related_ids": [
+    "greenhouse-loop"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 52.76,
+     "end": 57.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 624.04,
+     "end": 640.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0011",
+     "time": 56.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0011.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0011.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0151",
+     "time": 574.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0151.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0151.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0163",
+     "time": 654.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0163.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0163.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0011.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "peppers",
+   "title": "Peppers rooted in loose growing medium",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Peppers grow directly in the loose expanded medium. Rob says its lasting moisture protects roots near the surface, and he can cover exposed roots again by moving a little material around the stem. At the end of a plant's useful life, he pulls it out by the base to make room for a replacement.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Cultivars, harvest weight and nutrient deficiencies are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 228.959,
+     "end": 256.759,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0011",
+     "time": 56.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0011.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0011.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0052",
+     "time": 230.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0052.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0052.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0151",
+     "time": 574.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0151.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0151.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0011.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "greenhouse-carrots",
+   "title": "Small carrots in greenhouse media",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob also grows carrots in the greenhouse's loose mineral medium, with young plants occupying the narrow growing beds.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Mature roots and harvest size are not shown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 259.239,
+     "end": 262.199,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0058",
+     "time": 259.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0058.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0058.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0059",
+     "time": 262.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0059.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0059.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0058.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cucumbers",
+   "title": "Cucumbers hanging among climbing vines",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Cucumbers grow as climbing plants above the aquaponic beds. Rob says they do extremely well in this greenhouse and supplies colleagues at work with part of his harvest.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Cultivar, current-season total and independently measured yield are absent.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 624.04,
+     "end": 652.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0163",
+     "time": 654.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0163.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0163.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 564.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0146.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0159",
+     "time": 631.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0159.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0159.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0163.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "vine-supports",
+   "title": "Strings and overhead crop supports",
+   "place": "greenhouse",
+   "category": "Structure",
+   "description": "Strings tied to overhead cross-members support tall climbing crops above the grow beds, allowing growth into the roof space.",
+   "phase": "current",
+   "part_of": "greenhouse-crops",
+   "unknown": "Load limits and whether each overhead member is for crops or equipment are not explained.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0101",
+     "time": 397.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0101.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0101.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0102",
+     "time": 401.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0102.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0102.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0161",
+     "time": 645.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0161.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0161.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0101.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "earlier-cucumber-yield",
+   "title": "Previous season cucumber harvest",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob recalls harvesting around 250–275 cucumbers from two greenhouse plants in the previous year.",
+   "phase": "historical",
+   "part_of": "cucumbers",
+   "unknown": "No footage or written record of that harvest is shown; the range is his recollection.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 640.24,
+     "end": 653.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0163",
+     "time": 654.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0163.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0163.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0162",
+     "time": 651.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0162.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0162.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0163.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "automation",
+   "title": "Greenhouse monitoring and automatic controls",
+   "place": "greenhouse",
+   "category": "Process",
+   "description": "Rob built a controller to monitor greenhouse conditions and automate roof ventilation and fish feeding so those jobs would not require daily visits. It tracks indoor and outdoor air temperature, water temperature and incoming light, with statistics and settings available remotely. Rob still sometimes has to free roof vents that have stuck.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No full wiring design, backup strategy or unattended operating test is given.",
+   "related_ids": [
+    "fish-feeder"
+   ],
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 327,
+     "end": 388.479,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 333.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0085.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0092",
+     "time": 362.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0092.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0092.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 87.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0022.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0085.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "monitoring-computer",
+   "title": "Under-bed laptop with sensor logs",
+   "place": "greenhouse",
+   "category": "Process",
+   "description": "A laptop beneath a grow bed runs the greenhouse monitoring software. Rob says it tracks indoor and outdoor temperatures, water temperature and the amount of light entering the greenhouse.",
+   "phase": "current",
+   "part_of": "automation",
+   "unknown": "The screen also shows failure text; its meaning, sensor calibration and resulting system reliability are not resolved.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 327,
+     "end": 345.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 333.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0085.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 334.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0086.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0085.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "automatic-roof-vents",
+   "title": "Linked opening roof vents",
+   "place": "greenhouse",
+   "category": "Climate",
+   "description": "Opening roof panels are connected by mechanical linkages to the greenhouse's automatic ventilation controls. Rob's controller opens and closes them in response to temperature, saving him a daily manual task, although he says they occasionally stick and need his help.",
+   "phase": "current",
+   "part_of": "automation",
+   "unknown": "Opening thresholds, actuator type and failure behaviour are not specified.",
+   "related_ids": [
+    "greenhouse"
+   ],
+   "terms": [
+    "natural ventilation",
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 345.68,
+     "end": 366.759,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0092",
+     "time": 362.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0092.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0092.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0093",
+     "time": 364.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0093.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0093.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0089",
+     "time": 350.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0089.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0089.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0092.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "remote-monitoring",
+   "title": "Remote greenhouse settings and statistics",
+   "place": "greenhouse",
+   "category": "Process",
+   "description": "Rob says the greenhouse controller publishes its operating statistics to the internet so he can check conditions while at work. He can also change settings remotely when needed.",
+   "phase": "current",
+   "part_of": "automation",
+   "unknown": "No remote session or successful end-to-end connection is demonstrated.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 374.4,
+     "end": 388.479,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 334.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0086.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 333.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0085.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0086.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-system",
+   "title": "Indoor aquarium and vegetable growing rack",
+   "place": "entry-passage",
+   "category": "Food",
+   "description": "Rob built a smaller aquaponic system on shelving inside the house, combining an aquarium, a lower sump and an upper tray of vegetables. Water drains to the sump and is pumped up to the planting tray, which Rob uses as the aquarium's filtration system. He presents this as a compact arrangement that could also fit into an apartment.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No overall budget, complete circulation diagram or measured filtration performance is supplied.",
+   "related_ids": [
+    "greenhouse-loop"
+   ],
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 421.4,
+     "end": 445.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 523.76,
+     "end": 544.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 449.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0117.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0142",
+     "time": 536.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0142.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0142.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0117.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-aquarium",
+   "title": "Aquarium with orange and white fish",
+   "place": "entry-passage",
+   "category": "Life",
+   "description": "The indoor system uses a conventional 50-gallon aquarium beneath the vegetable tray. Rob says the large fish produce enough waste that the water does not remain completely clear even with the planted filtration system.",
+   "phase": "current",
+   "part_of": "indoor-system",
+   "unknown": "Gallon standard, species, stock count and water-quality readings are not established.",
+   "related_ids": [],
+   "terms": [
+    "aquarium",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 421.4,
+     "end": 426.919,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 518.599,
+     "end": 523.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0139",
+     "time": 522.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0139.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0139.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0108",
+     "time": 425.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0108.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0108.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0139.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-sump",
+   "title": "Storage-tote sump below aquarium",
+   "place": "entry-passage",
+   "category": "Water",
+   "description": "A purchased plastic storage container beneath the aquarium serves as the sump, collecting drainage before the water is pumped up to the growing tray.",
+   "phase": "current",
+   "part_of": "indoor-system",
+   "unknown": "Capacity, overflow protection and exact drain routing are not shown.",
+   "related_ids": [],
+   "terms": [
+    "tank",
+    "plastic"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 426.919,
+     "end": 434.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 476.639,
+     "end": 485.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0110",
+     "time": 432.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0110.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0110.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0126",
+     "time": 481.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0126.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0126.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0110.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-pump",
+   "title": "Small pond pump and flexible hose",
+   "place": "entry-passage",
+   "category": "Water",
+   "description": "A standard pond pump moves water from the indoor sump to the upper tray through half-inch tubing [about 13 millimetres]. Rob estimates the pump cost at about $15–$20.",
+   "phase": "current",
+   "part_of": "indoor-system",
+   "unknown": "Flow, power consumption, tubing material and pump model are not established.",
+   "related_ids": [],
+   "terms": [
+    "pump"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 468.639,
+     "end": 476.639,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0124",
+     "time": 476.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0124.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0124.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0121",
+     "time": 469.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0121.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0121.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0124.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-grow-tray",
+   "title": "Cut-down storage tote planting tray",
+   "place": "entry-passage",
+   "category": "Food",
+   "description": "Rob made the planting tray from the same type of storage container used for the sump, cutting it down because he needed only about 8 inches [20 centimetres] of bed depth. He reattached the original rim to tidy the cut edge, then filled the tray with growing media.",
+   "phase": "current",
+   "part_of": "indoor-system",
+   "unknown": "Tray dimensions, fasteners, waterproofing and loaded weight are not specified.",
+   "related_ids": [],
+   "terms": [
+    "plastic"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 479.639,
+     "end": 501.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0129",
+     "time": 493.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0129.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0129.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0130",
+     "time": 495.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0130.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0130.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0131",
+     "time": 497.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0131.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0131.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0129.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-expanded-shale",
+   "title": "Expanded shale in the indoor tray",
+   "place": "entry-passage",
+   "category": "Materials",
+   "description": "Expanded shale fills the indoor planting tray around the vegetables' roots. Rob says it stays moist so the roots do not dry out.",
+   "phase": "current",
+   "part_of": "indoor-grow-tray",
+   "unknown": "Product, grading, water chemistry and long-term retention are not established.",
+   "related_ids": [],
+   "terms": [
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 498.199,
+     "end": 505.599,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0131",
+     "time": 497.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0131.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0131.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0120",
+     "time": 465.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0120.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0120.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0131.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-bell-siphon",
+   "title": "Removable indoor bell siphon",
+   "place": "entry-passage",
+   "category": "Water",
+   "description": "The indoor growing tray drains through a removable bell siphon, using the same approach as the greenhouse beds. Its bell assembly lifts out of a wider sleeve set into the growing media.",
+   "phase": "current",
+   "part_of": "indoor-grow-tray",
+   "unknown": "Cycle timing, minimum flow and the full concealed discharge route are not shown.",
+   "related_ids": [],
+   "terms": [
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 505.599,
+     "end": 509.199,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0135",
+     "time": 511.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0135.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0135.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0134",
+     "time": 509.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0134.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0134.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0135.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-grow-light",
+   "title": "Bright lamp over indoor vegetables",
+   "place": "entry-passage",
+   "category": "Energy",
+   "description": "An overhead grow light illuminates the indoor vegetable tray from the shelf above it. Rob says placing a system beside a window is an alternative for someone who wants to avoid artificial lighting.",
+   "phase": "current",
+   "part_of": "indoor-system",
+   "unknown": "Lamp technology, wattage, operating hours and electricity supply source are not stated.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 536.279,
+     "end": 544.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0114",
+     "time": 441.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0114.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0114.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0118",
+     "time": 460.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0118.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0118.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0114.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-shelving",
+   "title": "Wire rack supporting stacked components",
+   "place": "entry-passage",
+   "category": "Structure",
+   "description": "A metal wire shelving rack stacks the sump below the aquarium and the vegetable tray above it, with the grow light supported overhead.",
+   "phase": "current",
+   "part_of": "indoor-system",
+   "unknown": "Shelf rating, anchoring and protection against leaks are not given.",
+   "related_ids": [],
+   "terms": [
+    "metal",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 449.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0117.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0142",
+     "time": 536.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0142.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0142.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0126",
+     "time": 481.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0126.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0126.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0117.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-vegetables",
+   "title": "Lettuce and carrots under the lamp",
+   "place": "entry-passage",
+   "category": "Food",
+   "description": "Lettuce and carrots grow together in the indoor tray, rooted in expanded shale and supplied with circulating aquarium water under a grow light. Rob considers indoor aquaponics suitable for many other vegetables as well.",
+   "phase": "current",
+   "part_of": "indoor-system",
+   "unknown": "Cultivars, harvest cycle and quantity produced are not demonstrated.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 434.36,
+     "end": 441.039,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 459.639,
+     "end": 468.639,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0120",
+     "time": 465.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0120.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0120.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0119",
+     "time": 463.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0119.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0119.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0120.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "previous-charcoal-filters",
+   "title": "Earlier aquarium charcoal-filter replacements",
+   "place": "entry-passage",
+   "category": "Process",
+   "description": "Before using the planted filtration arrangement, Rob says the indoor aquarium's large fish meant the household went through a set of charcoal filters every week.",
+   "phase": "historical",
+   "part_of": "indoor-system",
+   "unknown": "The earlier filters, their specifications and replacement records are not shown.",
+   "related_ids": [],
+   "terms": [
+    "water filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 446.52,
+     "end": 459.639,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 449.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0117.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0117.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pest-management",
+   "title": "Hand maintenance without insecticides",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob maintains the greenhouse crops by pulling weeds and removing insects by hand. He avoids insecticides because they could enter the circulating water and harm the fish, and describes his growing method as organic, with no outside chemicals added. In his experience, occasional bug control accounts for much of the maintenance.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No independent pest-control comparison or organic certification is supplied.",
+   "related_ids": [
+    "greenhouse-loop",
+    "greenhouse-crops"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 262.199,
+     "end": 284.199,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 544.92,
+     "end": 577.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 278.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0066.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0143",
+     "time": 555.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0143.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0143.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0144",
+     "time": 559.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0144.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0144.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0066.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "hand-weeding",
+   "title": "Pulling complete weeds from loose media",
+   "place": "greenhouse",
+   "category": "Process",
+   "description": "Rob pulls weeds by hand from the loose growing media, bringing their roots out with them. He finds weeding easy and says there are far fewer weeds to deal with than in a traditional garden.",
+   "phase": "current",
+   "part_of": "pest-management",
+   "unknown": "The film does not establish comparative labour or whether roots always come out completely.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 262.199,
+     "end": 284.199,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 278.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0066.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0063",
+     "time": 272.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0063.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0063.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0066.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "aphid-removal",
+   "title": "Manual aphid removal from leaves",
+   "place": "greenhouse",
+   "category": "Food",
+   "description": "Rob deals with aphids by squashing them off the leaves by hand. He avoids chemical insecticides because runoff into the shared water could harm the fish.",
+   "phase": "current",
+   "part_of": "pest-management",
+   "unknown": "Individual insects are not sharply resolved in the sampled overview, and infestation severity is not measured.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 544.92,
+     "end": 561.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0143",
+     "time": 555.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0143.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0143.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0144",
+     "time": 559.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0144.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0144.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0143.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "scavenged-parts",
+   "title": "Building systems from scavenged parts",
+   "place": "site",
+   "category": "Process",
+   "description": "The greenhouse aquaponic installation was built mostly from scavenged parts, according to the film's description. Rob fabricated grow beds from welded pipe and pond liner, while his indoor system adapts ordinary storage containers into a sump and planting tray.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Which individual pieces were scavenged, their earlier use and total savings are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "salvage",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 404.44,
+     "end": 413.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 476.639,
+     "end": 498.199,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 155.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0033.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0103",
+     "time": 403.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0103.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0103.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0130",
+     "time": 495.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0130.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0130.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0033.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "house",
+   "title": "Blue house hosting the indoor system",
+   "place": "house",
+   "category": "Structure",
+   "description": "Rob's house accommodates the indoor aquaponic rack in the entry passage, immediately beside the living and kitchen area.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film gives no house size, construction specification, cost or build date.",
+   "related_ids": [
+    "indoor-system"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0105",
+     "time": 419.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0105.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0105.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0002",
+     "time": 5.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0002.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0002.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0106",
+     "time": 421.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0106.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0106.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0105.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "front-porch",
+   "title": "Covered front porch with white railing",
+   "place": "house",
+   "category": "Structure",
+   "description": "A roofed porch runs across the house's entrance frontage, with steps leading through a break in the railing to the front door.",
+   "phase": "current",
+   "part_of": "house",
+   "unknown": "Porch structure, dimensions and material species are not explained.",
+   "related_ids": [],
+   "terms": [
+    "porch"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0105",
+     "time": 419.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0105.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0105.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0002",
+     "time": 5.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0002.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0002.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0105.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "backyard-growing",
+   "title": "Outdoor growing plot beside the greenhouse",
+   "place": "garden",
+   "category": "Land",
+   "description": "An outdoor soil-growing plot sits beside the aquaponic greenhouse. Rob originally used the greenhouse to raise seedlings for the household's main garden before converting it to fish-fed growing beds.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Plot boundaries, area, crop identities and whether this is the whole main garden are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 7.399,
+     "end": 11.799,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 11.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0004.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0013",
+     "time": 61.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0013.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0013.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 315.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0080.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/VBspR2p0YYM/sample-0004.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "garden-fence",
+   "title": "Wire fence around outdoor growing ground",
+   "place": "garden",
+   "category": "Structure",
+   "description": "Wire mesh carried on upright posts encloses the outdoor growing ground beside the greenhouse.",
+   "phase": "current",
+   "part_of": "backyard-growing",
+   "unknown": "Its perimeter, purpose and ownership boundaries are not explained.",
+   "related_ids": [],
+   "terms": [
+    "fence",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0013",
+     "time": 61.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0013.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0013.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 11.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0004.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0013.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "textured-cylinders",
+   "title": "Pale textured cylindrical vessels or covers",
+   "place": "greenhouse",
+   "category": "Materials",
+   "description": "Several cylindrical vessels or covers stand among the greenhouse beds, with a rough outer layer around their sides and exposed rims at the top.",
+   "phase": "current",
+   "part_of": "greenhouse",
+   "unknown": "The film does not establish the covering material or distinguish every cylinder’s function; they cannot all be identified as heat-storage tanks.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 21.5,
+     "path": "review/VBspR2p0YYM/evidence/frame-0006.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0009",
+     "time": 50.0,
+     "path": "review/VBspR2p0YYM/evidence/frame-0009.jpg",
+     "preview_path": "review/VBspR2p0YYM/sample-0009.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/VBspR2p0YYM/sample-0006.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 11,
+   "title": "Opening and house exterior",
+   "visible": "Branding card with house image, then blue house, porch, garage and paved drive among trees.",
+   "gaps": "No house specification, property boundary or construction date.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0002.jpg"
+  },
+  {
+   "start": 11,
+   "end": 43,
+   "title": "Backyard greenhouse and origin story",
+   "visible": "Greenhouse exterior, open doorway, growing interior and Rob speaking in the yard.",
+   "gaps": "Historical tank and mosquito story is not archival footage.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0004.jpg"
+  },
+  {
+   "start": 43,
+   "end": 60,
+   "title": "Entering the converted greenhouse",
+   "visible": "Rob opens the door; camera looks along lined beds, leafy crops and pipework.",
+   "gaps": "No construction sequence or complete plumbing route.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0010.jpg"
+  },
+  {
+   "start": 60,
+   "end": 93,
+   "title": "Goldfish tank and feeder",
+   "visible": "Greenhouse exterior insert, removable tank cover, fish in round tank and motorized feeder close-up.",
+   "gaps": "Fish stock size, tank capacity and feeder schedule are not measured.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0022.jpg"
+  },
+  {
+   "start": 93,
+   "end": 155,
+   "title": "Recirculation explanation and water return",
+   "visible": "Rob indicates beds and tank; camera follows the system and shows water moving in lower plumbing, with a brief exterior view.",
+   "gaps": "Biological conversion and water quality are explained, not tested.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0031.jpg"
+  },
+  {
+   "start": 155,
+   "end": 180,
+   "title": "Weighted-cup bed drain",
+   "visible": "Lined rectangular bed, coarse medium, suspended clear cup, wire and lever beside a white drain tube.",
+   "gaps": "Concealed plunger and complete cycle duration are not demonstrated.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0039.jpg"
+  },
+  {
+   "start": 180,
+   "end": 211,
+   "title": "Bell siphon and root aeration",
+   "visible": "Open circular housing and central standpipe in a planted bed; Rob lifts a siphon part.",
+   "gaps": "Root oxygen and rot claims are not experimentally checked.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046",
+    "frame-0047"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0044.jpg"
+  },
+  {
+   "start": 211,
+   "end": 259,
+   "title": "Growing media and pepper roots",
+   "visible": "Hands handle angular stone and darker coarse medium, expose pepper roots and cover them again.",
+   "gaps": "Greenhouse medium name is ambiguous in automatic captions.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0053.jpg"
+  },
+  {
+   "start": 259,
+   "end": 284,
+   "title": "Carrots and hand weeding",
+   "visible": "Small carrot foliage, tiny weeds pulled with roots, and dark elevated planting troughs.",
+   "gaps": "No comparative weed count or root-crop harvest.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0058.jpg"
+  },
+  {
+   "start": 284,
+   "end": 315,
+   "title": "Vertical strawberries",
+   "visible": "White planting pipes and green pocket containers; ripe strawberries shown close up.",
+   "gaps": "Tower footprint and capacity are spoken estimates.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0076.jpg"
+  },
+  {
+   "start": 315,
+   "end": 327,
+   "title": "Hobby greenhouse exterior",
+   "visible": "Current greenhouse viewed from lawn, door open and crops visible.",
+   "gaps": "No zoning permission or complete dimensions shown.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0080",
+    "frame-0081"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0080.jpg"
+  },
+  {
+   "start": 327,
+   "end": 346,
+   "title": "Under-bed monitoring computer",
+   "visible": "Rob kneels by laptop and wiring; screen shows program logs, readings and failure text.",
+   "gaps": "Remote connection, sensor calibration and overall uptime are not verified.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0085.jpg"
+  },
+  {
+   "start": 346,
+   "end": 389,
+   "title": "Vents and automatic control",
+   "visible": "Rob reaches to overhead linkage; exterior inserts show open roof vents; tank and feeder recur.",
+   "gaps": "Full automatic temperature response and remote adjustment are not demonstrated.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0092.jpg"
+  },
+  {
+   "start": 389,
+   "end": 419,
+   "title": "Homemade beds and growing troughs",
+   "visible": "Doorway, tall climbing crops, white vertical pipes and long dark media-filled troughs.",
+   "gaps": "Not every container is established as reclaimed or pond-lined.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0103.jpg"
+  },
+  {
+   "start": 419,
+   "end": 435,
+   "title": "House entry and indoor rack",
+   "visible": "House exterior, view through living/kitchen opening into passage, rack with aquarium and lower tote.",
+   "gaps": "Most house rooms and route from greenhouse are unshown.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0106.jpg"
+  },
+  {
+   "start": 435,
+   "end": 468,
+   "title": "Indoor crops and aquarium filtration",
+   "visible": "Lettuce and carrot seedlings beneath bright lamp, aquarium below; Rob explains former filters.",
+   "gaps": "No previous filter installation or measured filtration efficiency shown.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0119.jpg"
+  },
+  {
+   "start": 468,
+   "end": 485,
+   "title": "Indoor hose, pump and sump",
+   "visible": "Water discharges from hose; Rob lifts small pump from dark storage tote below aquarium.",
+   "gaps": "Pump flow rate, power draw and every return connection are unshown.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0124.jpg"
+  },
+  {
+   "start": 485,
+   "end": 509,
+   "title": "Cut-down tray and media",
+   "visible": "Upper tote, reattached rim, moist coarse medium and bell-siphon housing.",
+   "gaps": "No tray fabrication sequence or measured dimensions.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0131.jpg"
+  },
+  {
+   "start": 509,
+   "end": 545,
+   "title": "Indoor siphon and fish visitors",
+   "visible": "Rob lifts siphon tube; orange/white fish in cloudy water; unnamed children gather beside entry door.",
+   "gaps": "Children are not named; fish species and exact stock count are unestablished.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0139.jpg"
+  },
+  {
+   "start": 545,
+   "end": 577,
+   "title": "Greenhouse aphids and cucumbers",
+   "visible": "Back in greenhouse, Rob handles leaves and cucumbers amid tall supported plants.",
+   "gaps": "Individual aphids and efficacy of removal are not reliably resolved.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0146.jpg"
+  },
+  {
+   "start": 577,
+   "end": 602,
+   "title": "Fertilizer and water-safety assertions",
+   "visible": "Pepper plants, media and Rob beside greenhouse tank.",
+   "gaps": "No water analysis, organic certification or pathogen testing.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0152",
+    "frame-0153",
+    "frame-0154"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0152.jpg"
+  },
+  {
+   "start": 602,
+   "end": 640,
+   "title": "Fish and sharing harvested cucumbers",
+   "visible": "Fish close-ups, greenhouse from yard and Rob holding cucumbers outdoors.",
+   "gaps": "Commercial farms discussed are not shown; food-safety claims remain untested.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0155.jpg"
+  },
+  {
+   "start": 640,
+   "end": 664.361,
+   "title": "Current cucumbers and retrospective yield",
+   "visible": "Doorway and overhead foliage with hanging cucumbers, Rob in greenhouse, ending in black.",
+   "gaps": "Last year’s yield is narrated over current footage; no harvest record.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165"
+   ],
+   "thumbnail": "review/VBspR2p0YYM/sample-0163.jpg"
+  }
+ ]
+}

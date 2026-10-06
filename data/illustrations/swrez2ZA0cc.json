@@ -1,0 +1,533 @@
+{
+ "property_id": "swrez2ZA0cc",
+ "items": [
+  {
+   "id": "portrait",
+   "title": "Morris homestead, leafy summer",
+   "kind": "portrait",
+   "hero": true,
+   "path": "data/illustrations/swrez2ZA0cc/portrait.png",
+   "invention_log": "harness/viz/swrez2ZA0cc/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "earth-home",
+    "chalet",
+    "garden-terraces",
+    "cedar-beds",
+    "pool",
+    "cedar-porch",
+    "roof-solar",
+    "stone-facing"
+   ],
+   "references": [
+    {
+     "path": "review/evidence/frame-0057.jpg",
+     "time": 194.527667,
+     "role": "vantage"
+    },
+    {
+     "path": "review/evidence/frame-0063.jpg",
+     "time": 216.0158,
+     "role": "detail"
+    },
+    {
+     "path": "review/evidence/frame-0225.jpg",
+     "time": 827.993833,
+     "role": "detail"
+    },
+    {
+     "path": "review/evidence/frame-0399.jpg",
+     "time": 1506.037867,
+     "role": "detail"
+    },
+    {
+     "path": "review/evidence/frame-0250.jpg",
+     "time": 934.967367,
+     "role": "detail"
+    }
+   ]
+  },
+  {
+   "id": "homestead-land-and-work",
+   "title": "Homestead Land and Work",
+   "kind": "map",
+   "feature_ids": [
+    "chalet",
+    "earth-home",
+    "garden-terraces",
+    "cedar-beds",
+    "pool",
+    "barn-roofs",
+    "sawmill",
+    "chestnut-orchard",
+    "pollinator-garden",
+    "creek",
+    "hay-barn",
+    "grazing",
+    "pond",
+    "historic-ruins"
+   ],
+   "references": [
+    {
+     "path": "harness/viz/swrez2ZA0cc/homestead-land-and-work/document-1776.007567.jpg",
+     "time": 1776.007567,
+     "shows": "Roof/gutter/storage schematic printed in a held book; a water-system diagram, not a site plan."
+    },
+    {
+     "path": "harness/viz/swrez2ZA0cc/homestead-land-and-work/document-1787.9862.jpg",
+     "time": 1787.9862,
+     "shows": "Partly obscured book cross-section of wells and groundwater; no site positions."
+    },
+    {
+     "path": "harness/viz/swrez2ZA0cc/homestead-land-and-work/document-455.988867.jpg",
+     "time": 455.988867,
+     "shows": "Wall-mounted map clearly depicts Italy, not this property; no local spatial evidence."
+    },
+    {
+     "path": "harness/viz/swrez2ZA0cc/homestead-land-and-work/document-1688.253233.jpg",
+     "time": 1688.253233,
+     "shows": "Held book cover, black with white/yellow lettering; no site plan."
+    },
+    {
+     "path": "harness/viz/swrez2ZA0cc/homestead-land-and-work/document-1695.2936.jpg",
+     "time": 1695.2936,
+     "shows": "Book dedication/photo page; no site plan."
+    },
+    {
+     "path": "harness/viz/swrez2ZA0cc/homestead-land-and-work/document-1783.148033.jpg",
+     "time": 1783.148033,
+     "shows": "Book text on gravity flow and groundwater; no site plan."
+    },
+    {
+     "path": "review/evidence/frame-0057.jpg",
+     "time": 194.527667,
+     "shows": "Front-oblique aerial: chalet over earth-home, pool at image-left and vegetable beds below masonry front."
+    },
+    {
+     "path": "review/evidence/frame-0067.jpg",
+     "time": 230.563667,
+     "shows": "Ground view looking uphill at gray stone earth-home frontage, diamond window grids, timber balcony above."
+    },
+    {
+     "path": "review/evidence/frame-0063.jpg",
+     "time": 216.0158,
+     "shows": "Front-oblique aerial: long green metal gable roof with dark panels, tan chalet and brown balcony; pool left, staggered red-brown rectangular beds below."
+    },
+    {
+     "path": "review/evidence/frame-0145.jpg",
+     "time": 511.777933,
+     "shows": "Ground view uphill across rough layered stone terraces and red-brown timber beds toward house."
+    },
+    {
+     "path": "review/evidence/frame-0225.jpg",
+     "time": 827.993833,
+     "shows": "Closer oblique aerial of tan two-storey chalet, long brown balcony, green roof and gray masonry home below."
+    },
+    {
+     "path": "review/evidence/frame-0250.jpg",
+     "time": 934.967367,
+     "shows": "Ground view from pool terrace: turquoise rectangular pool, pale paving, tall gray stone terrace wall and chalet above."
+    },
+    {
+     "path": "review/evidence/frame-0148.jpg",
+     "time": 527.994133,
+     "shows": "Close side view of cedar boards weathered red-brown, dark soil and leafy green/purple vegetables."
+    },
+    {
+     "path": "review/evidence/frame-0469.jpg",
+     "time": 1895.9941,
+     "shows": "Wide oblique aerial of house among trees; no surveyed outer limits."
+    },
+    {
+     "path": "review/evidence/frame-0470.jpg",
+     "time": 1908.0061,
+     "shows": "Oblique aerial shows house, pool and beds with drive receding behind; no metric distances."
+    },
+    {
+     "path": "review/evidence/frame-0472.jpg",
+     "time": 1919.984733,
+     "shows": "Aerial along uphill track: red-brown barn with green roof and partly hidden secondary pale/green roofs; exact spacing obscured."
+    },
+    {
+     "path": "review/evidence/frame-0500.jpg",
+     "time": 2040.004633,
+     "shows": "Ground view along sawmill: green metal carriage and rails, bark-covered logs with pale cut ends beside small open shed."
+    },
+    {
+     "path": "review/evidence/frame-0502.jpg",
+     "time": 2049.080367,
+     "shows": "Close view of log ends, rough bark and green sawmill bed; no site location."
+    },
+    {
+     "path": "review/evidence/frame-0546.jpg",
+     "time": 2219.984433,
+     "shows": "Ground view across orchard grass toward leafy trees of varied sizes; positions not mapped."
+    },
+    {
+     "path": "review/evidence/frame-0551.jpg",
+     "time": 2244.008433,
+     "shows": "Side ground view of low-branching dense green chestnut foliage and trunks in grass."
+    },
+    {
+     "path": "review/evidence/frame-0565.jpg",
+     "time": 2327.992333,
+     "shows": "Ground view of pollinator patch: loose green meadow with small white flowers; no designed geometric beds."
+    },
+    {
+     "path": "review/evidence/frame-0589.jpg",
+     "time": 2498.429267,
+     "shows": "Brief oblique downward view of narrow shaded water between irregular stones and dense bank vegetation; ends unshown."
+    },
+    {
+     "path": "review/evidence/frame-0602.jpg",
+     "time": 2567.998767,
+     "shows": "Broadside distant view of long low former greenhouse: green-gray shallow gable roof, pale translucent sides and dark eave opening."
+    },
+    {
+     "path": "review/evidence/frame-0604.jpg",
+     "time": 2580.010767,
+     "shows": "Oblique end view of same former greenhouse with translucent sheets, gable end and large opening; no hay-stack evidence used."
+    },
+    {
+     "path": "review/evidence/frame-0637.jpg",
+     "time": 2744.675267,
+     "shows": "Ground view across green pasture; no full paddock outline; omit people."
+    },
+    {
+     "path": "review/evidence/frame-0700.jpg",
+     "time": 3059.990267,
+     "shows": "Ground view across tall grass at a small reflective pond patch fringed by reeds; exact bank outline concealed."
+    },
+    {
+     "path": "review/evidence/frame-0703.jpg",
+     "time": 3078.9759,
+     "shows": "Wider pond view with foreground wire; no full shoreline or depth."
+    },
+    {
+     "path": "review/evidence/frame-0721.jpg",
+     "time": 3167.998167,
+     "shows": "Ground front view of freestanding irregular gray stone chimney with rectangular dark fireplace opening."
+    },
+    {
+     "path": "review/evidence/frame-0724.jpg",
+     "time": 3191.9888,
+     "shows": "Low oblique view of tapering rough gray stone chimney; no surviving house plan shown."
+    }
+   ],
+   "path": "data/illustrations/swrez2ZA0cc/homestead-land-and-work.png",
+   "invention_log": "harness/viz/swrez2ZA0cc/homestead-land-and-work/review.md",
+   "why": "Both: places the separately filmed working landscape in context and showcases the hillside home, productive terraces and wider farm without inventing a surveyed layout."
+  },
+  {
+   "id": "earth-home-double-shell",
+   "title": "Earth-home: two concrete shells",
+   "kind": "cutaway",
+   "feature_ids": [
+    "earth-home",
+    "double-shell",
+    "waterproofing",
+    "chalet"
+   ],
+   "references": [
+    {
+     "path": "review/evidence/frame-0085.jpg",
+     "time": 316.883233,
+     "shows": "Construction roof surface"
+    },
+    {
+     "path": "review/evidence/frame-0087.jpg",
+     "time": 322.455467,
+     "shows": "Outer concrete shell / roof corner"
+    },
+    {
+     "path": "review/evidence/frame-0088.jpg",
+     "time": 323.990333,
+     "shows": "Layered concrete detail"
+    },
+    {
+     "path": "review/evidence/frame-0223.jpg",
+     "time": 816.0152,
+     "shows": "Removed membrane-bearing section"
+    },
+    {
+     "path": "review/evidence/frame-0224.jpg",
+     "time": 817.950467,
+     "shows": "Removed section corroboration"
+    },
+    {
+     "path": "review/evidence/frame-0225.jpg",
+     "time": 827.993833,
+     "shows": "Later chalet silhouette"
+    },
+    {
+     "path": "review/evidence/frame-0228.jpg",
+     "time": 844.877367,
+     "shows": "Then-and-now frontage"
+    },
+    {
+     "path": "review/evidence/frame-0096.jpg",
+     "time": 346.979967,
+     "shows": "Earlier earth-home silhouette"
+    }
+   ],
+   "path": "data/illustrations/swrez2ZA0cc/earth-home-double-shell.png",
+   "invention_log": "harness/viz/swrez2ZA0cc/earth-home-double-shell/review.md",
+   "why": "Both: reveals the concealed layered construction that defines this house and reconciles the construction archive, removed sample and later addition."
+  },
+  {
+   "id": "air-sun-and-stove-heat",
+   "title": "Air, sun and stove heat",
+   "kind": "diagram",
+   "feature_ids": [
+    "air-intakes",
+    "air-outlets",
+    "upper-framing",
+    "south-glazing",
+    "dark-floor",
+    "masonry-mass",
+    "downstairs-stove"
+   ],
+   "references": [
+    {
+     "path": "review/evidence/frame-0134.jpg",
+     "time": 479.7793,
+     "shows": "Oblique ground view facing rough grey/tan stone retaining wall; short pale cylindrical intake with dark circular mesh opening below reddish timber vegetable bed"
+    },
+    {
+     "path": "review/evidence/frame-0136.jpg",
+     "time": 482.215067,
+     "shows": "Minimal building silhouette"
+    },
+    {
+     "path": "review/evidence/frame-0350.jpg",
+     "time": 1302.5012,
+     "shows": "Interior oblique/upward view along ochre wall: small pale circular grilles with dark horizontal slots high near ceiling. No behind-wall route or visible fan mec"
+    },
+    {
+     "path": "review/evidence/frame-0359.jpg",
+     "time": 1325.657667,
+     "shows": "Interior oblique/upward view along ochre wall: small pale circular grilles with dark horizontal slots high near ceiling. No behind-wall route or visible fan mec"
+    },
+    {
+     "path": "review/evidence/frame-0344.jpg",
+     "time": 1286.952333,
+     "shows": "Looking upward from stair toward landing: finished ochre walls, timber trim and handrail. Studs themselves and bedrooms not exposed. Describe lighter framed upp"
+    },
+    {
+     "path": "review/evidence/frame-0308.jpg",
+     "time": 1116.0149,
+     "shows": "Interior view facing tall dark divided-light paired glazing, brick pier at left; curtains aside. South orientation is Josh's statement, not a measured bearing. "
+    },
+    {
+     "path": "review/evidence/frame-0319.jpg",
+     "time": 1163.996167,
+     "shows": "Downward interior view: varied rectangular grey/slate-coloured tiles with staggered joints, brick pier base. No measured heat storage or measured sun patch. Sim"
+    },
+    {
+     "path": "review/evidence/frame-0305.jpg",
+     "time": 1100.6996,
+     "shows": "Masonry / thermal mass"
+    },
+    {
+     "path": "review/evidence/frame-0167.jpg",
+     "time": 632.298333,
+     "shows": "Slightly elevated front view: broad black cookstove with flat dark brown top, bright metal edging, narrow louvered left front and large right oven door, central"
+    },
+    {
+     "path": "review/evidence/frame-0168.jpg",
+     "time": 636.002033,
+     "shows": "Close oblique view beside flue: narrow copper-coloured pipe behind/left of large dark flue, short visible sections only. Do not confuse flue or visible small st"
+    },
+    {
+     "path": "review/evidence/frame-0169.jpg",
+     "time": 644.076767,
+     "shows": "Close oblique view beside flue: narrow copper-coloured pipe behind/left of large dark flue, short visible sections only. Do not confuse flue or visible small st"
+    }
+   ],
+   "path": "data/illustrations/swrez2ZA0cc/air-sun-and-stove-heat.png",
+   "invention_log": "harness/viz/swrez2ZA0cc/air-sun-and-stove-heat/review.md",
+   "why": "Both: joins concealed air and hot-water paths to their visible endpoints and explains the home's distinctive approach to cooling and heat without redrawing toured rooms."
+  },
+  {
+   "id": "water-sources-and-backup-storage",
+   "title": "Water Sources and Backup Storage",
+   "kind": "diagram",
+   "feature_ids": [
+    "windmill",
+    "water-sources",
+    "barn-roofs",
+    "rainwater-renovation",
+    "cistern",
+    "bedrock-base",
+    "cistern-depth",
+    "sand-filter"
+   ],
+   "references": [
+    {
+     "path": "review/evidence/frame-0456.jpg",
+     "time": 1799.9982,
+     "shows": "Oblique installation close-up: silver metal wind wheel and tail, red central mechanism; no operating well connection."
+    },
+    {
+     "path": "review/evidence/frame-0458.jpg",
+     "time": 1812.0102,
+     "shows": "Ground oblique installation view: pale metal lattice tower being lifted; no buried well or pipe route."
+    },
+    {
+     "path": "review/evidence/frame-0472.jpg",
+     "time": 1919.984733,
+     "shows": "Oblique aerial: red-brown barn with green pitched roof and another partly obscured green roof; no surveyed elevations."
+    },
+    {
+     "path": "review/evidence/frame-0476.jpg",
+     "time": 1938.6367,
+     "shows": "Ground front-oblique: weathered gray corrugated shed wall and pale metal roof edge; gutters and connections unfinished according to narration."
+    },
+    {
+     "path": "review/evidence/frame-0487.jpg",
+     "time": 1986.250933,
+     "shows": "Front/right oblique tank exterior: light gray rectangular concrete walls and green ribbed removable metal cover; foundation hidden."
+    },
+    {
+     "path": "review/evidence/frame-0484.jpg",
+     "time": 1970.2683,
+     "shows": "Downward view through tank opening: dark water and reflections; no verified depth or bottom geometry."
+    },
+    {
+     "path": "review/evidence/frame-0488.jpg",
+     "time": 1991.99,
+     "shows": "Wider front/right tank view beside shed and earth bank; buried base not exposed."
+    },
+    {
+     "path": "review/evidence/frame-0496.jpg",
+     "time": 2022.987633,
+     "shows": "Front-oblique filter view: dark blue rounded vessel, black valve and pump, gray corrugated hose, wooden platform; tank wall behind, complete routes unseen."
+    }
+   ],
+   "path": "data/illustrations/swrez2ZA0cc/water-sources-and-backup-storage.png",
+   "invention_log": "harness/viz/swrez2ZA0cc/water-sources-and-backup-storage/review.md",
+   "why": "Both: makes the dispersed water sources, storage and filtration understandable while exposing the crucial distinction between existing equipment and unfinished collection."
+  },
+  {
+   "id": "solar-grid-and-battery-options",
+   "title": "Solar, Grid and Battery Options",
+   "kind": "diagram",
+   "feature_ids": [
+    "roof-solar",
+    "power-system",
+    "battery-bank"
+   ],
+   "references": [
+    {
+     "path": "review/evidence/frame-0392.jpg",
+     "time": 1476.007867,
+     "shows": "Four smooth dark grey rectangles on green ribbed metal roof"
+    },
+    {
+     "path": "review/evidence/frame-0399.jpg",
+     "time": 1506.037867,
+     "shows": "Blue-black gridded panels with pale frames beside smooth dark panels on green ribbed metal"
+    },
+    {
+     "path": "review/evidence/frame-0403.jpg",
+     "time": 1536.001133,
+     "shows": "Large light-grey upper enclosure with rounded black lower section and small display"
+    },
+    {
+     "path": "review/evidence/frame-0407.jpg",
+     "time": 1562.227333,
+     "shows": "Controllers and battery inverter"
+    },
+    {
+     "path": "review/evidence/frame-0411.jpg",
+     "time": 1582.9814,
+     "shows": "AC transfer switching"
+    },
+    {
+     "path": "review/evidence/frame-0416.jpg",
+     "time": 1613.979033,
+     "shows": "Row of tall black rectangular cases, pale tops, orange rectangular terminal covers, timber support"
+    }
+   ],
+   "path": "data/illustrations/swrez2ZA0cc/solar-grid-and-battery-options.png",
+   "invention_log": "harness/viz/swrez2ZA0cc/solar-grid-and-battery-options/review.md",
+   "why": "Both: connects equipment filmed in separate places and explains the distinctive combination of grid connection, battery backup and retained low-voltage circuits."
+  },
+  {
+   "id": "graze-move-and-recover",
+   "title": "Graze, move, recover",
+   "kind": "diagram",
+   "feature_ids": [
+    "grazing",
+    "hay-field",
+    "hay-barn"
+   ],
+   "references": [
+    {
+     "path": "review/evidence/frame-0624.jpg",
+     "time": 2682.613267,
+     "shows": "Black cattle, green pasture"
+    },
+    {
+     "path": "review/evidence/frame-0637.jpg",
+     "time": 2744.675267,
+     "shows": "Fresh forage / recovered area"
+    },
+    {
+     "path": "review/evidence/frame-0646.jpg",
+     "time": 2778.542433,
+     "shows": "Black cattle, green pasture"
+    },
+    {
+     "path": "review/evidence/frame-0674.jpg",
+     "time": 2925.4225,
+     "shows": "No complete enclosure, gate mechanism, fence energizer or post spacing. Use a short observed wire detail; all complete paddock outlines dashed. Omit gate mechan"
+    },
+    {
+     "path": "review/evidence/frame-0613.jpg",
+     "time": 2616.0134,
+     "shows": "No field outline or acreage. Use grass vignette only; seasonal cutting is described, not shown happening today."
+    },
+    {
+     "path": "review/evidence/frame-0608.jpg",
+     "time": 2595.2927,
+     "shows": "Cutaways are historical, not present-day conditions. Show representative bales only in a separate explicitly historical inset. Mower and baler mechanisms are un"
+    },
+    {
+     "path": "review/evidence/frame-0609.jpg",
+     "time": 2600.631367,
+     "shows": "Cutaways are historical, not present-day conditions. Show representative bales only in a separate explicitly historical inset. Mower and baler mechanisms are un"
+    },
+    {
+     "path": "review/evidence/frame-0602.jpg",
+     "time": 2567.998767,
+     "shows": "Current hay barn / former greenhouse"
+    },
+    {
+     "path": "review/evidence/frame-0604.jpg",
+     "time": 2580.010767,
+     "shows": "Current hay barn / former greenhouse"
+    },
+    {
+     "path": "review/evidence/frame-0606.jpg",
+     "time": 2589.753833,
+     "shows": "Archive storage distinction"
+    }
+   ],
+   "path": "data/illustrations/swrez2ZA0cc/graze-move-and-recover.png",
+   "invention_log": "harness/viz/swrez2ZA0cc/graze-move-and-recover/review.md",
+   "why": "Both: reveals the movement and recovery cycle that a pasture frame cannot show and gives the film's sustained grassland-management theme its own drawing."
+  }
+ ]
+}

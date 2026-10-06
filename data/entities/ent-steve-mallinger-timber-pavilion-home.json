@@ -1,0 +1,71 @@
+{
+ "id": "ent-steve-mallinger-timber-pavilion-home",
+ "type": "place",
+ "name": "Steve Mallinger’s timber pavilion home",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "RNbPNnAx9xE",
+    "title": "Steve Mallinger’s timber pavilion home",
+    "where": "New South Wales, Australia",
+    "film_year": "2026",
+    "upload_date": "2026-08-14",
+    "channel": "The Local Project",
+    "link": "?property=RNbPNnAx9xE",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Steve Mallinger’s household site",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Stephen (Steve) Mallinger",
+      "relation": "owner"
+     }
+    ],
+    "gist": "Builder Steve pursues a barn-inspired home with Andrew, then looks back in disbelief at the undertaking and pride at the result.",
+    "figures": {},
+    "point": {
+     "lat": -33.637,
+     "lon": 151.013,
+     "matched": "Middle Dural, Sydney, New South Wales, Australia",
+     "stands_for": "suburb",
+     "extent_km": null
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Cfa",
+      "name": "humid subtropical"
+     },
+     "rain_mm": 1125,
+     "zone": "10a",
+     "elevation_m": 148,
+     "from": "Middle Dural, Sydney, New South Wales, Australia",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2026"
+   ]
+  },
+  "figures": [],
+  "location_warnings": [],
+  "instance_hash": "9a707c9f6d83e061",
+  "built": "2026-10-06T13:18:27"
+ }
+}

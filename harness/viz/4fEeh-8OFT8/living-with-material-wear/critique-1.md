@@ -1,0 +1,7 @@
+# Candidate 1 critique
+
+Viewed candidate-1.png against all four selected full-size evidence frames.
+
+Material deviation: the floor study turns the faint, irregular filmed smudges into conspicuously discrete rounded brown spots, and exaggerates the pale rubs into a broad diagonal band. This changes the observed character and arrangement of wear. A second candidate is required: soften contrast, remove distinct circular spots and the diagonal pale band, and follow the subtle small irregular foreground marks in frame-0187.
+
+Other departures: both surfaces are isolated rectangular swatches rather than photographic perspectives; wall lighting is flattened and lightened from the shadowed filmed view; handmade wash adds fine paper texture. These are disclosed illustrative abstractions, not claims about a new surface or construction. Floor mark locations are approximate and must not imply measured damage. Text, panel numbers, arrows, border and paper background are editorial inventions. The dark wall-edge timber and all floor surroundings are intentionally excluded by the crop. No people or unsupported physical objects are drawn. Growing comfort and fifth-year wording are attributed to the resident. Future material return is attributed to Harada, with a dashed otherwise blank panel stating that the outcome is not shown. No decomposition, service life, replacement practice, maintenance history, or assembly claim is depicted.

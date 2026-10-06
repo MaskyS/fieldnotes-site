@@ -1,0 +1,12 @@
+# Reference inventory
+
+The packet and complete contact sheet were read first; the following four selected frames were then viewed at full size. This is a conceptual process diagram, not a map, measured plan, or before-and-after record. No held-up or pinned plan, map, or document is visible in the supplied evidence.
+
+| Element | Reference and view | What is shown / what is not shown |
+|---|---|---|
+| Initial tan MDF swatch | review/4fEeh-8OFT8/evidence/frame-0164.jpg, 518.5 s; close oblique view toward the living-room wall | Plain muted tan-brown planar surface, faint tonal variation, dark timber along upper edge. MDF identification comes from the explanation at 08:27–08:53. No archival new condition, panel thickness, binders, coating, or concealed layers. Draw only a flat illustrative tan swatch; label it illustration, not archival before-view. |
+| Observed floor wear | review/4fEeh-8OFT8/evidence/frame-0187.jpg, 602.5 s; downward oblique close view | Muted tan-brown floor with scattered small dark smudges, short scuffs and pale rubs in foreground. Use a crop of unobstructed foreground only, excluding feet, baskets and other surroundings. No proof of causes, service life, protective finish, moisture resistance, or replacement practice. Do not invent cracks, plank grain, rot, chips or quantified deterioration. Pair with Harada's positive acceptance of aging and dirt, 10:02–10:30. |
+| Growing comfort | review/4fEeh-8OFT8/evidence/frame-0204.jpg, 665.5 s; eye-level oblique occupied living-room view | Context for resident's account at 10:52–11:22, not independent proof of duration or emotion. Depict as text only, without people or reconstructed room. Attribute 'in her fifth year' to the resident's account, and say she and the house gradually became comfortable together. No maintenance history or independently confirmed occupancy duration. |
+| Future material return | review/4fEeh-8OFT8/evidence/frame-0181.jpg, 585.0 s; wide oblique completed timber-and-panel interior | Context only for Harada's spoken material-return intention at 09:19–09:59 and 10:18–10:38. No decomposition, end-of-life works, return process or verified biodegradable assembly is shown. Use an otherwise blank dashed future panel with attributed text and a note that the outcome is not shown. |
+
+All unshown physical details must remain blank or dashed with an explanatory note. No people. Sequence and swatch cropping are editorial abstractions, not evidence of measured elapsed time or successive conditions of the same surface.

@@ -1,0 +1,4854 @@
+{
+ "title": "Matt and Cristina’s rainforest home",
+ "source": {
+  "id": "OQbOrk0_3x4",
+  "url": "https://www.youtube.com/watch?v=OQbOrk0_3x4",
+  "duration": 1462.161,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "Automatic English captions; speaker turns, names, plant names and some figures are imperfect. The description supplies full owner names; on-screen labels corroborate the island and locality.",
+  "transcript_kind": "automatic captions",
+  "context": {
+   "location": {
+    "country": "United States",
+    "state_or_region": "Hawaii, Island of Hawaiʻi, Puna",
+    "nearest_place": "Fern Forest",
+    "precision": "named community",
+    "climate": {
+     "koppen": "Cfb",
+     "name": "temperate oceanic",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Fern Forest, Hawaii, United States",
+      "lat": 19.463,
+      "lon": -155.133,
+      "matched": "Fern Forest, Hawaiʻi County, Hawaii, United States",
+      "stands_for": "village",
+      "precision": "named community"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 2840,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Fern Forest, Hawaii, United States",
+      "lat": 19.463,
+      "lon": -155.133,
+      "matched": "Fern Forest, Hawaiʻi County, Hawaii, United States",
+      "stands_for": "village",
+      "precision": "named community"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "12a",
+     "mean_annual_extreme_min_c": 11.5,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Fern Forest, Hawaii, United States",
+      "lat": 19.463,
+      "lon": -155.133,
+      "matched": "Fern Forest, Hawaiʻi County, Hawaii, United States",
+      "stands_for": "village",
+      "precision": "named community"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 696,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Fern Forest, Hawaii, United States",
+      "lat": 19.463,
+      "lon": -155.133,
+      "matched": "Fern Forest, Hawaiʻi County, Hawaii, United States",
+      "stands_for": "village",
+      "precision": "named community"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "stated": {
+     "low temperature": {
+      "claim": "cold-nights",
+      "at": [
+       475.24
+      ],
+      "by": "narrator",
+      "said": {
+       "value": 48,
+       "unit": "F",
+       "approx": true
+      },
+      "value": 8.9,
+      "unit": "°C",
+      "derived": 11.5,
+      "agrees": true
+     }
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2023-11-29"
+  }
+ },
+ "sampling": {
+  "frames": 501,
+  "candidate_shots": 218,
+  "contact_sheets": 18,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/OQbOrk0_3x4"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "matt",
+   "cristina"
+  ],
+  "gist": "Track coaches Matt and Cristina build without borrowing, live in an RV during construction, and embrace outdoor cooking despite Cristina’s doubts about the cold.",
+  "story": {
+   "text": "Matt and Cristina are track coaches who leave expensive island housing behind and learn to build their own home. They live in an RV while saving for each load of timber, accepting help and learning as they go. Matt wants a house that does not feel like a box, with room for their art and views into the forest. Cristina initially finds the outdoor kitchen and shower hard to accept, especially in the cold. They still have limited electricity and no working refrigerator, but their garden keeps expanding, and she calls this the dream she never had.",
+   "moments": [
+    {
+     "phrase": "track coaches",
+     "at": 89.64
+    },
+    {
+     "phrase": "live in an RV",
+     "at": 741.959
+    },
+    {
+     "phrase": "saving for each load of timber",
+     "at": 1022.16
+    },
+    {
+     "phrase": "does not feel like a box",
+     "at": 179
+    },
+    {
+     "phrase": "hard to accept",
+     "at": 258.199
+    },
+    {
+     "phrase": "the dream she never had",
+     "at": 1434.48
+    }
+   ]
+  },
+  "derived_kind": "household within a community"
+ },
+ "places": [
+  {
+   "id": "fern-forest",
+   "title": "Fern Forest",
+   "kind": "community",
+   "within": null,
+   "caveat": "Named residential area; this film tours only Matt and Cristina’s household, not shared community facilities.",
+   "entity": "ent-fern-forest"
+  },
+  {
+   "id": "site",
+   "title": "Matt and Cristina’s forest property",
+   "kind": "site",
+   "within": "fern-forest",
+   "caveat": "Parcel boundaries are not surveyed in the film.",
+   "entity": "ent-matt-cristina-rainforest-home"
+  },
+  {
+   "id": "driveway",
+   "title": "Entrance and driveway",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": ""
+  },
+  {
+   "id": "house",
+   "title": "Matt and Cristina’s house",
+   "kind": "building",
+   "within": "site",
+   "caveat": ""
+  },
+  {
+   "id": "living-kitchen",
+   "title": "Living and indoor kitchen area",
+   "kind": "room",
+   "within": "house",
+   "caveat": "One open volume, partially divided from the bedroom."
+  },
+  {
+   "id": "bedroom",
+   "title": "Bedroom area",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Connected by visible openings around a partial-height partition."
+  },
+  {
+   "id": "closet",
+   "title": "Open clothes recess",
+   "kind": "room",
+   "within": "house",
+   "caveat": "Small open closet off the bedroom, not a separately enclosed bedroom."
+  },
+  {
+   "id": "toilet",
+   "title": "Toilet addition",
+   "kind": "room",
+   "within": "house",
+   "caveat": ""
+  },
+  {
+   "id": "porch",
+   "title": "Covered perimeter porch",
+   "kind": "outdoor area",
+   "within": "house",
+   "caveat": "Attached deck with outdoor cooking area."
+  },
+  {
+   "id": "shower",
+   "title": "Outdoor shower enclosure",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Visible beside the cooking porch; exact foundation connection not established."
+  },
+  {
+   "id": "garden",
+   "title": "Food forest and planted clearing",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": ""
+  },
+  {
+   "id": "gazebo",
+   "title": "Red-roof garden shelter",
+   "kind": "building",
+   "within": "garden",
+   "caveat": "Open-sided shelter shown during the garden walk."
+  },
+  {
+   "id": "lava-fissure",
+   "title": "Planted lava fissure",
+   "kind": "land feature",
+   "within": "garden",
+   "caveat": "Residents identify the rock as lava; age and depth unverified."
+  },
+  {
+   "id": "rv",
+   "title": "Earlier fifth-wheel home",
+   "kind": "vehicle",
+   "within": "site",
+   "caveat": "Only archival occupancy and modification footage; present whereabouts unknown."
+  },
+  {
+   "id": "rv-interior",
+   "title": "Earlier RV living and kitchen space",
+   "kind": "room",
+   "within": "rv",
+   "caveat": ""
+  },
+  {
+   "id": "rv-bathroom",
+   "title": "Earlier RV bathroom",
+   "kind": "room",
+   "within": "rv",
+   "caveat": ""
+  },
+  {
+   "id": "island-approach",
+   "title": "Island approach and coastal roads",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Aircraft, coast and lava-road montage; exact routes unlocated.",
+   "outside": true
+  },
+  {
+   "id": "fern-forest-road",
+   "title": "Fern Forest approach road",
+   "kind": "outdoor area",
+   "within": "fern-forest",
+   "caveat": "Public/neighbourhood approach outside the household parcel.",
+   "outside": true
+  },
+  {
+   "id": "running-trail",
+   "title": "Unidentified forest running trail",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "No evidence this montage is on the owners’ land.",
+   "outside": true
+  },
+  {
+   "id": "channel-montage",
+   "title": "Channel montage locations",
+   "kind": "site",
+   "within": null,
+   "caveat": "Unidentified properties in opening/closing branding, not toured here.",
+   "outside": true
+  }
+ ],
+ "people": [
+  {
+   "id": "matt",
+   "name": "Matt Holton",
+   "relation": "owner",
+   "note": "Co-owner, resident, self-builder, artist and track coach; full name from description."
+  },
+  {
+   "id": "cristina",
+   "name": "Cristina Pineda",
+   "relation": "owner",
+   "note": "Co-owner, resident, self-builder and track coach; full name from description, despite caption variants."
+  },
+  {
+   "id": "kirsten",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Channel filmmaker, named in opener and metadata; visits with an unnamed camera operator.",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "land-area",
+   "text": "The household bought one acre",
+   "by": "description",
+   "at": [],
+   "about": "forest-site",
+   "headline": true,
+   "quantity": {
+    "value": 1,
+    "unit": "acre",
+    "of": "land area"
+   }
+  },
+  {
+   "id": "land-price",
+   "text": "The land cost $22,000",
+   "by": "description",
+   "at": [],
+   "about": "forest-site",
+   "headline": true,
+   "quantity": {
+    "value": 22000,
+    "unit": "USD",
+    "of": "land price"
+   }
+  },
+  {
+   "id": "house-cost",
+   "text": "The house cost around $40,000, perhaps slightly less",
+   "by": "narrator",
+   "at": [
+    1051.76
+   ],
+   "about": "polygonal-house",
+   "headline": true,
+   "doubt": "The captions do not identify which resident gives this figure over archival footage.",
+   "quantity": {
+    "value": 40000,
+    "unit": "USD",
+    "of": "build cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "all-in-price",
+   "text": "Land and house together cost about $60,000",
+   "by": "narrator",
+   "at": [
+    1059.6
+   ],
+   "about": "forest-site",
+   "headline": true,
+   "doubt": "An unidentified interviewer rounds the separately stated land and house costs.",
+   "quantity": {
+    "value": 60000,
+    "unit": "USD",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-experience",
+   "text": "They began without building experience",
+   "by": "cristina",
+   "at": [
+    908.959
+   ],
+   "about": "owner-build",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-bank",
+   "text": "They built without a mortgage or bank loan",
+   "by": "cristina",
+   "at": [
+    1027.839
+   ],
+   "about": "owner-build",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rv-duration",
+   "text": "They lived in the RV roughly one-and-a-half to two years",
+   "by": "cristina",
+   "at": [
+    745.12
+   ],
+   "about": "rv-home",
+   "headline": true,
+   "quantity": {
+    "value": 1.75,
+    "unit": "year",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rv-length",
+   "text": "The fifth wheel is twenty-four feet long",
+   "by": "cristina",
+   "at": [
+    749.72
+   ],
+   "about": "rv-home",
+   "headline": false,
+   "quantity": {
+    "value": 24,
+    "unit": "ft",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "unpermitted-home",
+   "text": "Their house is unpermitted",
+   "by": "matt",
+   "at": [
+    934.12
+   ],
+   "about": "polygonal-house",
+   "headline": true,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "local-unpermitted",
+   "text": "Many local homes are unpermitted",
+   "by": "matt",
+   "at": [
+    932.44
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "informal-enforcement",
+   "text": "People locally give them little trouble about their building",
+   "by": "matt",
+   "at": [
+    937.72
+   ],
+   "about": "polygonal-house",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "uninsured",
+   "text": "Their house is uninsured",
+   "by": "matt",
+   "at": [
+    934.12
+   ],
+   "about": "polygonal-house",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-public-water",
+   "text": "There is no public water supply in this area",
+   "by": "cristina",
+   "at": [
+    109.2
+   ],
+   "about": "water-supply",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "catchment-even-grid",
+   "text": "Even grid-connected homes locally collect their own water",
+   "by": "cristina",
+   "at": [
+    120.36
+   ],
+   "about": "water-supply",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "reserve-edge",
+   "text": "The property backs onto a forest reserve",
+   "by": "matt",
+   "at": [
+    71.92
+   ],
+   "about": "forest-site",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "previous-fire",
+   "text": "A previous house burned down around 1999",
+   "by": "cristina",
+   "at": [
+    135.2
+   ],
+   "about": "forest-site",
+   "headline": false,
+   "quantity": {
+    "value": 1999,
+    "unit": "year",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "nearby-price",
+   "text": "Nearby lots cost roughly $177,000",
+   "by": "narrator",
+   "at": [
+    161.8
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The automatic caption reads “177,000”; this may be a garbled price, and the speaker is not identified.",
+   "quantity": {
+    "value": 177000,
+    "unit": "USD",
+    "of": "land price",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "nearby-area",
+   "text": "The quoted nearby lots measure three acres",
+   "by": "narrator",
+   "at": [
+    163.2
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The captions do not identify the speaker of this local-price comparison.",
+   "quantity": {
+    "value": 3,
+    "unit": "acre",
+    "of": "land area"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "not-a-box",
+   "text": "The house shape avoids living in a box",
+   "by": "matt",
+   "at": [
+    179
+   ],
+   "about": "polygonal-house",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fallen-posts",
+   "text": "The porch posts came from already-fallen local trees",
+   "by": "matt",
+   "at": [
+    191.56
+   ],
+   "about": "ohia-posts",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "outside-daily",
+   "text": "They cook outdoors every day, including cold and rain",
+   "by": "cristina",
+   "at": [
+    466.479
+   ],
+   "about": "outdoor-cooking",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cold-nights",
+   "text": "Outdoor temperatures reach the high forties Fahrenheit",
+   "by": "narrator",
+   "at": [
+    475.24
+   ],
+   "about": "forest-site",
+   "headline": false,
+   "doubt": "The captions do not identify the speaker; the description instead mentions lows in the fifties Fahrenheit.",
+   "quantity": {
+    "value": 48,
+    "unit": "F",
+    "of": "low temperature",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "description-cold",
+   "text": "Outdoor temperatures can drop into the fifties Fahrenheit",
+   "by": "description",
+   "at": [],
+   "about": "forest-site",
+   "headline": false,
+   "doubt": "The spoken tour reports the high forties rather than the description’s fifties.",
+   "quantity": {
+    "value": 55,
+    "unit": "F",
+    "of": "low temperature",
+    "approx": true
+   }
+  },
+  {
+   "id": "window-wind",
+   "text": "Windows were positioned for trade-wind circulation",
+   "by": "matt",
+   "at": [
+    495
+   ],
+   "about": "forest-windows",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "close-windows",
+   "text": "Closing windows early helps retain winter warmth",
+   "by": "cristina",
+   "at": [
+    526.12
+   ],
+   "about": "forest-windows",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-heater",
+   "text": "They use down comforters and flannel instead of heating",
+   "by": "cristina",
+   "at": [
+    515.959
+   ],
+   "about": "winter-bedding",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tank-feeds",
+   "text": "The rain tank supplies the sink and toilet",
+   "by": "matt",
+   "at": [
+    308.56
+   ],
+   "about": "water-supply",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tank-low",
+   "text": "They sometimes fetch water to refill the rain tank",
+   "by": "cristina",
+   "at": [
+    340.44
+   ],
+   "about": "cube-tank",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "second-tank",
+   "text": "They are considering another water tank",
+   "by": "cristina",
+   "at": [
+    338.28
+   ],
+   "about": "extra-tank",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "on-demand",
+   "text": "The shower heater heats water only as needed",
+   "by": "matt",
+   "at": [
+    329.6
+   ],
+   "about": "shower-heater",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "description-solar-heat",
+   "text": "Solar heats their shower water",
+   "by": "description",
+   "at": [],
+   "about": "shower-heater",
+   "headline": false,
+   "doubt": "The tour instead shows a GASLAND gas heater and gas cylinder beside the shower system."
+  },
+  {
+   "id": "pump-pressure",
+   "text": "An electric pump provides the kitchen tap pressure",
+   "by": "matt",
+   "at": [
+    413.08
+   ],
+   "about": "pressure-pump",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "pv-house-loads",
+   "text": "Solar supplies lighting, USB loads and the pump",
+   "by": "matt",
+   "at": [
+    438.52
+   ],
+   "about": "solar-power",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tesla-charge",
+   "text": "A closet inverter and battery charge their Tesla",
+   "by": "cristina",
+   "at": [
+    694.519
+   ],
+   "about": "ev-charging",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "solar-more",
+   "text": "They want more household electricity from additional solar panels",
+   "by": "cristina",
+   "at": [
+    1086.88
+   ],
+   "about": "solar-expansion",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-electric-bill",
+   "text": "They have no electricity bill",
+   "by": "cristina",
+   "at": [
+    1030.24
+   ],
+   "about": "solar-power",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "stained-new-floor",
+   "text": "The worn floor appearance comes from staining",
+   "by": "matt",
+   "at": [
+    542.959
+   ],
+   "about": "stained-floor",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "counter-offcuts",
+   "text": "Counter offcuts became wall shelves",
+   "by": "matt",
+   "at": [
+    404.96
+   ],
+   "about": "acacia-shelves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "loft-abandoned",
+   "text": "They abandoned the upper-platform idea to keep the roof open",
+   "by": "cristina",
+   "at": [
+    604.12
+   ],
+   "about": "open-roof",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "art-wall-reason",
+   "text": "They kept a dividing wall to display their art",
+   "by": "matt",
+   "at": [
+    629.399
+   ],
+   "about": "art-partition",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "door-made",
+   "text": "Cristina made and stained the sliding door",
+   "by": "cristina",
+   "at": [
+    667.76
+   ],
+   "about": "sliding-door",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rv-compost-investment",
+   "text": "They chose a compost toilet for the RV",
+   "by": "cristina",
+   "at": [
+    769.76
+   ],
+   "about": "rv-compost",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "gravel-days",
+   "text": "Driveway gravel work took two and a half days",
+   "by": "matt",
+   "at": [
+    811.56
+   ],
+   "about": "driveway-work",
+   "headline": false,
+   "quantity": {
+    "value": 2.5,
+    "unit": "day",
+    "of": "component time"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-slab",
+   "text": "They used levelled rock and compacted gravel beneath piers",
+   "by": "matt",
+   "at": [
+    827.639
+   ],
+   "about": "pier-foundation",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hurricane-ties-used",
+   "text": "Hurricane ties supplement nails throughout the timber structure",
+   "by": "matt",
+   "at": [
+    882.88
+   ],
+   "about": "hurricane-ties",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "guidance-read",
+   "text": "Matt read university guidance on earthquake-resistant construction",
+   "by": "matt",
+   "at": [
+    856.839
+   ],
+   "about": "owner-build",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "architect-feedback",
+   "text": "An architect relative provided feedback on building ideas",
+   "by": "cristina",
+   "at": [
+    913.68
+   ],
+   "about": "owner-build",
+   "headline": false,
+   "doubt": "The transcript says “my brother-in-law”; the description calls him Matt’s architect brother, so kinship is not resolved.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "neighbour-help",
+   "text": "Neighbours helped in exchange for beer and pizza",
+   "by": "cristina",
+   "at": [
+    921
+   ],
+   "about": "owner-build",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "save-buy",
+   "text": "They saved money before ordering each delivery of wood",
+   "by": "cristina",
+   "at": [
+    1022.16
+   ],
+   "about": "owner-build",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bought-year",
+   "text": "They bought the property in 2019",
+   "by": "narrator",
+   "at": [
+    1048.919
+   ],
+   "about": "forest-site",
+   "headline": false,
+   "doubt": "The captions do not identify which resident states the purchase year.",
+   "quantity": {
+    "value": 2019,
+    "unit": "year",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-fridge",
+   "text": "They do not have a fridge at filming",
+   "by": "cristina",
+   "at": [
+    1096.2
+   ],
+   "about": "unrefrigerated-pantry",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "ice-days",
+   "text": "Blocks of ice keep supplies for three or four days",
+   "by": "cristina",
+   "at": [
+    1107.559
+   ],
+   "about": "unrefrigerated-pantry",
+   "headline": false,
+   "quantity": {
+    "value": 3.5,
+    "unit": "day",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fruit-first",
+   "text": "Planting fruit trees was an early priority",
+   "by": "matt",
+   "at": [
+    1114.6
+   ],
+   "about": "food-forest",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "garden-no-water",
+   "text": "The garden needs trimming rather than irrigation",
+   "by": "matt",
+   "at": [
+    1198.96
+   ],
+   "about": "food-forest",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cutting-propagation",
+   "text": "Many garden plants grow from cuttings placed in soil",
+   "by": "matt",
+   "at": [
+    1148.679
+   ],
+   "about": "food-forest",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "spinach-food",
+   "text": "They eat Samoan spinach in burritos and salads",
+   "by": "cristina",
+   "at": [
+    1188.32
+   ],
+   "about": "samoan-spinach",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cane-cutting",
+   "text": "A friend supplied the original sugar-cane cutting",
+   "by": "matt",
+   "at": [
+    1251.36
+   ],
+   "about": "sugar-cane",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cane-age",
+   "text": "The sugar-cane cutting was planted about a year earlier",
+   "by": "matt",
+   "at": [
+    1251.36
+   ],
+   "about": "sugar-cane",
+   "headline": false,
+   "quantity": {
+    "value": 1,
+    "unit": "year",
+    "of": "age",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "press-idea",
+   "text": "They may get a hand press for sugar cane",
+   "by": "matt",
+   "at": [
+    1270.2
+   ],
+   "about": "sugar-press-plan",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cacao-struggles",
+   "text": "The cacao tree is struggling",
+   "by": "matt",
+   "at": [
+    1289.52
+   ],
+   "about": "beverage-plants",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "lava-age",
+   "text": "The eruption that formed this ground is five hundred years old",
+   "by": "matt",
+   "at": [
+    1383.96
+   ],
+   "about": "lava-crack",
+   "headline": false,
+   "quantity": {
+    "value": 500,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "sleep-forest",
+   "text": "Matt says he sleeps more deeply surrounded by the forest",
+   "by": "matt",
+   "at": [
+    1406.88
+   ],
+   "about": "forest-site",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "unexpected-dream",
+   "text": "Cristina calls this the dream she never had",
+   "by": "cristina",
+   "at": [
+    1428.2
+   ],
+   "about": "forest-site",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "volcanic-affordability",
+   "text": "Affordability is linked to volcanic hazard exposure",
+   "by": "description",
+   "at": [],
+   "about": "forest-site",
+   "headline": false
+  }
+ ],
+ "links": [],
+ "relationships": [
+  {
+   "subject": "roof-catchment",
+   "predicate": "feeds",
+   "object": "cube-tank",
+   "time": 317.5,
+   "status": "visible"
+  },
+  {
+   "subject": "shower-pv",
+   "predicate": "sits above",
+   "object": "outdoor-shower",
+   "time": 271.5,
+   "status": "visible"
+  },
+  {
+   "subject": "art-partition",
+   "predicate": "supports display of",
+   "object": "pele-mandala",
+   "time": 631.5,
+   "status": "visible"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "forest-site",
+   "title": "Rainforest household clearing",
+   "place": "site",
+   "category": "Land",
+   "description": "Matt and Cristina chose this one-acre [0.40-hectare] rainforest property in Fern Forest because they could afford to own land outright after finding Maui too expensive. Matt describes it as backing onto a forest reserve at the end of the road, and credits the surrounding forest and slower pace with helping him sleep more deeply. Kirsten's account gives the land purchase as $22,000 in 2019 and the combined land-and-house cost as roughly $60,000, while linking local affordability to volcanic hazard exposure.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Parcel and reserve boundaries are not surveyed. The description links affordability to volcanic hazard, without a site-specific risk assessment.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 19.8,
+     "end": 28.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 49.64,
+     "end": 58.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 71.92,
+     "end": 86,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0499",
+     "time": 1450.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0499.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0499.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 357.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0117.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 84.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0031.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0499.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "driveway",
+   "title": "Gravel driveway through tree ferns",
+   "place": "driveway",
+   "category": "Land",
+   "description": "The driveway follows an existing approach to a clearing that made the overgrown property seem workable to Cristina. She recalls that a previous house had burned down around 1999, leaving a path and an opening that they could clear for access rather than starting in uninterrupted forest.",
+   "phase": "current",
+   "part_of": "forest-site",
+   "unknown": "The driveway’s length and the former house footprint are not established.",
+   "related_ids": [
+    "gate-notice"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 135.2,
+     "end": 154,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0036",
+     "time": 99.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0036.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0036.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0288",
+     "time": 819.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0288.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0288.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0036.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "driveway-work",
+   "title": "Hand-spread gravel access works",
+   "place": "driveway",
+   "category": "Process",
+   "description": "Gravel was moved along the cleared driveway with a shovel and a hand-pulled cart. Matt recalls a 20-ton delivery and estimates that he moved about two-thirds of it himself; after two and a half days of moving gravel, the upper driveway had its new surface.",
+   "phase": "historical",
+   "part_of": "driveway",
+   "unknown": "The film does not establish aggregate depth or the total duration of access construction.",
+   "related_ids": [
+    "gate-notice"
+   ],
+   "terms": [
+    "hand tools"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 804.76,
+     "end": 817.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0281",
+     "time": 800.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0281.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0281.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0282",
+     "time": 803.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0282.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0282.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0285",
+     "time": 814.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0285.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0285.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0281.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gate-notice",
+   "title": "Posted private-property gate notice",
+   "place": "driveway",
+   "category": "Plan",
+   "description": "A private-property notice on the timber entrance gate forbids hunting, fishing, trapping and trespassing, and warns that violators will be prosecuted.",
+   "phase": "historical",
+   "part_of": "driveway",
+   "unknown": "This private notice does not establish the property boundary, applicable law or actual enforcement.",
+   "related_ids": [
+    "driveway-work"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0046",
+     "time": 148.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0046.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0046.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 146.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0045.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0046.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lava-crack",
+   "title": "Planted fissure in lava ground",
+   "place": "lava-fissure",
+   "category": "Land",
+   "description": "An existing crack in the lava ground has been incorporated into the garden with planting around its edges. Matt dates the lava to an eruption about 500 years ago and describes soil and vegetation gradually covering it; for him, keeping a garden here means continually managing the rainforest's regrowth.",
+   "phase": "current",
+   "part_of": "forest-site",
+   "unknown": "The fissure’s depth, formation and eruption date are not independently established.",
+   "related_ids": [],
+   "terms": [
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1375.279,
+     "end": 1396,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0486",
+     "time": 1381.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0486.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0486.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0489",
+     "time": 1387.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0489.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0489.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0490",
+     "time": 1390.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0490.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0490.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0486.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roadside-listing",
+   "title": "Roadside real-estate listing sign",
+   "place": "fern-forest-road",
+   "category": "Plan",
+   "description": "A real-estate sign advertises property along the Fern Forest approach road.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The agent text and parcel details are unreadable; nothing identifies this as the owners’ parcel.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0023",
+     "time": 56.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0023.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0023.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0023.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "polygonal-house",
+   "title": "Self-built polygonal timber house",
+   "place": "house",
+   "category": "Structure",
+   "description": "Matt and Cristina built a raised timber house with a polygonal plan, choosing angled walls because Matt wanted the interior to feel different from a rectangular box. The open roof and largely connected living spaces carry that idea indoors. Kirsten's account puts construction at around $40,000, perhaps slightly less; Matt describes the house as unpermitted and uninsured, in a community where he feels people generally leave one another to build as they wish.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "An early question calls it a pentagon; no dimensioned plan, floor area or approved engineering design is shown.",
+   "related_ids": [
+    "owner-build"
+   ],
+   "terms": [
+    "self-built",
+    "timber",
+    "stud framing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 166.92,
+     "end": 186.879,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 849.04,
+     "end": 856.839,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0052",
+     "time": 175.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0052.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0052.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0120",
+     "time": 371.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0120.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0120.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0387",
+     "time": 1073.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0387.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0387.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0052.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "porch-steps",
+   "title": "Timber porch and broad entry steps",
+   "place": "porch",
+   "category": "Structure",
+   "description": "The raised timber porch connects the entrance with the outdoor cooking area beneath the projecting house roof. Broad open-riser steps bring the garden approach directly up to the double entrance doors.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "Deck species, fixings and guard requirements are not specified.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "porch",
+    "deck",
+    "stair",
+    "overhang"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0177",
+     "time": 538.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0177.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0177.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0059",
+     "time": 201.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0059.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0059.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0064",
+     "time": 232.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0064.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0064.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0177.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "ohia-posts",
+   "title": "Fallen ʻōhiʻa porch posts",
+   "place": "porch",
+   "category": "Materials",
+   "description": "Matt used already-fallen local ʻōhiʻa trunks for the porch supports, sanding them while retaining their irregular roundwood form. Matt and Cristina liked the appearance of similar posts on other porches, and Matt describes the wood as exceptionally hard.",
+   "phase": "current",
+   "part_of": "porch-steps",
+   "unknown": "The species name is garbled in automatic captions; no treatment schedule or structural grading is supplied.",
+   "related_ids": [],
+   "terms": [
+    "roundwood",
+    "salvage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 186.879,
+     "end": 217.239,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0059",
+     "time": 201.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0059.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0059.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0362",
+     "time": 1020.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0362.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0362.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0059.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pier-foundation",
+   "title": "Precast piers on compacted gravel",
+   "place": "house",
+   "category": "Structure",
+   "description": "Precast concrete piers support timber posts and floor beams above a gravel base. Matt considered a concrete slab, then rented a jackhammer to level the underlying rock, brought in and compacted gravel, and used a laser to level the supports. He recalls roughly 18 blocks weighing about 60 pounds each, laid out to suit the polygonal floor.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "Bearing capacity, anchors, drainage and the complete support count are not verified.",
+   "related_ids": [],
+   "terms": [
+    "concrete",
+    "foundation",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 817.6,
+     "end": 856.839,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0296",
+     "time": 842.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0296.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0296.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0298",
+     "time": 847.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0298.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0298.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0300",
+     "time": 851.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0300.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0300.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0296.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "stud-frame-archive",
+   "title": "Archival timber frame and building wrap",
+   "place": "house",
+   "category": "Structure",
+   "description": "The walls were assembled from sawn timber studs with framed openings for the windows and doors, standing on the raised timber floor. Exterior sheet sheathing and building wrap enclosed the frame before the finished wall cladding was added.",
+   "phase": "historical",
+   "part_of": "polygonal-house",
+   "unknown": "The archive does not reveal a complete wall layer specification or insulation detail.",
+   "related_ids": [
+    "owner-build",
+    "pier-foundation"
+   ],
+   "terms": [
+    "timber",
+    "stud framing"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0328",
+     "time": 935.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0328.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0328.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0364",
+     "time": 1024.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0364.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0364.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0376",
+     "time": 1051.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0376.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0376.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0328.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "open-roof",
+   "title": "Exposed timber roof and high ceiling",
+   "place": "house",
+   "category": "Structure",
+   "description": "The main room remains open to its timber roof structure instead of having an upper platform. Cristina recalls an early idea for a loft reached by a ladder, which they abandoned because she preferred the sense of space with the roof left open.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "Roof insulation, weatherproof layers and member sizing are not established.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "roof",
+    "ceiling"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 599.68,
+     "end": 616.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0205",
+     "time": 603.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0205.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0205.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0197",
+     "time": 585.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0197.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0197.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0167",
+     "time": 511.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0167.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0167.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0205.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-completion",
+   "title": "Exterior roof finishing work",
+   "place": "house",
+   "category": "Process",
+   "description": "Exterior roof finishing remains part of the ongoing build while Matt and Cristina live in the house. Matt is also considering ventilation near the top as that work proceeds.",
+   "phase": "in progress",
+   "part_of": "open-roof",
+   "unknown": "The remaining work and final roof material are not specified.",
+   "related_ids": [],
+   "terms": [
+    "roof"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 506.36,
+     "end": 511,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0434",
+     "time": 1197.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0434.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0434.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0157",
+     "time": 474.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0157.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0157.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0434.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "stained-floor",
+   "title": "Oil-stained reddish timber floor",
+   "place": "house",
+   "category": "Materials",
+   "description": "Matt gave the timber floor its aged appearance by matching colours and applying several coats of oil stain before finishing it. He wanted a richer reddish colour and a worn look, rather than leaving the wood at its original pale tone.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "The wood species, stain product and final protective finish are not named.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 536.519,
+     "end": 571.959,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0192",
+     "time": 572.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0192.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0192.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0189",
+     "time": 566.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0189.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0189.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0184",
+     "time": 552.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0184.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0184.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0192.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "art-partition",
+   "title": "Partial-height partition with open passages",
+   "place": "house",
+   "category": "Structure",
+   "description": "A partition separates the bed area from the living area while leaving passages and the space above it open. Matt wanted enough wall surface to bring in artwork stored at his parents' house, and Cristina finds that the wall also makes the two sides feel like distinct rooms.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "The partition’s hidden construction and acoustic performance are not established.",
+   "related_ids": [
+    "art-collection"
+   ],
+   "terms": [
+    "partition"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 618.48,
+     "end": 647.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0218",
+     "time": 641.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0218.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0218.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 644.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0219.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0206",
+     "time": 605.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0206.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0206.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0218.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "forest-windows",
+   "title": "Operable windows for trade-wind ventilation",
+   "place": "house",
+   "category": "Climate",
+   "description": "Matt positioned the operable windows to catch the trade winds and provide circulation through the house. Cristina recalls his insistence on generous openings to the surrounding forest, which help the interior feel open. In winter, Cristina closes the windows early to retain warmth accumulated during the day.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "Airflow, glazing specification and indoor temperatures are not measured.",
+   "related_ids": [],
+   "terms": [
+    "window",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 495,
+     "end": 501.599,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 526.12,
+     "end": 532.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 703.48,
+     "end": 729.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0253",
+     "time": 712.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0253.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0253.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0126",
+     "time": 389.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0126.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0126.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0162",
+     "time": 502.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0162.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0162.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0253.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "small-fan",
+   "title": "Small portable floor fan",
+   "place": "living-kitchen",
+   "category": "Climate",
+   "description": "A small portable fan supplements ventilation through the windows. Matt finds this modest amount of mechanical cooling sufficient alongside the trade winds.",
+   "phase": "current",
+   "part_of": "forest-windows",
+   "unknown": "Power draw and operating frequency are not stated.",
+   "related_ids": [],
+   "terms": [
+    "ventilation fan"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 485.72,
+     "end": 501.599,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0159",
+     "time": 494.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0159.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0159.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0158",
+     "time": 491.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0158.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0158.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0159.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-vent-plan",
+   "title": "Planned upper ventilation and solar fan",
+   "place": "house",
+   "category": "Plan",
+   "description": "Matt plans to add a little ventilation near the top of the house as the roof is finished. He already has a solar fan that he hopes will help with humidity.",
+   "phase": "planned",
+   "part_of": "forest-windows",
+   "unknown": "The fan is not shown installed and no final vent design or date is given.",
+   "related_ids": [],
+   "terms": [
+    "ventilation fan",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 501.599,
+     "end": 513.919,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0168",
+     "time": 513.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0168.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0168.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0168.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "winter-bedding",
+   "title": "Down bedding and winter layers",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "Cristina relies on a down comforter given by her parents and flannel bedding for cold nights, and says they manage without heating. She also closes the windows early in winter to hold on to daytime warmth.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "The film does not measure indoor comfort or prove the home never needs heat.",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 475.24,
+     "end": 485.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 513.919,
+     "end": 532.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0173",
+     "time": 527.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0173.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0173.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0171",
+     "time": 523.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0171.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0171.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0173.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-kitchen",
+   "title": "Natural-post timber kitchen counter",
+   "place": "living-kitchen",
+   "category": "Food",
+   "description": "Matt built the indoor sink counter with an acacia top and supports made from fallen ʻōhiʻa, bringing the same natural timber character used on the porch into the kitchen. He considered an indoor burner but preferred to keep the exposed wood and open counter space, so cooking takes place outside while washing and storage remain indoors.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "Wood finishes, sink drainage and food-safe treatment are not specified.",
+   "related_ids": [
+    "outdoor-cooking",
+    "water-supply"
+   ],
+   "terms": [
+    "kitchen",
+    "timber",
+    "roundwood",
+    "sink",
+    "salvage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 391.24,
+     "end": 410.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 450.639,
+     "end": 472.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0130",
+     "time": 398.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0130.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0130.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0132",
+     "time": 400.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0132.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0132.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0151",
+     "time": 461.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0151.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0151.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0130.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "acacia-shelves",
+   "title": "Counter offcuts reused as wall shelves",
+   "place": "living-kitchen",
+   "category": "Materials",
+   "description": "When the acacia countertop was too long to fit, Matt reused the cut-off portion as wall shelves. This turned the surplus wood into storage beside the sink and kept the shelves visually tied to the counter.",
+   "phase": "current",
+   "part_of": "indoor-kitchen",
+   "unknown": "The timber’s provenance beyond the described offcut and its finish are unknown.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "salvage",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 401.039,
+     "end": 410.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 411.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0136.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0134",
+     "time": 408.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0134.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0134.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0136.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "toilet-addition",
+   "title": "Small addition with cistern flush toilet",
+   "place": "toilet",
+   "category": "Water",
+   "description": "A small square addition provides a separate indoor toilet room attached to the polygonal house. Cristina recalls working out how this simple rectangular space would connect to the main shape; its cistern flush toilet uses the rainwater supply that Matt also identifies as feeding the kitchen sink.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "Wastewater treatment and any approvals are not disclosed; this is distinct from the earlier RV compost-toilet account.",
+   "related_ids": [
+    "water-supply",
+    "rv-compost"
+   ],
+   "terms": [
+    "flush toilet",
+    "bathroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 647.519,
+     "end": 661.399,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 657.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0225.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0226",
+     "time": 659.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0226.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0226.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0225.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sliding-door",
+   "title": "Handmade stained timber barn door",
+   "place": "toilet",
+   "category": "Materials",
+   "description": "Cristina made the toilet room's sliding barn door from purchased boards, stained them herself and hung the assembled door on a bought track. She added a decorative metal pull found at a garage sale.",
+   "phase": "current",
+   "part_of": "toilet-addition",
+   "unknown": "The wood species and hardware ratings are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "door",
+    "self-built",
+    "salvage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 661.399,
+     "end": 679.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0230",
+     "time": 664.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0230.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0230.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0232",
+     "time": 669.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0232.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0232.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0235",
+     "time": 674.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0235.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0235.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0230.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "clothes-recess",
+   "title": "Open clothes recess and drawer storage",
+   "place": "closet",
+   "category": "Life",
+   "description": "The open clothes recess combines hanging space with a chest of drawers. Cristina describes a compact shared arrangement with separate sides for her and Matt's clothes.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "The film does not establish total storage volume.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 679.44,
+     "end": 694.519,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0244",
+     "time": 694.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0244.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0244.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0241",
+     "time": 689.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0241.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0241.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0244.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "art-collection",
+   "title": "Home gallery of family artwork",
+   "place": "house",
+   "category": "Life",
+   "description": "The house accommodates Matt's own paintings alongside work by his late uncle. Matt credits his uncle's nearly 40 years of living off grid and making art in Hawaii with showing him that this way of life was possible. Keeping space for that collection influenced the interior layout, including the decision to retain a dividing wall.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The uncle is not named and not every artwork’s maker is identified.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 357.08,
+     "end": 387.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 571.959,
+     "end": 599.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0124",
+     "time": 385.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0124.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0124.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0196",
+     "time": 582.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0196.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0196.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 594.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0201.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0124.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pele-mandala",
+   "title": "Matt’s Pele painting and polygonal mandala",
+   "place": "house",
+   "category": "Life",
+   "description": "Matt's paintings include Pele, the Hawaiian goddess of fire, and a polygonal mandala. He identifies the mandala as an inspiration for the house's departure from right angles, connecting his artwork with the shape of the rooms and roof.",
+   "phase": "current",
+   "part_of": "art-collection",
+   "unknown": "The film supplies no dates or catalogue titles for the works.",
+   "related_ids": [
+    "polygonal-house"
+   ],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 571.959,
+     "end": 582.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 591.04,
+     "end": 599.68,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0194",
+     "time": 577.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0194.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0194.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 595.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0202.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0194.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "uncle-art",
+   "title": "Uncle’s sleeping-Pele artwork",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "Matt's uncle made the painting of Pele sleeping, which Matt and Cristina bought before he died. It connects their home with the artist relative whose own life off grid helped inspire Matt's move.",
+   "phase": "current",
+   "part_of": "art-collection",
+   "unknown": "The artist’s name and exact date of the work are not given.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 582.88,
+     "end": 591.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0200",
+     "time": 591.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0200.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0200.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0199",
+     "time": 589.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0199.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0199.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0200.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "water-supply",
+   "title": "Roof-fed household rainwater system",
+   "place": "site",
+   "category": "Water",
+   "description": "Rain collected from the house roof feeds a storage tank, with an electric pump providing pressure at the kitchen tap. Matt identifies the tank as the supply for both the sink and toilet, while Cristina explains that local households collect their own water even when they have grid electricity because there is no public water supply. Matt finds that living with stored rainwater makes him more conscious of how much he uses.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Drinking-water treatment, all supply branches and waste disposal are not shown.",
+   "related_ids": [],
+   "terms": [
+    "rainwater",
+    "tank",
+    "pump"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 109.2,
+     "end": 125.92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 308.56,
+     "end": 324.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 410.4,
+     "end": 438.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 317.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0099.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 319.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0100.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0141",
+     "time": 422.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0141.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0141.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0099.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cube-tank",
+   "title": "Caged translucent rainwater cube tank",
+   "place": "site",
+   "category": "Water",
+   "description": "The household stores roof runoff in a caged plastic cube tank beside the house, with an inlet through the top and a low outlet. Cristina finds its supply usually sufficient, but when the level falls too far they have to fetch water in containers and transfer it into the tank. That occasional refill trip is prompting them to consider more storage.",
+   "phase": "current",
+   "part_of": "water-supply",
+   "unknown": "Volume, prior use of the container and water quality are not stated.",
+   "related_ids": [],
+   "terms": [
+    "tank",
+    "rainwater",
+    "plastic",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 308.56,
+     "end": 320.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 335.479,
+     "end": 354.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0110",
+     "time": 338.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0110.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0110.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0114",
+     "time": 351.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0114.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0114.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0110.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-catchment",
+   "title": "Roof gutter and tank inlet pipe",
+   "place": "house",
+   "category": "Water",
+   "description": "A gutter collects runoff at the house eaves and feeds a pipe that descends the wall before sloping into the top of the rainwater tank. The arrangement uses the house roof as the collection surface for the stored household supply.",
+   "phase": "current",
+   "part_of": "water-supply",
+   "unknown": "No first-flush device, leaf screen or collection-area measurement is demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "rainwater",
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 308.56,
+     "end": 320.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 317.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0099.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 319.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0100.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0098",
+     "time": 316.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0098.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0098.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0099.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pressure-pump",
+   "title": "Electric pump for household tap pressure",
+   "place": "living-kitchen",
+   "category": "Water",
+   "description": "An electric pump gives the kitchen tap pressure from the stored rainwater supply. Matt describes its electrical connection as 120 volts, plugged into the household power station, and says the present pressure suits their water use even though changing the pipework could increase it.",
+   "phase": "current",
+   "part_of": "water-supply",
+   "unknown": "The current pump itself and its model, pressure controls and full pipe route are not clearly shown.",
+   "related_ids": [],
+   "terms": [
+    "pump"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 410.4,
+     "end": 438.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0141",
+     "time": 422.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0141.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0141.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 438.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0146.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0141.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "extra-tank",
+   "title": "Possible additional rainwater tank",
+   "place": "site",
+   "category": "Plan",
+   "description": "Cristina is considering a second rainwater tank because the existing one occasionally runs low enough to require water fetched from elsewhere. The intention is to extend the household's stored supply between rains.",
+   "phase": "planned",
+   "part_of": "water-supply",
+   "unknown": "No additional tank, capacity, purchase or installation date is established.",
+   "related_ids": [],
+   "terms": [
+    "tank",
+    "rainwater"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 335.479,
+     "end": 354.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0110",
+     "time": 338.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0110.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0110.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0110.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "outdoor-shower",
+   "title": "Bamboo-screened outdoor shower",
+   "place": "shower",
+   "category": "Water",
+   "description": "The outdoor shower uses standard shower fittings within a bamboo screen on a timber platform. Matt assembled its plastic pipework with crimped joints, a process he found straightforward with the appropriate tool. Cristina initially found the prospect of showering outdoors difficult to accept because of the cold, but it became part of their everyday arrangement.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Wastewater drainage and all-weather enclosure performance are not demonstrated.",
+   "related_ids": [
+    "water-supply",
+    "solar-power"
+   ],
+   "terms": [
+    "shower",
+    "bamboo",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 247.2,
+     "end": 267,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 283.039,
+     "end": 300.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 269.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0077.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 292.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0086.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0088",
+     "time": 296.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0088.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0088.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0077.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rope-screen",
+   "title": "Rope-lashed bamboo shower screen",
+   "place": "shower",
+   "category": "Materials",
+   "description": "The bamboo shower screen is carried by roundwood posts and rails joined with rope lashings. Matt used marine rope and recalls coating it with epoxy.",
+   "phase": "current",
+   "part_of": "outdoor-shower",
+   "unknown": "The exact coating and long-term decay resistance are not established.",
+   "related_ids": [],
+   "terms": [
+    "bamboo",
+    "roundwood",
+    "rope"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 300.36,
+     "end": 308.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0093",
+     "time": 305.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0093.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0093.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0094",
+     "time": 307.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0094.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0094.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0095",
+     "time": 309.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0095.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0095.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0093.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-heater",
+   "title": "On-demand gas shower water heater",
+   "place": "shower",
+   "category": "Energy",
+   "description": "A gas-fired, on-demand heater supplies hot water to the outdoor shower without keeping a large tank of water hot. Matt chose an outdoor unit of the sort used for a poolside shower after comparing its capacity and efficiency with their needs; he values heating only the water they use.",
+   "phase": "current",
+   "part_of": "outdoor-shower",
+   "unknown": "The description instead attributes shower heating to solar; the film does not reconcile that wording or show the full fuel connection.",
+   "related_ids": [],
+   "terms": [
+    "gas",
+    "hot water"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 324.4,
+     "end": 335.479,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0108",
+     "time": 333.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0108.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0108.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0106",
+     "time": 330.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0106.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0106.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0109",
+     "time": 336.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0109.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0109.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0108.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "solar-power",
+   "title": "Limited off-grid electricity supply",
+   "place": "site",
+   "category": "Energy",
+   "description": "The off-grid household runs on a small solar supply that Matt uses for lighting, USB devices and the water pump, with another inverter-and-battery arrangement serving the car. Cristina values having no electricity bill but finds the available household power restrictive, particularly while living without a refrigerator. She hopes to put more of their solar panels into use.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No full wiring diagram, power audit or separation of the charging circuits is given.",
+   "related_ids": [],
+   "terms": [
+    "solar pv",
+    "battery",
+    "off-grid"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 267,
+     "end": 283.039,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 433.24,
+     "end": 450.639,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1083.32,
+     "end": 1096.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 271.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0078.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 438.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0146.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0246",
+     "time": 697.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0246.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0246.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0078.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-pv",
+   "title": "Photovoltaic panels over shower",
+   "place": "shower",
+   "category": "Energy",
+   "description": "Photovoltaic panels mounted over the shower also form its overhead cover. Matt describes the array as 200 watts and says it supplies their small battery system for the pumps and other limited electrical loads.",
+   "phase": "current",
+   "part_of": "solar-power",
+   "unknown": "The battery phrase uses a power unit rather than an energy capacity; labels do not independently verify the ratings.",
+   "related_ids": [],
+   "terms": [
+    "solar pv"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 267,
+     "end": 283.039,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 271.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0078.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0082",
+     "time": 285.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0082.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0082.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0078.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "portable-battery",
+   "title": "Portable power station beneath kitchen counter",
+   "place": "living-kitchen",
+   "category": "Energy",
+   "description": "A portable power station under the kitchen counter receives solar input and provides plug-in electricity for household loads. Matt connects the water pump here and uses the same supply for lights and USB devices, keeping the electrical arrangement small and centralised.",
+   "phase": "current",
+   "part_of": "solar-power",
+   "unknown": "Capacity, circuit protection and charging performance are not verified.",
+   "related_ids": [],
+   "terms": [
+    "battery",
+    "inverter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 433.24,
+     "end": 450.639,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 438.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0146.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0148",
+     "time": 451.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0148.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0148.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0146.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "ev-charging",
+   "title": "Closet inverter and battery for car charging",
+   "place": "closet",
+   "category": "Energy",
+   "description": "An inverter and battery occupy part of the clothes recess. Cristina identifies this equipment as the setup for charging their Tesla.",
+   "phase": "current",
+   "part_of": "solar-power",
+   "unknown": "Model labels, battery chemistry, charging rate and the connected array are not readable or demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "inverter",
+    "battery"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 694.519,
+     "end": 703.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0246",
+     "time": 697.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0246.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0246.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0247",
+     "time": 698.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0247.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0247.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0246.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "solar-expansion",
+   "title": "Planned additional household solar use",
+   "place": "site",
+   "category": "Plan",
+   "description": "Cristina wants to bring additional solar panels they already have into use to increase the electricity available inside the house. She sees this as an improvement to a supply that currently limits their choice of appliances.",
+   "phase": "planned",
+   "part_of": "solar-power",
+   "unknown": "Spare modules, intended capacity and installation schedule are not shown.",
+   "related_ids": [],
+   "terms": [
+    "solar pv"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1083.32,
+     "end": 1096.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0393",
+     "time": 1087.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0393.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0393.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0393.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "outdoor-cooking",
+   "title": "Covered outdoor cooking station",
+   "place": "porch",
+   "category": "Food",
+   "description": "Daily cooking takes place under the porch roof with a propane camping burner and a barbecue, leaving the indoor timber counter free for the sink and preparation. Cristina cooks outside through rain and cold, despite her initial doubts about an outdoor kitchen. With outdoor lows given by Kirsten as the high 40s °F [about 8–9 °C], Cristina uses layers, a down jacket and boots when needed.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not measure fuel use or cooking comfort in severe weather.",
+   "related_ids": [
+    "indoor-kitchen"
+   ],
+   "terms": [
+    "kitchen",
+    "propane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 228.159,
+     "end": 267,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 461.759,
+     "end": 485.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 241.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0068.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 247.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0070.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0152",
+     "time": 463.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0152.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0152.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0068.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "camp-burner",
+   "title": "Single propane camping burner",
+   "place": "porch",
+   "category": "Energy",
+   "description": "A single camping burner connected to a propane cylinder handles soups, pasta and oatmeal. It provides the pot-cooking part of the outdoor kitchen alongside the grill.",
+   "phase": "current",
+   "part_of": "outdoor-cooking",
+   "unknown": "Burner rating and fuel storage arrangements are not fully documented.",
+   "related_ids": [],
+   "terms": [
+    "propane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 231.56,
+     "end": 242.159,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 236.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0066.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 241.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0068.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0066.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "barbecue",
+   "title": "Lidded barbecue beside camping burner",
+   "place": "porch",
+   "category": "Food",
+   "description": "The lidded gas barbecue handles grilling alongside the single propane burner used for pot meals. Together the two appliances serve as the household's everyday outdoor cooking equipment.",
+   "phase": "current",
+   "part_of": "outdoor-cooking",
+   "unknown": "Model, capacity and cleaning arrangements are not specified.",
+   "related_ids": [],
+   "terms": [
+    "propane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 242.159,
+     "end": 247.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 241.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0068.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0153",
+     "time": 466.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0153.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0153.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0068.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "unrefrigerated-pantry",
+   "title": "Open pantry and cooking without refrigeration",
+   "place": "living-kitchen",
+   "category": "Life",
+   "description": "With limited household electricity, Cristina describes living without a refrigerator and using an icebox intermittently; at the time of the visit, even the icebox was empty and out of use. She says bought blocks of ice give them three or four days of chilled storage when they need it. Dry and packaged groceries occupy the open pantry, while fruit and greens can also be picked from the garden.",
+   "phase": "current",
+   "part_of": "indoor-kitchen",
+   "unknown": "The icebox itself is not clearly shown; the film does not establish food-storage temperatures.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1096.2,
+     "end": 1114.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0398",
+     "time": 1109.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0398.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0398.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0397",
+     "time": 1107.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0397.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0397.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0401",
+     "time": 1115.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0401.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0401.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0398.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rv-home",
+   "title": "Earlier fifth-wheel living during construction",
+   "place": "rv",
+   "category": "Life",
+   "description": "A 24-foot [7.3-metre] fifth-wheel trailer provided a place to live on the land during construction. Cristina recalls spending roughly a year and a half to almost two years in its compact interior while the house took shape.",
+   "phase": "historical",
+   "part_of": null,
+   "unknown": "The exact occupancy dates and present status of the trailer are not given.",
+   "related_ids": [],
+   "terms": [
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 741.959,
+     "end": 757.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 783.16,
+     "end": 787.0,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 749.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0258.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0273",
+     "time": 784.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0273.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0273.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0261",
+     "time": 755.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0261.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0261.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0258.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rv-compost",
+   "title": "RV composting-toilet conversion",
+   "place": "rv-bathroom",
+   "category": "Water",
+   "description": "Cristina chose a composting toilet for the RV after considering how to manage sanitation while living on the land. The conversion involved removing the trailer's original toilet; she considers the replacement a worthwhile investment and a lesson in dealing more directly with their own waste.",
+   "phase": "historical",
+   "part_of": "rv-home",
+   "unknown": "The installed composting toilet and compost handling are not shown, so the frames establish preparatory work only.",
+   "related_ids": [],
+   "terms": [
+    "composting toilet",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 757.8,
+     "end": 781.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0270",
+     "time": 776.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0270.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0270.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0268",
+     "time": 771.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0268.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0268.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0266",
+     "time": 764.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0266.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0266.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0270.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rv-water",
+   "title": "Temporary tubs and pumped RV water",
+   "place": "rv",
+   "category": "Water",
+   "description": "Temporary rainwater storage in plastic tubs and a pump supplied the RV during the build. Getting hot water working was a memorable milestone for Matt and Cristina in making the temporary home usable.",
+   "phase": "historical",
+   "part_of": "rv-home",
+   "unknown": "Collection surface, treatment and heater fuel are not explained.",
+   "related_ids": [],
+   "terms": [
+    "rainwater",
+    "pump",
+    "hot water"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 787,
+     "end": 804.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0275",
+     "time": 789.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0275.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0275.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0276",
+     "time": 791.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0276.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0276.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0277",
+     "time": 793.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0277.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0277.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0275.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "owner-build",
+   "title": "Learning to build and paying as they went",
+   "place": "site",
+   "category": "Process",
+   "description": "Cristina recalls that neither of them began with building experience: they learned as they went, sought feedback from an architect relative and received help from neighbours in exchange for beer and pizza. Matt read University of Hawaii guidance on earthquake-resistant construction and credits the discipline of distance running with helping him persist through long hours of unpaid work. Cristina describes saving for each delivery of timber and paying as they went, completing the project without a mortgage or bank loan.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Accounts and the full division of paid and unpaid work are not supplied.",
+   "related_ids": [
+    "polygonal-house",
+    "rv-home"
+   ],
+   "terms": [
+    "self-built",
+    "hand tools"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 906.399,
+     "end": 927.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1022.16,
+     "end": 1038.559,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0305",
+     "time": 862.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0305.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0305.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0318",
+     "time": 907.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0318.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0318.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0352",
+     "time": 984.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0352.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0352.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0305.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "hurricane-ties",
+   "title": "Metal hurricane ties in timber frame",
+   "place": "house",
+   "category": "Structure",
+   "description": "Matt used metal hurricane ties throughout the timber structure to supplement the nailed connections. Earthquakes and hurricanes both informed that choice, alongside his reading on earthquake-resistant construction.",
+   "phase": "current",
+   "part_of": "polygonal-house",
+   "unknown": "Connector schedules and certified seismic or wind performance are not established.",
+   "related_ids": [
+    "owner-build"
+   ],
+   "terms": [
+    "metal",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 856.839,
+     "end": 906.399,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0315",
+     "time": 893.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0315.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0315.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0316",
+     "time": 895.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0316.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0316.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0315.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "food-forest",
+   "title": "Rain-fed mixed food forest",
+   "place": "garden",
+   "category": "Food",
+   "description": "Matt and Cristina planted fruit trees early and have continued adding edible plants among the existing forest vegetation as they build. Matt propagates many of the other plants from cuttings placed directly in the ground, and finds the wet climate replaces the near-daily watering their Maui garden required with a need to cut back and trim growth. Cristina's aim is to become more self-sustaining, with fresh food available to pick around the house.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Self-sufficiency, total yield and the description’s variety count are not independently verified.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1114.6,
+     "end": 1158.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1192.52,
+     "end": 1208.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1334.88,
+     "end": 1375.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0424",
+     "time": 1168.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0424.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0424.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0470",
+     "time": 1326.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0470.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0470.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0408",
+     "time": 1130.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0408.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0408.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0424.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "citrus",
+   "title": "Lemons, pomelo, grapefruit and lime",
+   "place": "garden",
+   "category": "Food",
+   "description": "The citrus planting includes pink Eureka lemon, another lemon tree, pomelo, grapefruit and Tahitian lime. Matt takes particular pride in an early large lemon harvest and prunes the trees to control their shape, likening the process to bonsai. These trees form part of the effort to have fresh produce available at home.",
+   "phase": "current",
+   "part_of": "food-forest",
+   "unknown": "Cultivars other than the spoken names, yields and plant ages are not verified.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1133.2,
+     "end": 1151.919,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1236.72,
+     "end": 1248.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1342,
+     "end": 1355.559,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0415",
+     "time": 1146.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0415.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0415.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0453",
+     "time": 1248.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0453.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0453.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0478",
+     "time": 1356.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0478.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0478.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0448",
+     "time": 1238.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0448.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0448.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0415.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bananas",
+   "title": "Banana stands and fresh hanging harvest",
+   "place": "garden",
+   "category": "Food",
+   "description": "Bananas are already providing fruit for the household, including a small finger banana that Matt finds sweet like an apple banana. He estimates that the garden contains three or four types. Harvested bunches are hung beneath the garden shelter, and bananas are also kept indoors for eating without refrigeration.",
+   "phase": "current",
+   "part_of": "food-forest",
+   "unknown": "The exact variety count and production rate are not established.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1158.76,
+     "end": 1179.679,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1315.96,
+     "end": 1323.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0467",
+     "time": 1318.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0467.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0467.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0421",
+     "time": 1160.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0421.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0421.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0423",
+     "time": 1165.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0423.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0423.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0467.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "samoan-spinach",
+   "title": "Samoan spinach propagated from cuttings",
+   "place": "garden",
+   "category": "Food",
+   "description": "Matt grows the plant he calls Samoan spinach as a leafy food crop and multiplies it by taking cuttings to plant elsewhere in the garden. Cristina uses the leaves in burritos and with salads, one of the unfamiliar foods they have adopted while experimenting with what grows locally.",
+   "phase": "current",
+   "part_of": "food-forest",
+   "unknown": "Botanical identification and safe preparation details are not established by the film.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1179.679,
+     "end": 1198.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0429",
+     "time": 1186.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0429.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0429.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0433",
+     "time": 1194.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0433.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0433.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0429.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cherry-apple",
+   "title": "Jamaican cherry and mountain apple",
+   "place": "garden",
+   "category": "Food",
+   "description": "Jamaican cherry and mountain apple extend the range of fruit trees in the garden. Matt planted the cherry intrigued by its reputed cotton-candy taste, while Cristina describes the diversity of plants grown by other people on the Big Island as encouragement to try foods she had never encountered before.",
+   "phase": "current",
+   "part_of": "food-forest",
+   "unknown": "Neither ripe fruit nor mature yields are demonstrated.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1208.52,
+     "end": 1236.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0441",
+     "time": 1219.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0441.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0441.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0445",
+     "time": 1232.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0445.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0445.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0441.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "herbs-chili",
+   "title": "Basil, chili, lemongrass and pineapple mint",
+   "place": "garden",
+   "category": "Food",
+   "description": "Basil, Hawaiian chili peppers, lemongrass and pineapple mint grow among the food-forest plantings. Cristina points to lemongrass as something they can add to rice, bringing an immediately usable kitchen ingredient into the mixed garden.",
+   "phase": "current",
+   "part_of": "food-forest",
+   "unknown": "Plant identities are attributed to the tour; quantities harvested are not given.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1130,
+     "end": 1138,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1155.12,
+     "end": 1158.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1232.96,
+     "end": 1236.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1296.159,
+     "end": 1306.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1311.5,
+     "end": 1315.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0447",
+     "time": 1235.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0447.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0447.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0460",
+     "time": 1299.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0460.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0460.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0466",
+     "time": 1315.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0466.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0466.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0420",
+     "time": 1159.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0420.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0420.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0447.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sugar-cane",
+   "title": "Tall cane grown from a gifted cutting",
+   "place": "garden",
+   "category": "Food",
+   "description": "Matt's sugar cane began with a cutting given to him by a friend about a year earlier. Its vigorous growth after simply being put in the ground surprised him and encouraged the idea of producing their own sweetener. They have also added purple sugar cane as the planting spreads through the property.",
+   "phase": "current",
+   "part_of": "food-forest",
+   "unknown": "Harvest weight and sugar extraction are not demonstrated.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1248.76,
+     "end": 1279.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1366.52,
+     "end": 1375.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0455",
+     "time": 1254.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0455.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0455.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0484",
+     "time": 1375.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0484.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0484.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0455.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sugar-press-plan",
+   "title": "Possible hand press for sugar cane",
+   "place": "garden",
+   "category": "Plan",
+   "description": "Matt is considering a hand-operated press to extract juice from their sugar cane for use as a home-grown sweetener. It is an intended next step in using the crop, encouraged by how readily the cane has grown.",
+   "phase": "planned",
+   "part_of": "sugar-cane",
+   "unknown": "No press, purchase or trial extraction is shown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1260.96,
+     "end": 1279.279,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0456",
+     "time": 1270.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0456.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0456.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0456.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beverage-plants",
+   "title": "Young tea, cacao and coffee plants",
+   "place": "garden",
+   "category": "Food",
+   "description": "Tea, cacao and coffee are experimental additions to the edible planting. Matt hopes to try making their own coffee, while describing the cacao tree as struggling. These plants extend the ambition of producing food at home into drinks and chocolate ingredients.",
+   "phase": "current",
+   "part_of": "food-forest",
+   "unknown": "Tea/cacao close-ups overlap the speech, so leaf-by-leaf identification is uncertain; no tea, chocolate or coffee processing is shown.",
+   "related_ids": [],
+   "terms": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1287.24,
+     "end": 1313.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0464",
+     "time": 1308.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0464.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0464.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0459",
+     "time": 1295.0,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0459.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0459.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0458",
+     "time": 1291.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0458.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0458.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0464.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gazebo-shelter",
+   "title": "Red-roof garden picnic shelter",
+   "place": "gazebo",
+   "category": "Structure",
+   "description": "An open-sided garden shelter puts a picnic table beneath a corrugated roof carried on timber posts, with roundwood rails around the sides. It also provides a covered place to hang harvested banana bunches.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not discuss its builder, cost, date or roof material beyond its visible corrugated form.",
+   "related_ids": [
+    "food-forest",
+    "bananas"
+   ],
+   "terms": [
+    "timber",
+    "roundwood",
+    "roof"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0421",
+     "time": 1160.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0421.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0421.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0471",
+     "time": 1328.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0471.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0471.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0422",
+     "time": 1162.5,
+     "path": "review/OQbOrk0_3x4/evidence/frame-0422.jpg",
+     "preview_path": "review/OQbOrk0_3x4/sample-0422.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/OQbOrk0_3x4/sample-0421.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 58,
+   "title": "Island approach and channel introduction",
+   "visible": "Channel opener, aircraft view labelled Big Island, coastal driving, lava fields and misty forest labelled Fern Forest, Puna, Hawaii.",
+   "gaps": "Approach roads and lava fields are not the household parcel.",
+   "sample_count": 23,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0012.jpg"
+  },
+  {
+   "start": 58,
+   "end": 146,
+   "title": "Arrival and forest driveway",
+   "visible": "Cristina meets visitors at the road; Matt and Cristina walk the gravel and grass drive among tree ferns, with forest aerial inserts.",
+   "gaps": "No surveyed boundary, reserve designation document or neighbouring household interior.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0034.jpg"
+  },
+  {
+   "start": 146,
+   "end": 166,
+   "title": "Archival gate and access clearing",
+   "visible": "Earlier overgrown entrance, timber gate with private-property notice, wheelbarrow and vegetation clearing.",
+   "gaps": "No date label or surviving remains of the earlier burned house.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0047.jpg"
+  },
+  {
+   "start": 166,
+   "end": 228,
+   "title": "Polygonal house and natural porch posts",
+   "visible": "Cream-and-brown house, glazed double doors, broad timber steps, perimeter deck, natural round posts and shallow piers.",
+   "gaps": "No measured floor area or concealed wall construction.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0055.jpg"
+  },
+  {
+   "start": 228,
+   "end": 267,
+   "title": "Outdoor cooking porch",
+   "visible": "Single camping burner, lidded barbecue, propane tank and hanging pots beside the curved shower screen.",
+   "gaps": "Cooking fuel consumption and all-weather comfort are not measured.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0069.jpg"
+  },
+  {
+   "start": 267,
+   "end": 309,
+   "title": "Solar-covered outdoor shower",
+   "visible": "PV modules over a curved bamboo screen, handheld and overhead shower fittings, round poles, lashings and plants.",
+   "gaps": "No power meter test or drainage route.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0085.jpg"
+  },
+  {
+   "start": 309,
+   "end": 357,
+   "title": "Rain tank and on-demand heater",
+   "visible": "Roof gutter and black pipe enter a caged cube tank; nearby GASLAND heater, gas cylinder, hoses and outlet valve shown.",
+   "gaps": "Tank capacity, filtration, potability and wastewater disposal not established.",
+   "sample_count": 22,
+   "sample_ids": [
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0106.jpg"
+  },
+  {
+   "start": 357,
+   "end": 391,
+   "title": "Entry and family artwork",
+   "visible": "Aerial clearing, front approach, entry through glazed doors, living-area paintings and portrait of Matt’s uncle.",
+   "gaps": "Uncle not named; earlier residence location not proved.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0122.jpg"
+  },
+  {
+   "start": 391,
+   "end": 450,
+   "title": "Timber kitchen and portable power",
+   "visible": "Natural-post counter, timber shelves, stainless sink with running tap, open storage and connected portable power station.",
+   "gaps": "Pump installation and complete electrical circuit not exposed.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0137.jpg"
+  },
+  {
+   "start": 450,
+   "end": 536,
+   "title": "Ventilation and winter bedding",
+   "visible": "Kitchen window looks to outdoor cooker; small floor fan, open roof volume, partition and bed covers shown.",
+   "gaps": "No thermal testing, insulation section or installed roof fan.",
+   "sample_count": 28,
+   "sample_ids": [
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166",
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0162.jpg"
+  },
+  {
+   "start": 536,
+   "end": 585,
+   "title": "Stained floor and Pele paintings",
+   "visible": "Camera looks closely across reddish floor boards, then Matt’s Pele painting and art on central partition.",
+   "gaps": "Floor species and long-term finish durability unknown.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188",
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0186.jpg"
+  },
+  {
+   "start": 585,
+   "end": 647,
+   "title": "Open bedroom and roof structure",
+   "visible": "Camera circles bedroom and partial-height art wall; mandala, exposed roof members and large openings visible.",
+   "gaps": "No loft exists; original loft idea was abandoned.",
+   "sample_count": 23,
+   "sample_ids": [
+    "frame-0197",
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0208.jpg"
+  },
+  {
+   "start": 647,
+   "end": 679,
+   "title": "Toilet addition and sliding door",
+   "visible": "Door opens to white cistern toilet; stained timber barn door, black rail and decorative handle examined.",
+   "gaps": "No sewer, septic or other waste-treatment destination.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0228.jpg"
+  },
+  {
+   "start": 679,
+   "end": 741,
+   "title": "Closet, charging equipment and forest views",
+   "visible": "Clothes recess, drawers, low electrical equipment, bedroom windows, and aerial house/garden shelter views.",
+   "gaps": "EV charging connection not demonstrated; aerials do not establish parcel boundary.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0236",
+    "frame-0237",
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0246.jpg"
+  },
+  {
+   "start": 741,
+   "end": 800,
+   "title": "Archival RV living and temporary water",
+   "visible": "Fifth-wheel exterior and interior, painting, bathroom toilet removal, temporary tubs/pump hoses and hot-water demonstration.",
+   "gaps": "Installed composting toilet is not clearly shown; present RV whereabouts unknown.",
+   "sample_count": 24,
+   "sample_ids": [
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260",
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274",
+    "frame-0275",
+    "frame-0276",
+    "frame-0277",
+    "frame-0278",
+    "frame-0279",
+    "frame-0280"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0269.jpg"
+  },
+  {
+   "start": 800,
+   "end": 846,
+   "title": "Gravel work and foundation preparation",
+   "visible": "Archival muddy track, barrow gravel work and cleared pad; present driveway and house piers.",
+   "gaps": "No gravel depth, bearing test or dated construction schedule.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0281",
+    "frame-0282",
+    "frame-0283",
+    "frame-0284",
+    "frame-0285",
+    "frame-0286",
+    "frame-0287",
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292",
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296",
+    "frame-0297"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0289.jpg"
+  },
+  {
+   "start": 846,
+   "end": 895,
+   "title": "Archival piers, floor frame and connectors",
+   "visible": "Precast piers, short posts, beams, floor frame, hand joinery, laid boards and metal connector close-up.",
+   "gaps": "No approved engineering design or complete connector schedule.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0298",
+    "frame-0299",
+    "frame-0300",
+    "frame-0301",
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306",
+    "frame-0307",
+    "frame-0308",
+    "frame-0309",
+    "frame-0310",
+    "frame-0311",
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0307.jpg"
+  },
+  {
+   "start": 895,
+   "end": 946,
+   "title": "Archival wall raising and permit discussion",
+   "visible": "Owners and helpers assemble stud walls and roof members; overhead views of incomplete house.",
+   "gaps": "Permit statements are spoken; no authority document or inspection shown.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0316",
+    "frame-0317",
+    "frame-0318",
+    "frame-0319",
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323",
+    "frame-0324",
+    "frame-0325",
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329",
+    "frame-0330",
+    "frame-0331"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0324.jpg"
+  },
+  {
+   "start": 946,
+   "end": 984,
+   "title": "Forest running montage",
+   "visible": "Fern-lined footpaths, wooden bench, Matt running and moving trail views.",
+   "gaps": "Exact trail location and ownership unknown; treated outside the subject.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335",
+    "frame-0336",
+    "frame-0337",
+    "frame-0338",
+    "frame-0339",
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343",
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348",
+    "frame-0349",
+    "frame-0350",
+    "frame-0351"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0342.jpg"
+  },
+  {
+   "start": 984,
+   "end": 1065,
+   "title": "Archival roof, wrap and enclosure",
+   "visible": "Roof framing, timber ceiling boards, wall studs, white building wrap, porch frame and door/window installation.",
+   "gaps": "No dated build duration or complete wall/roof layer specification.",
+   "sample_count": 31,
+   "sample_ids": [
+    "frame-0352",
+    "frame-0353",
+    "frame-0354",
+    "frame-0355",
+    "frame-0356",
+    "frame-0357",
+    "frame-0358",
+    "frame-0359",
+    "frame-0360",
+    "frame-0361",
+    "frame-0362",
+    "frame-0363",
+    "frame-0364",
+    "frame-0365",
+    "frame-0366",
+    "frame-0367",
+    "frame-0368",
+    "frame-0369",
+    "frame-0370",
+    "frame-0371",
+    "frame-0372",
+    "frame-0373",
+    "frame-0374",
+    "frame-0375",
+    "frame-0376",
+    "frame-0377",
+    "frame-0378",
+    "frame-0379",
+    "frame-0380",
+    "frame-0381",
+    "frame-0382"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0367.jpg"
+  },
+  {
+   "start": 1065,
+   "end": 1126,
+   "title": "Finished home, limited power and pantry",
+   "visible": "Finished living/bedroom views; kitchen discussion; baskets of staples, bottles, bananas and harvested lemon.",
+   "gaps": "No refrigerator or identifiable icebox demonstrated; costs not documented by receipts.",
+   "sample_count": 24,
+   "sample_ids": [
+    "frame-0383",
+    "frame-0384",
+    "frame-0385",
+    "frame-0386",
+    "frame-0387",
+    "frame-0388",
+    "frame-0389",
+    "frame-0390",
+    "frame-0391",
+    "frame-0392",
+    "frame-0393",
+    "frame-0394",
+    "frame-0395",
+    "frame-0396",
+    "frame-0397",
+    "frame-0398",
+    "frame-0399",
+    "frame-0400",
+    "frame-0401",
+    "frame-0402",
+    "frame-0403",
+    "frame-0404",
+    "frame-0405",
+    "frame-0406"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0395.jpg"
+  },
+  {
+   "start": 1126,
+   "end": 1208,
+   "title": "Garden, gazebo, bananas and spinach",
+   "visible": "Walk past citrus and basil to open red-roof shelter with picnic table and hanging bananas; Samoan spinach leaves handled.",
+   "gaps": "Plant identities rely on residents; neither total yield nor irrigation history verified.",
+   "sample_count": 29,
+   "sample_ids": [
+    "frame-0407",
+    "frame-0408",
+    "frame-0409",
+    "frame-0410",
+    "frame-0411",
+    "frame-0412",
+    "frame-0413",
+    "frame-0414",
+    "frame-0415",
+    "frame-0416",
+    "frame-0417",
+    "frame-0418",
+    "frame-0419",
+    "frame-0420",
+    "frame-0421",
+    "frame-0422",
+    "frame-0423",
+    "frame-0424",
+    "frame-0425",
+    "frame-0426",
+    "frame-0427",
+    "frame-0428",
+    "frame-0429",
+    "frame-0430",
+    "frame-0431",
+    "frame-0432",
+    "frame-0433",
+    "frame-0434",
+    "frame-0435"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0421.jpg"
+  },
+  {
+   "start": 1208,
+   "end": 1318,
+   "title": "Fruit trees, sugar cane and beverage plants",
+   "visible": "Flowering Jamaican cherry, mountain apple, chili, pomelo, lemon, cane, tea/cacao, lemongrass, mint and coffee are pointed out.",
+   "gaps": "Tea/cacao shot timing is ambiguous; no sugar press or processing shown.",
+   "sample_count": 31,
+   "sample_ids": [
+    "frame-0436",
+    "frame-0437",
+    "frame-0438",
+    "frame-0439",
+    "frame-0440",
+    "frame-0441",
+    "frame-0442",
+    "frame-0443",
+    "frame-0444",
+    "frame-0445",
+    "frame-0446",
+    "frame-0447",
+    "frame-0448",
+    "frame-0449",
+    "frame-0450",
+    "frame-0451",
+    "frame-0452",
+    "frame-0453",
+    "frame-0454",
+    "frame-0455",
+    "frame-0456",
+    "frame-0457",
+    "frame-0458",
+    "frame-0459",
+    "frame-0460",
+    "frame-0461",
+    "frame-0462",
+    "frame-0463",
+    "frame-0464",
+    "frame-0465",
+    "frame-0466"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0451.jpg"
+  },
+  {
+   "start": 1318,
+   "end": 1396,
+   "title": "Banana bunches, citrus and lava fissure",
+   "visible": "Growing bananas, gazebo aerial, grapefruit, lime flowers, purple cane and planted dark ground fissure.",
+   "gaps": "Geological age, depth and garden productivity unmeasured.",
+   "sample_count": 25,
+   "sample_ids": [
+    "frame-0467",
+    "frame-0468",
+    "frame-0469",
+    "frame-0470",
+    "frame-0471",
+    "frame-0472",
+    "frame-0473",
+    "frame-0474",
+    "frame-0475",
+    "frame-0476",
+    "frame-0477",
+    "frame-0478",
+    "frame-0479",
+    "frame-0480",
+    "frame-0481",
+    "frame-0482",
+    "frame-0483",
+    "frame-0484",
+    "frame-0485",
+    "frame-0486",
+    "frame-0487",
+    "frame-0488",
+    "frame-0489",
+    "frame-0490",
+    "frame-0491"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0479.jpg"
+  },
+  {
+   "start": 1396,
+   "end": 1451,
+   "title": "Forest aerials and closing reflections",
+   "visible": "Drone rises through tree ferns and forest canopy to show small house and gazebo clearings in mist.",
+   "gaps": "No exact parcel limits or proof of forest-reserve boundary.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0492",
+    "frame-0493",
+    "frame-0494",
+    "frame-0495",
+    "frame-0496",
+    "frame-0497",
+    "frame-0498",
+    "frame-0499"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0496.jpg"
+  },
+  {
+   "start": 1451,
+   "end": 1462.161,
+   "title": "Channel outro",
+   "visible": "Channel title and montage of other films, ending the video.",
+   "gaps": "Montage locations are not this property; final caption fragment is delayed.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0500",
+    "frame-0501"
+   ],
+   "thumbnail": "review/OQbOrk0_3x4/sample-0501.jpg"
+  }
+ ]
+}

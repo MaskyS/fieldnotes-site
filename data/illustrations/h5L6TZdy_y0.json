@@ -1,0 +1,355 @@
+{
+ "property_id": "h5L6TZdy_y0",
+ "items": [
+  {
+   "id": "van-and-filming-grounds",
+   "title": "Transit and filming grounds",
+   "kind": "map",
+   "feature_ids": [
+    "transit",
+    "galley",
+    "shower",
+    "bed-dinette"
+   ],
+   "references": [
+    {
+     "path": "review/h5L6TZdy_y0/sample-0672.jpg",
+     "time": 1858.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/sample-0014.jpg",
+     "time": 38.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/sample-0005.jpg",
+     "time": 12.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/sample-0095.jpg",
+     "time": 246.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0043.jpg",
+     "time": 125.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/sample-0044.jpg",
+     "time": 128.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0071.jpg",
+     "time": 186.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/sample-0082.jpg",
+     "time": 214.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/sample-0083.jpg",
+     "time": 217.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0155.jpg",
+     "time": 395.5
+    }
+   ],
+   "path": "data/illustrations/h5L6TZdy_y0/van-and-filming-grounds.png",
+   "invention_log": "harness/viz/h5L6TZdy_y0/van-and-filming-grounds/review.md"
+  },
+  {
+   "id": "bed-over-the-dinette",
+   "title": "Bed over the dinette",
+   "kind": "diagram",
+   "feature_ids": [
+    "bed-dinette",
+    "bed-leaves",
+    "mattress-pads",
+    "rear-table",
+    "bicycle-storage"
+   ],
+   "references": [
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0347.jpg",
+     "time": 894.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0351.jpg",
+     "time": 903.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0369.jpg",
+     "time": 967.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0375.jpg",
+     "time": 981.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0483.jpg",
+     "time": 1364.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0485.jpg",
+     "time": 1368.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0488.jpg",
+     "time": 1373.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0492.jpg",
+     "time": 1389.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0494.jpg",
+     "time": 1396.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0260.jpg",
+     "time": 663.0
+    }
+   ],
+   "path": "data/illustrations/h5L6TZdy_y0/bed-over-the-dinette.png",
+   "invention_log": "harness/viz/h5L6TZdy_y0/bed-over-the-dinette/review.md"
+  },
+  {
+   "id": "shower-hidden-in-the-counter",
+   "title": "Shower hidden in the counter",
+   "kind": "cutaway",
+   "feature_ids": [
+    "shower",
+    "portable-toilet",
+    "wash-storage",
+    "shower-pan",
+    "shower-water",
+    "ribbed-lining",
+    "shared-hose",
+    "stainless-record"
+   ],
+   "references": [
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0103.jpg",
+     "time": 276.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0108.jpg",
+     "time": 285.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0118.jpg",
+     "time": 302.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0125.jpg",
+     "time": 316.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0132.jpg",
+     "time": 334.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0147.jpg",
+     "time": 372.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0647.jpg",
+     "time": 1791.5
+    }
+   ],
+   "path": "data/illustrations/h5L6TZdy_y0/shower-hidden-in-the-counter.png",
+   "invention_log": "harness/viz/h5L6TZdy_y0/shower-hidden-in-the-counter/review.md"
+  },
+  {
+   "id": "insulated-floor-and-frame",
+   "title": "Transit floor and aluminum frame",
+   "kind": "cutaway",
+   "feature_ids": [
+    "layered-floor",
+    "aluminum-framework",
+    "thermal-breaks",
+    "frame-construction-record",
+    "fitting-examples"
+   ],
+   "references": [
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0279.jpg",
+     "time": 705.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0577.jpg",
+     "time": 1607.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0580.jpg",
+     "time": 1613.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0582.jpg",
+     "time": 1619.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0280.jpg",
+     "time": 707.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0281.jpg",
+     "time": 710.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0282.jpg",
+     "time": 712.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0300.jpg",
+     "time": 773.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0301.jpg",
+     "time": 781.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0303.jpg",
+     "time": 785.5
+    }
+   ],
+   "path": "data/illustrations/h5L6TZdy_y0/insulated-floor-and-frame.png",
+   "invention_log": "harness/viz/h5L6TZdy_y0/insulated-floor-and-frame/review.md"
+  },
+  {
+   "id": "two-inverters-one-house-battery",
+   "title": "Two inverters, one house battery",
+   "kind": "diagram",
+   "feature_ids": [
+    "power-system",
+    "roof-solar",
+    "solar-controller",
+    "house-battery",
+    "engine-inverter",
+    "house-inverter",
+    "power-controls",
+    "shore-cord",
+    "microwave"
+   ],
+   "references": [
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0021.jpg",
+     "time": 72.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0037.jpg",
+     "time": 109.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0198.jpg",
+     "time": 501.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0455.jpg",
+     "time": 1263.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0456.jpg",
+     "time": 1270.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0457.jpg",
+     "time": 1271.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0467.jpg",
+     "time": 1306.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0432.jpg",
+     "time": 1181.5
+    }
+   ],
+   "path": "data/illustrations/h5L6TZdy_y0/two-inverters-one-house-battery.png",
+   "invention_log": "harness/viz/h5L6TZdy_y0/two-inverters-one-house-battery/review.md"
+  },
+  {
+   "id": "air-from-under-the-van",
+   "title": "Air from under the van",
+   "kind": "section",
+   "feature_ids": [
+    "ventilation",
+    "floor-inlet",
+    "roof-fan"
+   ],
+   "references": [
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0398.jpg",
+     "time": 1079.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0399.jpg",
+     "time": 1081.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0403.jpg",
+     "time": 1090.5
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0405.jpg",
+     "time": 1102.0
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0026.jpg",
+     "time": 84.0
+    }
+   ],
+   "path": "data/illustrations/h5L6TZdy_y0/air-from-under-the-van.png",
+   "invention_log": "harness/viz/h5L6TZdy_y0/air-from-under-the-van/review.md"
+  },
+  {
+   "id": "portrait",
+   "title": "Dave’s Transit in dry-season sunshine",
+   "kind": "portrait",
+   "hero": true,
+   "scope": "whole",
+   "path": "data/illustrations/h5L6TZdy_y0/portrait.png",
+   "invention_log": "harness/viz/h5L6TZdy_y0/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 2,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 0.944
+     },
+     {
+      "round": 2,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "transit"
+   ],
+   "references": [
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0017.jpg",
+     "time": 52.5,
+     "role": "vantage"
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0018.jpg",
+     "time": 54.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0043.jpg",
+     "time": 125.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/h5L6TZdy_y0/evidence/frame-0346.jpg",
+     "time": 891.0,
+     "role": "detail"
+    }
+   ]
+  }
+ ]
+}

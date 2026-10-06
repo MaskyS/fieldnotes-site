@@ -1,0 +1,26 @@
+# Candidate 1 self-critique
+
+Compared the full vantage frame-0308 at 32:00 with candidate-1.png, viewing both at their original resolutions. Generated with the built-in image tool from the exact saved prompt-1.txt, with the vantage attached first and frames 0309, 0306 and 0305 afterward. This is the first candidate only; no independent judge has yet reported and no acceptance is claimed.
+
+Visible deviations:
+
+- The entire painting is substantially brighter, warmer and more saturated than the film. The sky is a stronger blue, the ground yellower, foliage more olive, plaster more cream, and the left wall a stronger orange-red. The subdued gray-purple cast and deep shadows of the vantage are reduced.
+- Clouds are rendered as heavier, whiter, broken brushwork with a more emphatic central cumulus cluster. The original has softer, smoother, lower-contrast streaks; their precise boundaries and gaps are not retained.
+- The broad horizon and hill positions are close, but minor ridge contours and surface patterns are simplified. The right earth bank is brighter orange and its sparse vegetation more regularly dotted.
+- The bare tree remains on the left at approximately the right height, but its trunk and branches are much thicker, paler and more prominent. The branching pattern and lower dead twigs differ from the reference.
+- Both substantial leafy trees have altered crowns, with more discrete leaf clumps and stronger yellow-green highlights. Their exact silhouettes and occlusion of the buildings differ slightly; the tree between the center and right houses is more pointed and vertically articulated.
+- The distant pole to the left of the leafy tree becomes conspicuously brown with a distinct cap. The frame supports only a thin, subdued vertical feature.
+- The far-left partial structures and wall terminations are more defined, including a prominent gray upright shape and dark openings whose exact shapes cannot be justified at this scale from the vantage.
+- Left-house glazing has been regularized into cleaner, brighter panes and thicker framing. Its small roof projections and objects around the base are more explicit than the source resolves. The red boundary wall has a more solid, clean and saturated appearance.
+- The center house has harder edges, brighter surfaces and more regular window divisions. Arch outlines, rooftop strips, small upper-wall rectangles and the facade junctions become specific invented geometry where the film is soft. The overall arrangement is close, but the individual opening widths and spacing are not exact.
+- The tan walls and stepped forms between the center and right houses have stronger outlines and simplified contours; the exposed dark timber-like recess is too cleanly legible and its individual members are interpretive.
+- The right house retains its two domes, two upper dark arched openings, central curved roof feature and horizontal canopy, but their exact contours, mullion spacing and cap shapes are simplified and sharpened. The glazed facade looks brighter and bluer, and its pale framing and canopy edge are overly crisp.
+- The right house’s gray side shoulders acquire rocky faceted shapes not clearly supported by the soft plaster/earth appearance of the vantage. Porch posts, pale lower openings and small objects are too definite. The vehicle is recognizably retained but its detailed shape is invented. Dark objects along the right base are more legible and more separately delineated than the original.
+- Foreground shrubs broadly occupy corresponding regions, but their silhouettes, sizes, spacing and fine branches are not exact. The large lower-center-right bush has an overly distinct open trunk structure and rounded crown. The lower-left vegetation and crossing pale dead branches are substantially reinterpreted.
+- Ground texture is coarser and more decorative: abundant conspicuous pale stones, gold grass and small plants replace the darker, quieter patchwork in the frame. The pale rocky strip left of center is sharpened into a more definite rock pile. Gaps between shrubs can read as paths more strongly than they do in the original.
+
+Faithful at a broad level: one landscape viewpoint; three main house facades in their original order; buildings kept in the middle-distance band; low hills and right earth bank; bare left tree and two substantial leafy trees; sloping glazing on the left and center; two pale domes, two upper arches and a long porch canopy on the right; scrub foreground. No people, text, borders, insets, pond, snow, wind turbine or conventional gable roof were added. The film watermark was intentionally omitted as instructed.
+
+Evidence limitation: only frame-0309 is a closer catalogue detail of architecture visible here; frame-0306 and frame-0305 are overlapping views, not closer detail views. They were kept for relevant visual corroboration rather than attaching closeups of unrelated houses. The exact calendar season is unknown and has not been asserted. The requested scout command failed to supply rankings; the manual selection record is in selection-notes.md.
+
+Stop after round 1. Await the independent judge before any correction. Do not write review.md until a round is accepted.

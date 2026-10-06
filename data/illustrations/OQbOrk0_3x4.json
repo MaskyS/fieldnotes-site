@@ -1,0 +1,429 @@
+{
+ "property_id": "OQbOrk0_3x4",
+ "items": [
+  {
+   "id": "portrait",
+   "title": "Matt and Cristina’s home, misty daylight",
+   "kind": "portrait",
+   "hero": true,
+   "scope": "whole",
+   "path": "data/illustrations/OQbOrk0_3x4/portrait.png",
+   "invention_log": "harness/viz/OQbOrk0_3x4/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "forest-site",
+    "polygonal-house",
+    "roof-completion",
+    "porch-steps",
+    "ohia-posts",
+    "outdoor-shower",
+    "shower-pv",
+    "gazebo-shelter",
+    "food-forest",
+    "bananas"
+   ],
+   "references": [
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0081.jpg",
+     "time": 283.0,
+     "role": "vantage"
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0120.jpg",
+     "time": 371.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0078.jpg",
+     "time": 271.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0059.jpg",
+     "time": 201.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0471.jpg",
+     "time": 1328.5,
+     "role": "detail"
+    }
+   ]
+  },
+  {
+   "id": "forest-clearing-and-food-garden",
+   "title": "Forest Clearing and Food Garden",
+   "kind": "map",
+   "feature_ids": [
+    "forest-site",
+    "driveway",
+    "polygonal-house",
+    "food-forest",
+    "gazebo-shelter",
+    "citrus",
+    "bananas",
+    "samoan-spinach",
+    "herbs-chili",
+    "lava-crack"
+   ],
+   "references": [
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0499.jpg",
+     "time": 1450.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0117.jpg",
+     "time": 357.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0031.jpg",
+     "time": 84.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0288.jpg",
+     "time": 819.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0120.jpg",
+     "time": 371.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0408.jpg",
+     "time": 1130.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0471.jpg",
+     "time": 1328.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0424.jpg",
+     "time": 1168.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0422.jpg",
+     "time": 1162.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0415.jpg",
+     "time": 1146.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0448.jpg",
+     "time": 1238.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0429.jpg",
+     "time": 1186.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0460.jpg",
+     "time": 1299.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0447.jpg",
+     "time": 1235.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0490.jpg",
+     "time": 1390.0
+    }
+   ],
+   "path": "data/illustrations/OQbOrk0_3x4/forest-clearing-and-food-garden.png",
+   "invention_log": "harness/viz/OQbOrk0_3x4/forest-clearing-and-food-garden/review.md"
+  },
+  {
+   "id": "a-house-shaped-around-art",
+   "title": "A house shaped around art",
+   "kind": "cutaway",
+   "feature_ids": [
+    "polygonal-house",
+    "open-roof",
+    "art-partition",
+    "art-collection",
+    "pele-mandala"
+   ],
+   "references": [
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0120.jpg",
+     "time": 371.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0387.jpg",
+     "time": 1073.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0197.jpg",
+     "time": 585.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0205.jpg",
+     "time": 603.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0201.jpg",
+     "time": 594.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0206.jpg",
+     "time": 605.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0218.jpg",
+     "time": 641.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0219.jpg",
+     "time": 644.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0202.jpg",
+     "time": 595.5
+    }
+   ],
+   "path": "data/illustrations/OQbOrk0_3x4/a-house-shaped-around-art.png",
+   "invention_log": "harness/viz/OQbOrk0_3x4/a-house-shaped-around-art/review.md"
+  },
+  {
+   "id": "building-as-money-became-available",
+   "title": "Building as money became available",
+   "kind": "diagram",
+   "feature_ids": [
+    "owner-build",
+    "rv-home",
+    "pier-foundation",
+    "hurricane-ties",
+    "stud-frame-archive",
+    "polygonal-house"
+   ],
+   "references": [
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0258.jpg",
+     "time": 749
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0298.jpg",
+     "time": 847
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0300.jpg",
+     "time": 851
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0305.jpg",
+     "time": 862
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0315.jpg",
+     "time": 893
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0316.jpg",
+     "time": 895
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0318.jpg",
+     "time": 907.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0328.jpg",
+     "time": 935
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0352.jpg",
+     "time": 984.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0364.jpg",
+     "time": 1024
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0376.jpg",
+     "time": 1051
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0052.jpg",
+     "time": 175
+    }
+   ],
+   "path": "data/illustrations/OQbOrk0_3x4/building-as-money-became-available.png",
+   "invention_log": "harness/viz/OQbOrk0_3x4/building-as-money-became-available/review.md"
+  },
+  {
+   "id": "rainwater-from-roof-to-use",
+   "title": "Rainwater from roof to use",
+   "kind": "diagram",
+   "feature_ids": [
+    "water-supply",
+    "roof-catchment",
+    "cube-tank",
+    "pressure-pump",
+    "indoor-kitchen",
+    "toilet-addition",
+    "outdoor-shower",
+    "shower-heater"
+   ],
+   "references": [
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0099.jpg",
+     "time": 317.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0100.jpg",
+     "time": 319
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0098.jpg",
+     "time": 316
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0114.jpg",
+     "time": 351
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0141.jpg",
+     "time": 422.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0132.jpg",
+     "time": 400
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0225.jpg",
+     "time": 657
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0077.jpg",
+     "time": 269.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0088.jpg",
+     "time": 296
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0086.jpg",
+     "time": 292
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0109.jpg",
+     "time": 336
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0110.jpg",
+     "time": 338
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0106.jpg",
+     "time": 330
+    }
+   ],
+   "path": "data/illustrations/OQbOrk0_3x4/rainwater-from-roof-to-use.png",
+   "invention_log": "harness/viz/OQbOrk0_3x4/rainwater-from-roof-to-use/review.md"
+  },
+  {
+   "id": "the-small-household-solar-supply",
+   "title": "Small Household Solar Supply",
+   "kind": "diagram",
+   "feature_ids": [
+    "solar-power",
+    "shower-pv",
+    "portable-battery",
+    "pressure-pump",
+    "ev-charging",
+    "solar-expansion",
+    "unrefrigerated-pantry"
+   ],
+   "references": [
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0078.jpg",
+     "time": 271.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0082.jpg",
+     "time": 285.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0146.jpg",
+     "time": 438.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0148.jpg",
+     "time": 451.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0246.jpg",
+     "time": 697.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0247.jpg",
+     "time": 698.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0393.jpg",
+     "time": 1087.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0397.jpg",
+     "time": 1107.0
+    }
+   ],
+   "path": "data/illustrations/OQbOrk0_3x4/the-small-household-solar-supply.png",
+   "invention_log": "harness/viz/OQbOrk0_3x4/the-small-household-solar-supply/review.md"
+  },
+  {
+   "id": "cooking-across-the-house-edge",
+   "title": "Cooking across the house edge",
+   "kind": "section",
+   "feature_ids": [
+    "indoor-kitchen",
+    "outdoor-cooking",
+    "camp-burner",
+    "barbecue",
+    "porch-steps",
+    "ohia-posts"
+   ],
+   "references": [
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0059.jpg",
+     "time": 201.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0064.jpg",
+     "time": 232.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0068.jpg",
+     "time": 241.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0130.jpg",
+     "time": 398.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0132.jpg",
+     "time": 400.0
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0151.jpg",
+     "time": 461.5
+    },
+    {
+     "path": "review/OQbOrk0_3x4/evidence/frame-0152.jpg",
+     "time": 463.5
+    }
+   ],
+   "path": "data/illustrations/OQbOrk0_3x4/cooking-across-the-house-edge.png",
+   "invention_log": "harness/viz/OQbOrk0_3x4/cooking-across-the-house-edge/review.md"
+  }
+ ]
+}

@@ -1,0 +1,4996 @@
+{
+ "title": "Greater World’s Earthship community",
+ "source": {
+  "id": "efI77fzBgvg",
+  "url": "https://www.youtube.com/watch?v=efI77fzBgvg",
+  "duration": 2428.021,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "automatic English captions; errors retained where unresolved",
+  "transcript_kind": "automatic captions",
+  "context": {
+   "location": {
+    "country": "United States",
+    "state_or_region": "New Mexico",
+    "nearest_place": "Taos",
+    "precision": "Named community on mesa near Taos; street address and coordinates not disclosed",
+    "evidence": [
+     "Video description names Greater World Earthship Community, New Mexico and Taos.",
+     "Tom describes being about 20 minutes outside town at 2383.75–2397.4 seconds."
+    ],
+    "climate": {
+     "koppen": "Dfb",
+     "name": "warm-summer humid continental",
+     "group": "continental",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Taos, New Mexico, United States",
+      "lat": 36.407,
+      "lon": -105.573,
+      "matched": "Taos, Taos County, New Mexico, 87571, United States",
+      "stands_for": "city",
+      "precision": "Named community on mesa near Taos; street address and coordinates not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 371,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Taos, New Mexico, United States",
+      "lat": 36.407,
+      "lon": -105.573,
+      "matched": "Taos, Taos County, New Mexico, 87571, United States",
+      "stands_for": "city",
+      "precision": "Named community on mesa near Taos; street address and coordinates not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "6a",
+     "mean_annual_extreme_min_c": -23.3,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Taos, New Mexico, United States",
+      "lat": 36.407,
+      "lon": -105.573,
+      "matched": "Taos, Taos County, New Mexico, 87571, United States",
+      "stands_for": "city",
+      "precision": "Named community on mesa near Taos; street address and coordinates not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 2125,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Taos, New Mexico, United States",
+      "lat": 36.407,
+      "lon": -105.573,
+      "matched": "Taos, Taos County, New Mexico, 87571, United States",
+      "stands_for": "city",
+      "precision": "Named community on mesa near Taos; street address and coordinates not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "stated": {
+     "rainfall": {
+      "claim": "rain-nine-inches",
+      "at": [
+       417.56
+      ],
+      "by": "tom-duke",
+      "said": {
+       "value": 9,
+       "unit": "in",
+       "per": "year",
+       "approx": true
+      },
+      "value": 229,
+      "unit": "mm/yr",
+      "derived": 371,
+      "agrees": false
+     }
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2014-10-06"
+  }
+ },
+ "sampling": {
+  "frames": 397,
+  "candidate_shots": 194,
+  "contact_sheets": 15,
+  "method": "every 12 seconds plus midpoint of each automatically detected candidate shot",
+  "review_directory": "review/efI77fzBgvg"
+ },
+ "subject": {
+  "place": "greater-world",
+  "people": [
+   "tom-duke",
+   "xavier",
+   "wolf"
+  ],
+  "gist": "Residents built homes from discarded tires to live off-grid, endured a subdivision shutdown, and now teach others while still experimenting with growing food.",
+  "story": {
+   "text": "Greater World's residents share the wish to live off the grid in houses made from things other people throw away. Tires become thick walls, bottles bring in coloured light, and precious water gets used four times. Tom still marvels at walls giving back the sun's warmth on winter evenings. The community's history includes a shutdown as an illegal subdivision; Tom and his wife spend five years in a tiny hut while building their home. Today students come to learn, and food production remains an experiment. Tom's advice for taking these ideas elsewhere is practical: find someone in the county who wants to support them, and work with that person.",
+   "moments": [
+    {
+     "phrase": "things other people throw away",
+     "at": 102.96
+    },
+    {
+     "phrase": "water gets used four times",
+     "at": 429.919
+    },
+    {
+     "phrase": "walls giving back the sun's warmth on winter evenings",
+     "at": 576.68
+    },
+    {
+     "phrase": "a shutdown as an illegal subdivision",
+     "at": 462.599
+    },
+    {
+     "phrase": "food production remains an experiment",
+     "at": 2089.28
+    },
+    {
+     "phrase": "find someone in the county who wants to support them",
+     "at": 2344.08
+    }
+   ]
+  },
+  "derived_kind": "community"
+ },
+ "places": [
+  {
+   "id": "greater-world",
+   "title": "Greater World Earthship Community",
+   "kind": "community",
+   "within": null,
+   "caveat": "Community identity from description; boundaries and acreage not independently verified.",
+   "entity": "ent-greater-world-earthship-community"
+  },
+  {
+   "id": "experimental-grounds",
+   "title": "Experimental construction grounds",
+   "kind": "site",
+   "within": "greater-world",
+   "caveat": "Tom describes a designated two-acre zone; precise boundary not shown."
+  },
+  {
+   "id": "bottle-yard",
+   "title": "Academy bottle work yard",
+   "kind": "outdoor area",
+   "within": "experimental-grounds",
+   "caveat": "Outdoor bottle preparation area; no enclosed laboratory toured."
+  },
+  {
+   "id": "amphitheater",
+   "title": "Tire amphitheater",
+   "kind": "outdoor area",
+   "within": "experimental-grounds",
+   "caveat": "Visible stepped tire gathering area."
+  },
+  {
+   "id": "student-complex",
+   "title": "Unfinished student housing complex",
+   "kind": "building",
+   "within": "experimental-grounds",
+   "caveat": "No resident yet introduced; future use attributed to Tom."
+  },
+  {
+   "id": "student-complex-hall",
+   "title": "Unfinished glazed hall",
+   "kind": "room",
+   "within": "student-complex",
+   "caveat": "Includes visible stairs and elevated forms; no inferred apartment layout."
+  },
+  {
+   "id": "simple-survival",
+   "title": "Simple Survival demonstration house",
+   "kind": "building",
+   "within": "experimental-grounds",
+   "caveat": "First such house entered around 05:04; interns mentioned, none individually named."
+  },
+  {
+   "id": "simple-greenhouse",
+   "title": "Simple Survival greenhouse and cooking corridor",
+   "kind": "room",
+   "within": "simple-survival",
+   "caveat": "Continuous entry and rear-room opening shown."
+  },
+  {
+   "id": "simple-vault",
+   "title": "Simple Survival vaulted rear room",
+   "kind": "room",
+   "within": "simple-survival",
+   "caveat": "Largely empty room toured at 05:59."
+  },
+  {
+   "id": "simple-bath",
+   "title": "Simple Survival washing and toilet area",
+   "kind": "room",
+   "within": "simple-survival",
+   "caveat": "Fixtures shown off planted corridor; exact internal partitioning not inferred."
+  },
+  {
+   "id": "community-roads",
+   "title": "Community roads and surrounding mesa",
+   "kind": "outdoor area",
+   "within": "greater-world",
+   "caveat": "Includes unnamed drive-by buildings; exact route and opening road location uncertain."
+  },
+  {
+   "id": "global",
+   "title": "Global demonstration house, resident unnamed",
+   "kind": "building",
+   "within": "greater-world",
+   "caveat": "Separate visit from Duke home; ownership and resident not disclosed."
+  },
+  {
+   "id": "global-greenhouse",
+   "title": "Global greenhouse corridor",
+   "kind": "room",
+   "within": "global",
+   "caveat": "Glazed division and doors into rear spaces visible."
+  },
+  {
+   "id": "global-living",
+   "title": "Global living and dining space",
+   "kind": "room",
+   "within": "global",
+   "caveat": "Sofa and dining views; exact floor plan not inferred."
+  },
+  {
+   "id": "global-kitchen",
+   "title": "Global kitchen",
+   "kind": "room",
+   "within": "global",
+   "caveat": "Kitchen and refrigerator inspected."
+  },
+  {
+   "id": "global-bedroom",
+   "title": "Global bedroom",
+   "kind": "room",
+   "within": "global",
+   "caveat": "Bed recess/room shown in cutaway; no resident identified."
+  },
+  {
+   "id": "global-bath",
+   "title": "Global bathroom",
+   "kind": "room",
+   "within": "global",
+   "caveat": "Toilet and bath fixtures shown; connections to other rooms not mapped."
+  },
+  {
+   "id": "duke-site",
+   "title": "Tom Duke family site",
+   "kind": "site",
+   "within": "greater-world",
+   "caveat": "Household land within named community; boundaries unspecified."
+  },
+  {
+   "id": "duke-yard",
+   "title": "Duke entrance and yard",
+   "kind": "outdoor area",
+   "within": "duke-site",
+   "caveat": "Tire steps and entrance works shown."
+  },
+  {
+   "id": "duke-hut",
+   "title": "Tom Duke family survival hut",
+   "kind": "building",
+   "within": "duke-site",
+   "caveat": "Former dwelling, now storage; separate from family home."
+  },
+  {
+   "id": "duke-house",
+   "title": "Tom Duke family home",
+   "kind": "building",
+   "within": "duke-site",
+   "caveat": "Tom identifies his home; wife unnamed, Xavier named, another son unnamed."
+  },
+  {
+   "id": "duke-living",
+   "title": "Duke living and kitchen space",
+   "kind": "room",
+   "within": "duke-house",
+   "caveat": "Open domestic space with plants and sloping glazing."
+  },
+  {
+   "id": "duke-kids",
+   "title": "Duke children’s room",
+   "kind": "room",
+   "within": "duke-house",
+   "caveat": "Named by Tom; doorway can close it off from front space."
+  },
+  {
+   "id": "duke-bedroom",
+   "title": "Duke main bedroom and planted front",
+   "kind": "room",
+   "within": "duke-house",
+   "caveat": "Bed and planter visible together; private toilet route not fully filmed."
+  },
+  {
+   "id": "duke-wastewater-garden",
+   "title": "Duke wastewater garden",
+   "kind": "outdoor area",
+   "within": "duke-site",
+   "caveat": "Visible planting; buried containment identified by Tom."
+  },
+  {
+   "id": "gravel-pit",
+   "title": "Reclaimed gravel pit neighborhood",
+   "kind": "land feature",
+   "within": "greater-world",
+   "caveat": "Tom identifies former excavation; no survey or subdivision boundary shown."
+  },
+  {
+   "id": "nest",
+   "title": "Nest studio, resident unnamed",
+   "kind": "building",
+   "within": "greater-world",
+   "caveat": "Exterior-only visit during gravel-pit tour; exact parcel not established."
+  },
+  {
+   "id": "food-house",
+   "title": "Custom food-production house, resident unnamed",
+   "kind": "building",
+   "within": "greater-world",
+   "caveat": "Demonstration/custom house; no named household."
+  },
+  {
+   "id": "food-outer",
+   "title": "Food house outer greenhouse",
+   "kind": "room",
+   "within": "food-house",
+   "caveat": "Pond and bucket planting visible."
+  },
+  {
+   "id": "food-inner",
+   "title": "Food house planted living space",
+   "kind": "room",
+   "within": "food-house",
+   "caveat": "Second glazed zone with seating and plants."
+  },
+  {
+   "id": "food-kitchen",
+   "title": "Food house kitchen",
+   "kind": "room",
+   "within": "food-house",
+   "caveat": "Red cabinets and cooker shown."
+  },
+  {
+   "id": "food-bedroom",
+   "title": "Food house bedroom recess",
+   "kind": "room",
+   "within": "food-house",
+   "caveat": "Bed shown in cutaway; adjacency not inferred."
+  },
+  {
+   "id": "chicken-yard",
+   "title": "Food house chicken enclosure",
+   "kind": "outdoor area",
+   "within": "greater-world",
+   "caveat": "Reached on leaving food house; property boundary not established."
+  },
+  {
+   "id": "wolf-house",
+   "title": "Wolf’s Solar Survival student house",
+   "kind": "building",
+   "within": "greater-world",
+   "caveat": "Tom calls this first solar survival, with two bedrooms; distinct from first toured prototype."
+  },
+  {
+   "id": "wolf-greenhouse",
+   "title": "Wolf’s student house greenhouse",
+   "kind": "room",
+   "within": "wolf-house",
+   "caveat": "Mature front planting and glazed bedroom separation shown."
+  },
+  {
+   "id": "wolf-room",
+   "title": "Wolf’s room",
+   "kind": "room",
+   "within": "wolf-house",
+   "caveat": "Wolf shows bed and small sink; second occupant name unclear in captions and room unvisited."
+  },
+  {
+   "id": "outside-photo",
+   "title": "Unidentified waterside location in family photograph",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Only a small background photograph on refrigerator; not toured and not evidence of on-site water.",
+   "outside": true
+  },
+  {
+   "id": "other-community",
+   "title": "Unnamed other Earthship community",
+   "kind": "community",
+   "within": null,
+   "caveat": "Mentioned around 29:21 as location of a project with sons; not shown or visited.",
+   "outside": true
+  },
+  {
+   "id": "outside-map",
+   "title": "Unidentified mountain destination on refrigerator map",
+   "kind": "land feature",
+   "within": null,
+   "caveat": "Represented only on an incidental printed trail map; not the Earthship site and not visited.",
+   "outside": true
+  }
+ ],
+ "people": [
+  {
+   "id": "tom-duke",
+   "name": "Tom Duke",
+   "relation": "resident",
+   "note": "Guide identified by video description; says he and his wife built their home and hut; also describes Academy work."
+  },
+  {
+   "id": "mike-reynolds",
+   "name": "Mike Reynolds",
+   "relation": "designer",
+   "note": "Architect named by Tom and metadata; discussed, not confidently identified on camera."
+  },
+  {
+   "id": "xavier",
+   "name": "Xavier",
+   "relation": "resident",
+   "note": "Tom names his child while discussing figs around 28:03; not securely matched to a particular child in frames."
+  },
+  {
+   "id": "wolf",
+   "name": "Wolf",
+   "relation": "resident",
+   "note": "Introduced at 38:38 as an Academy student temporarily living in the last student house; spelling follows captions."
+  },
+  {
+   "id": "kirsten-dirksen",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Named as uploader; unidentified questioners are not automatically attributed to her.",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "community-name",
+   "text": "The settlement is the Greater World Earthship Community.",
+   "by": "description",
+   "at": [],
+   "about": "off-grid-neighborhood",
+   "headline": true
+  },
+  {
+   "id": "description-acreage",
+   "text": "The community occupies 633 acres.",
+   "by": "description",
+   "at": [],
+   "about": "off-grid-neighborhood",
+   "headline": true,
+   "quantity": {
+    "value": 633,
+    "unit": "acre",
+    "of": "land area"
+   }
+  },
+  {
+   "id": "seventy-homes",
+   "text": "There are about 70 Earthship homes here.",
+   "by": "tom-duke",
+   "at": [
+    1927
+   ],
+   "about": "off-grid-neighborhood",
+   "headline": true,
+   "quantity": {
+    "value": 70,
+    "unit": "home",
+    "of": "count",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "state-experiment-zone",
+   "text": "The state provided two acres for experimental architecture.",
+   "by": "tom-duke",
+   "at": [
+    18.68,
+    51.52
+   ],
+   "about": "experimental-permission",
+   "headline": true,
+   "topic": "law",
+   "quantity": {
+    "value": 2,
+    "unit": "acre",
+    "of": "land area"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "experimental-no-restrictions",
+   "text": "The experimental zone has no normal building restrictions.",
+   "by": "tom-duke",
+   "at": [
+    75.84
+   ],
+   "about": "experimental-permission",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "shutdown-history",
+   "text": "16 years ago, when Tom came here, the community was shut down as an illegal subdivision",
+   "by": "tom-duke",
+   "at": [
+    462.599,
+    1101.4
+   ],
+   "about": "off-grid-neighborhood",
+   "headline": false,
+   "topic": "law",
+   "quantity": {
+    "value": 16,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "county-attitude-switch",
+   "text": "In the last 10 years everything switched: they realised this is a positive thing and let them do their thing",
+   "by": "tom-duke",
+   "at": [
+    484.75
+   ],
+   "about": "off-grid-neighborhood",
+   "headline": false,
+   "topic": "law",
+   "quantity": {
+    "value": 10,
+    "unit": "year",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "compliance-duration",
+   "text": "Reaching compliance took seven years.",
+   "by": "description",
+   "at": [],
+   "about": "off-grid-neighborhood",
+   "headline": false,
+   "topic": "law",
+   "quantity": {
+    "value": 7,
+    "unit": "year",
+    "of": "other"
+   }
+  },
+  {
+   "id": "county-materials",
+   "text": "The county supplies discarded bottles, tires and mulch.",
+   "by": "tom-duke",
+   "at": [
+    102.96
+   ],
+   "about": "bottle-bricks",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "student-complex-build",
+   "text": "Students built the complex over several years.",
+   "by": "tom-duke",
+   "at": [
+    151.04
+   ],
+   "about": "can-bottle-complex",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "can-function",
+   "text": "Cans reduce cement use; the cement matrix supplies strength.",
+   "by": "tom-duke",
+   "at": [
+    178.56
+   ],
+   "about": "can-masonry",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "future-trees",
+   "text": "The student complex will contain 30-foot fruit trees.",
+   "by": "tom-duke",
+   "at": [
+    162.4
+   ],
+   "about": "future-student-housing",
+   "headline": false,
+   "quantity": {
+    "value": 30,
+    "unit": "ft",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "simple-hot-water-volume",
+   "text": "Simple Survival provides 15 gallons of hot water.",
+   "by": "tom-duke",
+   "at": [
+    288.4
+   ],
+   "about": "simple-hot-water",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "new-design-temperature",
+   "text": "New designs maintain 71 degrees without outside heating or cooling.",
+   "by": "tom-duke",
+   "at": [
+    330.639
+   ],
+   "about": "simple-greenhouse-zone",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "four-water-uses",
+   "text": "Water serves washing, indoor plants, toilets and exterior landscaping.",
+   "by": "tom-duke",
+   "at": [
+    429.919
+   ],
+   "about": "simple-water-reuse",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rain-nine-inches",
+   "text": "We only get like 9 inches [of rain] a year here, so we have to save it and use it every way possible",
+   "by": "tom-duke",
+   "at": [
+    417.56
+   ],
+   "about": "simple-water-reuse",
+   "headline": false,
+   "quantity": {
+    "value": 9,
+    "unit": "in",
+    "of": "rainfall",
+    "per": "year",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "global-temperature",
+   "text": "The Global stays around 70 degrees.",
+   "by": "tom-duke",
+   "at": [
+    525,
+    607.48
+   ],
+   "about": "global-mass-wall",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "global-flush-volume",
+   "text": "The pump refills the toilet with 1.6 gallons of greywater.",
+   "by": "tom-duke",
+   "at": [
+    851.959
+   ],
+   "about": "global-greywater-pump",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "global-price",
+   "text": "Globals cost about $225 per square foot.",
+   "by": "tom-duke",
+   "at": [
+    951.319
+   ],
+   "about": null,
+   "headline": true,
+   "quantity": {
+    "value": 225,
+    "unit": "USD",
+    "of": "unit cost",
+    "per": "ft2",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hut-build-time",
+   "text": "Tom and his wife built the hut in two months.",
+   "by": "tom-duke",
+   "at": [
+    1132.2
+   ],
+   "about": "duke-hut-storage",
+   "headline": false,
+   "quantity": {
+    "value": 2,
+    "unit": "month",
+    "of": "build time"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hut-price",
+   "text": "The original hut cost $2,500.",
+   "by": "tom-duke",
+   "at": [
+    1181.76
+   ],
+   "about": "duke-hut-storage",
+   "headline": true,
+   "quantity": {
+    "value": 2500,
+    "unit": "USD",
+    "of": "build cost"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hut-no-permit",
+   "text": "Keeping the hut under 120 square feet avoided a permit.",
+   "by": "tom-duke",
+   "at": [
+    1146.48
+   ],
+   "about": "duke-hut-storage",
+   "headline": false,
+   "topic": "law",
+   "quantity": {
+    "value": 120,
+    "unit": "ft2",
+    "of": "threshold"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hut-five-years",
+   "text": "The couple lived in the hut for five years.",
+   "by": "tom-duke",
+   "at": [
+    1091.08
+   ],
+   "about": "duke-hut-storage",
+   "headline": false,
+   "quantity": {
+    "value": 5,
+    "unit": "year",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hut-dimensions",
+   "text": "The hut is a 12 ft diameter, probably 14, 13 ft high",
+   "by": "tom-duke",
+   "at": [
+    1149.08
+   ],
+   "about": "duke-hut-storage",
+   "headline": false,
+   "quantity": {
+    "value": 12,
+    "unit": "ft",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hut-temperature-range",
+   "text": "This building stays between 55 and 70 degrees; with a greenhouse in front it would stay between 65 and 70",
+   "by": "tom-duke",
+   "at": [
+    1171.68
+   ],
+   "about": "duke-hut-storage",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "duke-wall-material",
+   "text": "The house walls are tires covered in adobe mud.",
+   "by": "tom-duke",
+   "at": [
+    1235.84
+   ],
+   "about": "duke-adobe-tires",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "duke-floor-recipe",
+   "text": "The children’s floor contains sand, adobe and straw.",
+   "by": "tom-duke",
+   "at": [
+    1336.36
+   ],
+   "about": "duke-adobe-floor",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "blackwater-dimensions",
+   "text": "The lined cell measures 20 by 40 feet, six deep.",
+   "by": "tom-duke",
+   "at": [
+    1465.08
+   ],
+   "about": "duke-wastewater-cell",
+   "headline": false,
+   "quantity": {
+    "value": 20,
+    "unit": "ft",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "blackwater-permit",
+   "text": "The Duke wastewater containment system is permitted.",
+   "by": "tom-duke",
+   "at": [
+    1537.24
+   ],
+   "about": "duke-wastewater-cell",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "blackwater-no-watering",
+   "text": "I never have to water any of this; I don't water this, but these weeds are actually treating sewage",
+   "by": "tom-duke",
+   "at": [
+    1480.96,
+    1619.56
+   ],
+   "about": "duke-wastewater-cell",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "blackwater-no-pollution",
+   "text": "The contained wastewater does not pollute groundwater.",
+   "by": "tom-duke",
+   "at": [
+    1585.12
+   ],
+   "about": "duke-wastewater-cell",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "propane-spending",
+   "text": "$100 for the propane for my cooking stove",
+   "by": "tom-duke",
+   "at": [
+    1667.12
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The question is cut; the segment opens with \"$300\" and no period is spoken for the $100 or the total.",
+   "quantity": {
+    "value": 100,
+    "unit": "USD",
+    "of": "running cost"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "water-delivery-spending",
+   "text": "$200 for a water delivery; about once a year, when it gets really dry, we need a delivery",
+   "by": "tom-duke",
+   "at": [
+    1670.04
+   ],
+   "about": null,
+   "headline": false,
+   "quantity": {
+    "value": 200,
+    "unit": "USD",
+    "of": "unit cost",
+    "per": "delivery"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "fridge-dc",
+   "text": "The household refrigerator runs on DC, bypassing the inverter.",
+   "by": "tom-duke",
+   "at": [
+    1730.2
+   ],
+   "about": "duke-dc-refrigerator",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bedroom-construction",
+   "text": "The tire-building photograph shows their bedroom during construction.",
+   "by": "tom-duke",
+   "at": [
+    1754.08
+   ],
+   "about": "duke-construction-photo",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "sons-other-site",
+   "text": "Tom is building with his sons in another community.",
+   "by": "tom-duke",
+   "at": [
+    1761.039
+   ],
+   "about": null,
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "gravel-history",
+   "text": "The neighborhood reuses a gravel pit excavated for the highway.",
+   "by": "tom-duke",
+   "at": [
+    1829.08
+   ],
+   "about": "gravel-pit-reclamation",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "nest-price-claim",
+   "text": "This Nest may be for sale for $50,000.",
+   "by": "tom-duke",
+   "at": [
+    1968.2
+   ],
+   "about": "nest-studio",
+   "headline": false,
+   "quantity": {
+    "value": 50000,
+    "unit": "USD",
+    "of": "asking price"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "nest-build-cost",
+   "text": "Nests used to cost about $50,000 to build.",
+   "by": "tom-duke",
+   "at": [
+    1966.399
+   ],
+   "about": "nest-studio",
+   "headline": false,
+   "quantity": {
+    "value": 50000,
+    "unit": "USD",
+    "of": "build cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "feed-four-intent",
+   "text": "The custom house is designed to feed four people.",
+   "by": "tom-duke",
+   "at": [
+    2016.88,
+    2076.119
+   ],
+   "about": "feed-four-design",
+   "headline": true,
+   "quantity": {
+    "value": 4,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "tilapia-history",
+   "text": "The custom greenhouse previously had a tilapia pond.",
+   "by": "tom-duke",
+   "at": [
+    2081.56
+   ],
+   "about": "past-tilapia",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bucket-saving",
+   "text": "The bucket-growing method uses less water.",
+   "by": "tom-duke",
+   "at": [
+    2128.32
+   ],
+   "about": "bucket-growing",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "wolf-house-two-bedrooms",
+   "text": "The last student house has two bedrooms.",
+   "by": "tom-duke",
+   "at": [
+    2270.48
+   ],
+   "about": "wolf-student-room",
+   "headline": false,
+   "quantity": {
+    "value": 2,
+    "unit": "room",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "wolf-learned",
+   "text": "Wolf learned how to build an Earthship.",
+   "by": "wolf",
+   "at": [
+    2322.72
+   ],
+   "about": "wolf-student-room",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "wolf-permission",
+   "text": "Land and funds are secured, but permission is still needed.",
+   "by": "wolf",
+   "at": [
+    2338.119
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "doubt": "Kirsten asks \"Tom, do you know?\" just before; the camera is on Tom at 38:56 (frame-0382) and on Wolf at 39:00 (frame-0383), so the answer may be Tom's.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "academy-intent",
+   "text": "The Academy hopes graduates spread Earthship building internationally.",
+   "by": "tom-duke",
+   "at": [
+    2405.2
+   ],
+   "about": "earthship-academy",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-1",
+   "text": "Mike Reynolds asked the New Mexico legislature to let them experiment with housing",
+   "by": "tom-duke",
+   "at": [
+    34.079
+   ],
+   "about": "experimental-permission",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-2",
+   "text": "The county only comes to observe the experimental zone once in a while",
+   "by": "tom-duke",
+   "at": [
+    75.84
+   ],
+   "about": "experimental-permission",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-3",
+   "text": "County permitting officer said these stairs would not be permitted",
+   "by": "tom-duke",
+   "at": [
+    205.599
+   ],
+   "about": "student-stairs",
+   "headline": false,
+   "topic": "law",
+   "doubt": "Captions drop the verb; \"said\" is implied.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-4",
+   "text": "Getting an Earthship permitted in the United States makes it expensive",
+   "by": "tom-duke",
+   "at": [
+    246.599
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-5",
+   "text": "A lawyer in town argued the community was an illegal subdivision",
+   "by": "tom-duke",
+   "at": [
+    471.39
+   ],
+   "about": "off-grid-neighborhood",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-6",
+   "text": "Outside the two experimental acres [0.8 ha], normal permitting requirements apply",
+   "by": "tom-duke",
+   "at": [
+    984.319
+   ],
+   "about": "off-grid-neighborhood",
+   "headline": false,
+   "topic": "law",
+   "quantity": {
+    "value": 2,
+    "unit": "acre",
+    "of": "land area"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-7",
+   "text": "Taos County knew the design, so the Duke house had no permitting problems",
+   "by": "tom-duke",
+   "at": [
+    995.12
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "doubt": "Captions read \"T county\".",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-8",
+   "text": "During the shutdown they built a storage-unit-sized structure to stay on the land",
+   "by": "tom-duke",
+   "at": [
+    1101.4
+   ],
+   "about": "duke-hut-storage",
+   "headline": false,
+   "topic": "law",
+   "doubt": "Captions read \"store stage units\", probably \"storage unit\".",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-9",
+   "text": "The lined cell is permitted because it works like a traditional leach field",
+   "by": "tom-duke",
+   "at": [
+    1540.44
+   ],
+   "about": "duke-wastewater-cell",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-10",
+   "text": "Teaching owner-builders brought lawsuits; early houses fell to 65 degrees [18 °C]",
+   "by": "tom-duke",
+   "at": [
+    1988.44
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "doubt": "Civil lawsuits; he does not say 70 degrees is a legal standard.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-11",
+   "text": "The shutdown as an illegal subdivision happened in 1997",
+   "by": "description",
+   "at": [],
+   "about": "off-grid-neighborhood",
+   "headline": false,
+   "topic": "law"
+  },
+  {
+   "id": "law-12",
+   "text": "The county gave them two acres [0.8 ha] to experiment with housing",
+   "by": "description",
+   "at": [],
+   "about": "experimental-permission",
+   "headline": false,
+   "topic": "law",
+   "doubt": "The written description credits the county; Tom Duke on camera credits the state.",
+   "quantity": {
+    "value": 2,
+    "unit": "acre",
+    "of": "land area"
+   }
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://earthship.com/",
+   "kind": "practice",
+   "entity": {
+    "type": "organisation",
+    "name": "Earthship Biotecture",
+    "people": [
+     "mike-reynolds"
+    ],
+    "entity": "ent-earthship-biotecture"
+   },
+   "by": "description",
+   "line": "— Earthship Biotecture website: https://earthship.com/",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-2",
+   "url": "https://www.instagram.com/earthship/",
+   "kind": "social",
+   "entity": {
+    "type": "organisation",
+    "name": "Earthship Biotecture",
+    "people": [
+     "mike-reynolds"
+    ],
+    "entity": "ent-earthship-biotecture"
+   },
+   "by": "description",
+   "line": "— instagram: https://www.instagram.com/earthship/",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-3",
+   "url": "https://www.facebook.com/earthship",
+   "kind": "social",
+   "entity": {
+    "type": "organisation",
+    "name": "Earthship Biotecture",
+    "people": [
+     "mike-reynolds"
+    ],
+    "entity": "ent-earthship-biotecture"
+   },
+   "by": "description",
+   "line": "— Facebook: https://www.facebook.com/earthship",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-4",
+   "url": "https://www.youtube.com/@earthship",
+   "kind": "social",
+   "entity": {
+    "type": "organisation",
+    "name": "Earthship Biotecture",
+    "people": [
+     "mike-reynolds"
+    ],
+    "entity": "ent-earthship-biotecture"
+   },
+   "by": "description",
+   "line": "— YouTube: https://www.youtube.com/@earthship",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-5",
+   "url": "http://www.archinia.com/index.php/58-publications/publications/216-earthship-pros-and-cons",
+   "kind": "article",
+   "entity": {
+    "type": "work",
+    "name": "Pros and cons of earthships",
+    "people": [],
+    "entity": "ent-pros-cons-earthships"
+   },
+   "by": "description",
+   "line": "— Pros and cons of earthships: http://www.archinia.com/index.php/58-publications/publications/216-earthship-pros-and-cons",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "can-masonry",
+   "predicate": "forms exposed walls of",
+   "object": "can-bottle-complex",
+   "time": [
+    178.55,
+    205
+   ],
+   "status": "Shown: close wall views and wider hall views expose the repeated can masonry; concealed reinforcement is not inferred."
+  },
+  {
+   "subject": "global-scupper",
+   "predicate": "sits below the collection edge of",
+   "object": "global-rain-roof",
+   "time": [
+    779,
+    807
+   ],
+   "status": "Shown: roof edge, metal collection channel and screened basin; no actual rainfall flow is observed."
+  },
+  {
+   "subject": "duke-cloth-shades",
+   "predicate": "covers portions of",
+   "object": "duke-solar-glazing",
+   "time": [
+    1267,
+    1310
+   ],
+   "status": "Shown directly in exterior glazing views; fabric mounting side is unresolved."
+  },
+  {
+   "subject": "duke-bedroom-greywater",
+   "predicate": "is installed beside",
+   "object": "duke-bedroom-food",
+   "time": [
+    1423.75,
+    1442
+   ],
+   "status": "Shown: pump/filter housing beside the bedroom planting; buried hydraulic connections remain spoken claims."
+  },
+  {
+   "subject": "wolf-cabinet-equipment",
+   "predicate": "is inside the sink cabinet of",
+   "object": "wolf-student-room",
+   "time": [
+    2304,
+    2307
+   ],
+   "status": "Shown when Wolf opens the cupboard; electrical specifications and plumbing relationships are not inferred."
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "off-grid-neighborhood",
+   "title": "Dispersed Earthship neighborhood",
+   "place": "greater-world",
+   "category": "Community",
+   "description": "Wide views show separate earth-covered homes among mesa scrub and dirt roads. Tom describes residents sharing an interest in off-grid houses and estimates about 70 homes; the description gives 633 acres [256 hectares], whereas Tom tentatively says 690 acres [279 hectares].",
+   "phase": "current",
+   "unknown": "Neither exact boundaries nor occupancy and utility independence of every house are established.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "earthship",
+    "off-grid"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 978.31,
+     "end": 989.1,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1056.79,
+     "end": 1066,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1914.91,
+     "end": 1932,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0308",
+     "time": 1920.001417,
+     "path": "review/efI77fzBgvg/evidence/frame-0308.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0308.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0178",
+     "time": 1067.332933,
+     "path": "review/efI77fzBgvg/evidence/frame-0178.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0178.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0388",
+     "time": 2376.006967,
+     "path": "review/efI77fzBgvg/evidence/frame-0388.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0388.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0308.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "experimental-permission",
+   "title": "Two-acre experimental architecture designation",
+   "place": "experimental-grounds",
+   "category": "Process",
+   "description": "Exterior views provide context for several unconventional buildings. Tom says the state set aside two acres [0.81 hectares] without normal restrictions, while the description credits the county; he distinguishes ordinary permitting elsewhere in the community.",
+   "phase": "current",
+   "unknown": "No legal designation or permit is shown; the authority and scope of the exemption remain unverified.",
+   "related_ids": [],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 18.67,
+     "end": 61.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 75.83,
+     "end": 79.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 978.31,
+     "end": 1005,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 24.007317,
+     "path": "review/efI77fzBgvg/evidence/frame-0004.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0007",
+     "time": 47.99795,
+     "path": "review/efI77fzBgvg/evidence/frame-0007.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0007.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0004.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "earthship-academy",
+   "title": "Academy construction training",
+   "place": "experimental-grounds",
+   "category": "Community",
+   "description": "Bottle preparation, unfinished construction and a student visit appear in the tour. Tom says the Academy teaches Earthship techniques and hopes graduates will build in other countries; Wolf says he learned the skills.",
+   "phase": "current",
+   "unknown": "Curriculum, qualifications, attendance totals and outcomes are not documented.",
+   "related_ids": [],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 80,
+     "end": 92,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 123,
+     "end": 128,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2318.72,
+     "end": 2334.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2405.19,
+     "end": 2416,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0014",
+     "time": 95.9959,
+     "path": "review/efI77fzBgvg/evidence/frame-0014.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0014.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 160.2601,
+     "path": "review/efI77fzBgvg/evidence/frame-0026.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0379",
+     "time": 2321.66935,
+     "path": "review/efI77fzBgvg/evidence/frame-0379.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0379.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0014.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "bottle-bricks",
+   "title": "Paired cut-bottle light-transmitting bricks",
+   "place": "bottle-yard",
+   "category": "Materials",
+   "description": "Bottle piles, open-ended glass sections and arranged paired units are visible. Tom says they cut bottles in half and tape matching pieces together to make light-transmitting bricks, using discarded materials supplied by the county.",
+   "phase": "current",
+   "unknown": "Tape type, bonding detail, durability and the full cutting process are not established.",
+   "related_ids": [
+    "can-bottle-complex"
+   ],
+   "part_of": null,
+   "terms": [
+    "cans and bottles",
+    "glass",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 80,
+     "end": 113,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0016",
+     "time": 107.874433,
+     "path": "review/efI77fzBgvg/evidence/frame-0016.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0016.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0015",
+     "time": 96.64655,
+     "path": "review/efI77fzBgvg/evidence/frame-0015.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0015.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0012",
+     "time": 83.750333,
+     "path": "review/efI77fzBgvg/evidence/frame-0012.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0012.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0016.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "tire-amphitheater",
+   "title": "Earth-filled tire amphitheater tiers",
+   "place": "amphitheater",
+   "category": "Structure",
+   "description": "Curved stepped tiers of exposed tires form an outdoor gathering space. Tom says they built an amphitheater for students and use dirt-filled tires as large free building units.",
+   "phase": "current",
+   "unknown": "Capacity, footing detail and structural performance are not demonstrated.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "tyres",
+    "earth",
+    "amphitheater"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 118.67,
+     "end": 143.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0020",
+     "time": 130.346883,
+     "path": "review/efI77fzBgvg/evidence/frame-0020.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0020.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0021",
+     "time": 131.998533,
+     "path": "review/efI77fzBgvg/evidence/frame-0021.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0021.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0020.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "can-bottle-complex",
+   "title": "Unfinished can-and-bottle student complex",
+   "place": "student-complex",
+   "category": "Structure",
+   "description": "Tall walls display repeating can ends, colored bottle patterns, arched openings and timber-supported glazing. Tom says students built the complex over several years using bottles, cans and tires.",
+   "phase": "in progress",
+   "unknown": "Completion date, concealed structure and exact future apartment divisions are unknown.",
+   "related_ids": [
+    "bottle-bricks",
+    "can-masonry",
+    "student-stairs",
+    "future-student-housing"
+   ],
+   "part_of": null,
+   "terms": [
+    "cans and bottles",
+    "tyres"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 151.03,
+     "end": 155.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 162.39,
+     "end": 172,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 160.2601,
+     "path": "review/efI77fzBgvg/evidence/frame-0026.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0030",
+     "time": 176.843333,
+     "path": "review/efI77fzBgvg/evidence/frame-0030.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0030.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0023",
+     "time": 146.679867,
+     "path": "review/efI77fzBgvg/evidence/frame-0023.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0023.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0026.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "can-masonry",
+   "title": "Can infill in cement wall matrix",
+   "place": "student-complex-hall",
+   "category": "Materials",
+   "description": "Open can ends repeat across exposed wall faces. Tom says the cans form spaces within a cement matrix, reduce cement use and are not themselves the strength or insulation.",
+   "phase": "in progress",
+   "unknown": "Mix, reinforcement, wall thickness and material quantities are not established.",
+   "related_ids": [
+    "can-bottle-complex"
+   ],
+   "part_of": null,
+   "terms": [
+    "cans and bottles",
+    "cement",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 178.55,
+     "end": 205,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 179.996483,
+     "path": "review/efI77fzBgvg/evidence/frame-0031.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0032",
+     "time": 181.13095,
+     "path": "review/efI77fzBgvg/evidence/frame-0032.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0032.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 183.93375,
+     "path": "review/efI77fzBgvg/evidence/frame-0033.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0031.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "student-stairs",
+   "title": "Curved stairs with exposed can ends",
+   "place": "student-complex-hall",
+   "category": "Structure",
+   "description": "Close views show rough curved treads with embedded can ends, beside sculpted elevated forms. Tom says a county visitor considered this stair construction outside normal permitting practice.",
+   "phase": "in progress",
+   "unknown": "No engineering detail, railing specification or written inspector determination is shown.",
+   "related_ids": [
+    "can-masonry"
+   ],
+   "part_of": "can-bottle-complex",
+   "terms": [
+    "stair",
+    "cans and bottles"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 205.599,
+     "end": 231,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 215.398517,
+     "path": "review/efI77fzBgvg/evidence/frame-0038.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 215.999117,
+     "path": "review/efI77fzBgvg/evidence/frame-0039.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 225.308417,
+     "path": "review/efI77fzBgvg/evidence/frame-0040.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0038.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "future-student-housing",
+   "title": "Planned student apartments and interior fruit trees",
+   "place": "student-complex",
+   "category": "Plan",
+   "description": "The unfinished hall supplies context, with no occupied apartments or mature interior orchard. Tom proposes student housing, a river through the complex and fruit trees reaching 30 feet [9.14 metres].",
+   "phase": "planned",
+   "unknown": "No completion schedule, planting plan or water source for the proposed river is established.",
+   "related_ids": [
+    "can-bottle-complex"
+   ],
+   "part_of": null,
+   "terms": [
+    "apartment",
+    "river"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 118.67,
+     "end": 125,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 162.39,
+     "end": 172,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0030",
+     "time": 176.843333,
+     "path": "review/efI77fzBgvg/evidence/frame-0030.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0030.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0026",
+     "time": 160.2601,
+     "path": "review/efI77fzBgvg/evidence/frame-0026.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0026.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0030.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "simple-solar",
+   "title": "Simple Survival roof photovoltaic strips",
+   "place": "simple-survival",
+   "category": "Energy",
+   "description": "A long dark strip and small rigid solar panel sit above the sloping glazing. Tom describes cheaper roll-out panels intended for basic lighting and charging a phone or computer.",
+   "phase": "current",
+   "unknown": "Panel rating, storage capacity, wiring and actual generation are not shown.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "solar pv"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 246.589,
+     "end": 274.7,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 282.048433,
+     "path": "review/efI77fzBgvg/evidence/frame-0054.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0056",
+     "time": 293.94365,
+     "path": "review/efI77fzBgvg/evidence/frame-0056.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0056.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0050",
+     "time": 262.345417,
+     "path": "review/efI77fzBgvg/evidence/frame-0050.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0050.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0054.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "simple-hot-water",
+   "title": "Black water vessels behind solar glazing",
+   "place": "simple-survival",
+   "category": "Water",
+   "description": "Dark rounded vessels are visible through the upper windows. Tom says they refill nightly and warm in daytime, providing 15 gallons [57 litres, assuming US gallons] of hot water.",
+   "phase": "current",
+   "unknown": "No temperature, usable volume, plumbing route or exact vessel material is verified.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "solar thermal",
+    "hot water",
+    "tank"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 271.44,
+     "end": 294.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 282.048433,
+     "path": "review/efI77fzBgvg/evidence/frame-0054.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 288.004383,
+     "path": "review/efI77fzBgvg/evidence/frame-0055.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0054.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "simple-greenhouse-zone",
+   "title": "Door-separated greenhouse heating zone",
+   "place": "simple-greenhouse",
+   "category": "Climate",
+   "description": "A planted glazed corridor has inner doors to the vaulted rear space. Tom says opening or closing those doors controls heat transfer and claims newer designs maintain 71 degrees [about 22°C, assuming Fahrenheit].",
+   "phase": "current",
+   "unknown": "No monitoring, test conditions or annual temperature record supports the performance claim.",
+   "related_ids": [
+    "simple-cooling-tube"
+   ],
+   "part_of": null,
+   "terms": [
+    "greenhouse",
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 312.87,
+     "end": 341.039,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0064",
+     "time": 327.67735,
+     "path": "review/efI77fzBgvg/evidence/frame-0064.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0064.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 339.022017,
+     "path": "review/efI77fzBgvg/evidence/frame-0068.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 372.004967,
+     "path": "review/efI77fzBgvg/evidence/frame-0074.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0064.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "simple-cooling-tube",
+   "title": "Corrugated earth-tube opening",
+   "place": "simple-vault",
+   "category": "Climate",
+   "description": "A low opening exposes the inside of a corrugated tube. Tom identifies it as an earth-buried air inlet from which greenhouse airflow draws cooled air.",
+   "phase": "current",
+   "unknown": "Burial depth, length, drainage, air quality and cooling rate are not visible.",
+   "related_ids": [
+    "simple-greenhouse-zone"
+   ],
+   "part_of": null,
+   "terms": [
+    "earth tube",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 341.039,
+     "end": 357.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 353.086067,
+     "path": "review/efI77fzBgvg/evidence/frame-0070.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0069",
+     "time": 347.99765,
+     "path": "review/efI77fzBgvg/evidence/frame-0069.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0069.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0070.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "simple-vault-roof",
+   "title": "Plastered vault over the rear room",
+   "place": "simple-vault",
+   "category": "Structure",
+   "description": "The rear room has a continuous curved plaster ceiling. Tom says adobe covers a cage of rebar and metal lath, and describes the construction as labor-intensive.",
+   "phase": "current",
+   "unknown": "Rebar, lath, structural dimensions and waterproofing are concealed.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "vault",
+    "adobe",
+    "steel",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 357.919,
+     "end": 375,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0072",
+     "time": 367.0667,
+     "path": "review/efI77fzBgvg/evidence/frame-0072.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0072.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0071",
+     "time": 359.992967,
+     "path": "review/efI77fzBgvg/evidence/frame-0071.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0071.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 371.9716,
+     "path": "review/efI77fzBgvg/evidence/frame-0073.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0072.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "simple-cooking-station",
+   "title": "Compact greenhouse cooking station",
+   "place": "simple-greenhouse",
+   "category": "Life",
+   "description": "A small cooking appliance sits on a wooden cabinet, with pots and frying pans hanging against the glazing. Tom calls it a simplified kitchen intended to reduce expense.",
+   "phase": "current",
+   "unknown": "Fuel supply, ventilation provision and the pale line crossing the windows are not identified.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "kitchen",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 374.319,
+     "end": 385.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0062",
+     "time": 320.003017,
+     "path": "review/efI77fzBgvg/evidence/frame-0062.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0062.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0075",
+     "time": 376.292583,
+     "path": "review/efI77fzBgvg/evidence/frame-0075.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0075.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 381.964917,
+     "path": "review/efI77fzBgvg/evidence/frame-0076.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0062.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "worm-digester",
+   "title": "Hinged worm box beside the planter",
+   "place": "simple-greenhouse",
+   "category": "Water",
+   "description": "Tom opens a lined box containing dark organic material and shows worms in his hand. He says shower water passes through this worm box before reaching the greywater planter.",
+   "phase": "current",
+   "unknown": "Treatment effectiveness, operating capacity and hidden pipe connections are not established.",
+   "related_ids": [
+    "simple-water-reuse"
+   ],
+   "part_of": null,
+   "terms": [
+    "worm filter",
+    "greywater"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 385.88,
+     "end": 412,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 401.35095,
+     "path": "review/efI77fzBgvg/evidence/frame-0079.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 408.0076,
+     "path": "review/efI77fzBgvg/evidence/frame-0080.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 431.998233,
+     "path": "review/efI77fzBgvg/evidence/frame-0085.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0079.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "simple-water-reuse",
+   "title": "Shower, planter and recycled-water toilet sequence",
+   "place": "simple-bath",
+   "category": "Water",
+   "description": "The tour shows a shower niche, planted corridor and conventional toilet in separate views. Tom describes four uses: washing, interior planting, toilet flushing and exterior blackwater landscaping, with a storage well and pump between planter and toilet. He estimates local annual rain at nine inches [229 millimetres].",
+   "phase": "current",
+   "unknown": "The whole flow path, buried well and exterior containment cell are not exposed; treatment safety is not demonstrated.",
+   "related_ids": [
+    "worm-digester"
+   ],
+   "part_of": null,
+   "terms": [
+    "shower",
+    "greywater",
+    "flush toilet",
+    "blackwater",
+    "pump",
+    "irrigation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 417.55,
+     "end": 449.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0088",
+     "time": 439.856083,
+     "path": "review/efI77fzBgvg/evidence/frame-0088.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0088.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0084",
+     "time": 428.428,
+     "path": "review/efI77fzBgvg/evidence/frame-0084.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0084.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 435.868767,
+     "path": "review/efI77fzBgvg/evidence/frame-0087.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0088.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-mass-wall",
+   "title": "Plaster-covered tire thermal-mass walls",
+   "place": "global",
+   "category": "Climate",
+   "description": "The Global has thick-looking finished plaster walls and an earth-backed exterior. Tom says hidden tire walls and surrounding earth store solar heat, with colored cement concealing the tires. He claims about 70 degrees [21°C, assuming Fahrenheit] indoors.",
+   "phase": "current",
+   "unknown": "The tires, wall section, thermal capacity and claimed stable temperature are not independently visible or measured.",
+   "related_ids": [
+    "global-greenhouse-partition"
+   ],
+   "part_of": null,
+   "terms": [
+    "tyres",
+    "earth",
+    "cement",
+    "thermal mass",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 554.19,
+     "end": 566,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 572.269,
+     "end": 588,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 690,
+     "end": 708.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0129",
+     "time": 705.688317,
+     "path": "review/efI77fzBgvg/evidence/frame-0129.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0129.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0104",
+     "time": 551.30075,
+     "path": "review/efI77fzBgvg/evidence/frame-0104.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0104.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0125",
+     "time": 691.123767,
+     "path": "review/efI77fzBgvg/evidence/frame-0125.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0125.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0129.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-greenhouse-partition",
+   "title": "Global inner glazing and greenhouse corridor",
+   "place": "global-greenhouse",
+   "category": "Climate",
+   "description": "A long planted corridor lies between outer sloping glazing and inner glazed doors/windows. Tom explains that opening the inner separation admits winter heat and closing it helps keep rear rooms cooler.",
+   "phase": "current",
+   "unknown": "No measured temperature difference, glazing specification or complete floor plan is provided.",
+   "related_ids": [
+    "global-mass-wall",
+    "global-skylights",
+    "global-air-tube"
+   ],
+   "part_of": null,
+   "terms": [
+    "glazing",
+    "partition",
+    "greenhouse",
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 588.04,
+     "end": 597.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 602.23,
+     "end": 615,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0116",
+     "time": 611.994717,
+     "path": "review/efI77fzBgvg/evidence/frame-0116.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0116.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0123",
+     "time": 680.613267,
+     "path": "review/efI77fzBgvg/evidence/frame-0123.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0123.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0131",
+     "time": 713.529483,
+     "path": "review/efI77fzBgvg/evidence/frame-0131.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0131.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0116.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-skylights",
+   "title": "Operable greenhouse exhaust skylights",
+   "place": "global-greenhouse",
+   "category": "Climate",
+   "description": "Overhead timber-framed openings and a hanging operating line are shown as Tom opens ventilation. He identifies operable skylights as the high-level exhaust for house airflow.",
+   "phase": "current",
+   "unknown": "Air-change rate, actuator details and weather sealing are unknown.",
+   "related_ids": [
+    "global-air-tube"
+   ],
+   "part_of": null,
+   "terms": [
+    "skylight",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 610.959,
+     "end": 641,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0118",
+     "time": 636.002033,
+     "path": "review/efI77fzBgvg/evidence/frame-0118.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0118.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 624.006717,
+     "path": "review/efI77fzBgvg/evidence/frame-0117.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0119",
+     "time": 641.79115,
+     "path": "review/efI77fzBgvg/evidence/frame-0119.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0119.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0118.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-air-tube",
+   "title": "Octagonal covered cooling-tube inlet",
+   "place": "global-living",
+   "category": "Climate",
+   "description": "A low octagonal wall opening has a matching hinged cover below it. Tom says air passes through an earth berm before entering and is drawn onward toward the skylight; he gives earth temperatures of 55–58 degrees [13–14°C, assuming Fahrenheit].",
+   "phase": "current",
+   "unknown": "Buried tube construction, airflow direction during filming and seasonal measurements are not established.",
+   "related_ids": [
+    "global-skylights"
+   ],
+   "part_of": null,
+   "terms": [
+    "earth tube",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 640.279,
+     "end": 675.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0121",
+     "time": 659.992667,
+     "path": "review/efI77fzBgvg/evidence/frame-0121.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0121.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0122",
+     "time": 672.004667,
+     "path": "review/efI77fzBgvg/evidence/frame-0122.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0122.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0120",
+     "time": 647.99735,
+     "path": "review/efI77fzBgvg/evidence/frame-0120.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0120.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0121.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-insulated-fridge",
+   "title": "Thick-insulated Global refrigerator",
+   "place": "global-kitchen",
+   "category": "Energy",
+   "description": "Tom opens the refrigerator to reveal a thick door and broad insulated surround. He says the more expensive appliance limits overnight demand on the solar system’s batteries.",
+   "phase": "current",
+   "unknown": "Model, electrical consumption, purchase price and the battery bank are not shown.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "refrigerator",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 715.509,
+     "end": 752.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 737.670267,
+     "path": "review/efI77fzBgvg/evidence/frame-0136.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0137",
+     "time": 743.99325,
+     "path": "review/efI77fzBgvg/evidence/frame-0137.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0137.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0135",
+     "time": 731.997933,
+     "path": "review/efI77fzBgvg/evidence/frame-0135.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0135.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0136.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-greenhouse-fruit",
+   "title": "Banana, fig and grape greenhouse planting",
+   "place": "global-greenhouse",
+   "category": "Food",
+   "description": "Large broad-leaved plants and smaller woody/vining growth fill the front planting bed. Tom identifies bananas, a fig tree and a grape.",
+   "phase": "current",
+   "unknown": "Species are not independently verified; harvest quantity, diet contribution and maintenance inputs are unknown.",
+   "related_ids": [
+    "global-greenhouse-partition",
+    "global-greywater-pump"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 753.12,
+     "end": 761.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0138",
+     "time": 755.10435,
+     "path": "review/efI77fzBgvg/evidence/frame-0138.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0138.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0139",
+     "time": 756.00525,
+     "path": "review/efI77fzBgvg/evidence/frame-0139.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0139.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0112",
+     "time": 593.1926,
+     "path": "review/efI77fzBgvg/evidence/frame-0112.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0112.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0138.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "global-rain-roof",
+   "title": "Profiled metal rain-harvesting roof",
+   "place": "global",
+   "category": "Water",
+   "description": "A broad green profiled metal roof is shown from above and along its collection edge. Tom identifies the roof as the water-harvesting surface supplying storage tanks. Later he gives annual rainfall as eight inches [203 millimetres], differing from his earlier estimate.",
+   "phase": "current",
+   "unknown": "Roof area, coating suitability, tank capacity and annual collection are not given.",
+   "related_ids": [
+    "global-scupper"
+   ],
+   "part_of": null,
+   "terms": [
+    "metal",
+    "roof",
+    "rainwater"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 771.12,
+     "end": 781.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 814.829,
+     "end": 818.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0142",
+     "time": 779.995883,
+     "path": "review/efI77fzBgvg/evidence/frame-0142.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0142.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0141",
+     "time": 768.000567,
+     "path": "review/efI77fzBgvg/evidence/frame-0141.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0141.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0142.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-scupper",
+   "title": "Screened roof scupper and sediment basin",
+   "place": "global",
+   "category": "Water",
+   "description": "A circular collection basin contains debris, coarse mesh and a central screened opening below a metal channel. Tom says successive settling/overflow stages precede storage and further indoor filtration.",
+   "phase": "current",
+   "unknown": "No rainfall flow is shown; the claimed cleanliness and number of indoor filters are not verified.",
+   "related_ids": [
+    "global-rain-roof"
+   ],
+   "part_of": "global-rain-roof",
+   "terms": [
+    "rainwater",
+    "sediment filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 781.32,
+     "end": 807,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0143",
+     "time": 792.007883,
+     "path": "review/efI77fzBgvg/evidence/frame-0143.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0143.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0145",
+     "time": 804.0032,
+     "path": "review/efI77fzBgvg/evidence/frame-0145.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0145.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 815.998517,
+     "path": "review/efI77fzBgvg/evidence/frame-0146.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0143.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-greywater-pump",
+   "title": "Cabinet-enclosed greywater pump and filter",
+   "place": "global-greenhouse",
+   "category": "Water",
+   "description": "An opened wooden cabinet shows a SHURflo-labelled diaphragm pump, large filter housing, hoses and controls beside the planter. Tom demonstrates a toilet flush and says the pump draws recycled planter water to refill it with 1.6 gallons [6.1 litres, assuming US gallons].",
+   "phase": "current",
+   "unknown": "The full buried well-to-toilet route, water quality and rated pump/filter performance are not established.",
+   "related_ids": [
+    "global-greenhouse-fruit",
+    "global-exterior-sewage"
+   ],
+   "part_of": null,
+   "terms": [
+    "greywater",
+    "pump",
+    "water filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 824.88,
+     "end": 880.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0151",
+     "time": 847.580067,
+     "path": "review/efI77fzBgvg/evidence/frame-0151.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0151.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0149",
+     "time": 836.6358,
+     "path": "review/efI77fzBgvg/evidence/frame-0149.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0149.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0152",
+     "time": 852.00115,
+     "path": "review/efI77fzBgvg/evidence/frame-0152.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0152.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0151.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "global-exterior-sewage",
+   "title": "Claimed septic and lined exterior blackwater planter",
+   "place": "global",
+   "category": "Water",
+   "description": "Bathroom and exterior views provide context but do not expose the septic tank or lined bed. Tom says toilet discharge enters an outside septic tank and then a rubber-lined exterior planter.",
+   "phase": "current",
+   "unknown": "Location, dimensions, liner, inspection history and treatment performance are not shown.",
+   "related_ids": [
+    "global-greywater-pump"
+   ],
+   "part_of": null,
+   "terms": [
+    "septic",
+    "blackwater",
+    "rubber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 899.519,
+     "end": 926.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0160",
+     "time": 911.994417,
+     "path": "review/efI77fzBgvg/evidence/frame-0160.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0160.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0162",
+     "time": 924.006417,
+     "path": "review/efI77fzBgvg/evidence/frame-0162.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0162.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0160.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-hut-storage",
+   "title": "Domed survival hut now used for storage",
+   "place": "duke-hut",
+   "category": "Structure",
+   "description": "A small dome has a low entrance, upper platform, stair and crowded storage inside. Tom says it is now effectively a storage shed after serving as the couple’s first home; asked how big it is, he gives a 12 ft diameter and probably 13 or 14 ft high [3.7 m across, about 4 m high], and says the building stays between 55 and 70 degrees, or 65 to 70 with a greenhouse in front [13–21°C; 18–21°C, assuming Fahrenheit].",
+   "phase": "current",
+   "unknown": "Whether the height is 13 or 14 ft, whether the temperatures were measured or estimated, and the present structural condition are open; the stair, bed, stove and outhouse he lists are no longer there.",
+   "related_ids": [
+    "hut-bird-murals"
+   ],
+   "part_of": null,
+   "terms": [
+    "hut",
+    "dome",
+    "storage",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1099.24,
+     "end": 1115,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1146.47,
+     "end": 1185.1,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0187",
+     "time": 1140.005533,
+     "path": "review/efI77fzBgvg/evidence/frame-0187.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0187.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0191",
+     "time": 1162.728233,
+     "path": "review/efI77fzBgvg/evidence/frame-0191.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0191.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0193",
+     "time": 1166.098267,
+     "path": "review/efI77fzBgvg/evidence/frame-0193.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0193.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0187.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "hut-bird-murals",
+   "title": "Painted birds beneath the hut dome",
+   "place": "duke-hut",
+   "category": "Life",
+   "description": "Colorful birds are painted on the pale curved interior beneath a round overhead opening. The mural remains visible above the storage platform.",
+   "phase": "current",
+   "unknown": "Artist, date, species represented and purpose of the overhead opening are not supplied.",
+   "related_ids": [
+    "duke-hut-storage"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 1199.9988,
+     "path": "review/efI77fzBgvg/evidence/frame-0201.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 1201.75055,
+     "path": "review/efI77fzBgvg/evidence/frame-0202.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0201.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "duke-entrance-work",
+   "title": "Household entrance work and exposed tire landscaping",
+   "place": "duke-yard",
+   "category": "Process",
+   "description": "The yard contains exposed tire steps, can-inset curved retaining edges and loose building materials. Tom says he is working on the front entrance and calls it a construction zone.",
+   "phase": "in progress",
+   "unknown": "Finished design, scope, timeline and precise connection between each unfinished element are not given.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "tyres",
+    "cans and bottles",
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1112.64,
+     "end": 1124,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0188",
+     "time": 1152.00085,
+     "path": "review/efI77fzBgvg/evidence/frame-0188.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0188.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0292",
+     "time": 1776.007567,
+     "path": "review/efI77fzBgvg/evidence/frame-0292.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0292.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0293",
+     "time": 1777.342233,
+     "path": "review/efI77fzBgvg/evidence/frame-0293.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0293.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0188.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-adobe-tires",
+   "title": "Rounded adobe-covered tire wall",
+   "place": "duke-living",
+   "category": "Materials",
+   "description": "A broad rounded plastered wall stands between the domestic areas. Tom identifies it and the other walls as tires covered in adobe mud, describing the freestanding section as heat storage.",
+   "phase": "current",
+   "unknown": "Tires and adobe recipe are concealed; structural role and measured heat storage are not established.",
+   "related_ids": [
+    "duke-solar-glazing"
+   ],
+   "part_of": null,
+   "terms": [
+    "adobe",
+    "tyres",
+    "wall",
+    "thermal mass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1235.84,
+     "end": 1267,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0211",
+     "time": 1252.8516,
+     "path": "review/efI77fzBgvg/evidence/frame-0211.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0211.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0210",
+     "time": 1247.99675,
+     "path": "review/efI77fzBgvg/evidence/frame-0210.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0210.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0212",
+     "time": 1259.992067,
+     "path": "review/efI77fzBgvg/evidence/frame-0212.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0212.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0211.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-small-stove",
+   "title": "Small living-room wood stove",
+   "place": "duke-living",
+   "category": "Energy",
+   "description": "A compact dark stove with a vertical flue stands against the living-room wall. Tom says they use it only about five times a year.",
+   "phase": "current",
+   "unknown": "Fuel consumption, model, clearances and annual heating contribution are not documented.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "wood stove"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1229.47,
+     "end": 1235.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0209",
+     "time": 1243.926017,
+     "path": "review/efI77fzBgvg/evidence/frame-0209.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0209.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0208",
+     "time": 1236.001433,
+     "path": "review/efI77fzBgvg/evidence/frame-0208.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0208.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0209.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-solar-glazing",
+   "title": "Sloped glazing without a separate greenhouse corridor",
+   "place": "duke-living",
+   "category": "Climate",
+   "description": "Sloped windows and indoor planting share the open living/kitchen space. Tom says the older design admits winter sun but gets warmer in summer than newer Globals because the greenhouse is not separately enclosed.",
+   "phase": "current",
+   "unknown": "Orientation, glass specifications and measured seasonal temperatures are not supplied.",
+   "related_ids": [
+    "duke-adobe-tires",
+    "duke-cloth-shades",
+    "global-greenhouse-partition"
+   ],
+   "part_of": null,
+   "terms": [
+    "glazing",
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1267,
+     "end": 1316.9,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0221",
+     "time": 1295.9947,
+     "path": "review/efI77fzBgvg/evidence/frame-0221.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0221.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0223",
+     "time": 1306.488517,
+     "path": "review/efI77fzBgvg/evidence/frame-0223.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0223.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 1313.345367,
+     "path": "review/efI77fzBgvg/evidence/frame-0225.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0221.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-cloth-shades",
+   "title": "White cloth panels across sloping windows",
+   "place": "duke-house",
+   "category": "Climate",
+   "description": "Several pale fabric panels hang across the upper portions of the sloped glazing. Exterior and interior views show that they cover part of the window area.",
+   "phase": "current",
+   "unknown": "The film does not identify the fabric, mounting side, seasonal schedule or shading performance.",
+   "related_ids": [
+    "duke-solar-glazing"
+   ],
+   "part_of": "duke-solar-glazing",
+   "terms": [
+    "fabric",
+    "shading"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 1287.919967,
+     "path": "review/efI77fzBgvg/evidence/frame-0219.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0220",
+     "time": 1291.923967,
+     "path": "review/efI77fzBgvg/evidence/frame-0220.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0220.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0219.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-adobe-floor",
+   "title": "Children’s room adobe floor",
+   "place": "duke-kids",
+   "category": "Materials",
+   "description": "The children’s room has a smooth reddish-brown floor without visible tile joints. Tom says it is made from sand, adobe and straw and describes enjoying its feel underfoot.",
+   "phase": "current",
+   "unknown": "Finish, binder proportions, substrate and maintenance are not disclosed.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "adobe",
+    "sand",
+    "straw",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1325.99,
+     "end": 1344.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0229",
+     "time": 1343.99265,
+     "path": "review/efI77fzBgvg/evidence/frame-0229.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0229.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0229.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-kids-skylight",
+   "title": "Operable skylight in the children’s room",
+   "place": "duke-kids",
+   "category": "Climate",
+   "description": "A high glazed opening with hanging operating lines is shown above the room. Tom identifies it as an operable skylight adjusted according to temperature, and says the room can be closed off from the front of the house.",
+   "phase": "current",
+   "unknown": "Ventilation rate, glazing specification and comparative room temperatures are unmeasured.",
+   "related_ids": [
+    "duke-solar-glazing"
+   ],
+   "part_of": null,
+   "terms": [
+    "skylight",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1325.99,
+     "end": 1336.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1344.24,
+     "end": 1350.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0230",
+     "time": 1351.483467,
+     "path": "review/efI77fzBgvg/evidence/frame-0230.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0230.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 1356.00465,
+     "path": "review/efI77fzBgvg/evidence/frame-0231.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0230.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-bedroom-food",
+   "title": "Bedroom planter with herbs and fruit plants",
+   "place": "duke-bedroom",
+   "category": "Food",
+   "description": "A large raised trough with broad-leaved plants sits in front of the bed, with smaller potted herbs along the windows. Tom identifies mint, rosemary, papaya, fig and banana, and reports a recent tomato harvest.",
+   "phase": "current",
+   "unknown": "Not all identifications are visually verifiable; yield, planting age and crop season are unknown.",
+   "related_ids": [
+    "duke-bedroom-greywater"
+   ],
+   "part_of": null,
+   "terms": [
+    "raised bed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1385.6,
+     "end": 1420,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0239",
+     "time": 1392.007283,
+     "path": "review/efI77fzBgvg/evidence/frame-0239.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0239.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0241",
+     "time": 1404.0026,
+     "path": "review/efI77fzBgvg/evidence/frame-0241.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0241.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0242",
+     "time": 1406.638567,
+     "path": "review/efI77fzBgvg/evidence/frame-0242.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0242.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0239.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-bedroom-greywater",
+   "title": "Bedroom planter greywater pump and inspection point",
+   "place": "duke-bedroom",
+   "category": "Water",
+   "description": "Pump/filter equipment and an accessible opening appear among the bedroom planting. Tom says this bedroom has its own greywater system and explains that water passes baffles into a deep well before being pumped to the toilet.",
+   "phase": "current",
+   "unknown": "Hidden baffles, well depth, pipe layout and water quality are not exposed.",
+   "related_ids": [
+    "duke-bedroom-food",
+    "duke-wastewater-cell"
+   ],
+   "part_of": null,
+   "terms": [
+    "greywater",
+    "pump",
+    "water filter"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1390.44,
+     "end": 1400,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1423.75,
+     "end": 1446,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0244",
+     "time": 1425.657567,
+     "path": "review/efI77fzBgvg/evidence/frame-0244.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0244.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0246",
+     "time": 1440.005233,
+     "path": "review/efI77fzBgvg/evidence/frame-0246.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0246.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0244.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-wastewater-cell",
+   "title": "Vegetated lined blackwater containment cell",
+   "place": "duke-wastewater-garden",
+   "category": "Water",
+   "description": "Dense foliage and small trees grow beside the house, with a vertical inspection pipe visible. Tom says septic overflow enters an EPDM-lined, gravel-filled cell 20 by 40 feet and 6 feet deep [6.10 by 12.19 by 1.83 metres], supporting willows without watering. He places the sewage about 4 feet [1.22 metres] down and says the installation is permitted.",
+   "phase": "current",
+   "unknown": "The liner, dimensions, liquid depth, permit and claims of no groundwater pollution or maintenance are not verified by the surface views.",
+   "related_ids": [
+    "duke-bedroom-greywater"
+   ],
+   "part_of": null,
+   "terms": [
+    "blackwater",
+    "constructed wetland",
+    "rubber",
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1446,
+     "end": 1500.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1511.679,
+     "end": 1540.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1565.159,
+     "end": 1600.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1631.71,
+     "end": 1642,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0251",
+     "time": 1488.003183,
+     "path": "review/efI77fzBgvg/evidence/frame-0251.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0251.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0255",
+     "time": 1536.001133,
+     "path": "review/efI77fzBgvg/evidence/frame-0255.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0255.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0260",
+     "time": 1583.63205,
+     "path": "review/efI77fzBgvg/evidence/frame-0260.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0260.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0251.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-fig-harvest",
+   "title": "Indoor fig tree beside living space",
+   "place": "duke-living",
+   "category": "Food",
+   "description": "Close views show green figs along a branch beside the glazing. Tom says Xavier eats ripe fruit directly and estimates about 200 figs per year.",
+   "phase": "current",
+   "unknown": "No annual harvest count, cultivar or ripening calendar is supplied.",
+   "related_ids": [],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1680.6,
+     "end": 1697.3,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0276",
+     "time": 1689.9883,
+     "path": "review/efI77fzBgvg/evidence/frame-0276.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0276.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0277",
+     "time": 1692.006983,
+     "path": "review/efI77fzBgvg/evidence/frame-0277.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0277.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0276.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "duke-dc-refrigerator",
+   "title": "Thick-insulated DC household refrigerator",
+   "place": "duke-living",
+   "category": "Energy",
+   "description": "The opened refrigerator has a thick door and stocked interior. Tom says it runs on DC without using the inverter and costs more than a normal refrigerator.",
+   "phase": "current",
+   "unknown": "Wiring, model, electrical demand and purchase price are not inspected.",
+   "related_ids": [],
+   "part_of": null,
+   "terms": [
+    "refrigerator",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1721.47,
+     "end": 1748.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0286",
+     "time": 1740.004933,
+     "path": "review/efI77fzBgvg/evidence/frame-0286.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0286.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0283",
+     "time": 1720.135083,
+     "path": "review/efI77fzBgvg/evidence/frame-0283.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0283.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0287",
+     "time": 1744.309233,
+     "path": "review/efI77fzBgvg/evidence/frame-0287.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0287.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0286.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "duke-construction-photo",
+   "title": "Bedroom tire construction in family photograph",
+   "place": "duke-bedroom",
+   "category": "Process",
+   "description": "A photograph on the refrigerator shows a child with a tool beside exposed earth-filled tires. Tom identifies the scene as their bedroom during construction and says his children grew up pounding tires.",
+   "phase": "historical",
+   "unknown": "The date, child’s identity and exact construction sequence are not supplied; a separate project in another community is mentioned but not shown.",
+   "related_ids": [
+    "duke-adobe-tires"
+   ],
+   "part_of": null,
+   "terms": [
+    "tyres",
+    "earth",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1754.07,
+     "end": 1770,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0289",
+     "time": 1759.524433,
+     "path": "review/efI77fzBgvg/evidence/frame-0289.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0289.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0290",
+     "time": 1763.995567,
+     "path": "review/efI77fzBgvg/evidence/frame-0290.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0290.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0289.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gravel-pit-reclamation",
+   "title": "Housing in a reclaimed gravel excavation",
+   "place": "gravel-pit",
+   "category": "Land",
+   "description": "Homes occupy lower ground bordered by exposed earth banks, visible during the drive. Tom says this was an abandoned gravel pit excavated for the highway and is being turned into a neighborhood with cheaper land.",
+   "phase": "current",
+   "unknown": "Former extraction extent, remediation, ground stability and actual land prices are not documented.",
+   "related_ids": [
+    "split-level-plan",
+    "nest-studio",
+    "gravel-sale-sign"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1829.07,
+     "end": 1853,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0305",
+     "time": 1883.998783,
+     "path": "review/efI77fzBgvg/evidence/frame-0305.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0305.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0306",
+     "time": 1895.9941,
+     "path": "review/efI77fzBgvg/evidence/frame-0306.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0306.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0309",
+     "time": 1927.892633,
+     "path": "review/efI77fzBgvg/evidence/frame-0309.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0309.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0305.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "split-level-plan",
+   "title": "Proposed back row of split-level houses",
+   "place": "gravel-pit",
+   "category": "Plan",
+   "description": "Existing multi-level buildings in the distance provide context for a larger proposed row. Tom says the whole back row of the pit will be two-story split-level houses.",
+   "phase": "planned",
+   "unknown": "No master plan, unit count, funding or construction schedule is shown.",
+   "related_ids": [
+    "gravel-pit-reclamation"
+   ],
+   "part_of": null,
+   "terms": [
+    "split-level"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1888.11,
+     "end": 1895.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0306",
+     "time": 1895.9941,
+     "path": "review/efI77fzBgvg/evidence/frame-0306.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0306.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0309",
+     "time": 1927.892633,
+     "path": "review/efI77fzBgvg/evidence/frame-0309.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0309.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0306.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "nest-studio",
+   "title": "Nest studio with glazed front and solar panels",
+   "place": "nest",
+   "category": "Structure",
+   "description": "A small earth-backed building has a glazed front beneath a shallow metal roof and several photovoltaic panels. Tom calls this type the Nest and describes it as a self-contained studio.",
+   "phase": "current",
+   "unknown": "The camera does not enter; resident, floor area and system capacities are not disclosed.",
+   "related_ids": [
+    "gravel-pit-reclamation"
+   ],
+   "part_of": null,
+   "terms": [
+    "earth-sheltered",
+    "glazing",
+    "solar pv"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1956.629,
+     "end": 1975.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0313",
+     "time": 1967.999367,
+     "path": "review/efI77fzBgvg/evidence/frame-0313.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0313.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0313.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gravel-sale-sign",
+   "title": "Discovery real-estate sign on earth bank",
+   "place": "gravel-pit",
+   "category": "Plan",
+   "description": "A white real-estate board reading “DISCOVERY” stands on a vegetated bank near exposed vents and rounded vessels. A smaller agent/contact panel sits above it.",
+   "phase": "current",
+   "unknown": "No legible address, parcel plan or price is established; its association with the next Nest shot is uncertain.",
+   "related_ids": [
+    "gravel-pit-reclamation"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0312",
+     "time": 1956.00405,
+     "path": "review/efI77fzBgvg/evidence/frame-0312.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0312.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0312.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "feed-four-design",
+   "title": "House designed to feed a family of four",
+   "place": "food-house",
+   "category": "Plan",
+   "description": "Dense indoor planting provides context for an intended food-producing home. Tom says the design aims to feed four people and gives more space to plants than living, while describing food production as ongoing experimentation.",
+   "phase": "current",
+   "unknown": "No measured areas, harvest totals, nutrition balance or proof of complete food independence is provided.",
+   "related_ids": [
+    "food-fish-pond",
+    "bucket-growing",
+    "food-inner-planting",
+    "chickens"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2016.88,
+     "end": 2024,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2029.83,
+     "end": 2052,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2076.109,
+     "end": 2100.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0329",
+     "time": 2079.894483,
+     "path": "review/efI77fzBgvg/evidence/frame-0329.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0329.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0347",
+     "time": 2179.710867,
+     "path": "review/efI77fzBgvg/evidence/frame-0347.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0347.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0329.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "food-fish-pond",
+   "title": "Indoor planted pond with ornamental fish",
+   "place": "food-outer",
+   "category": "Food",
+   "description": "A narrow pond edged by rocks and dense plants contains visible orange, red and white fish. Tom says the pond also has koi and turtles and explains its place in experiments with food and protein production.",
+   "phase": "current",
+   "unknown": "Fish species are not independently confirmed; turtles, stocking density, filtration and edible yield are not established.",
+   "related_ids": [
+    "feed-four-design",
+    "past-tilapia"
+   ],
+   "part_of": null,
+   "terms": [
+    "pond"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2076.109,
+     "end": 2100.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0332",
+     "time": 2099.9979,
+     "path": "review/efI77fzBgvg/evidence/frame-0332.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0332.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0330",
+     "time": 2088.002583,
+     "path": "review/efI77fzBgvg/evidence/frame-0330.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0330.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0332.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "past-tilapia",
+   "title": "Reported earlier tilapia pond experiment",
+   "place": "food-outer",
+   "category": "Food",
+   "description": "Current fish-pond views provide context but do not securely identify tilapia. Tom says they “did have” a tilapia pond going here, before mentioning koi and turtles.",
+   "phase": "historical",
+   "unknown": "Whether tilapia remain, whether any were harvested and why the experiment changed are unresolved.",
+   "related_ids": [
+    "food-fish-pond"
+   ],
+   "part_of": null,
+   "terms": [
+    "pond"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2081.56,
+     "end": 2100.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0332",
+     "time": 2099.9979,
+     "path": "review/efI77fzBgvg/evidence/frame-0332.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0332.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0332.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bucket-growing",
+   "title": "Hanging vegetable buckets with upright fill pipes",
+   "place": "food-outer",
+   "category": "Food",
+   "description": "Blue buckets hang among the greenhouse foliage, with plants and short upright pipes visible. Tom describes gravel below the growing medium and feeding water through the pipes so roots can draw it up with less water use.",
+   "phase": "current",
+   "unknown": "Internal layers, overflow arrangements, nutrients and measured water savings are not shown.",
+   "related_ids": [
+    "feed-four-design"
+   ],
+   "part_of": null,
+   "terms": [
+    "irrigation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2109.64,
+     "end": 2133,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0333",
+     "time": 2111.776333,
+     "path": "review/efI77fzBgvg/evidence/frame-0333.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0333.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0336",
+     "time": 2127.2251,
+     "path": "review/efI77fzBgvg/evidence/frame-0336.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0336.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0337",
+     "time": 2136.000533,
+     "path": "review/efI77fzBgvg/evidence/frame-0337.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0337.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0333.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "food-inner-planting",
+   "title": "Second greenhouse integrated with living space",
+   "place": "food-inner",
+   "category": "Climate",
+   "description": "Beyond an inner glazed division, substantial plants surround sofas and extend near kitchen and bedroom views. Tom calls this the second greenhouse and says Mike added plants even to the living space, which he describes as cooler.",
+   "phase": "current",
+   "unknown": "No temperature reading, plant-to-floor-area ratio or complete room arrangement is supplied.",
+   "related_ids": [
+    "feed-four-design"
+   ],
+   "part_of": null,
+   "terms": [
+    "greenhouse"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2142.43,
+     "end": 2157,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2165.51,
+     "end": 2170,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2187.829,
+     "end": 2202.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0347",
+     "time": 2179.710867,
+     "path": "review/efI77fzBgvg/evidence/frame-0347.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0347.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0342",
+     "time": 2157.421933,
+     "path": "review/efI77fzBgvg/evidence/frame-0342.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0342.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0340",
+     "time": 2147.99585,
+     "path": "review/efI77fzBgvg/evidence/frame-0340.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0340.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0347.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "chickens",
+   "title": "Mesh-enclosed chicken yard",
+   "place": "chicken-yard",
+   "category": "Food",
+   "description": "Several chickens walk over stony bare ground inside a mesh-covered enclosure with decorated earth-colored walls. Tom identifies them as another food-production experiment.",
+   "phase": "current",
+   "unknown": "Egg/meat yield, flock size, feed sources and access to sheltered roosting are not established.",
+   "related_ids": [
+    "feed-four-design"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2212.079,
+     "end": 2230,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0355",
+     "time": 2219.400517,
+     "path": "review/efI77fzBgvg/evidence/frame-0355.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0355.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0358",
+     "time": 2231.996433,
+     "path": "review/efI77fzBgvg/evidence/frame-0358.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0358.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0356",
+     "time": 2220.001117,
+     "path": "review/efI77fzBgvg/evidence/frame-0356.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0356.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0355.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "wolf-student-room",
+   "title": "Wolf’s furnished student room",
+   "place": "wolf-room",
+   "category": "Life",
+   "description": "Wolf shows a simple room with a raised bed, small sink and timber cabinet behind greenhouse glazing. Tom calls the building a two-bedroom student house, and Wolf says he has been staying there; the captioned length of stay is incomplete.",
+   "phase": "current",
+   "unknown": "The other room is not entered; exact duration, rent, tenure and identity of the other occupant are unresolved.",
+   "related_ids": [
+    "wolf-planter",
+    "wolf-cabinet-equipment"
+   ],
+   "part_of": null,
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2257.43,
+     "end": 2280.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 2294.2,
+     "end": 2334.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0373",
+     "time": 2302.1999,
+     "path": "review/efI77fzBgvg/evidence/frame-0373.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0373.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0372",
+     "time": 2299.64735,
+     "path": "review/efI77fzBgvg/evidence/frame-0372.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0372.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0376",
+     "time": 2313.894917,
+     "path": "review/efI77fzBgvg/evidence/frame-0376.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0376.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0373.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wolf-cabinet-equipment",
+   "title": "Battery-like electrical equipment beneath the sink",
+   "place": "wolf-room",
+   "category": "Energy",
+   "description": "An opened sink cupboard contains a large dark box with terminal-like fittings and attached electrical apparatus. Drain plumbing and cables are visible beside it.",
+   "phase": "current",
+   "unknown": "The film does not explain the equipment here; battery chemistry, capacity, ventilation and circuit connections cannot be verified from appearance.",
+   "related_ids": [
+    "wolf-student-room"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0374",
+     "time": 2304.0017,
+     "path": "review/efI77fzBgvg/evidence/frame-0374.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0374.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0375",
+     "time": 2306.75445,
+     "path": "review/efI77fzBgvg/evidence/frame-0375.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0375.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0374.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "wolf-planter",
+   "title": "Mature fig and banana student-house planter",
+   "place": "wolf-greenhouse",
+   "category": "Food",
+   "description": "A mature planted corridor contains broad leaves and woody growth immediately outside the sleeping room’s glazing. Tom identifies fig and banana plants, claims roughly 200 figs per tree per year and remarks on bananas at 7,000 feet [2,134 metres].",
+   "phase": "current",
+   "unknown": "No ripe yield count or altitude measurement is shown; maintenance requirements and plant varieties are unspecified.",
+   "related_ids": [
+    "wolf-student-room"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 2283.88,
+     "end": 2298.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0369",
+     "time": 2290.3881,
+     "path": "review/efI77fzBgvg/evidence/frame-0369.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0369.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0370",
+     "time": 2292.006383,
+     "path": "review/efI77fzBgvg/evidence/frame-0370.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0370.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0378",
+     "time": 2318.499517,
+     "path": "review/efI77fzBgvg/evidence/frame-0378.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0378.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/efI77fzBgvg/sample-0369.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "fridge-mountain-map",
+   "title": "Mountain trail map displayed on refrigerator",
+   "place": "duke-living",
+   "category": "Plan",
+   "description": "A large printed mountain map with branching marked routes and a legend is fixed to the lower refrigerator door. It is a separate document from the family construction photograph above.",
+   "phase": "current",
+   "unknown": "The destination, legend text and publication date are not legible enough to identify confidently; it does not locate Earthship features.",
+   "related_ids": [
+    "duke-dc-refrigerator"
+   ],
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0288",
+     "time": 1752.00025,
+     "path": "review/efI77fzBgvg/evidence/frame-0288.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0288.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0288.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "family-drawing-display",
+   "title": "Paper drawings and photographs on kitchen storage",
+   "place": "duke-living",
+   "category": "Plan",
+   "description": "The refrigerator and adjacent timber cabinet carry colorful paper drawings and family photographs. A waterside photograph depicts an unidentified location outside the community tour; a separate close-up isolates the bedroom construction photograph.",
+   "phase": "current",
+   "unknown": "Artists, drawing dates and photographed locations are not identified; these are not established site plans or views of on-site water.",
+   "related_ids": [
+    "duke-construction-photo",
+    "fridge-mountain-map"
+   ],
+   "part_of": null,
+   "terms": [
+    "paper"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0288",
+     "time": 1752.00025,
+     "path": "review/efI77fzBgvg/evidence/frame-0288.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0288.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0282",
+     "time": 1715.997617,
+     "path": "review/efI77fzBgvg/evidence/frame-0282.jpg",
+     "preview_path": "review/efI77fzBgvg/sample-0282.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/efI77fzBgvg/sample-0288.jpg",
+   "model_objects": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 78,
+   "title": "Approach to experimental grounds",
+   "visible": "Opening title and road view, desert scrub, distant mountains and sculptural earth-covered buildings.",
+   "gaps": "Individual buildings, opening road location and experimental-zone boundaries are not established.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0006.jpg"
+  },
+  {
+   "start": 78,
+   "end": 118,
+   "title": "Bottle workshop",
+   "visible": "Loose bottles, cut glass cylinders, prepared bottle units and Tom handling glass.",
+   "gaps": "No complete cutting procedure, strength test or material inventory.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0015.jpg"
+  },
+  {
+   "start": 118,
+   "end": 156,
+   "title": "Tire amphitheater and student complex exterior",
+   "visible": "Curved tiers of exposed tires and tall unfinished bottle-and-can building with glazed frontage.",
+   "gaps": "Future occupancy and planting are not current conditions; no structural calculations.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0021.jpg"
+  },
+  {
+   "start": 156,
+   "end": 246,
+   "title": "Unfinished student complex interior",
+   "visible": "Exposed can masonry, colored bottle patterns, timber roof, curved stairs and balcony-like forms.",
+   "gaps": "Stair reinforcement, code approval and completed room functions are not established.",
+   "sample_count": 22,
+   "sample_ids": [
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0035.jpg"
+  },
+  {
+   "start": 246,
+   "end": 304,
+   "title": "Simple Survival exterior",
+   "visible": "Long timber-framed glazing, dark roof solar strip, small rigid panel and dark vessels behind glass.",
+   "gaps": "Solar output, vessel capacity and buried infrastructure are not measured.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0052.jpg"
+  },
+  {
+   "start": 304,
+   "end": 388,
+   "title": "Simple Survival greenhouse and vaulted room",
+   "visible": "Planted corridor, inner doors, corrugated tube opening, vaulted plaster room and compact cooking station.",
+   "gaps": "No temperature logging or view beneath plaster; hanging pale line has unknown function.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0068.jpg"
+  },
+  {
+   "start": 388,
+   "end": 462,
+   "title": "Simple Survival water fixtures",
+   "visible": "Hinged soil box and worms, greenhouse plants, shower niche, toilet and exterior cutaway.",
+   "gaps": "Full plumbing route, well and blackwater containment are not visually traced.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0085.jpg"
+  },
+  {
+   "start": 462,
+   "end": 584,
+   "title": "Community drive to Global",
+   "visible": "Tom in car, dispersed buildings and dirt tracks, then Global solar-panel frontage.",
+   "gaps": "Shutdown history is spoken over current views; residents and property boundaries unidentified.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0101.jpg"
+  },
+  {
+   "start": 584,
+   "end": 676,
+   "title": "Global greenhouse and ventilation",
+   "visible": "Inner glazed partitions, dense plants, operable skylight and octagonal wall tube with cover.",
+   "gaps": "No measured airflow or thermal performance; buried tube length unknown.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0116.jpg"
+  },
+  {
+   "start": 676,
+   "end": 770,
+   "title": "Global domestic rooms and refrigerator",
+   "visible": "Kitchen/dining, living room, bedroom, bathroom glimpses, thick refrigerator door and greenhouse planting.",
+   "gaps": "Room adjacency beyond visible openings and appliance energy consumption not established.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126",
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0132.jpg"
+  },
+  {
+   "start": 770,
+   "end": 814,
+   "title": "Global roof catchment",
+   "visible": "Metal roof, collection scupper with debris, mesh and screened central opening.",
+   "gaps": "Tank interiors, storage volume and water quality not shown.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0144.jpg"
+  },
+  {
+   "start": 814,
+   "end": 978,
+   "title": "Global greywater, toilet and cost discussion",
+   "visible": "Planted trough, opened pump/filter cabinet, toilet and bathroom, exterior views.",
+   "gaps": "Hidden septic/liner system and claims of savings are unverified; no invoices.",
+   "sample_count": 22,
+   "sample_ids": [
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166",
+    "frame-0167"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0157.jpg"
+  },
+  {
+   "start": 978,
+   "end": 1128,
+   "title": "Drive to Duke household",
+   "visible": "Dirt roads, distant houses, punctured car tire, dome arrival and household yard.",
+   "gaps": "Passing homes remain unnamed; route and boundaries cannot be reconstructed.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0177.jpg"
+  },
+  {
+   "start": 1128,
+   "end": 1220,
+   "title": "Duke survival hut",
+   "visible": "Domed entrance, crowded storage, loft/stair, painted birds and circular ceiling opening.",
+   "gaps": "Former furniture arrangement and build cost are recollections, not historical footage.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0186",
+    "frame-0187",
+    "frame-0188",
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197",
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0196.jpg"
+  },
+  {
+   "start": 1220,
+   "end": 1325,
+   "title": "Duke living and kitchen areas",
+   "visible": "Family/visitors, small stove, rounded plaster wall, indoor plants, sloped glazing and cloth shades.",
+   "gaps": "Concealed wall composition and annual stove use are claims; visitors not all named.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219",
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0216.jpg"
+  },
+  {
+   "start": 1325,
+   "end": 1385,
+   "title": "Duke children’s room and earth bank",
+   "visible": "Reddish seamless floor, skylight, glass blocks and exterior earth-covered sides.",
+   "gaps": "Floor recipe, exact burial depth and thermal performance not measured.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235",
+    "frame-0236",
+    "frame-0237"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0232.jpg"
+  },
+  {
+   "start": 1385,
+   "end": 1446,
+   "title": "Duke main bedroom planter",
+   "visible": "Bed, hanging bicycles, large planted trough, herbs, pump/filter equipment and inspection opening.",
+   "gaps": "Underground well and complete greywater route not visible.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0242.jpg"
+  },
+  {
+   "start": 1446,
+   "end": 1648,
+   "title": "Duke exterior wastewater garden",
+   "visible": "Tall dense foliage, smaller trees, inspection pipe and planted strip beside glazed house.",
+   "gaps": "Buried liner, dimensions, sewage depth and groundwater protection unverified.",
+   "sample_count": 23,
+   "sample_ids": [
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260",
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0258.jpg"
+  },
+  {
+   "start": 1648,
+   "end": 1749,
+   "title": "Duke kitchen, figs and running costs",
+   "visible": "Cooking stove, fruiting fig, family table, refrigerator interior and thick door.",
+   "gaps": "No annual energy, harvest or expense records; budget begins after an edit.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274",
+    "frame-0275",
+    "frame-0276",
+    "frame-0277",
+    "frame-0278",
+    "frame-0279",
+    "frame-0280",
+    "frame-0281",
+    "frame-0282",
+    "frame-0283",
+    "frame-0284",
+    "frame-0285",
+    "frame-0286",
+    "frame-0287"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0279.jpg"
+  },
+  {
+   "start": 1749,
+   "end": 1829,
+   "title": "Family construction photograph and departure",
+   "visible": "Photographs and drawings on fridge, tire construction photo, exposed tire yard walls and drive.",
+   "gaps": "Other-community building project is only mentioned; small waterside photo has unknown outside location.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292",
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296",
+    "frame-0297",
+    "frame-0298",
+    "frame-0299"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0294.jpg"
+  },
+  {
+   "start": 1829,
+   "end": 1952,
+   "title": "Gravel pit neighborhood",
+   "visible": "Lower-lying houses, berms, tracks and distant split-level buildings.",
+   "gaps": "Former excavation and future housing row are spoken claims; no survey or resident introductions.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0300",
+    "frame-0301",
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306",
+    "frame-0307",
+    "frame-0308",
+    "frame-0309",
+    "frame-0310",
+    "frame-0311"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0306.jpg"
+  },
+  {
+   "start": 1952,
+   "end": 2016,
+   "title": "Nest and sale sign",
+   "visible": "Real-estate sign on earth bank, small glazed-front building with panels, further neighborhood drive.",
+   "gaps": "No Nest interior, verified listing price or proven sign-to-building parcel connection.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315",
+    "frame-0316",
+    "frame-0317",
+    "frame-0318",
+    "frame-0319"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0316.jpg"
+  },
+  {
+   "start": 2016,
+   "end": 2080,
+   "title": "Approach to food-production house",
+   "visible": "Drive, decorative exterior, planted glazed frontage, entry and timber greenhouse roof.",
+   "gaps": "Resident not named; feeding four is an intention, not demonstrated yield.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323",
+    "frame-0324",
+    "frame-0325",
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0325.jpg"
+  },
+  {
+   "start": 2080,
+   "end": 2142,
+   "title": "Food greenhouse pond and buckets",
+   "visible": "Fish in narrow pond, dense vines and blue hanging growing buckets with fill pipes.",
+   "gaps": "Tilapia harvest, turtles, bucket internals and irrigation consumption not established.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0330",
+    "frame-0331",
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335",
+    "frame-0336",
+    "frame-0337",
+    "frame-0338"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0334.jpg"
+  },
+  {
+   "start": 2142,
+   "end": 2215,
+   "title": "Second greenhouse and living space",
+   "visible": "Inner glazing, heavily planted living room, red kitchen cabinets and bedroom recess.",
+   "gaps": "No complete floor plan or measured temperature; plant yields unknown.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0339",
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343",
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348",
+    "frame-0349",
+    "frame-0350",
+    "frame-0351",
+    "frame-0352",
+    "frame-0353",
+    "frame-0354"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0347.jpg"
+  },
+  {
+   "start": 2215,
+   "end": 2241,
+   "title": "Chicken enclosure",
+   "visible": "Chickens on stony ground behind mesh and decorative earth/bottle walls.",
+   "gaps": "Flock count, egg yield, feed inputs and full shelter arrangement not established.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0355",
+    "frame-0356",
+    "frame-0357",
+    "frame-0358"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0357.jpg"
+  },
+  {
+   "start": 2241,
+   "end": 2320,
+   "title": "Wolf’s student house",
+   "visible": "Different glazed student building, mature planters, Wolf’s bed and sink, open equipment cupboard.",
+   "gaps": "Other bedroom not entered; battery rating and unnamed occupant identity unresolved.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0359",
+    "frame-0360",
+    "frame-0361",
+    "frame-0362",
+    "frame-0363",
+    "frame-0364",
+    "frame-0365",
+    "frame-0366",
+    "frame-0367",
+    "frame-0368",
+    "frame-0369",
+    "frame-0370",
+    "frame-0371",
+    "frame-0372",
+    "frame-0373",
+    "frame-0374",
+    "frame-0375",
+    "frame-0376",
+    "frame-0377",
+    "frame-0378"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0369.jpg"
+  },
+  {
+   "start": 2320,
+   "end": 2376,
+   "title": "Student and guide discussion",
+   "visible": "Wolf and Tom at entrance discussing learning, future builds and permits.",
+   "gaps": "No outside planned site or permit documents shown.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0379",
+    "frame-0380",
+    "frame-0381",
+    "frame-0382",
+    "frame-0383",
+    "frame-0384",
+    "frame-0385",
+    "frame-0386",
+    "frame-0387"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0383.jpg"
+  },
+  {
+   "start": 2376,
+   "end": 2428.021,
+   "title": "Closing community drive",
+   "visible": "Wide mesa, mountains, Tom in car and distant glazed/domed buildings.",
+   "gaps": "Individual closing buildings and exact route unplaced; no new system inspection.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0388",
+    "frame-0389",
+    "frame-0390",
+    "frame-0391",
+    "frame-0392",
+    "frame-0393",
+    "frame-0394",
+    "frame-0395",
+    "frame-0396",
+    "frame-0397"
+   ],
+   "thumbnail": "review/efI77fzBgvg/sample-0393.jpg"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "id": "ent-dave-orton-transforming-transit-campervan",
+ "type": "place",
+ "name": "Dave Orton’s transforming Transit campervan",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "h5L6TZdy_y0",
+    "title": "Dave Orton’s transforming Transit campervan",
+    "where": "California, United States",
+    "film_year": "2019",
+    "upload_date": "2019-03-10",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=h5L6TZdy_y0",
+    "records": [
+     {
+      "kind": "place",
+      "id": "van",
+      "title": "Dave Orton’s Ford Transit campervan",
+      "place_kind": "vehicle",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Dave Orton",
+      "relation": "owner"
+     }
+    ],
+    "gist": "Dave built machinery before making a camper that still carries cargo; he heats his sleeping bag and admits his insulating curtains haven’t worked.",
+    "figures": {},
+    "point": {
+     "lat": 38.401,
+     "lon": -122.931,
+     "matched": "Occidental, Sonoma County, California, United States",
+     "stands_for": "census",
+     "extent_km": null
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Csb",
+      "name": "warm-summer Mediterranean"
+     },
+     "rain_mm": 1015,
+     "zone": "9b",
+     "elevation_m": 212,
+     "from": "Occidental, Sonoma County, California, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2019"
+   ]
+  },
+  "figures": [],
+  "location_warnings": [],
+  "instance_hash": "eeeef874495719c1",
+  "built": "2026-10-06T13:18:27"
+ }
+}

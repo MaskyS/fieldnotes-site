@@ -1,0 +1,13 @@
+# Montparnasse apartment in daylight
+
+Round 1, `candidate-1.png`, was chosen. The user confirmed acceptance with independent-judge retention of 1.0. No later candidate was generated. This result records agreement on the judged visual questions, not pixel-level fidelity or verification of every painted detail.
+
+The painting is a gouache view from `frame-0090` at **04:13.5**, looking down from the living platform toward the lower kitchen and upper stairs. This sharp, people-free frame was chosen because it makes the relationship between the levels clear without combining viewpoints. Supporting catalogue frames `frame-0233`, `frame-0147` and `frame-0053` clarify the stair treads, kitchen materials and coffee station already visible in the vantage.
+
+The faithful elements are the downward viewpoint and overall crop; the broad oak foreground platform above the kitchen; the large opaque white shower exterior hanging over it; and the cream open-tread staircase on the right. The steel worktop retains the black two-zone hob to the left of the rectangular sink, the angular chrome faucet and the partly hidden wooden bowl. The black rear backsplash, oak panels and ledge, coffee maker at the left, framed picture and partially obscured appliances retain their overall arrangement. The exterior window, living furniture, upper basin, shower glazing, basement bedroom and street exterior remain outside the view. No people, text, labels, insets, borders or annotations appear.
+
+The invented elements are chiefly the gouache brushwork, paper texture and individual wood-grain marks. Small details also exceed what the film resolves: the specific facades within the framed street picture, utensil-like shapes atop the silver appliance, and the precise outlines of shadowed appliances, cables, sockets and cups, including an apparent additional partial cup. These are generated interpretations of indistinct shapes, not evidence of additional possessions or construction details.
+
+The palette is brighter and more orange-gold than the source; shadowed walls and stair gaps are lighter, and the amber counter lighting is broader. Hob rings, metal edges, sink reflections and stair joints are more emphatic. Minor contour and position changes affect the rear ledge, stair fronts and foreground edge. `critique-1.md` records these limitations in detail.
+
+Gouache texture was intentional because the requested artifact was a painting. Increased brightness, extra specificity in shadowed objects and small geometric shifts were unintended effects of that transformation. Round 1 is retained because the user accepted its measured visual retention; acceptance does not turn those inventions into facts about the apartment.

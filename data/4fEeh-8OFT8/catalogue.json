@@ -1,0 +1,3207 @@
+{
+ "title": "An artist couple’s narrow Tokyo home",
+ "source": {
+  "id": "4fEeh-8OFT8",
+  "url": "https://www.youtube.com/watch?v=4fEeh-8OFT8",
+  "duration": 743.441,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "English machine translation of automatically generated Japanese captions (original language ja; translated=true). Several English-speaking passages are garbled and some cue times poorly align with speech. Filmmaker English subtitles visible in frames take precedence for technical terms, figures and speaker meaning; evidence spans may include these subtitled speech passages where the supplied text is incomplete. Original Japanese auto-captions were also read in full; the occupancy duration follows their fifth-year wording rather than the English translation’s five years.",
+  "context": {
+   "location": {
+    "country": "Japan",
+    "state_or_region": "Tokyo",
+    "nearest_place": "Tokyo; neighborhood not disclosed",
+    "precision": "city only; exact address not disclosed",
+    "climate": {
+     "koppen": "Cfa",
+     "name": "humid subtropical",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Tokyo, Japan",
+      "lat": 35.677,
+      "lon": 139.764,
+      "matched": "Tokyo, Japan",
+      "stands_for": "city",
+      "precision": "city only; exact address not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 1432,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Tokyo, Japan",
+      "lat": 35.677,
+      "lon": 139.764,
+      "matched": "Tokyo, Japan",
+      "stands_for": "city",
+      "precision": "city only; exact address not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "9a",
+     "mean_annual_extreme_min_c": -4.8,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Tokyo, Japan",
+      "lat": 35.677,
+      "lon": 139.764,
+      "matched": "Tokyo, Japan",
+      "stands_for": "city",
+      "precision": "city only; exact address not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 27,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Tokyo, Japan",
+      "lat": 35.677,
+      "lon": 139.764,
+      "matched": "Tokyo, Japan",
+      "stands_for": "city",
+      "precision": "city only; exact address not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2017-03-19"
+  }
+ },
+ "sampling": {
+  "frames": 228,
+  "candidate_shots": 117,
+  "contact_sheets": 9,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/4fEeh-8OFT8"
+ },
+ "subject": {
+  "place": "site",
+  "people": [],
+  "gist": "A miniature artist and her filmmaker husband made room for work and gardens on a narrow plot, gradually growing comfortable with their home’s wear.",
+  "story": {
+   "text": "A miniature artist and her husband, who directs commercials, make a narrow Tokyo plot into a place where work, favourite objects and greenery are all close at hand. Her studio and gallery fill the little gatehouse, with his study above; a courtyard leads to their home behind. Lowering the bedroom and bathroom to meet the height limit brings another pleasure: lying down puts the garden at eye level, as though they are resting in the grass. The house need not stay pristine. As its surfaces wear and belongings settle in, she feels increasingly at home, growing closer to the building rather than worrying about keeping it new.",
+   "moments": [
+    {
+     "phrase": "Her studio and gallery fill the little gatehouse",
+     "at": 71.96
+    },
+    {
+     "phrase": "his study above",
+     "at": 136.8
+    },
+    {
+     "phrase": "Lowering the bedroom and bathroom to meet the height limit",
+     "at": 239.959
+    },
+    {
+     "phrase": "lying down puts the garden at eye level",
+     "at": 316.08
+    },
+    {
+     "phrase": "she feels increasingly at home",
+     "at": 665.76
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Artist couple’s Tokyo household site",
+   "kind": "site",
+   "within": null,
+   "caveat": "Residents are unnamed; no survey or exact address is supplied.",
+   "entity": "ent-artist-couple-narrow-tokyo-home"
+  },
+  {
+   "id": "gatehouse",
+   "title": "Street-front gatehouse",
+   "kind": "building",
+   "within": "site",
+   "caveat": ""
+  },
+  {
+   "id": "gallery",
+   "title": "Resident artist’s gallery and workroom",
+   "kind": "room",
+   "within": "gatehouse",
+   "caveat": "Gallery and workbench share the lower level."
+  },
+  {
+   "id": "study",
+   "title": "Resident husband’s upper study",
+   "kind": "room",
+   "within": "gatehouse",
+   "caveat": "Resident identifies its use; husband is not named."
+  },
+  {
+   "id": "garden",
+   "title": "Planted courtyard and side passage",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Visible paths and planting connect the gatehouse approach and main-house entry; boundaries are not surveyed."
+  },
+  {
+   "id": "bedroom-garden",
+   "title": "Garden strip at bedroom glazing",
+   "kind": "outdoor area",
+   "within": "site",
+   "caveat": "Pocket garden is visible from the bedroom; ownership of the old fence is not stated."
+  },
+  {
+   "id": "main-house",
+   "title": "Main dwelling behind gatehouse",
+   "kind": "building",
+   "within": "site",
+   "caveat": ""
+  },
+  {
+   "id": "entry",
+   "title": "Lower entry and stair passage",
+   "kind": "room",
+   "within": "main-house",
+   "caveat": "Circulation zone, not asserted to be an enclosed room."
+  },
+  {
+   "id": "bathroom",
+   "title": "Lower garden-facing bathroom",
+   "kind": "room",
+   "within": "main-house",
+   "caveat": ""
+  },
+  {
+   "id": "bedroom",
+   "title": "Lower bedroom",
+   "kind": "room",
+   "within": "main-house",
+   "caveat": ""
+  },
+  {
+   "id": "living",
+   "title": "Upper living room and kitchen",
+   "kind": "room",
+   "within": "main-house",
+   "caveat": "Open shared room; kitchen is not a separate enclosed space."
+  },
+  {
+   "id": "street",
+   "title": "Street outside the household site",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Exterior filming viewpoint; no address supplied.",
+   "outside": true
+  },
+  {
+   "id": "neighbors",
+   "title": "Adjacent properties seen from street",
+   "kind": "site",
+   "within": null,
+   "caveat": "Only exterior context, including scaffolded work next door.",
+   "outside": true
+  }
+ ],
+ "people": [
+  {
+   "id": "masahiro-harada",
+   "name": "Masahiro Harada",
+   "relation": "designer",
+   "note": "Architect named in description, which attributes the peach-skin and material explanations to him; the male architect leads the tour."
+  },
+  {
+   "id": "mao-harada",
+   "name": "Mao Harada",
+   "relation": "designer",
+   "note": "Named as co-architect in the description; no visual identification of either accompanying woman is assumed."
+  },
+  {
+   "id": "kirsten-dirksen",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Uploader/channel credit; unnamed off-camera questions are not assigned to her by voice alone.",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "tokyo-location",
+   "text": "The household is in Tokyo, Japan.",
+   "by": "description",
+   "at": [],
+   "about": "narrow-site",
+   "headline": true
+  },
+  {
+   "id": "minimum-plot-width",
+   "text": "Plot narrows to 2 meters [6.56 feet].",
+   "by": "description",
+   "at": [],
+   "about": "narrow-site",
+   "headline": true,
+   "quantity": {
+    "value": 2,
+    "unit": "m",
+    "of": "length"
+   }
+  },
+  {
+   "id": "architect-credit",
+   "text": "Masahiro and Mao Harada designed the home.",
+   "by": "description",
+   "at": [],
+   "about": "main-dwelling",
+   "headline": true
+  },
+  {
+   "id": "gatehouse-uses",
+   "text": "Gatehouse combines entryway, art gallery and offices.",
+   "by": "description",
+   "at": [],
+   "about": "gatehouse-building",
+   "headline": true
+  },
+  {
+   "id": "lowered-to-code",
+   "text": "Lower floor was sunk to meet the building-height limit.",
+   "by": "masahiro-harada",
+   "at": [
+    239.959
+   ],
+   "about": "lowered-entry",
+   "headline": true,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "height-rule",
+   "text": "The site is subject to a strict building-height limit.",
+   "by": "masahiro-harada",
+   "at": [
+    239.959
+   ],
+   "about": "main-dwelling",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "description-height-code",
+   "text": "Building codes limit the home’s height.",
+   "by": "description",
+   "at": [],
+   "about": "main-dwelling",
+   "headline": false,
+   "topic": "law"
+  },
+  {
+   "id": "inheritance-tax",
+   "text": "Inheriting land in Japan incurs a large inheritance tax.",
+   "by": "masahiro-harada",
+   "at": [
+    4.44
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "subdivide-for-tax",
+   "text": "Owners subdivide and sell land to pay inheritance tax.",
+   "by": "masahiro-harada",
+   "at": [
+    16.72
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "description-tax",
+   "text": "Inheritance taxes encourage plots to be divided and sold.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": false,
+   "topic": "law"
+  },
+  {
+   "id": "structural-shelf-claim",
+   "text": "The shelf uprights form structural framing.",
+   "by": "masahiro-harada",
+   "at": [
+    453.5
+   ],
+   "about": "structural-shelf-wall",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "upright-thickness",
+   "text": "Structural uprights are 30 mm [3 cm] thick.",
+   "by": "masahiro-harada",
+   "at": [
+    464
+   ],
+   "about": "structural-shelf-wall",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "mdf-finish",
+   "text": "Walls and floors have MDF interior finishes.",
+   "by": "description",
+   "at": [],
+   "about": "mdf-wall-finish",
+   "headline": true
+  },
+  {
+   "id": "mdf-spoken",
+   "text": "The interior finish uses MDF.",
+   "by": "masahiro-harada",
+   "at": [
+    510
+   ],
+   "about": "mdf-wall-finish",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "studio-use",
+   "text": "Lower gatehouse serves as the resident’s studio and gallery.",
+   "by": "narrator",
+   "at": [
+    71.96
+   ],
+   "about": "artist-practice",
+   "headline": false,
+   "doubt": "The captions do not label the voices during the gallery introduction; the later first-person workspace statement is from an unnamed resident.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "husband-study",
+   "text": "Upper gatehouse is the husband’s study.",
+   "by": "masahiro-harada",
+   "at": [
+    136.8
+   ],
+   "about": "study-library",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "husband-occupation",
+   "text": "The resident’s husband directs commercials.",
+   "by": "masahiro-harada",
+   "at": [
+    144.2
+   ],
+   "about": "study-library",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "description-wood-ladder",
+   "text": "A small wooden ladder accesses the upper study.",
+   "by": "description",
+   "at": [],
+   "about": "gatehouse-ladder",
+   "headline": false,
+   "doubt": "The description says wooden, but the reviewed frames show a gray metallic-looking round-rung ladder."
+  },
+  {
+   "id": "old-fence-garden",
+   "text": "Plant pockets were added to an old fence.",
+   "by": "narrator",
+   "at": [
+    307
+   ],
+   "about": "pocket-wall-garden",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "kitchen-as-living",
+   "text": "The kitchen is part of the living room.",
+   "by": "narrator",
+   "at": [
+    394.5
+   ],
+   "about": "living-kitchen",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "microwave-identification",
+   "text": "The concealed lower appliance is a microwave.",
+   "by": "narrator",
+   "at": [
+    440.5
+   ],
+   "about": "concealed-microwave",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "ac-identification",
+   "text": "The slatted cabinet conceals an air conditioner.",
+   "by": "narrator",
+   "at": [
+    446
+   ],
+   "about": "concealed-air-conditioner",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cheap-timber",
+   "text": "The small structural members are inexpensive.",
+   "by": "masahiro-harada",
+   "at": [
+    475
+   ],
+   "about": "hand-construction",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "hand-carry",
+   "text": "The small structural members can be carried by hand.",
+   "by": "masahiro-harada",
+   "at": [
+    489.5
+   ],
+   "about": "hand-construction",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-heavy-machinery",
+   "text": "Construction did not require large building machinery.",
+   "by": "masahiro-harada",
+   "at": [
+    485
+   ],
+   "about": "hand-construction",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "craftsmanship",
+   "text": "Japanese craftsmen made the building by hand.",
+   "by": "masahiro-harada",
+   "at": [
+    497.5
+   ],
+   "about": "hand-construction",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "earth-return",
+   "text": "The paper and wood materials can return to earth.",
+   "by": "masahiro-harada",
+   "at": [
+    575.5
+   ],
+   "about": "material-return",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "accept-wear",
+   "text": "The design accepts aging and dirt positively.",
+   "by": "masahiro-harada",
+   "at": [
+    620.64
+   ],
+   "about": "aging-practice",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "five-years",
+   "text": "The resident is in her fifth year with the house.",
+   "by": "narrator",
+   "at": [
+    665.76
+   ],
+   "about": "aging-practice",
+   "headline": false,
+   "doubt": "The machine translation says five years, while the original Japanese auto-captions say 今5年目, meaning now in the fifth year.",
+   "quantity": {
+    "value": 5,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "http://fuji-studio.jp/",
+   "kind": "practice",
+   "entity": {
+    "type": "organisation",
+    "name": "Mount Fuji Architects",
+    "people": [],
+    "entity": "ent-mount-fuji-architects"
+   },
+   "by": "description",
+   "line": "Mount Fuji Architects: http://fuji-studio.jp/",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "gatehouse-ladder",
+   "predicate": "provides access to",
+   "object": "study-library",
+   "time": [
+    134,
+    148.5
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "extractor-hood",
+   "predicate": "sits above",
+   "object": "gas-hob",
+   "time": [
+    401,
+    403
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "living-glazing",
+   "predicate": "overlooks",
+   "object": "courtyard-planting",
+   "time": [
+    362,
+    382
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "low-bedroom",
+   "predicate": "looks onto",
+   "object": "pocket-wall-garden",
+   "time": [
+    299,
+    348.5
+   ],
+   "status": "shown"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "narrow-site",
+   "title": "Narrow Tokyo household plot",
+   "place": "site",
+   "category": "Land",
+   "description": "The street view shows a slender gatehouse squeezed between larger neighboring facades. The description gives the narrowest plot width as 2 meters [6.56 feet] and places the household in Tokyo.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No survey, total area or client inheritance history is established.",
+   "related_ids": [
+    "gatehouse-building",
+    "main-dwelling"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 18.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0006.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 737.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0225.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0006.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "gatehouse-building",
+   "title": "Street-front gallery and study gatehouse",
+   "place": "gatehouse",
+   "category": "Structure",
+   "description": "A tall narrow building has a gallery below and a study reached by ladder above. Masahiro calls it a gatehouse, while the description identifies it as both entryway and offices.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Its foundation, insulation and overall dimensions are not shown.",
+   "related_ids": [],
+   "terms": [
+    "gatehouse"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 127.96,
+     "end": 148.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0006",
+     "time": 18.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0006.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0006.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 152.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0051.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0224",
+     "time": 735.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0224.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0224.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0006.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "flush-front-door",
+   "title": "Flush door in pale paneled frontage",
+   "place": "gatehouse",
+   "category": "Structure",
+   "description": "A plain street door blends into the pale vertical frontage panels. Masahiro opens it and demonstrates touching the doorway and nearby planting.",
+   "phase": "current",
+   "part_of": "gatehouse-building",
+   "unknown": "Panel material, lock and weather seals are not identified.",
+   "related_ids": [],
+   "terms": [
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 23.519,
+     "end": 31.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 49.36,
+     "end": 69,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0013",
+     "time": 41.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0013.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0013.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0016",
+     "time": 48.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0016.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0016.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 737.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0225.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0013.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gallery-shelves",
+   "title": "Facing gallery display shelves",
+   "place": "gallery",
+   "category": "Structure",
+   "description": "Floor-to-ceiling timber grids line both sides of the entry gallery. Masahiro describes the close reach between people and objects.",
+   "phase": "current",
+   "part_of": "gatehouse-building",
+   "unknown": "The film does not separately establish the structural role of these gatehouse shelves.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 71.96,
+     "end": 90.76,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 71.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0027.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0028",
+     "time": 74.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0028.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0028.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0035",
+     "time": 89.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0035.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0035.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0027.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gatehouse-ladder",
+   "title": "Round-rung ladder through study floor",
+   "place": "gallery",
+   "category": "Structure",
+   "description": "A steep gray round-rung ladder connects the gallery with an opening in the study floor. A person climbs it and later descends through the same opening.",
+   "phase": "current",
+   "part_of": "gatehouse-building",
+   "unknown": "The ladder looks metallic in the close frame; its alloy and anchoring are not identified, and the description calls it wooden.",
+   "related_ids": [
+    "study-library"
+   ],
+   "terms": [
+    "ladder"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 127.96,
+     "end": 148.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0043",
+     "time": 134.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0043.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0043.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 146.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0049.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0212",
+     "time": 697.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0212.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0212.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0043.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "study-library",
+   "title": "Book-and-disc-lined husband’s study",
+   "place": "study",
+   "category": "Life",
+   "description": "Long rows of books and discs line the narrow upper room around a work surface. Masahiro identifies it as the resident husband’s study and says he directs commercials.",
+   "phase": "current",
+   "part_of": "gatehouse-building",
+   "unknown": "His name and the extent of his professional work here are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 136.8,
+     "end": 155,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0051",
+     "time": 152.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0051.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0051.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 160.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0054.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0060",
+     "time": 181.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0060.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0060.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0051.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "study-hammock",
+   "title": "Multicolored hanging hammock chair",
+   "place": "study",
+   "category": "Life",
+   "description": "A woven multicolored hammock hangs at the glazed end of the study. Masahiro sits in it during the tour.",
+   "phase": "current",
+   "part_of": "study-library",
+   "unknown": "Its maker, load rating and ceiling fixing are not shown.",
+   "related_ids": [],
+   "terms": [
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0224",
+     "time": 735.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0224.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0224.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0211",
+     "time": 694.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0211.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0211.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0065",
+     "time": 206.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0065.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0065.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0224.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "study-glazing",
+   "title": "Full-height study glazing and curtains",
+   "place": "study",
+   "category": "Structure",
+   "description": "A tall glazed opening and pale curtains finish the study beside the hammock. Leafy courtyard views are visible through the glass.",
+   "phase": "current",
+   "part_of": "gatehouse-building",
+   "unknown": "Opening operation, glass type and thermal performance are not established.",
+   "related_ids": [],
+   "terms": [
+    "glazing",
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0071",
+     "time": 230.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0071.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0071.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0224",
+     "time": 735.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0224.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0224.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0071.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "artist-practice",
+   "title": "Miniature-art studio and gallery",
+   "place": "gallery",
+   "category": "Life",
+   "description": "Tiny figures and boxed scenes occupy shelves beside a working art bench. The unnamed resident says she uses the space as a studio and gallery and has liked small things since childhood.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The resident’s name, sales arrangements and media are not supplied.",
+   "related_ids": [
+    "gatehouse-building",
+    "gallery-shelves"
+   ],
+   "terms": [
+    "workshop"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 71.96,
+     "end": 115.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0036",
+     "time": 92.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0036.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0036.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 110.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0040.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0042",
+     "time": 121.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0042.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0042.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0036.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "paint-workbench",
+   "title": "Paint-marked workbench with tool trolley",
+   "place": "gallery",
+   "category": "Life",
+   "description": "A compact bench has paint marks and a trolley filled with brushes, pens and cutting tools. The resident describes the rear of the gallery as her workspace.",
+   "phase": "current",
+   "part_of": "artist-practice",
+   "unknown": "The film does not demonstrate a complete making process.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 90.759,
+     "end": 102.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 98.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0038.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 101.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0039.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0044",
+     "time": 135.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0044.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0044.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0038.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "miniature-rabbits",
+   "title": "Miniature rabbits and boxed display scenes",
+   "place": "gallery",
+   "category": "Life",
+   "description": "Small rabbit figures appear on saucer-like bases and inside a recessed white display box. The resident discusses her interest in small objects while the camera examines them.",
+   "phase": "current",
+   "part_of": "artist-practice",
+   "unknown": "Individual object materials, titles and makers are not identified.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 90.76,
+     "end": 115.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0036",
+     "time": 92.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0036.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0036.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0040",
+     "time": 110.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0040.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0040.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0042",
+     "time": 121.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0042.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0042.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0036.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "courtyard-planting",
+   "title": "Planted courtyard and narrow approach",
+   "place": "garden",
+   "category": "Land",
+   "description": "Gravel paths, low groundcover, shrubs and a small tree occupy the gaps around the gatehouse and main-house entrance. Continuous walking shots show the narrow approach in use.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Exact boundaries, plant species and garden maintenance are not established.",
+   "related_ids": [
+    "gatehouse-building",
+    "main-dwelling"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 208.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0066.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 217.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0068.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0210",
+     "time": 691.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0210.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0210.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0066.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "street-groundcover",
+   "title": "Groundcover wrapping the entrance threshold",
+   "place": "garden",
+   "category": "Land",
+   "description": "A dense low green mat runs along the base of the gatehouse and up to its threshold. Masahiro points out the closeness of plants, people and walls.",
+   "phase": "current",
+   "part_of": "courtyard-planting",
+   "unknown": "Species, planting depth and watering are unknown.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 49.36,
+     "end": 67.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 61.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0022.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 737.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0225.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0022.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "slatted-screen",
+   "title": "Dark horizontal-slatted passage screen",
+   "place": "garden",
+   "category": "Structure",
+   "description": "A dark slatted screen borders part of the narrow passage and courtyard view. It appears repeatedly in the approach and courtyard cutaways.",
+   "phase": "current",
+   "part_of": "courtyard-planting",
+   "unknown": "Its material, owner and privacy or boundary status are not explained.",
+   "related_ids": [],
+   "terms": [
+    "partition"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0012",
+     "time": 37.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0012.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0012.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0066",
+     "time": 208.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0066.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0066.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0068",
+     "time": 217.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0068.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0068.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0012.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "main-dwelling",
+   "title": "Lowered-floor house behind the gatehouse",
+   "place": "main-house",
+   "category": "Structure",
+   "description": "The main house has garden-facing lower rooms and a taller upper living space. Masahiro says the lower floor was sunk to keep the building within a strict height limit.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No numeric height limit, excavation depth, permit or full construction build-up is provided.",
+   "related_ids": [
+    "narrow-site"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 234.84,
+     "end": 262.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 241.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0074.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 348.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0107.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0115",
+     "time": 374.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0115.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0115.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0074.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "lowered-entry",
+   "title": "Entry steps down to lower rooms",
+   "place": "entry",
+   "category": "Structure",
+   "description": "The camera follows the entry down toward the bathroom and bedroom. Masahiro explains that lowering the floor kept the building height within code.",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "The amount of lowering and ground-water protection are not established.",
+   "related_ids": [],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 239.959,
+     "end": 262.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0079",
+     "time": 254.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0079.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0079.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 257.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0080.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0079.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "internal-stair",
+   "title": "Enclosed stair to upper living room",
+   "place": "entry",
+   "category": "Structure",
+   "description": "A straight stair rises between tan wall surfaces. The camera follows the ascent from the lower circulation space into the bright upper room.",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "Tread sizes, handrail details and construction are not documented.",
+   "related_ids": [],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0111",
+     "time": 360.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0111.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0111.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0112",
+     "time": 362.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0112.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0112.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0111.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bathroom-suite",
+   "title": "Garden-facing lowered bathroom",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A cream-colored bathroom contains a filled bathtub beside broad glazing and a shower area. Masahiro compares bathing here to an animal bathing in the ground.",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "Water source, water heating and wastewater disposal are not shown.",
+   "related_ids": [],
+   "terms": [
+    "bathroom",
+    "bath",
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 262.96,
+     "end": 277.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 272.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0085.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 279.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0087.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0104",
+     "time": 338.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0104.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0104.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0085.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "recessed-bathtub",
+   "title": "Rectangular tub beside garden glazing",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A rectangular white tub is set into a pale surround immediately below a garden-facing window. Masahiro describes the feeling of bathing in a hole in the ground.",
+   "phase": "current",
+   "part_of": "bathroom-suite",
+   "unknown": "Tub material, volume and hot-water supply are not established.",
+   "related_ids": [],
+   "terms": [
+    "bath"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 262.96,
+     "end": 277.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0084",
+     "time": 266.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0084.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0084.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 279.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0087.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0084.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-wet-floor",
+   "title": "Hand shower, glass screen and floor drain",
+   "place": "bathroom",
+   "category": "Water",
+   "description": "A wall-mounted hand shower and clear screen stand beside the bathtub. A round drain is visible in the pale wet-area floor.",
+   "phase": "current",
+   "part_of": "bathroom-suite",
+   "unknown": "The drain route, waterproofing and ventilation system are not shown.",
+   "related_ids": [],
+   "terms": [
+    "shower",
+    "glass",
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 272.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0085.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 279.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0087.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0104",
+     "time": 338.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0104.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0104.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0085.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "rope-wall-fitting",
+   "title": "Rope loop between shaped wall mounts",
+   "place": "bathroom",
+   "category": "Life",
+   "description": "A short curved rope hangs between two elongated brown mounts on the bathroom wall. A close crop confirms its shape but shows no use.",
+   "phase": "current",
+   "part_of": "bathroom-suite",
+   "unknown": "Its intended purpose and materials are not stated.",
+   "related_ids": [],
+   "terms": [
+    "rope"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0104",
+     "time": 338.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0104.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0104.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0104.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "low-bedroom",
+   "title": "Low bedroom with garden-level views",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "Two adjacent narrow sleeping surfaces sit beside broad glazing and a storage wall. Masahiro and the resident describe seeing the plants at eye level while lying down.",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "The floor level relative to surveyed ground and the sleeping surfaces’ dimensions are unknown.",
+   "related_ids": [
+    "pocket-wall-garden"
+   ],
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 277.5,
+     "end": 343.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0091",
+     "time": 290.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0091.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0091.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 322.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0100.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 348.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0107.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0091.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bedroom-bin-wall",
+   "title": "Shelf wall of fabric bins and drawers",
+   "place": "bedroom",
+   "category": "Life",
+   "description": "A timber grid above and beside the beds holds pale fabric bins with dark label frames, books and small drawers. The camera shows the storage while discussing the garden view.",
+   "phase": "current",
+   "part_of": "low-bedroom",
+   "unknown": "Bin contents and makers are not identified.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "fabric",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0096",
+     "time": 307.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0096.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0096.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 348.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0107.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0096.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "pocket-wall-garden",
+   "title": "Pocket-planted garden on an old fence",
+   "place": "bedroom-garden",
+   "category": "Land",
+   "description": "Leafy plants grow from dark pockets across the surface outside the bedroom window. The unnamed resident says they made this vertical garden on an old fence.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The fence owner, pocket material, irrigation and individual species are not established.",
+   "related_ids": [
+    "low-bedroom"
+   ],
+   "terms": [
+    "living wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 303.72,
+     "end": 330.24,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 319.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0099.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0106",
+     "time": 343.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0106.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0106.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0102",
+     "time": 330.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0102.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0102.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0099.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "upper-living-room",
+   "title": "Open living room under pitched ceiling",
+   "place": "living",
+   "category": "Life",
+   "description": "A bright upper room contains low seating, a table, shelves and a kitchen along one side. The description calls this room open and high-ceilinged compared with the intimate lower rooms.",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "No measured area or ceiling height is provided.",
+   "related_ids": [
+    "living-kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0115",
+     "time": 374.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0115.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0115.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0116",
+     "time": 382.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0116.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0116.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0183",
+     "time": 592.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0183.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0183.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0115.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "living-glazing",
+   "title": "Broad garden-facing glazing with sheer curtains",
+   "place": "living",
+   "category": "Structure",
+   "description": "A large glazed wall lights the seating area and overlooks leafy planting. Sheer curtains hang at its edges.",
+   "phase": "current",
+   "part_of": "upper-living-room",
+   "unknown": "Glazing type, opening areas and shading performance are not shown.",
+   "related_ids": [],
+   "terms": [
+    "glazing",
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0114",
+     "time": 372.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0114.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0114.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0183",
+     "time": 592.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0183.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0183.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0192",
+     "time": 630.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0192.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0192.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0114.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "low-table-seating",
+   "title": "Low wooden table and upholstered seating",
+   "place": "living",
+   "category": "Life",
+   "description": "A broad low table sits between upholstered chairs or sofas on a rug. The resident serves drinks here after demonstrating the kitchen.",
+   "phase": "current",
+   "part_of": "upper-living-room",
+   "unknown": "Furniture makers and whether the table has another function are not explained.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "fabric"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0115",
+     "time": 374.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0115.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0115.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0122",
+     "time": 408.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0122.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0122.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0204",
+     "time": 665.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0204.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0204.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0115.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "structural-shelf-wall",
+   "title": "Closely spaced timber structural shelf frame",
+   "place": "living",
+   "category": "Structure",
+   "description": "Tall timber uprights and horizontal shelves form the book and kitchen walls beneath exposed roof members. Masahiro identifies these uprights as structure and says their thickness is 30 mm [3 cm].",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "The film provides no engineering design, member spacing or timber specification.",
+   "related_ids": [
+    "hand-construction",
+    "living-kitchen"
+   ],
+   "terms": [
+    "timber",
+    "timber frame",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 453.5,
+     "end": 489.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0152",
+     "time": 475.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0152.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0152.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 464.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0146.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0153",
+     "time": 483.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0153.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0153.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0152.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "exposed-roof-members",
+   "title": "Exposed timber members under pitched roof",
+   "place": "living",
+   "category": "Structure",
+   "description": "Parallel timber members remain exposed across the sloping ceiling. Close shots show their junction with the tall shelf wall.",
+   "phase": "current",
+   "part_of": "structural-shelf-wall",
+   "unknown": "Roof covering, insulation and complete structural connections are not visible.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "roof"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0155",
+     "time": 486.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0155.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0155.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0160",
+     "time": 500.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0160.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0160.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0155.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "library-ladder",
+   "title": "Tall ladder for upper shelf access",
+   "place": "living",
+   "category": "Life",
+   "description": "A tall pale metallic-looking ladder leans against the full-height library wall. Its upper end reaches the high shelves.",
+   "phase": "current",
+   "part_of": "structural-shelf-wall",
+   "unknown": "No demonstration establishes its attachment or movement mechanism.",
+   "related_ids": [],
+   "terms": [
+    "ladder"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0157",
+     "time": 491.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0157.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0157.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0158",
+     "time": 496.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0158.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0158.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0157.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mdf-wall-finish",
+   "title": "Plain tan MDF interior wall finish",
+   "place": "living",
+   "category": "Materials",
+   "description": "Large plain tan panels cover the living-room end wall. Masahiro identifies the interior finish as MDF and compares it with the use of paper in traditional Japanese houses.",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "MDF grade, binders, coating and concealed wall layers are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "MDF",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 507,
+     "end": 533,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0164",
+     "time": 518.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0164.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0164.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0165",
+     "time": 522.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0165.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0165.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0162",
+     "time": 512.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0162.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0162.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0164.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mdf-floor-finish",
+   "title": "Marked tan MDF floor finish",
+   "place": "living",
+   "category": "Materials",
+   "description": "Close views show tan flooring with visible marks from use. The description identifies both wall and floor finishes as MDF, and Masahiro welcomes the floor’s aging.",
+   "phase": "current",
+   "part_of": "main-dwelling",
+   "unknown": "The film does not identify protective finish, moisture resistance or replacement practice.",
+   "related_ids": [
+    "aging-practice"
+   ],
+   "terms": [
+    "MDF",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 604.959,
+     "end": 630.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0187",
+     "time": 602.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0187.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0187.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0189",
+     "time": 609.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0189.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0189.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0192",
+     "time": 630.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0192.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0192.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0187.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "living-kitchen",
+   "title": "Kitchen incorporated into the living room",
+   "place": "living",
+   "category": "Food",
+   "description": "A long metal counter, cooking area and open shelves share the living room with its seating. The resident says the kitchen is part of the living room rather than merely equipment.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No kitchen cost, dimensions or full utility connections are shown.",
+   "related_ids": [
+    "upper-living-room",
+    "structural-shelf-wall"
+   ],
+   "terms": [
+    "kitchen",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 384,
+     "end": 415,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 384.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0117.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0142",
+     "time": 453.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0142.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0142.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0179",
+     "time": 575.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0179.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0179.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0117.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gas-hob",
+   "title": "Countertop hob with metal pan supports",
+   "place": "living",
+   "category": "Food",
+   "description": "A multi-burner hob with metal pan supports sits in the long counter. Pots and a kettle occupy the cooking area during the kitchen tour.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Fuel supply and appliance model are not identified; operation is not demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "gas"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0125",
+     "time": 416.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0125.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0125.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0141",
+     "time": 450.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0141.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0141.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0125.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "extractor-hood",
+   "title": "Broad stainless-steel cooking hood",
+   "place": "living",
+   "category": "Climate",
+   "description": "A broad rectangular metal hood hangs over the cooking area, with round trays stored above. Close shots show its open underside.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Duct destination and extraction performance are not established.",
+   "related_ids": [
+    "gas-hob"
+   ],
+   "terms": [
+    "steel",
+    "ventilation fan"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0120",
+     "time": 401.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0120.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0120.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0121",
+     "time": 403.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0121.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0121.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0120.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dish-drawers",
+   "title": "Shallow under-counter crockery drawers",
+   "place": "living",
+   "category": "Food",
+   "description": "The resident pulls out wide shallow drawers containing bowls and plates. Their plain tan fronts close flush beneath the cooking counter.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Joinery hardware and storage capacity are not stated.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0125",
+     "time": 416.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0125.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0125.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0126",
+     "time": 420.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0126.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0126.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0127",
+     "time": 423.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0127.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0127.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0125.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "ingredient-boxes",
+   "title": "Removable gray ingredient boxes",
+   "place": "living",
+   "category": "Food",
+   "description": "Gray boxes with hand openings fit into the kitchen shelf grid. The resident removes one and displays packets and jars before returning it.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "The contents of all boxes and the precise identity of the packets are not established.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0130",
+     "time": 428.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0130.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0130.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 434.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0133.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0135",
+     "time": 438.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0135.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0135.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0130.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "concealed-microwave",
+   "title": "Microwave behind plain lower cabinet door",
+   "place": "living",
+   "category": "Food",
+   "description": "A plain lower door opens to reveal a small oven-like appliance. The resident identifies it as the microwave in the film’s English subtitles.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Model, power and ventilation clearance are not established.",
+   "related_ids": [],
+   "terms": [
+    "microwave"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 440,
+     "end": 444.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0137",
+     "time": 443.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0137.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0137.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 440.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0136.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0137.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "concealed-air-conditioner",
+   "title": "Air conditioner behind sliding slatted front",
+   "place": "living",
+   "category": "Climate",
+   "description": "The resident slides a horizontal-slatted front aside to reveal a dark appliance beneath the counter. She identifies it as the air conditioner.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Capacity, exterior unit and energy use are not shown.",
+   "related_ids": [],
+   "terms": [
+    "air conditioning"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 444.5,
+     "end": 449.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0140",
+     "time": 447.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0140.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0140.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0139",
+     "time": 446.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0139.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0139.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0140.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "concealed-fridge",
+   "title": "Refrigerator behind tall tan enclosure",
+   "place": "living",
+   "category": "Food",
+   "description": "A tall tan panel opens to expose a silver refrigerator beside the shelving. The resident opens the refrigerator itself and later closes the enclosure.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Appliance model, consumption and enclosure ventilation are not explained.",
+   "related_ids": [],
+   "terms": [
+    "refrigerator"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0168",
+     "time": 539.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0168.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0168.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0170",
+     "time": 541.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0170.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0170.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0200",
+     "time": 653.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0200.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0200.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0168.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "kitchen-sink",
+   "title": "Metal sink and faucet in continuous counter",
+   "place": "living",
+   "category": "Water",
+   "description": "A sink and faucet are visible beside the cooking area in the continuous metal counter. The resident works and prepares drinks at this counter.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Water supply, filtration and waste plumbing are not visible.",
+   "related_ids": [],
+   "terms": [
+    "metal",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0180",
+     "time": 583.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0180.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0180.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 655.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0201.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0180.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "counter-aquarium",
+   "title": "Illuminated planted countertop aquarium",
+   "place": "living",
+   "category": "Life",
+   "description": "A small water-filled glass aquarium on the kitchen counter contains dense planting, dark substrate and small fish. A close view also shows an overhead light and clear tubing.",
+   "phase": "current",
+   "part_of": "living-kitchen",
+   "unknown": "Species, tank volume and the functions of individual fittings are not identified.",
+   "related_ids": [],
+   "terms": [
+    "glass",
+    "aquarium"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0175",
+     "time": 558.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0175.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0175.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0175.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "interior-greenery",
+   "title": "Tree branches and potted interior greenery",
+   "place": "living",
+   "category": "Life",
+   "description": "Leafy branches in a vase rise beside the living-room shelving, and the film also shows a potted plant in the bathroom. These interior plants are visible but not discussed as a system.",
+   "phase": "current",
+   "part_of": "upper-living-room",
+   "unknown": "Species and plant-care practices are not identified.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0176",
+     "time": 559.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0176.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0176.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0181",
+     "time": 585.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0181.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0181.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0176.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "television",
+   "title": "Low television below the book wall",
+   "place": "living",
+   "category": "Life",
+   "description": "A black flat-screen television stands low against the book wall near the glazed end of the room. It is not operating in the shown views.",
+   "phase": "current",
+   "part_of": "upper-living-room",
+   "unknown": "Its maker and how often it is used are not supplied.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0208",
+     "time": 682.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0208.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0208.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0207",
+     "time": 680.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0207.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0207.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0208.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "hand-construction",
+   "title": "Construction using hand-carried small members",
+   "place": "site",
+   "category": "Process",
+   "description": "The film shows the completed timber framing and fitted shelves. Masahiro says the small members were inexpensive, could be carried by hand and allowed craftsmen to build without large building machinery.",
+   "phase": "historical",
+   "part_of": null,
+   "unknown": "No construction footage, machinery inventory, cost or contractor record is shown.",
+   "related_ids": [
+    "structural-shelf-wall"
+   ],
+   "terms": [
+    "timber",
+    "timber frame"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 475,
+     "end": 502,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0153",
+     "time": 483.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0153.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0153.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0155",
+     "time": 486.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0155.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0155.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0159",
+     "time": 497.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0159.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0159.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0153.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "aging-practice",
+   "title": "Accepting wear as part of habitation",
+   "place": "site",
+   "category": "Life",
+   "description": "Marks on the floor and an occupied home accompany the discussion of aging. Masahiro welcomes wear, and the resident says she and the house have gradually become comfortable together. The resident says she is in her fifth year with the house, according to the original Japanese captions.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No maintenance history or independently confirmed occupancy duration is supplied.",
+   "related_ids": [
+    "mdf-floor-finish",
+    "material-return"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 604.959,
+     "end": 635,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 652.04,
+     "end": 682,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0187",
+     "time": 602.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0187.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0187.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0204",
+     "time": 665.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0204.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0204.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0187.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "material-return",
+   "title": "Intention for materials to return to earth",
+   "place": "site",
+   "category": "Process",
+   "description": "Views of the completed timber-and-panel interior accompany this explanation; no decomposition or end-of-life work is shown. Masahiro says the paper and wood materials can return to the earth and frames the home as living and dying with its occupants.",
+   "phase": "current",
+   "part_of": "aging-practice",
+   "unknown": "The film supplies no end-of-life plan or evidence that every component is biodegradable.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "paper"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 559.5,
+     "end": 599,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 618.5,
+     "end": 638,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0181",
+     "time": 585.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0181.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0181.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0183",
+     "time": 592.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0183.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0183.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0181.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "touch-scale",
+   "title": "Design for objects within touching distance",
+   "place": "site",
+   "category": "Process",
+   "description": "The architect touches the narrow entrance and shelf uprights, and sits between close study shelves. Masahiro calls this proximity peach skin, explaining that closeness reveals small material details.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "This is his design account, not a measured accessibility or performance assessment.",
+   "related_ids": [
+    "gatehouse-building",
+    "structural-shelf-wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 31.84,
+     "end": 69,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 155,
+     "end": 227.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0058",
+     "time": 174.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0058.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0058.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0060",
+     "time": 181.0,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0060.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0060.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 61.5,
+     "path": "review/4fEeh-8OFT8/evidence/frame-0022.jpg",
+     "preview_path": "review/4fEeh-8OFT8/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/4fEeh-8OFT8/sample-0058.jpg",
+   "model_objects": [],
+   "terms": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 24,
+   "title": "Narrow frontage and neighboring street",
+   "visible": "Pale skinny gatehouse between broader neighboring facades; upward views show its blank street face.",
+   "gaps": "No surveyed boundary or proof of this household inheriting the site.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0006.jpg"
+  },
+  {
+   "start": 24,
+   "end": 71,
+   "title": "Gatehouse doors and side passage",
+   "visible": "Architect demonstrates flush street door, planted threshold and narrow side passage; glazed rear entry appears.",
+   "gaps": "No exact passage width or ownership of neighboring walls.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0022.jpg"
+  },
+  {
+   "start": 71,
+   "end": 98,
+   "title": "Gallery shelves and tiny artwork",
+   "visible": "Facing wooden shelf grids display small figures, bowls and boxed miniature scenes.",
+   "gaps": "Individual art media and prices are not identified.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0036.jpg"
+  },
+  {
+   "start": 98,
+   "end": 134,
+   "title": "Artist workbench and gallery interview",
+   "visible": "Paint-marked workbench, brushes, tool trolley, chair, miniature rabbits and unnamed resident.",
+   "gaps": "No client name or full account of the art process.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0038.jpg"
+  },
+  {
+   "start": 134,
+   "end": 163,
+   "title": "Ladder ascent to the study",
+   "visible": "Climb from gallery through a floor opening to long book-and-disc-lined upper office.",
+   "gaps": "The husband is not introduced by name; ladder material conflicts with description.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0051.jpg"
+  },
+  {
+   "start": 163,
+   "end": 208,
+   "title": "Study shelves and hammock",
+   "visible": "Narrow study, closely reachable shelves, desk and architect sitting in colorful hanging hammock.",
+   "gaps": "No room measurements or hammock fixing specification.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0060.jpg"
+  },
+  {
+   "start": 208,
+   "end": 241,
+   "title": "Courtyard and main-house approach",
+   "visible": "Trees, gravel path, slatted boundary, gatehouse rear and resident entering main house.",
+   "gaps": "No complete site layout or legal boundary.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0072.jpg"
+  },
+  {
+   "start": 241,
+   "end": 272,
+   "title": "Lowered floor and garden-facing bath",
+   "visible": "Main-house doorway, steps down, cream bathroom and filled rectangular bathtub beside glazing.",
+   "gaps": "No numeric height restriction or excavation depth.",
+   "sample_count": 11,
+   "sample_ids": [
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0084.jpg"
+  },
+  {
+   "start": 272,
+   "end": 299,
+   "title": "Shower and transition to bedroom",
+   "visible": "Bath window, hand shower, wet floor and passage into room with two sleeping surfaces and shelf wall.",
+   "gaps": "No water-heating source or drainage destination.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0091.jpg"
+  },
+  {
+   "start": 299,
+   "end": 327,
+   "title": "Bedroom and planted wall",
+   "visible": "Low bedding, bins and drawers; close shots of leafy plants in dark pockets on old fence.",
+   "gaps": "No plant species, irrigation method or fence ownership.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0099.jpg"
+  },
+  {
+   "start": 327,
+   "end": 352,
+   "title": "Ground-level garden views",
+   "visible": "Bedroom glazing and storage; bathroom rope fitting and garden cutaways.",
+   "gaps": "No purpose stated for the rope fitting.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0107.jpg"
+  },
+  {
+   "start": 352,
+   "end": 383,
+   "title": "Stairs and upper living room",
+   "visible": "Continuous stair ascent to pitched-ceiling living room, broad glazing, curtains, seating and low table.",
+   "gaps": "No glazing specification or measured ceiling height.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0115.jpg"
+  },
+  {
+   "start": 383,
+   "end": 415,
+   "title": "Kitchen integrated with living room",
+   "visible": "Resident presents shelf-lined kitchen counter and hood, then indicates the living-room table.",
+   "gaps": "No kitchen cost or performance figures.",
+   "sample_count": 8,
+   "sample_ids": [
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0120.jpg"
+  },
+  {
+   "start": 415,
+   "end": 450,
+   "title": "Drawers and concealed appliances",
+   "visible": "Crockery drawers and ingredient boxes opened; microwave and air conditioner revealed behind tan and slatted fronts.",
+   "gaps": "No appliance models, consumption or exterior compressor.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0125",
+    "frame-0126",
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0140.jpg"
+  },
+  {
+   "start": 450,
+   "end": 500.334,
+   "title": "Shelves as structural framing",
+   "visible": "Architect touches narrow timber uprights; ceiling framing and tall shelf ladder shown.",
+   "gaps": "No engineering calculations or actual construction footage.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0141",
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0152.jpg"
+  },
+  {
+   "start": 500.334,
+   "end": 532,
+   "title": "MDF interior finish",
+   "visible": "Tan wall panels, ceiling framing and architect explaining MDF and traditional paper surfaces.",
+   "gaps": "No product grade, coatings, emissions or full wall build-up.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0164.jpg"
+  },
+  {
+   "start": 532,
+   "end": 559.175,
+   "title": "Refrigerator enclosure and planted aquarium",
+   "visible": "Resident opens and closes tall refrigerator surround; close view of planted water-filled tank.",
+   "gaps": "No aquarium species or verified filtration specification.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0175.jpg"
+  },
+  {
+   "start": 559.175,
+   "end": 638,
+   "title": "Materials, wear and impermanence",
+   "visible": "Kitchen and tree-branch arrangement; worn tan floor; architect discusses aging with occupants.",
+   "gaps": "No demonstrated biodegradation or material lifespan.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188",
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0187.jpg"
+  },
+  {
+   "start": 638,
+   "end": 688,
+   "title": "Drinks and becoming at home",
+   "visible": "Resident prepares drinks, serves low table; book wall, low television and leafy exterior views.",
+   "gaps": "No exact occupancy start date; original Japanese captions say fifth year, while the English machine translation says five years.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0195",
+    "frame-0196",
+    "frame-0197",
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0204.jpg"
+  },
+  {
+   "start": 688,
+   "end": 736.202133,
+   "title": "Return to gatehouse study",
+   "visible": "Courtyard cutaways, hammock, overhead view of ladder opening, architect descending and empty study.",
+   "gaps": "No newly visited building; small shelf objects remain unnamed.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219",
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0224.jpg"
+  },
+  {
+   "start": 736.202133,
+   "end": 743.441,
+   "title": "Street departure",
+   "visible": "Gatehouse street doorway and neighboring scaffolded building under blue mesh; fade out.",
+   "gaps": "Neighboring works are not evidence of construction on the subject site.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228"
+   ],
+   "thumbnail": "review/4fEeh-8OFT8/sample-0225.jpg"
+  }
+ ]
+}

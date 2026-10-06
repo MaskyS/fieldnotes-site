@@ -1,0 +1,4053 @@
+{
+ "title": "Jason & Sunni’s cordwood home",
+ "source": {
+  "id": "LZ6u1AXCefQ",
+  "url": "https://www.youtube.com/watch?v=LZ6u1AXCefQ",
+  "duration": 1268.961,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "automatic English captions; unresolved errors retained in source",
+  "transcript_kind": "automatic captions",
+  "context": {
+   "location": {
+    "country": "United States",
+    "state": "Missouri",
+    "region": "Ozarks",
+    "precision": "region only; no town, county or address disclosed",
+    "evidence": [
+     {
+      "type": "description",
+      "source": "video description by the uploader",
+      "quote": "29 acres of cheap land in the Missouri Ozarks"
+     },
+     {
+      "type": "transcript",
+      "note": "speakers mention Missouri and the Ozarks; see transcript search for 'Missouri', 'Ozark'"
+     }
+    ],
+    "climate": {
+     "koppen": "Dfa",
+     "name": "hot-summer humid continental",
+     "group": "continental",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Missouri, United States",
+      "lat": 38.76,
+      "lon": -92.562,
+      "matched": "Missouri, United States",
+      "stands_for": "state",
+      "extent_km": 582,
+      "precision": "region only; no town, county or address disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 1005,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Missouri, United States",
+      "lat": 38.76,
+      "lon": -92.562,
+      "matched": "Missouri, United States",
+      "stands_for": "state",
+      "extent_km": 582,
+      "precision": "region only; no town, county or address disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "6b",
+     "mean_annual_extreme_min_c": -18.6,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Missouri, United States",
+      "lat": 38.76,
+      "lon": -92.562,
+      "matched": "Missouri, United States",
+      "stands_for": "state",
+      "extent_km": 582,
+      "precision": "region only; no town, county or address disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2026-09-13",
+   "note": "Uploader text and spoken statements are attributed claims, not verified facts."
+  }
+ },
+ "sampling": {
+  "frames": 351,
+  "candidate_shots": 245,
+  "contact_sheets": 13,
+  "method": "every 12 seconds plus midpoint of each automatically detected candidate shot",
+  "review_directory": "review/LZ6u1AXCefQ"
+ },
+ "subject": {
+  "place": "site",
+  "people": [
+   "jason-fine",
+   "sunni"
+  ],
+  "gist": "A boilermaker cashed out his retirement for land, then began building a cordwood home from his woods while sharing a cramped cabin with Sunni.",
+  "story": {
+   "text": "Jason cannot picture himself still working inside boilers at seventy, so he cashes out his retirement for land and sets about building a home with Sunni. Cedar from their woods becomes the frame and cordwood walls; bottles hunted out of recycling bins become glowing trees and rivers. His welding experience helps him move enormous timbers, but affordable materials demand an enormous amount of labour. After ten years in their cramped temporary cabin, they are thoroughly ready to move. The new house still needs finishing, and the grandchildren's bunks and climbing wall are plans. Jason's answer is to get up each day and keep going.",
+   "moments": [
+    {
+     "phrase": "cashes out his retirement for land",
+     "at": 1178.88
+    },
+    {
+     "phrase": "bottles hunted out of recycling bins",
+     "at": 324.96
+    },
+    {
+     "phrase": "His welding experience helps him move enormous timbers",
+     "at": 421.84
+    },
+    {
+     "phrase": "ten years in their cramped temporary cabin",
+     "at": 148.4
+    },
+    {
+     "phrase": "the grandchildren's bunks and climbing wall are plans",
+     "at": 1210.64
+    },
+    {
+     "phrase": "get up each day and keep going",
+     "at": 1245.36
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "site",
+   "title": "Jason & Sunni’s cordwood home",
+   "kind": "site",
+   "within": null,
+   "caveat": "The place as a whole.",
+   "entity": "ent-jason-sunni-cordwood-home"
+  },
+  {
+   "id": "main-house",
+   "title": "Cordwood house",
+   "kind": "building",
+   "within": "site",
+   "caveat": "The main house is under construction. Dimensions and hidden parts of the building are not established. The recorded evidence is linked from each feature."
+  },
+  {
+   "id": "cabin",
+   "title": "Occupied cabin and screened porch",
+   "kind": "building",
+   "within": "site",
+   "caveat": "The cabin and porch have visual and spoken evidence. Their dimensions and their position relative to the new house are not established."
+  },
+  {
+   "id": "worksite",
+   "title": "Sawmill and material stores",
+   "kind": "building",
+   "within": "site",
+   "caveat": "These tools and stores have source evidence. Cuts and changing construction dates do not establish a single current site layout."
+  }
+ ],
+ "people": [
+  {
+   "id": "jason-fine",
+   "name": "Jason Fine",
+   "relation": "owner",
+   "note": "owner-builder; former union boilermaker"
+  },
+  {
+   "id": "sunni",
+   "name": "Sunni",
+   "relation": "owner",
+   "note": "owner; partner of Jason"
+  },
+  {
+   "id": "kirsten-dirksen",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "filmmaker and channel",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "claim-1",
+   "text": "29 acres of land",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true,
+   "kind": "fact",
+   "quantity": {
+    "value": 29,
+    "unit": "acre",
+    "of": "land area"
+   }
+  },
+  {
+   "id": "claim-2",
+   "text": "about $50,000 build cost",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true,
+   "kind": "money",
+   "quantity": {
+    "value": 50000,
+    "unit": "USD",
+    "of": "build cost",
+    "approx": true
+   }
+  },
+  {
+   "id": "claim-3",
+   "text": "three years milling lumber from the land, then three more years building",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true,
+   "kind": "time",
+   "quantity": {
+    "value": 6,
+    "unit": "year",
+    "of": "build time",
+    "approx": true
+   }
+  },
+  {
+   "id": "claim-4",
+   "text": "lived in a small shack/cabin on the property while building",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": true,
+   "kind": "household"
+  },
+  {
+   "id": "law-1",
+   "text": "No permitting issues here; the county has no building regulation",
+   "by": "jason-fine",
+   "at": [
+    556.16
+   ],
+   "about": null,
+   "headline": false,
+   "topic": "law",
+   "doubt": "The captions do not mark who answers \"No\"; it is Jason or Sunni.",
+   "kind": "fact",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-01",
+   "text": "All the house timber came from their property.",
+   "by": "jason-fine",
+   "at": [
+    17.44
+   ],
+   "about": "timber-frame",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-02",
+   "text": "Locally invasive cedar offered an affordable starting point, with farmers paying people to remove it.",
+   "by": "sunni",
+   "at": [
+    25.359
+   ],
+   "about": "cedar-cordwood",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice. The final phrase about affordability is garbled.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-03",
+   "text": "Jason learned to cut wood growing up on a farm, where winter warmth required cutting firewood.",
+   "by": "jason-fine",
+   "at": [
+    65.76
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "skill",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-04",
+   "text": "A post-and-beam kit he priced cost over $100,000, excluding assembly.",
+   "by": "jason-fine",
+   "at": [
+    90.24
+   ],
+   "about": "timber-frame",
+   "headline": false,
+   "doubt": "The caption garbles “hundred grand”; the figure is stated as more than $100,000.",
+   "kind": "alternative",
+   "quantity": {
+    "value": 100000,
+    "unit": "USD",
+    "of": "component cost"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-05",
+   "text": "Jason says one sufficiently motivated person can build a house from 29 acres of woods.",
+   "by": "jason-fine",
+   "at": [
+    100.56
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "advice",
+   "quantity": {
+    "value": 29,
+    "unit": "acre",
+    "of": "land area"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-06",
+   "text": "They sought affordable land for their home and found this property with a usable existing structure.",
+   "by": "sunni",
+   "at": [
+    116.24
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "land",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-07",
+   "text": "The cramped cabin kitchen makes washing dishes difficult, and the lack of counter space discourages cooking.",
+   "by": "sunni",
+   "at": [
+    151.52
+   ],
+   "about": "cabin-kitchen",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-08",
+   "text": "The cabin stove works well, but there is nowhere to prepare food.",
+   "by": "sunni",
+   "at": [
+    168.08
+   ],
+   "about": "cabin-cooking",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-09",
+   "text": "The wood stove heats the entire cabin.",
+   "by": "jason-fine",
+   "at": [
+    177.2
+   ],
+   "about": "cabin-heating",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-10",
+   "text": "They dismantled another structure on the driveway and reused its metal roofing for the cabin ceiling.",
+   "by": "jason-fine",
+   "at": [
+    187.04
+   ],
+   "about": "reused-metal-ceiling",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-11",
+   "text": "Sunni says the cabin does not quite feel like home, but getting too comfortable would discourage work on the house.",
+   "by": "sunni",
+   "at": [
+    201.28
+   ],
+   "about": "temporary-cabin",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-12",
+   "text": "The cabin materials were either scavenged or obtained from the property.",
+   "by": "sunni",
+   "at": [
+    210.48
+   ],
+   "about": "temporary-cabin",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-13",
+   "text": "They used trees already down from a tornado several years before buying the property to start the porch.",
+   "by": "jason-fine",
+   "at": [
+    220.879
+   ],
+   "about": "screened-porch",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-14",
+   "text": "He bought a few 2-by-4s for the porch because he did not yet have the mill on site.",
+   "by": "jason-fine",
+   "at": [
+    230.959
+   ],
+   "about": "screened-porch",
+   "headline": false,
+   "doubt": "The caption gives nominal 2x4 dimensions without a unit.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-15",
+   "text": "They often sat on the porch during five uncomfortable years living without air conditioning.",
+   "by": "jason-fine",
+   "at": [
+    237.92
+   ],
+   "about": "screened-porch",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "climate",
+   "quantity": {
+    "value": 5,
+    "unit": "year",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-16",
+   "text": "They screened the porch to escape mosquitoes.",
+   "by": "jason-fine",
+   "at": [
+    248.879
+   ],
+   "about": "screened-porch",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-17",
+   "text": "On humid nights at 84 degrees at 9:30, he says the only relief is jumping in a river.",
+   "by": "jason-fine",
+   "at": [
+    253.68
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The temperature scale is not stated.",
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-18",
+   "text": "Early on, they took time for mushroom hunting, white bass fishing, and deer hunting in season.",
+   "by": "jason-fine",
+   "at": [
+    270.32
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-19",
+   "text": "Jason says he has done none of those leisure activities for three years.",
+   "by": "jason-fine",
+   "at": [
+    285.04
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "quantity": {
+    "value": 3,
+    "unit": "year",
+    "of": "other"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-20",
+   "text": "Sunni did not expect the project to take a decade; they have lived there for ten years.",
+   "by": "sunni",
+   "at": [
+    290.639
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "time",
+   "quantity": {
+    "value": 10,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-21",
+   "text": "They spent a year searching recycling bins for colored bottles, especially blue ones.",
+   "by": "sunni",
+   "at": [
+    324.96
+   ],
+   "about": "glass-reuse",
+   "headline": false,
+   "kind": "sourcing",
+   "quantity": {
+    "value": 1,
+    "unit": "year",
+    "of": "component time"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-22",
+   "text": "One man drank all the beer that supplied the blue bottles during their house build.",
+   "by": "jason-fine",
+   "at": [
+    334.479
+   ],
+   "about": "glass-reuse",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "sourcing",
+   "quantity": {
+    "value": 1,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-23",
+   "text": "Only about half a dozen glass colors were available unless they paid a lot.",
+   "by": "jason-fine",
+   "at": [
+    345.6
+   ],
+   "about": "glass-reuse",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice. The price qualification trails off in the captions.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-24",
+   "text": "Jason tested the red glass with a wire brush before using it in the wall.",
+   "by": "jason-fine",
+   "at": [
+    363.28
+   ],
+   "about": "glass-reuse",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-25",
+   "text": "The red insert is a candy dish joined to another piece.",
+   "by": "sunni",
+   "at": [
+    366.479
+   ],
+   "about": "glass-reuse",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-26",
+   "text": "Bottles in front of a post do not light up because they do not pass through the wall.",
+   "by": "jason-fine",
+   "at": [
+    370.8
+   ],
+   "about": "blocked-bottles",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-27",
+   "text": "He initially planned four-by-ten rafters, then questioned that restriction and cut some beams as large as each log allowed.",
+   "by": "jason-fine",
+   "at": [
+    399.36
+   ],
+   "about": "timber-frame",
+   "headline": false,
+   "doubt": "The dimensions have no stated unit.",
+   "kind": "alternative",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-28",
+   "text": "His welding work taught him to manipulate heavy loads with minimal effort.",
+   "by": "jason-fine",
+   "at": [
+    432.23
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "skill",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-29",
+   "text": "He made a log dolly using an axle of wheels on a pipe.",
+   "by": "jason-fine",
+   "at": [
+    443.599
+   ],
+   "about": "log-dolly",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-30",
+   "text": "He lays logs between two angle-iron pieces, secures them with a come-along, and drives them around like a trailer.",
+   "by": "jason-fine",
+   "at": [
+    448.88
+   ],
+   "about": "log-dolly",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-31",
+   "text": "They acquired the sawmill by barter, which took a while.",
+   "by": "sunni",
+   "at": [
+    462.08
+   ],
+   "about": "sawmill",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice. The question and answer share a caption without a speaker marker.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-32",
+   "text": "He deliberately set the mill bed out of level so the saw helps move itself.",
+   "by": "jason-fine",
+   "at": [
+    472.319
+   ],
+   "about": "sawmill",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-33",
+   "text": "He extended the mill from 16-foot capacity to 20-foot logs because his rafters were 18 feet long.",
+   "by": "jason-fine",
+   "at": [
+    480.8
+   ],
+   "about": "mill-extension",
+   "headline": false,
+   "kind": "method",
+   "quantity": {
+    "value": 20,
+    "unit": "ft",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-34",
+   "text": "He handled every piece of house wood more than ten times.",
+   "by": "jason-fine",
+   "at": [
+    495.36
+   ],
+   "about": "timber-frame",
+   "headline": false,
+   "kind": "labour",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-35",
+   "text": "Jason estimates that he cut 126 trees, all from their property.",
+   "by": "jason-fine",
+   "at": [
+    497.44
+   ],
+   "about": "tree-count",
+   "headline": false,
+   "doubt": "A later caption gives 128 trees.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-36",
+   "text": "Each log usually yielded at least half a dozen usable boards, depending on the log.",
+   "by": "jason-fine",
+   "at": [
+    507.599
+   ],
+   "about": "sawmill",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-37",
+   "text": "Milling structural timbers yielded enough one-inch and two-inch slabs to frame the interior walls and deck the roof.",
+   "by": "jason-fine",
+   "at": [
+    533.519
+   ],
+   "about": "slab-reuse",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-38",
+   "text": "Jason engineered the house himself.",
+   "by": "jason-fine",
+   "at": [
+    572
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "labour",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-39",
+   "text": "His structural knowledge came from welding, field construction, and high-school drafting and architecture.",
+   "by": "jason-fine",
+   "at": [
+    575.76
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "skill",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-40",
+   "text": "He alternates one log over two and two over one, learning how far each batch will go.",
+   "by": "jason-fine",
+   "at": [
+    590.48
+   ],
+   "about": "cordwood-laying",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-41",
+   "text": "He lays mortar beads on both sides, fills between them with sawdust, and chooses logs for the course.",
+   "by": "jason-fine",
+   "at": [
+    595.6
+   ],
+   "about": "cordwood-laying",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-42",
+   "text": "He avoids clustering large logs together.",
+   "by": "jason-fine",
+   "at": [
+    603.36
+   ],
+   "about": "cordwood-laying",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-43",
+   "text": "After a course, he adds mortar and sawdust before laying two logs over one to create a random rubble pattern.",
+   "by": "jason-fine",
+   "at": [
+    610.32
+   ],
+   "about": "cordwood-laying",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-44",
+   "text": "Patterns emerge only after he finishes a section and stands back to look at it.",
+   "by": "jason-fine",
+   "at": [
+    630
+   ],
+   "about": "cordwood-laying",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-45",
+   "text": "Jason dates cordwood building to about 800 years ago, when available logs were too small to make boards.",
+   "by": "jason-fine",
+   "at": [
+    649.519
+   ],
+   "about": "cedar-cordwood",
+   "headline": false,
+   "kind": "skill",
+   "quantity": {
+    "value": 800,
+    "unit": "year",
+    "of": "age",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-46",
+   "text": "He cites a 200-year-old cordwood building in Wisconsin as a precedent.",
+   "by": "jason-fine",
+   "at": [
+    668.399
+   ],
+   "about": "cedar-cordwood",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "skill",
+   "quantity": {
+    "value": 200,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-47",
+   "text": "Trees too small for logs can be used for cordwood construction down to one inch.",
+   "by": "jason-fine",
+   "at": [
+    675.36
+   ],
+   "about": "cedar-cordwood",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-48",
+   "text": "He favors cedar for its resistance to insects and rot.",
+   "by": "jason-fine",
+   "at": [
+    696.32
+   ],
+   "about": "cedar-cordwood",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-49",
+   "text": "He has found no bugs while digging through thirteen cords of stored wood.",
+   "by": "jason-fine",
+   "at": [
+    698.72
+   ],
+   "about": "cordwood-stacks",
+   "headline": false,
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-50",
+   "text": "Pine and other softwoods are options, but he says dried cedar moves least in the mortar.",
+   "by": "jason-fine",
+   "at": [
+    705.279
+   ],
+   "about": "cedar-cordwood",
+   "headline": false,
+   "doubt": "The caption says “eater”; the surrounding discussion identifies cedar.",
+   "kind": "alternative",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-51",
+   "text": "He uses softwood because hardwood can swell in humidity or water and crack the mortar.",
+   "by": "jason-fine",
+   "at": [
+    715.92
+   ],
+   "about": "cedar-cordwood",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-52",
+   "text": "He says cordwood construction would be prohibitively expensive if someone were paid to do the labor.",
+   "by": "jason-fine",
+   "at": [
+    736.959
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "money",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-54",
+   "text": "He gathered the base-wall stone from the property, starting nearest the house and working outward.",
+   "by": "jason-fine",
+   "at": [
+    762.16
+   ],
+   "about": "stone-knee-wall",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-55",
+   "text": "The knee wall raises cordwood above grade to prevent rain splashing onto it.",
+   "by": "jason-fine",
+   "at": [
+    768.32
+   ],
+   "about": "stone-knee-wall",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-56",
+   "text": "Between mortar beads, approximately three inches thick, he fills the cavity with kiln-dried cedar planer shavings mixed with lime.",
+   "by": "jason-fine",
+   "at": [
+    779.76
+   ],
+   "about": "insulated-core",
+   "headline": false,
+   "kind": "method",
+   "quantity": {
+    "value": 3,
+    "unit": "in",
+    "of": "length",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-57",
+   "text": "He says the cedar-shavings-and-lime filling will resist insects and mold.",
+   "by": "jason-fine",
+   "at": [
+    790.399
+   ],
+   "about": "insulated-core",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-58",
+   "text": "He rates the packed cedar shavings at R5 per inch, giving eight inches an R40 rating.",
+   "by": "jason-fine",
+   "at": [
+    794.399
+   ],
+   "about": "thermal-claims",
+   "headline": false,
+   "kind": "climate",
+   "quantity": {
+    "value": 8,
+    "unit": "in",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-59",
+   "text": "He rates cedar logs at R1 per inch, so his sixteen-inch logs are R16.",
+   "by": "jason-fine",
+   "at": [
+    804.72
+   ],
+   "about": "thermal-claims",
+   "headline": false,
+   "kind": "climate",
+   "quantity": {
+    "value": 16,
+    "unit": "in",
+    "of": "length"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-60",
+   "text": "He estimates the average wall rating at around R25.",
+   "by": "jason-fine",
+   "at": [
+    810.56
+   ],
+   "about": "thermal-claims",
+   "headline": false,
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-61",
+   "text": "He has experienced temperatures of twenty below there.",
+   "by": "jason-fine",
+   "at": [
+    819.279
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The temperature scale is not stated.",
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-62",
+   "text": "He says the small wood stove could keep the house at 70 degrees regardless of the cold outside.",
+   "by": "jason-fine",
+   "at": [
+    823.519
+   ],
+   "about": "small-woodstove",
+   "headline": false,
+   "doubt": "The temperature scale is not stated.",
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-63",
+   "text": "They spent time beside the wood stove in the unfinished house during the winter.",
+   "by": "sunni",
+   "at": [
+    836.56
+   ],
+   "about": "small-woodstove",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-64",
+   "text": "Jason recalls pricing an oak beam at about $300 apiece.",
+   "by": "jason-fine",
+   "at": [
+    846.16
+   ],
+   "about": "timber-frame",
+   "headline": false,
+   "kind": "alternative",
+   "quantity": {
+    "value": 300,
+    "unit": "USD",
+    "of": "component cost",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-65",
+   "text": "The black walnut door boards all came from the same tree.",
+   "by": "jason-fine",
+   "at": [
+    869.279
+   ],
+   "about": "walnut-doors",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-66",
+   "text": "He screwed down the door boards to remove some twist before planing and edging them.",
+   "by": "jason-fine",
+   "at": [
+    872.079
+   ],
+   "about": "walnut-doors",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-67",
+   "text": "He will make special hinges because the doors will probably weigh over 100 pounds each.",
+   "by": "jason-fine",
+   "at": [
+    881.12
+   ],
+   "about": "walnut-doors",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-69",
+   "text": "He would bring mortar flush with bottle ends, then scrape underneath them to obtain a consistent reveal.",
+   "by": "jason-fine",
+   "at": [
+    900.079
+   ],
+   "about": "cordwood-laying",
+   "headline": false,
+   "doubt": "“I do it different” may describe his method or what he would change; the following wording is conditional.",
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-70",
+   "text": "Shaving high spots with the tool flat and working around bottles makes final smoothing easier and faster.",
+   "by": "jason-fine",
+   "at": [
+    911.36
+   ],
+   "about": "cordwood-laying",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-71",
+   "text": "Sunni drives about 35 minutes to work.",
+   "by": "sunni",
+   "at": [
+    935.92
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "quantity": {
+    "value": 35,
+    "unit": "minute",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-72",
+   "text": "Jason often starts house work before Sunni leaves for work and is still working when she returns at night.",
+   "by": "sunni",
+   "at": [
+    939.04
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "labour",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-73",
+   "text": "Sunni says Jason has worked on every part of the house.",
+   "by": "sunni",
+   "at": [
+    950.72
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "labour",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-74",
+   "text": "He chose plaster because drywall harbors mold, while plaster breathes, dries when wet, and has high pH.",
+   "by": "jason-fine",
+   "at": [
+    983.839
+   ],
+   "about": "lath-plaster",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-75",
+   "text": "Plaster lets him correct the uneven walls.",
+   "by": "jason-fine",
+   "at": [
+    994.639
+   ],
+   "about": "lath-plaster",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-76",
+   "text": "He staples pieces flush with the wall plane, then installs the lath strips.",
+   "by": "jason-fine",
+   "at": [
+    1001.36
+   ],
+   "about": "lath-plaster",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-77",
+   "text": "Although drywall is cheaper and faster, he finds lath and plaster easier when working alone.",
+   "by": "jason-fine",
+   "at": [
+    1018
+   ],
+   "about": "lath-plaster",
+   "headline": false,
+   "kind": "labour",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-78",
+   "text": "He also values plaster for soundproofing.",
+   "by": "jason-fine",
+   "at": [
+    1026.079
+   ],
+   "about": "lath-plaster",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-79",
+   "text": "He has a large pile of sand left from the mortar available for plastering.",
+   "by": "jason-fine",
+   "at": [
+    1026.079
+   ],
+   "about": "lath-plaster",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-80",
+   "text": "After two plaster coats, he hopes a third will hide the lath shadows.",
+   "by": "jason-fine",
+   "at": [
+    1033.039
+   ],
+   "about": "lath-plaster",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-81",
+   "text": "He says bottle logs have the same R rating as cedar logs.",
+   "by": "jason-fine",
+   "at": [
+    1056.799
+   ],
+   "about": "bottle-logs",
+   "headline": false,
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-82",
+   "text": "A bottle log uses two bottles with their tops cut off.",
+   "by": "jason-fine",
+   "at": [
+    1074.32
+   ],
+   "about": "bottle-logs",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-83",
+   "text": "The bottle-log middle is empty and enclosed with aluminum flashing.",
+   "by": "jason-fine",
+   "at": [
+    1083.52
+   ],
+   "about": "bottle-logs",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-84",
+   "text": "Interior lighting makes the bottles glow at night.",
+   "by": "jason-fine",
+   "at": [
+    1089.919
+   ],
+   "about": "bottle-logs",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-85",
+   "text": "Green bottles were the easiest color to obtain.",
+   "by": "jason-fine",
+   "at": [
+    1103.2
+   ],
+   "about": "glass-reuse",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-86",
+   "text": "Sunni originally intended the shower panel to depict a nearby spring, but the available bottle colors constrained it.",
+   "by": "sunni",
+   "at": [
+    1119.6
+   ],
+   "about": "shower-panel",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-87",
+   "text": "They were learning as they made their second panel, which became a wilder design.",
+   "by": "sunni",
+   "at": [
+    1130.799
+   ],
+   "about": "shower-panel",
+   "headline": false,
+   "kind": "skill",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-88",
+   "text": "After finishing the plaster, he plans to acid-wash the floors and wax them with beeswax.",
+   "by": "jason-fine",
+   "at": [
+    1144.559
+   ],
+   "about": "floor-finish",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-89",
+   "text": "He hopes to salvage remaining slabs and use leftover cedar for fence posts.",
+   "by": "jason-fine",
+   "at": [
+    1156.39
+   ],
+   "about": "remaining-slabs",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-90",
+   "text": "A later estimate puts the number of trees used at 128.",
+   "by": "sunni",
+   "at": [
+    1168.08
+   ],
+   "about": "tree-count",
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice. Jason earlier estimated 126 trees.",
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-91",
+   "text": "New grandchildren and other life events also occupied them during the project.",
+   "by": "sunni",
+   "at": [
+    1172.24
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-92",
+   "text": "They paid for the land outright, which Sunni says was very helpful.",
+   "by": "sunni",
+   "at": [
+    1178.88
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "land",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-93",
+   "text": "Jason cashed out his retirement to pay for the land.",
+   "by": "jason-fine",
+   "at": [
+    1185.52
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "money",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-94",
+   "text": "He left boiler work because retirement ages kept rising toward 67½ or 70, and he could not imagine doing that work at 70.",
+   "by": "jason-fine",
+   "at": [
+    1195.44
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "quantity": {
+    "value": 67.5,
+    "unit": "year",
+    "of": "age",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-95",
+   "text": "They plan triple bunk beds for their three grandsons’ sleepover room because the room is tall enough.",
+   "by": "jason-fine",
+   "at": [
+    1210.64
+   ],
+   "about": "grandchildren-room",
+   "headline": false,
+   "kind": "household",
+   "quantity": {
+    "value": 3,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-96",
+   "text": "His advice is to get up every day and do what needs doing.",
+   "by": "jason-fine",
+   "at": [
+    1245.35
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+   "kind": "advice",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-97",
+   "text": "Jason left his union boilermaker job at 50 and cashed out his retirement to buy 29 acres of cheap Ozark land.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": false,
+   "kind": "money",
+   "quantity": {
+    "value": 50,
+    "unit": "year",
+    "of": "age"
+   }
+  },
+  {
+   "id": "k-98",
+   "text": "They hope to move into the unfinished house this winter, after three years of building and three years preparing wood.",
+   "by": "description",
+   "at": [],
+   "about": "main-house",
+   "headline": false,
+   "kind": "time",
+   "quantity": {
+    "value": 3,
+    "unit": "year",
+    "of": "build time"
+   }
+  },
+  {
+   "id": "k-99",
+   "text": "They plan a climbing wall in the grandchildren’s room.",
+   "by": "jason-fine",
+   "at": [
+    1219.28
+   ],
+   "about": "grandchildren-room",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-100",
+   "text": "Jason confirms that their self-built house is mortgage-free.",
+   "by": "jason-fine",
+   "at": [
+    47.12
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred; this is a brief agreement with the filmmaker’s mortgage-free description.",
+   "kind": "money",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-101",
+   "text": "Jason says they spent less than $50,000 on the rest of the build.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": false,
+   "kind": "money",
+   "quantity": {
+    "value": 50000,
+    "unit": "USD",
+    "of": "build cost"
+   }
+  },
+  {
+   "id": "k-102",
+   "text": "They spent three years cutting, milling, and drying beams and boards from trees on their land.",
+   "by": "description",
+   "at": [],
+   "about": "timber-frame",
+   "headline": false,
+   "kind": "time",
+   "quantity": {
+    "value": 3,
+    "unit": "year",
+    "of": "component time"
+   }
+  }
+ ],
+ "links": [],
+ "relationships": [
+  {
+   "subject": "screened-porch",
+   "predicate": "is attached to",
+   "object": "temporary-cabin",
+   "time": 223,
+   "status": "visible attachment"
+  },
+  {
+   "subject": "timber-frame",
+   "predicate": "supports",
+   "object": "gable-roof",
+   "time": 99,
+   "status": "visible frame and roof; dimensions unmeasured"
+  },
+  {
+   "subject": "cedar-cordwood",
+   "predicate": "is infill within",
+   "object": "timber-frame",
+   "time": 74,
+   "status": "visible structure and spoken explanation"
+  },
+  {
+   "subject": "stone-knee-wall",
+   "predicate": "is below",
+   "object": "cedar-cordwood",
+   "time": 770,
+   "status": "visible wall sequence and stated function"
+  },
+  {
+   "subject": "insulated-core",
+   "predicate": "is described inside",
+   "object": "cedar-cordwood",
+   "time": 785,
+   "status": "spoken construction explanation"
+  },
+  {
+   "subject": "sawmill",
+   "predicate": "produced timber for",
+   "object": "timber-frame",
+   "time": 458,
+   "status": "spoken material provenance"
+  },
+  {
+   "subject": "bottle-logs",
+   "predicate": "form parts of",
+   "object": "bottle-art",
+   "time": 1070,
+   "status": "demonstration and visible inserts"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "timber-frame",
+   "title": "Local timber and post-and-beam structure",
+   "category": "Construction",
+   "description": "Jason says the house timber came from this property. The visible building has a post-and-beam structure, also explicitly described that way.",
+   "phase": "current",
+   "unknown": "The 36 beams and the 8 by 10 section are spoken, not measured; the joinery behind the steel plates, the slab thickness and the footing under each post are not shown.",
+   "related_ids": [
+    "gable-roof",
+    "cedar-cordwood",
+    "sawmill",
+    "natural-post"
+   ],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "timber",
+    "post and beam"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 17,
+     "end": 23,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 74,
+     "end": 87,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0010",
+     "time": 12.9129,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0010.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0010.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0155",
+     "time": 530.897033,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0155.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0155.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 48.014633,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0017.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 408.0076,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0117.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0156",
+     "time": 532.899033,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0156.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0156.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0010.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gable-roof",
+   "title": "Low gable roof and deep eaves",
+   "category": "Construction",
+   "description": "The current house has a low-pitched gable roof with dark ribbed metal covering.",
+   "phase": "current",
+   "unknown": "The roof pitch, why the ridge sits off centre, the underlayment, the metal gauge and any insulation above the board decking are not said; only the underside boards are seen.",
+   "related_ids": [
+    "timber-frame"
+   ],
+   "place": "main-house",
+   "part_of": "timber-frame",
+   "terms": [
+    "roof",
+    "metal",
+    "overhang"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 48.014633,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0017.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0019",
+     "time": 53.8538,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0019.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0019.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 89.222467,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0031.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0017.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "front-glazing",
+   "title": "Glazed doors and windows",
+   "category": "Home and light",
+   "description": "On the chimney gable facade, a rectangular window is left of a sliding glazed doorway when viewed from outside. The other gable has the opposite opening order; more glazing appears along the long facade. These openings are grouped under one catalogue feature.",
+   "phase": "current",
+   "unknown": "Opening dimensions are not measured. This record groups several doors and windows. No complete interior route is established.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "glazing",
+    "door",
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 48.014633,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0017.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0031",
+     "time": 89.222467,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0031.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0031.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 113.947167,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0038.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0174",
+     "time": 576.008767,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0174.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0174.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0017.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "chimney",
+   "title": "External black chimney",
+   "category": "Home and light",
+   "description": "A black flue projects out near the right side of that facade and rises above the eave.",
+   "phase": "current",
+   "unknown": "Which stove this outside flue serves, how it passes through the cordwood wall and what seals that opening are not shown or said.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "chimney"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 48.014633,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0017.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0221",
+     "time": 779.111667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0221.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0221.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0017.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "temporary-cabin",
+   "title": "The occupied temporary cabin",
+   "category": "Cabin",
+   "description": "The couple say they are still living in the small temporary cabin while building the new home.",
+   "phase": "current",
+   "unknown": "The edited walk does not establish exact cabin-to-house distance or a surveyed connection.",
+   "related_ids": [
+    "cabin-loft",
+    "screened-porch"
+   ],
+   "place": "cabin",
+   "part_of": null,
+   "terms": [
+    "cabin"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 116,
+     "end": 131,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0041",
+     "time": 126.0259,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0041.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0041.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0042",
+     "time": 128.4283,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0042.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0042.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0041.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cabin-loft",
+   "title": "Ladder and sleeping half-loft",
+   "category": "Cabin",
+   "description": "A ladder leads to a sleeping half-loft in the cabin.",
+   "phase": "current",
+   "unknown": "The loft height and floor area are not given; the ladder is the only access seen, and no window or ventilation up there is shown.",
+   "related_ids": [
+    "temporary-cabin"
+   ],
+   "place": "cabin",
+   "part_of": "temporary-cabin",
+   "terms": [
+    "ladder",
+    "loft"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 133,
+     "end": 143,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 134.267467,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0045.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0047",
+     "time": 139.806333,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0047.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0047.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0045.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cabin-kitchen",
+   "title": "Compact kitchen and preparation space",
+   "category": "Cabin",
+   "description": "They describe the cabin kitchen as having very little counter or preparation space.",
+   "phase": "current",
+   "unknown": "The kitchen plumbing and water source are not shown; where the sink drains and whether there is hot water are not said.",
+   "related_ids": [],
+   "place": "cabin",
+   "part_of": null,
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 151,
+     "end": 173,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0053",
+     "time": 157.924433,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0053.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0053.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 165.932433,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0055.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0053.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cabin-cooking",
+   "title": "Propane cooking stove",
+   "category": "Cabin",
+   "description": "The cabin cooking stove is described as propane.",
+   "phase": "current",
+   "unknown": "The propane supply is seen only as a cylinder outside the door; its size, how often it is refilled and whether it feeds anything else are not said.",
+   "related_ids": [],
+   "place": "cabin",
+   "part_of": null,
+   "terms": [
+    "propane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 175,
+     "end": 179,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 165.932433,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0055.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0055.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cabin-heating",
+   "title": "Cabin wood stove",
+   "category": "Cabin",
+   "description": "They say the cabin wood stove heats that entire small dwelling.",
+   "phase": "current",
+   "unknown": "The stove make, its flue route through the metal ceiling and how much wood a winter takes are not said; only \"heating this entire place\" is claimed.",
+   "related_ids": [],
+   "place": "cabin",
+   "part_of": null,
+   "terms": [
+    "wood stove"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 177,
+     "end": 182,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0060",
+     "time": 180.013167,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0060.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0060.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0060.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cabin-bathroom",
+   "title": "Composting toilet and shower",
+   "category": "Cabin",
+   "description": "The cabin is said to contain a composting toilet and shower.",
+   "phase": "current",
+   "unknown": "The toilet and shower are only briefly and partly visible. The composting designation comes from speech.",
+   "related_ids": [],
+   "place": "cabin",
+   "part_of": null,
+   "terms": [
+    "composting toilet",
+    "shower"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 182,
+     "end": 187,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0061",
+     "time": 184.050533,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0061.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0061.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0061.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "reused-metal-ceiling",
+   "title": "Reused metal ceiling",
+   "category": "Cabin",
+   "description": "They say the cabin ceiling metal came from dismantling another structure on the driveway.",
+   "phase": "current",
+   "unknown": "Whether the reused roofing is only a ceiling lining or also the cabin weather roof is not said; the structure it came from is not shown.",
+   "related_ids": [],
+   "place": "cabin",
+   "part_of": null,
+   "terms": [
+    "metal",
+    "reclaimed",
+    "ceiling"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 187,
+     "end": 194,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0063",
+     "time": 191.758233,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0063.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0063.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0063.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "screened-porch",
+   "title": "Screened porch",
+   "category": "Cabin",
+   "description": "The screened cabin porch was built to provide a place away from mosquitoes.",
+   "phase": "current",
+   "unknown": "The porch floor, roof and screen framing are not described, and the red hanging fireplace on the porch is never mentioned in speech.",
+   "related_ids": [
+    "temporary-cabin"
+   ],
+   "place": "cabin",
+   "part_of": null,
+   "terms": [
+    "porch"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 245,
+     "end": 252,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 218.151267,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0070.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0074",
+     "time": 232.298733,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0074.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0074.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 250.383467,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0080.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0070.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "log-dolly",
+   "title": "Homemade log dolly",
+   "category": "Material workflow",
+   "description": "Jason demonstrates an axle made from a pipe and wheels; he describes securing logs with a come-along and moving them like a trailer.",
+   "phase": "current",
+   "unknown": "The wheel size, the load the axle takes and how a log is lifted onto the angle irons are not shown; the demonstration is with an empty dolly.",
+   "related_ids": [],
+   "place": "worksite",
+   "part_of": null,
+   "terms": [
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 443,
+     "end": 457,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0128",
+     "time": 451.317533,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0128.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0128.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0129",
+     "time": 453.619833,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0129.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0129.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0128.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sawmill",
+   "title": "Bartered sawmill",
+   "category": "Material workflow",
+   "description": "The sawmill was acquired by barter, according to the tour.",
+   "phase": "current",
+   "unknown": "The mill make, blade type, engine and what was bartered for it are not said; the machine is only pushed a few feet on camera.",
+   "related_ids": [
+    "timber-frame"
+   ],
+   "place": "worksite",
+   "part_of": null,
+   "terms": [
+    "sawmill"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 458,
+     "end": 465,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 461.794667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0133.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0134",
+     "time": 464.497367,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0134.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0134.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0133.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mill-extension",
+   "title": "Extended sawmill rails",
+   "category": "Material workflow",
+   "description": "He says he extended the mill from accepting 16-foot logs to 20-foot logs because his rafters were 18 feet.",
+   "phase": "current",
+   "unknown": "How the rails were lengthened, and whether the extension is welded or bolted, is not shown; the extra length is seen only as overgrown rail.",
+   "related_ids": [],
+   "place": "worksite",
+   "part_of": null,
+   "terms": [
+    "sawmill"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 480,
+     "end": 487,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0135",
+     "time": 466.599467,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0135.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0135.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0138",
+     "time": 476.2758,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0138.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0138.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0135.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "slab-reuse",
+   "title": "Slabs reused for framing and roof decking",
+   "category": "Material workflow",
+   "description": "He says milling structural members yielded slabs used for interior wall framing and roof decking.",
+   "phase": "current",
+   "unknown": "Which slabs became studs and which became decking, how they were edged and dried, and the board spacing on the roof are not shown.",
+   "related_ids": [],
+   "place": "worksite",
+   "part_of": null,
+   "terms": [
+    "timber",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 519,
+     "end": 552,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0152",
+     "time": 523.189333,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0152.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0152.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0162",
+     "time": 546.9464,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0162.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0162.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0164",
+     "time": 551.6511,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0164.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0164.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0152.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cordwood-laying",
+   "title": "Laying cordwood and mortar",
+   "category": "Construction",
+   "description": "He describes two mortar beads with sawdust in the middle, placing alternating logs and building successive courses.",
+   "phase": "current",
+   "unknown": "The mortar mix, the sawdust species, how far one batch runs and how long a course cures before the next are not said.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "cordwood",
+    "mortar",
+    "sawdust"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 591,
+     "end": 625,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0180",
+     "time": 599.9994,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0180.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0180.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0182",
+     "time": 612.0114,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0182.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0182.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0184",
+     "time": 623.990033,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0184.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0184.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0180.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "stone-knee-wall",
+   "title": "Stone base against rain splashback",
+   "category": "Construction",
+   "description": "The stone knee wall is explained as keeping cordwood above grade to avoid rain splashback.",
+   "phase": "current",
+   "unknown": "The knee wall height, its bedding and whether a damp course sits under the cordwood are not said; the inside face he calls cordwood is not shown.",
+   "related_ids": [
+    "cedar-cordwood"
+   ],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "stone",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 759,
+     "end": 777,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0217",
+     "time": 761.1604,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0217.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0217.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0220",
+     "time": 772.772,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0220.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0220.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0217.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "insulated-core",
+   "title": "Shavings and lime inside the wall",
+   "category": "Construction",
+   "description": "He describes the cavity between mortar beads as filled with kiln-dried cedar planer shavings mixed with lime.",
+   "phase": "current",
+   "unknown": "The shavings to lime ratio, how the core is packed and whether it settles over time are not said; the 8 in depth is spoken, not measured.",
+   "related_ids": [
+    "cedar-cordwood"
+   ],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "wood shavings",
+    "lime",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 778,
+     "end": 795,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0223",
+     "time": 781.647533,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0223.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0223.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0227",
+     "time": 794.326867,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0227.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0227.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0223.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "log-length",
+   "title": "Reported cordwood length",
+   "category": "Construction",
+   "description": "He says the cordwood logs are 16 inches long.",
+   "phase": "current",
+   "unknown": "Whether every log is 16 in or the depth varies along the wall is not said; the figure is quoted for the R-value, not measured on camera.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "cordwood"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 804,
+     "end": 814,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0223",
+     "time": 781.647533,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0223.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0223.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 812.144667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0231.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0223.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "thermal-claims",
+   "title": "Wall insulation estimates",
+   "category": "Construction",
+   "description": "He estimates the whole wall at around R25. This is an owner claim, not a measured result.",
+   "phase": "current",
+   "unknown": "Owner estimates only. There is no whole-wall measurement or independent thermal calculation. Bottle-log insulation equivalence is also asserted in the tour and remains unverified.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "wall",
+    "insulation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 794,
+     "end": 817,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0223",
+     "time": 781.647533,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0223.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0223.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0229",
+     "time": 804.0032,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0229.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0229.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0223.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "blocked-bottles",
+   "title": "Bottle inserts blocked by posts",
+   "category": "Construction",
+   "description": "He points out that some bottle inserts in front of structural posts do not pass through or light up; short wood pieces are also used there.",
+   "phase": "current",
+   "unknown": "How many bottles are blind, and how the short wood pieces in front of the posts are fixed and sealed against rain, are not said.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "cans and bottles"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 370,
+     "end": 386,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0106",
+     "time": 372.004967,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0106.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0106.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0108",
+     "time": 383.9836,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0108.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0108.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0106.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "walnut-doors",
+   "title": "Walnut door blanks",
+   "category": "Home and light",
+   "description": "Black walnut boards are being prepared for future doors; he says they came from the same tree.",
+   "phase": "in progress",
+   "unknown": "Door sizes, the hinge design and how the boards will be joined are not fixed; the 100 pound weight is an estimate and no door exists yet.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "timber",
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 860,
+     "end": 889,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0253",
+     "time": 864.897367,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0253.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0253.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0254",
+     "time": 874.2734,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0254.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0254.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0256",
+     "time": 881.9811,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0256.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0256.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0253.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lath-plaster",
+   "title": "Wood lath and lime-plaster partitions",
+   "category": "Construction",
+   "description": "Interior partitions use wood lath and lime plaster, with unfinished and coated portions both visible.",
+   "phase": "in progress",
+   "unknown": "The lime plaster mix, the lath spacing and the coat thicknesses are not given; \"L strips\" in the captions is probably a garbled \"lath\".",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "timber",
+    "lime plaster",
+    "partition"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 972,
+     "end": 1046,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0282",
+     "time": 972.004367,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0282.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0282.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0294",
+     "time": 1018.4174,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0294.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0294.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0297",
+     "time": 1025.357667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0297.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0297.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0282.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bottle-logs",
+   "title": "How a bottle log is assembled",
+   "category": "Home and light",
+   "description": "A bottle log is demonstrated using two bottles with tops cut off, an empty middle, and aluminum flashing.",
+   "phase": "current",
+   "unknown": "The bottle-log length, how the flashing is fastened and whether the sealed air gap between the halves fogs with condensation are not shown.",
+   "related_ids": [
+    "bottle-art"
+   ],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "cans and bottles",
+    "aluminium"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1067,
+     "end": 1093,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0308",
+     "time": 1073.005267,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0308.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0308.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0311",
+     "time": 1080.946533,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0311.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0311.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0308.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "bottle-art",
+   "title": "Trees and river made from bottles",
+   "category": "Home and light",
+   "description": "The green bottle pattern represents trees and the blue pattern a river, according to the speakers.",
+   "phase": "current",
+   "unknown": "The imagery depicts trees and a river. This does not establish a river on the property.",
+   "related_ids": [
+    "bottle-logs"
+   ],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "cans and bottles"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1096,
+     "end": 1109,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0317",
+     "time": 1104.0029,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0317.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0317.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0317.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shower-panel",
+   "title": "Shower and spring-inspired glass panel",
+   "category": "Home and light",
+   "description": "The bright shower panel is described as their second panel, initially inspired by a nearby spring.",
+   "phase": "current",
+   "unknown": "The spring is described as inspiration, not demonstrated as a water source. Plumbing and waterproofing details are not shown.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "shower",
+    "glass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1110,
+     "end": 1143,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0320",
+     "time": 1127.359567,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0320.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0320.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0323",
+     "time": 1145.4443,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0323.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0323.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0320.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "floor-finish",
+   "title": "Planned floor finishing",
+   "category": "Home and light",
+   "description": "Acid-washing and waxing the floors with beeswax are future steps after finishing the plaster.",
+   "phase": "planned",
+   "unknown": "The slab finish, the acid used and how often the beeswax must be renewed are not given; the floor is bare concrete on camera.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "floor",
+    "beeswax"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1144,
+     "end": 1153,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0324",
+     "time": 1151.984167,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0324.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0324.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0324.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "grandchildren-room",
+   "title": "Planned grandchildren room",
+   "category": "Home and light",
+   "description": "Triple bunk beds and a climbing wall for the grandchildren are plans for an unfinished room.",
+   "phase": "planned",
+   "unknown": "The room dimensions, the bunk design and the climbing wall fixings are not decided; the room is bare framing and plaster on camera.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1210,
+     "end": 1226,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0340",
+     "time": 1211.21,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0340.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0340.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0342",
+     "time": 1217.282733,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0342.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0342.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0343",
+     "time": 1223.589033,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0343.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0343.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0340.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "main-house",
+   "title": "Cordwood house under construction",
+   "category": "Home and light",
+   "description": "Jason and Sunni are building this home while living in the smaller cabin. The film shows several sides of the current house, its open main living space and unfinished interior partitions, plus earlier construction footage.",
+   "phase": "in progress",
+   "unknown": "The footage does not provide a measured floor plan. It mixes the current state, earlier construction and proposed work.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "cordwood",
+    "self-built"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 290,
+     "end": 302,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 930,
+     "end": 959,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0017",
+     "time": 48.014633,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0017.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0017.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0090",
+     "time": 299.9997,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0090.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0090.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0112",
+     "time": 395.9956,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0112.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0112.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0245",
+     "time": 851.3505,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0245.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0245.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0017.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cedar-cordwood",
+   "title": "Cedar rounds in mortar",
+   "category": "Construction",
+   "description": "Uneven-sized log ends are visible in the wall infill. Jason identifies the timber as cedar and explains his preference for it; the claimed durability and movement behavior are not tested here.",
+   "phase": "current",
+   "unknown": "Exact log shapes and counts are not recorded. The film shows the pattern of the wall, not every individual log.",
+   "related_ids": [
+    "timber-frame",
+    "stone-knee-wall",
+    "insulated-core"
+   ],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "cordwood",
+    "mortar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 689,
+     "end": 730,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0184",
+     "time": 623.990033,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0184.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0184.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 692.024667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0202.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0231",
+     "time": 812.144667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0231.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0231.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0184.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "small-woodstove",
+   "title": "Wood stove in the new living space",
+   "category": "Home and light",
+   "description": "A small wood stove and flue are visible in the main room. They say they used this part of the unfinished house during winter.",
+   "phase": "current",
+   "unknown": "The claim that it can heat the whole house is not a measured performance result.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "wood stove"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 823,
+     "end": 841,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0235",
+     "time": 825.858367,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0235.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0235.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0238",
+     "time": 832.264767,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0238.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0238.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 859.525333,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0250.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0235.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "woodland",
+   "title": "Wooded Ozark hillside",
+   "category": "Land",
+   "description": "The arrival and aerial views show a wooded hillside. The speakers describe the property as 29 acres and say they sourced the house timber here.",
+   "phase": "current",
+   "unknown": "No boundary survey, compass orientation or timber inventory is available.",
+   "related_ids": [],
+   "place": "site",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 12,
+     "end": 23,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0010",
+     "time": 12.9129,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0010.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0010.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0330",
+     "time": 1179.311467,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0330.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0330.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0010.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "cordwood-stacks",
+   "title": "Stored cedar cordwood",
+   "category": "Material workflow",
+   "description": "Stacks of short logs and rough coverings are shown, and Jason lifts a cedar piece while discussing the material. He refers to thirteen cords of wood.",
+   "phase": "current",
+   "unknown": "The stockpile volume and its location relative to the house have not been measured.",
+   "related_ids": [],
+   "place": "worksite",
+   "part_of": null,
+   "terms": [
+    "cordwood"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 680,
+     "end": 729,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0199",
+     "time": 684.016667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0199.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0199.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 689.355333,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0201.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 692.024667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0202.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0206",
+     "time": 708.0073,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0206.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0206.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0199.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "natural-post",
+   "title": "Large natural cedar post",
+   "category": "Construction",
+   "description": "A large irregular tree-trunk post stands in the main room, carrying the timber structure. Jason describes it as one of the larger cedar trees on the property.",
+   "phase": "current",
+   "unknown": "The trunk silhouette is visually distinctive; its exact cross-section and load capacity are not measured.",
+   "related_ids": [
+    "timber-frame"
+   ],
+   "place": "main-house",
+   "part_of": "timber-frame",
+   "terms": [
+    "roundwood"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 390,
+     "end": 411,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0112",
+     "time": 395.9956,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0112.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0112.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0117",
+     "time": 408.0076,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0117.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0117.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0114",
+     "time": 401.934867,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0114.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0114.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0112.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "glass-reuse",
+   "title": "Recycled colored glass",
+   "category": "Home and light",
+   "description": "They describe collecting bottles from recycling over roughly a year. Colored round and shaped glass pieces appear throughout the walls, including a face-shaped green piece and a red dish.",
+   "phase": "current",
+   "unknown": "Not every glass insert is a beer bottle. Color meanings are attributed separately from their visible appearance.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "terms": [
+    "glass",
+    "cans and bottles",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 300,
+     "end": 369,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0093",
+     "time": 320.486833,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0093.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0093.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0098",
+     "time": 341.674667,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0098.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0098.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0102",
+     "time": 357.8575,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0102.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0102.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0110",
+     "time": 388.354633,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0110.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0110.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0093.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "remaining-slabs",
+   "title": "Remaining slabs and possible fence posts",
+   "category": "Material workflow",
+   "description": "The closing worksite views show unused slabs and offcuts. Jason hopes to salvage some and perhaps use remaining cedar for fence posts.",
+   "phase": "planned",
+   "unknown": "The fence use is a future possibility, not an installed feature.",
+   "related_ids": [],
+   "place": "worksite",
+   "part_of": null,
+   "terms": [
+    "timber",
+    "salvage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1156,
+     "end": 1164,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0325",
+     "time": 1157.5564,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0325.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0325.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0326",
+     "time": 1163.996167,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0326.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0326.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0327",
+     "time": 1170.0689,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0327.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0327.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0325.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "tree-count",
+   "title": "Conflicting tree totals",
+   "category": "Material workflow",
+   "description": "The transcript gives approximately 126 trees at 08:17 and 128 trees at 19:28. Both are retained as spoken estimates.",
+   "phase": "historical",
+   "unknown": "There is no evidence here to resolve the two totals. Both are kept.",
+   "related_ids": [],
+   "place": "worksite",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 495,
+     "end": 504,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1165,
+     "end": 1170,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0145",
+     "time": 504.0035,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0145.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0145.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0147",
+     "time": 510.977133,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0147.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0147.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0327",
+     "time": 1170.0689,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0327.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0327.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0145.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "roof-mounted-device",
+   "title": "Unidentified rectangular roof-mounted device",
+   "category": "Home and light",
+   "description": "A pale rectangular device on a short angled mount is visible above the bottle-rich gable in one of the closing exterior views.",
+   "phase": "current",
+   "unknown": "Its function, manufacturer and dimensions are not established. This view alone does not show whether it is a solar panel, an antenna or a light. It was added to the catalogue after a later pass through the footage.",
+   "related_ids": [],
+   "place": "main-house",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0331",
+     "time": 1182.3812,
+     "path": "review/LZ6u1AXCefQ/evidence/frame-0331.jpg",
+     "preview_path": "review/LZ6u1AXCefQ/sample-0331.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0331.jpg",
+   "model_objects": [],
+   "terms": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 17,
+   "title": "Arrival and wooded property",
+   "visible": "Road, small buildings, woodland, and first overview of the cordwood house.",
+   "gaps": "No survey or complete property boundary. The white clapboard building under a metal roof in the opening montage (frame-0006) is not the occupied cabin.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0006.jpg"
+  },
+  {
+   "start": 17,
+   "end": 59.159,
+   "title": "House exterior and local timber",
+   "visible": "Multiple gable-front, side and aerial views; standing-seam roof, chimney, posts, glass openings and cordwood infill.",
+   "gaps": "Metric footprint and hidden details remain uncertain.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018",
+    "frame-0019",
+    "frame-0020"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0016.jpg"
+  },
+  {
+   "start": 59.159,
+   "end": 66.833,
+   "title": "Earlier tree felling",
+   "visible": "Portrait-format footage of cutting timber.",
+   "gaps": "Historical construction footage, not the current property state.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0021",
+    "frame-0022"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0022.jpg"
+  },
+  {
+   "start": 66.833,
+   "end": 111.411,
+   "title": "Timber frame and openings",
+   "visible": "House facades, eaves, timber members, and ceiling underside.",
+   "gaps": "Edited views require landmark matching; beam counts in narration are not independently counted.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0030.jpg"
+  },
+  {
+   "start": 111.411,
+   "end": 133,
+   "title": "Route to the temporary cabin",
+   "visible": "Walking outdoors, a reverse house view, and approach to a small cabin.",
+   "gaps": "Cuts interrupt the route; relative cabin/house distance is unknown.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0041.jpg"
+  },
+  {
+   "start": 133,
+   "end": 200,
+   "title": "Temporary cabin interior",
+   "visible": "Ladder, sleeping loft, compact kitchen, heating stove, ceiling, and brief toilet/shower area.",
+   "gaps": "Cramped partly occluded views; toilet type comes from narration.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0055.jpg"
+  },
+  {
+   "start": 200,
+   "end": 278,
+   "title": "Screened porch and daily life",
+   "visible": "Cedar porch posts, screen enclosure, exterior relationship to cabin, and red hanging hearth.",
+   "gaps": "Porch attachment visible; dimensions and insulation performance unmeasured.",
+   "sample_count": 22,
+   "sample_ids": [
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0077.jpg"
+  },
+  {
+   "start": 278,
+   "end": 356,
+   "title": "Return to cordwood home; recycled glass",
+   "visible": "Reverse exterior, colored wall panels, face-shaped green glass, and bottles collected in bins.",
+   "gaps": "Bath identification is spoken; individual bottle counts not checked.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0095.jpg"
+  },
+  {
+   "start": 356,
+   "end": 411.044,
+   "title": "Interior, bottle patterns and structural posts",
+   "visible": "Cordwood/glass infill, large natural posts, open main room, partition faces and exposed roof underside.",
+   "gaps": "Interior connects by visible openings; full floor plan still incomplete.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0110.jpg"
+  },
+  {
+   "start": 411.044,
+   "end": 458,
+   "title": "Handling logs",
+   "visible": "Historical felling and skid-steer footage, then present demonstration of homemade log dolly.",
+   "gaps": "Historical equipment operation must not be treated as current object placement.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0119",
+    "frame-0120",
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126",
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0125.jpg"
+  },
+  {
+   "start": 458,
+   "end": 555,
+   "title": "Sawmill, slabs and construction sequence",
+   "visible": "Mill and rails, slab stacks, plus earlier frame erection, roof framing and decking.",
+   "gaps": "Multiple dates; not one photogrammetry scene. Earlier joints can constrain form but not finish state.",
+   "sample_count": 35,
+   "sample_ids": [
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142",
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0149.jpg"
+  },
+  {
+   "start": 555,
+   "end": 644,
+   "title": "Cordwood laying",
+   "visible": "Exterior wall and opening details; construction cutaways show mortar beads and log placement.",
+   "gaps": "Alternates current finished surfaces and unfinished work.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0177.jpg"
+  },
+  {
+   "start": 644,
+   "end": 678,
+   "title": "Examples of other cordwood buildings",
+   "visible": "Historic and illustrative buildings from elsewhere.",
+   "gaps": "Exclude these structures from this property catalogue and reconstruction.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0188",
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0193.jpg"
+  },
+  {
+   "start": 678,
+   "end": 759,
+   "title": "Cedar stock and material behavior",
+   "visible": "Stacked cordwood, a lifted piece, and construction detail cutaways.",
+   "gaps": "Claims about rot, insects and swelling are attributed explanations, not verified engineering guidance.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0207.jpg"
+  },
+  {
+   "start": 759,
+   "end": 817,
+   "title": "Knee wall, wall thickness and insulation",
+   "visible": "Stone base, door reveal, repeated aerial frontage, and shaving close-up.",
+   "gaps": "R-values and inch dimensions are owner estimates; whole-wall performance not measured.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0217",
+    "frame-0218",
+    "frame-0219",
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0225.jpg"
+  },
+  {
+   "start": 817,
+   "end": 895,
+   "title": "Living area, frame and future doors",
+   "visible": "Wood stove, sliding openings, timber supports, partition openings, walnut boards.",
+   "gaps": "Door blanks are current; completed heavy doors and special hinges are plans.",
+   "sample_count": 27,
+   "sample_ids": [
+    "frame-0234",
+    "frame-0235",
+    "frame-0236",
+    "frame-0237",
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250",
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0247.jpg"
+  },
+  {
+   "start": 895,
+   "end": 972,
+   "title": "Mortar finishing and work routine",
+   "visible": "Bottle reveals, tuck-pointing demonstrations, earlier plaster/mortar work and wide interior.",
+   "gaps": "Mixed construction phases; current finish not uniform.",
+   "sample_count": 21,
+   "sample_ids": [
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274",
+    "frame-0275",
+    "frame-0276",
+    "frame-0277",
+    "frame-0278",
+    "frame-0279",
+    "frame-0280",
+    "frame-0281"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0271.jpg"
+  },
+  {
+   "start": 972,
+   "end": 1048,
+   "title": "Lath and lime-plaster partitions",
+   "visible": "Lath strips, studs, plaster coats and arched/rectangular openings.",
+   "gaps": "Some rooms unfinished; no room label is inferred from an unlabeled doorway.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0282",
+    "frame-0283",
+    "frame-0284",
+    "frame-0285",
+    "frame-0286",
+    "frame-0287",
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292",
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296",
+    "frame-0297",
+    "frame-0298",
+    "frame-0299",
+    "frame-0300",
+    "frame-0301"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0292.jpg"
+  },
+  {
+   "start": 1048,
+   "end": 1111,
+   "title": "Bottle-log assembly and light",
+   "visible": "Cut bottle halves and aluminum flashing demonstrated; lit exterior at dusk.",
+   "gaps": "Assembly is shown; insulation equivalence is an unverified spoken claim.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306",
+    "frame-0307",
+    "frame-0308",
+    "frame-0309",
+    "frame-0310",
+    "frame-0311",
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315",
+    "frame-0316",
+    "frame-0317",
+    "frame-0318"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0310.jpg"
+  },
+  {
+   "start": 1111,
+   "end": 1155,
+   "title": "Shower artwork and planned floor finish",
+   "visible": "Tree/river glass motifs, bright shower panel, arched shower entry, unfinished floor.",
+   "gaps": "Nearby spring is described as artistic inspiration; not mapped as a water supply.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0319",
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323",
+    "frame-0324"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0322.jpg"
+  },
+  {
+   "start": 1155,
+   "end": 1210.109,
+   "title": "Remaining material and closing exterior views",
+   "visible": "Slab stacks, worksite, property overviews, main house and older installation cutaways.",
+   "gaps": "126 versus 128 tree totals conflict; do not silently reconcile.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0325",
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329",
+    "frame-0330",
+    "frame-0331",
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335",
+    "frame-0336",
+    "frame-0337",
+    "frame-0338",
+    "frame-0339"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0332.jpg"
+  },
+  {
+   "start": 1210.109,
+   "end": 1249.615,
+   "title": "Planned grandchildren room and closing interior",
+   "visible": "Unfinished room, rectangular and arched openings, bathroom/shower glimpse.",
+   "gaps": "Triple bunks and climbing wall are proposed, not installed.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343",
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0344.jpg"
+  },
+  {
+   "start": 1249.615,
+   "end": 1268.961,
+   "title": "Final aerial and end card",
+   "visible": "Near-overhead view of the roof followed by credits.",
+   "gaps": "Final aerial reserved for evaluation; credits add no scene coverage.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0349",
+    "frame-0350",
+    "frame-0351"
+   ],
+   "thumbnail": "review/LZ6u1AXCefQ/sample-0350.jpg"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+# Review
+
+Selected candidate-2.png, generated with the built-in image_gen tool using prompt-2.txt; candidate 1 and prompt-1.txt are retained for review. Both candidates were visually inspected.
+
+Candidate 2 improves the refrigerator door proportions, removes the invented enclosure pull, simplifies the AC face and leaves the principal unknown side depths blank with dashed edges. It preserves the warm tan cabinetry, metal counter, black/silver microwave, horizontally sliding slats and tall refrigerator surround. Explicit breaks prevent a false continuous cabinet layout. No people, appliance interiors, service routes, clearances or outdoor unit are drawn.
+
+Remaining limitations: closed-position labels incorrectly point to top surfaces instead of clearly tracing each complete closed front; faint vertical front dashes are incomplete. The refrigerator shelf fragment and top wash retain illustrative solid depth, despite the principal dashed depth envelopes. Microwave hinge marks are visible in the generated drawing (two hinges are also visible in reference 0137), but their exact shapes are generalized. The lowest refrigerator division is compressed; appliance proportions, control marks, slat count and shelf spacing remain schematic. These are not construction details. Opening angles, isometric viewpoints, independent scales and paper layout are invented explanatory choices. No further generation was made because the two-candidate limit has been reached.

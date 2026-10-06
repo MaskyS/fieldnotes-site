@@ -1,0 +1,71 @@
+{
+ "id": "ent-margo-self-built-shed-home",
+ "type": "place",
+ "name": "Margo’s self-built shed home",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "2twuMtzLv10",
+    "title": "Margo’s self-built shed home",
+    "where": "Central Virginia, United States",
+    "film_year": "2026",
+    "upload_date": "2026-06-05",
+    "channel": "Tiny Home Tours",
+    "link": "?property=2twuMtzLv10",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Margo’s tiny-house site on family property",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Margo",
+      "relation": "owner"
+     }
+    ],
+    "gist": "After a breakup, Margo taught herself to turn a shed on her mother’s land into a home; the hired plumbing was what failed.",
+    "figures": {},
+    "point": {
+     "lat": 37.123,
+     "lon": -78.493,
+     "matched": "Virginia, United States",
+     "stands_for": "state",
+     "extent_km": 746
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Cfa",
+      "name": "humid subtropical"
+     },
+     "rain_mm": 1112,
+     "zone": "8a",
+     "elevation_m": null,
+     "from": "Virginia, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2026"
+   ]
+  },
+  "figures": [],
+  "location_warnings": [],
+  "instance_hash": "ceab2e83aa0849d7",
+  "built": "2026-10-06T13:18:27"
+ }
+}

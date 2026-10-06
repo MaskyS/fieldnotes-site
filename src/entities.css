@@ -1,0 +1,61 @@
+/* Entity pages. Loaded by src/components/EntityView.js. Same tokens as style.css: like
+   rows with hairlines, no boxes; green only on what plays the film or leads to it,
+   amber only on what to trust less. */
+/* The shell is a full-height grid; a page shorter than the window would stretch the top bar. */
+.shell:has(.entity) { align-content: start; }
+.entity { max-width: 1240px; }
+.entity-head h1 { font-size: var(--t6); line-height: 1.1; margin: 0 0 var(--s-2); }
+.entity-meta { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-2); margin: 0; }
+.entity .meta { font-size: var(--t1); color: var(--ink-3); margin: var(--s-2) 0 0; max-width: 75ch; }
+.entity .none { color: var(--ink-3); font-size: var(--t1); }
+.entity .who { color: var(--ink-3); font-size: var(--t1); font-family: var(--sans); }
+.entity .doubt { color: var(--amber); }
+.entity .note { color: var(--amber); font-family: var(--serif); font-size: var(--t2); margin: var(--s-2) 0 0; }
+.entity a.play { color: var(--green); font-family: var(--cond); font-size: 14px; padding: 0 2px 0 6px; text-decoration: none; }
+.entity a.play:hover { text-decoration: underline; }
+
+/* A place's figures: rows are what is measured, columns the films. */
+.entity-figures { margin-top: var(--s-8); }
+.entity table.entity-table { width: 100%; border-collapse: collapse; font-size: var(--t2); }
+.entity table.entity-table thead th { font-family: var(--cond); font-size: 14px; font-weight: 500; text-align: left; padding: var(--s-2) var(--s-3) var(--s-2) 0; border-bottom: 1px solid var(--line-strong); }
+.entity table.entity-table thead th a { color: var(--ink); font-variant-numeric: tabular-nums lining-nums; }
+.entity table.entity-table thead th small { display: block; font-family: var(--sans); font-size: var(--t1); font-weight: 400; color: var(--ink-3); }
+.entity table.entity-table tbody th { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-2); text-align: left; vertical-align: top; width: 140px; padding: var(--s-3) var(--s-3) var(--s-3) 0; border-bottom: 1px solid var(--line); }
+.entity table.entity-table td { vertical-align: top; padding: var(--s-3) var(--s-3) var(--s-3) 0; border-bottom: 1px solid var(--line); line-height: 1.4; }
+.entity table.entity-table .said-figure { display: block; }
+.entity table.entity-table .said-figure + .said-figure { margin-top: var(--s-1); }
+.entity table.entity-table tr.derived td { font-family: var(--cond); color: var(--ink-2); }
+.entity table.entity-table tr.derived small { display: block; font-size: var(--t1); color: var(--ink-3); }
+
+/* The films, one block each in the same form. */
+.entity-films { margin-top: var(--s-8); display: grid; gap: var(--s-8); }
+.entity-film { border-top: 1px solid var(--line-strong); padding-top: var(--s-4); max-width: 75ch; }
+.entity-film h2 { font-family: var(--serif); font-size: var(--t4); font-weight: 500; line-height: 1.25; margin: 0 0 var(--s-1); }
+.entity-film h2 a { color: var(--ink); }
+.entity-where { font-size: var(--t1); color: var(--ink-3); margin: 0 0 var(--s-3); }
+.entity-film .gist { font-family: var(--serif); font-size: var(--t3); line-height: 1.5; margin: 0 0 var(--s-3); }
+.entity-film ul.said { list-style: none; margin: 0 0 var(--s-3); padding: 0; font-family: var(--serif); font-size: var(--t3); line-height: 1.5; }
+.entity-film ul.said li + li { margin-top: var(--s-2); }
+.entity-links { color: var(--ink-2); margin: 0; }
+.entity-links .label { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-3); margin-right: var(--s-2); }
+.entity-links a:not(.play) { color: var(--ink-2); text-decoration: underline; text-decoration-color: var(--line-strong); text-underline-offset: 2px; }
+.entity-links .kind { color: var(--ink-3); }
+.entity-links .sponsored { color: var(--amber); }
+
+.entity-mentions { margin-top: var(--s-12); max-width: 75ch; }
+.entity-mentions h3 { font-family: var(--serif); font-size: var(--t4); font-weight: 500; margin: 0 0 var(--s-2); }
+.entity-mentions ul { list-style: none; margin: 0; padding: 0; }
+.entity-mentions li { padding: var(--s-2) 0; border-bottom: 1px solid var(--line); color: var(--ink-2); }
+.entity-mentions q { font-family: var(--serif); font-style: italic; }
+.entity-mentions .film { color: var(--ink-2); font-size: var(--t1); margin-left: var(--s-2); }
+
+@media (max-width: 900px) {
+  .entity-head h1 { font-size: var(--t5); }
+  .entity, .entity-figures { min-width: 0; max-width: 100%; }
+  /* The table keeps its columns (films side by side are the point) and scrolls inside
+     its own box, so the page itself never scrolls sideways. */
+  .entity table.entity-table { display: block; overflow-x: auto; width: 100%; }
+  .entity table.entity-table td, .entity table.entity-table thead th:not(:first-child) { min-width: 220px; }
+  .entity table.entity-table thead th:first-child { min-width: 88px; width: 88px; }
+  .entity table.entity-table tbody th { width: 88px; min-width: 88px; position: sticky; left: 0; background: var(--paper); }
+}

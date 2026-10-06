@@ -1,0 +1,84 @@
+{
+ "id": "ent-family-eaglemont-brick-home",
+ "type": "place",
+ "name": "A family’s Eaglemont brick home",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "P1HCZA-BW9I",
+    "title": "A family’s Eaglemont brick home",
+    "where": "Victoria, Australia",
+    "film_year": "2026",
+    "upload_date": "2026-08-28",
+    "channel": "The Local Project",
+    "link": "?property=P1HCZA-BW9I",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Eaglemont Residence household site",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [],
+    "gist": "Unnamed parents ask Adam Kane for a lasting family home where they can stay connected, retreat when needed, and cook without interruption.",
+    "figures": {
+     "other": [
+      {
+       "id": "travel-time",
+       "text": "15–20 minutes northeast of Melbourne CBD.",
+       "by": "Adam Kane",
+       "at": 56.64,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 17.5,
+        "unit": "minute",
+        "of": "other",
+        "approx": true
+       },
+       "text_source": "human captions"
+      }
+     ]
+    },
+    "point": {
+     "lat": -37.814,
+     "lon": 144.963,
+     "matched": "Melbourne, Victoria, Australia",
+     "stands_for": "city",
+     "extent_km": null
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Cfb",
+      "name": "temperate oceanic"
+     },
+     "rain_mm": 625,
+     "zone": "10a",
+     "elevation_m": 19,
+     "from": "Melbourne, Victoria, Australia",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2026"
+   ]
+  },
+  "figures": [],
+  "location_warnings": [],
+  "instance_hash": "e99fa57a03343004",
+  "built": "2026-10-06T13:18:27"
+ }
+}

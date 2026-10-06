@@ -1,0 +1,71 @@
+/* Idea pages (TRIAL). Loaded by src/components/IdeaView.js. Same tokens as style.css:
+   tables of like rows with hairlines, no boxes; green only on what plays the film or
+   leads to it, amber only on what to trust less. */
+.idea { max-width: 1240px; }
+.idea-head h1 { font-size: var(--t6); line-height: 1.1; margin-bottom: var(--s-3); }
+.idea-kind, .idea-gloss { font-family: var(--serif); font-size: var(--t3); line-height: 1.5; color: var(--ink-2); max-width: 70ch; margin: 0 0 var(--s-2); }
+.idea-summary { margin-top: var(--s-8); max-width: 75ch; }
+.idea-summary h2 { margin-bottom: var(--s-2); }
+.idea .tally { color: var(--ink-2); margin-bottom: var(--s-4); }
+.idea .synthesis { font-family: var(--serif); font-size: var(--t3); line-height: 1.55; margin-bottom: var(--s-2); }
+.idea .cites { font-family: var(--cond); font-size: 11px; font-weight: 500; margin-left: 1px; }
+.idea .cites a { color: var(--ink-3); margin-right: 3px; }
+.idea .cites a:hover { color: var(--green); }
+.idea .meta { font-size: var(--t1); color: var(--ink-3); margin: 0 0 var(--s-2); }
+.idea .proposed { color: var(--amber); font-size: var(--t1); }
+.idea p.proposed { font-family: var(--serif); font-size: var(--t2); }
+.idea .none { color: var(--ink-3); font-size: var(--t1); }
+.idea section > h3 { margin: var(--s-12) 0 var(--s-2); font-size: var(--t4); font-family: var(--serif); color: var(--ink); letter-spacing: -0.01em; }
+.idea a.moment { font-family: var(--cond); font-size: 14px; font-weight: 500; font-variant-numeric: tabular-nums lining-nums; white-space: nowrap; }
+
+/* The frame tables: one row per place or instance, the same columns in every row. */
+.idea table.idea-table { width: 100%; border-collapse: collapse; font-size: var(--t2); }
+.idea table.idea-table th { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-2); text-align: left; vertical-align: bottom; padding: var(--s-2) var(--s-3) var(--s-2) 0; border-bottom: 1px solid var(--line-strong); }
+.idea table.idea-table td { vertical-align: top; padding: var(--s-3) var(--s-3) var(--s-3) 0; border-bottom: 1px solid var(--line); line-height: 1.4; }
+.idea table.idea-table td small { display: block; font-size: var(--t1); color: var(--ink-3); }
+.idea table.idea-table .num { font-family: var(--cond); font-variant-numeric: tabular-nums lining-nums; white-space: nowrap; }
+.idea table.idea-table td.derived { font-family: var(--cond); color: var(--ink-2); }
+.idea table.idea-table .said-figure { display: block; }
+.idea table.idea-table .said-figure + .said-figure { margin-top: var(--s-1); }
+.idea table.places td:first-child a { font-family: var(--serif); font-weight: 500; color: var(--ink); }
+.idea table.instances tr.group th { padding-top: var(--s-6); border-bottom: 1px solid var(--line-strong); font-family: var(--serif); font-size: var(--t3); color: var(--ink); }
+.idea table.instances tr.group a { color: var(--ink); }
+.idea table.instances td.n { width: 24px; color: var(--ink-3); font-size: var(--t1); }
+.idea table.instances td.feature { width: 200px; }
+.idea table.instances td.feature > a:first-child { display: block; color: var(--ink); }
+.idea table.instances td.feature img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: var(--s-2); }
+.idea table.instances td.feature b { font-weight: 500; }
+.idea table.instances td.feature > a:first-child:hover b { text-decoration: underline; }
+.idea table.instances td.only { color: var(--ink-2); font-style: italic; font-family: var(--serif); }
+.idea table.instances td.stance b { font-weight: 500; }
+.idea table.instances td.stance .source { margin-top: var(--s-1); }
+.idea table.instances td.unknown { color: var(--amber); font-family: var(--serif); width: 22%; }
+.idea table.instances td.kinds .slot + .slot { margin-top: var(--s-2); }
+.idea table.instances td.kinds .k { font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-2); display: block; }
+.idea ul.claims, .idea ul.lineage, .idea-aliases ul { list-style: none; margin: 0; padding: 0; }
+.idea ul.claims li + li { margin-top: var(--s-2); }
+.idea .who { font-size: var(--t1); color: var(--ink-3); }
+.idea .doubt { color: var(--amber); display: inline; }
+.idea ul.lineage li, .idea-aliases li { padding: var(--s-2) 0; border-bottom: 1px solid var(--line); }
+.idea ul.lineage q { font-family: var(--serif); font-style: italic; }
+.idea .reason { color: var(--ink-2); }
+.idea-others p { line-height: 1.8; }
+.idea-others small { color: var(--ink-3); }
+
+/* Narrow screens: each row becomes a stack with its column names as labels, in the
+   same order in every row, so instances still compare top to bottom. */
+@media (max-width: 900px) {
+  .idea-head h1 { font-size: var(--t5); }
+  .idea table.idea-table, .idea table.idea-table tbody, .idea table.idea-table tr, .idea table.idea-table td { display: block; width: auto; }
+  .idea table.idea-table thead { display: none; }
+  .idea table.idea-table tr { padding: var(--s-3) 0; border-bottom: 1px solid var(--line); }
+  .idea table.idea-table tr.group { border-bottom: 1px solid var(--line-strong); padding: var(--s-6) 0 0; }
+  .idea table.idea-table tr.group th { display: block; border: 0; padding: 0; }
+  .idea table.idea-table td { border: 0; padding: var(--s-1) 0 var(--s-1) 124px; position: relative; min-height: 1.4em; }
+  .idea table.idea-table td::before { content: attr(data-label); position: absolute; left: 0; top: var(--s-1); width: 112px; font-family: var(--cond); font-size: 14px; font-weight: 500; color: var(--ink-2); }
+  .idea table.idea-table td:not([data-label]) { display: none; }
+  .idea table.instances td.feature { padding-left: 0; width: auto; }
+  .idea table.instances td.feature::before { content: none; }
+  .idea table.instances td.feature img { max-width: 320px; }
+  .idea table.instances td.unknown { width: auto; }
+}

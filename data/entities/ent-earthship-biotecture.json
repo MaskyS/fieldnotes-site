@@ -1,0 +1,80 @@
+{
+ "id": "ent-earthship-biotecture",
+ "type": "organisation",
+ "name": "Earthship Biotecture",
+ "aliases": [],
+ "public_basis": "an organisation the film's description gives an address for",
+ "computed": {
+  "films": [
+   {
+    "film": "efI77fzBgvg",
+    "title": "Greater World’s Earthship community",
+    "where": "New Mexico, United States",
+    "film_year": "2014",
+    "upload_date": "2014-10-06",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=efI77fzBgvg",
+    "records": [
+     {
+      "kind": "link",
+      "url": "https://earthship.com/",
+      "name": "Earthship Biotecture"
+     },
+     {
+      "kind": "link",
+      "url": "https://www.instagram.com/earthship/",
+      "name": "Earthship Biotecture"
+     },
+     {
+      "kind": "link",
+      "url": "https://www.facebook.com/earthship",
+      "name": "Earthship Biotecture"
+     },
+     {
+      "kind": "link",
+      "url": "https://www.youtube.com/@earthship",
+      "name": "Earthship Biotecture"
+     }
+    ],
+    "claims": [],
+    "links": [
+     {
+      "url": "https://earthship.com/",
+      "kind": "practice",
+      "line": "— Earthship Biotecture website: https://earthship.com/"
+     },
+     {
+      "url": "https://www.instagram.com/earthship/",
+      "kind": "social",
+      "line": "— instagram: https://www.instagram.com/earthship/"
+     },
+     {
+      "url": "https://www.facebook.com/earthship",
+      "kind": "social",
+      "line": "— Facebook: https://www.facebook.com/earthship"
+     },
+     {
+      "url": "https://www.youtube.com/@earthship",
+      "kind": "social",
+      "line": "— YouTube: https://www.youtube.com/@earthship"
+     }
+    ],
+    "behind": [
+     "Mike Reynolds"
+    ]
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 4,
+   "mentions": 0,
+   "years": [
+    "2014"
+   ]
+  },
+  "instance_hash": "6c61948d93bf9cf0",
+  "built": "2026-10-06T13:18:27"
+ }
+}

@@ -1,0 +1,8 @@
+# Review — choose candidate 2
+Both candidates preserve the distinct Academy observations. Candidate 2 better reproduces the curving foreground tire tiers, clarifies that the bottle scene shows preparation context rather than finished paired bricks, and adds an explicit simplified-pattern note to the stair detail. Choose candidate 2.
+
+Faithful: exposed black tires with earthen infill and terraces, loose blue/green/clear bottles in an outdoor workyard, rough timber table, tall unfinished can-end facade, pointed amber door, exposed tires at unfinished openings, sloped timber glazing and rough can-ended stair riser. The Academy gathering place is shown instead of inventing a common house; future apartments, river and trees remain attributed proposals.
+
+Remaining inventions/deviations: exact tire quantities, stack heights, tread patterns, row curvature, bottle arrangement, table bottle lineup, can pattern, wall proportions, shrub distribution and stair cracks are simplified or synthesized. The table remains tidier than the filmed pile. Bottle markings are pictorial texture, not verified brands. Dashed endpoints denote uncertainty but do not supply the complete amphitheater extent. The facade has an approximated parapet edge and partial upper opening geometry. Four panels are editorial placement, not site adjacency; no full building plan, hidden structure or completed community facility is established.
+
+Both candidates used exactly these catalogue frames in order: 0020, 0012, 0023, 0026, 0038. Frame 0026 is included in provenance even though it mainly supplies supporting interior material context. No generated or outside image was passed.

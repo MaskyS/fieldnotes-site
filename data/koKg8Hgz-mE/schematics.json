@@ -1,0 +1,39 @@
+{
+ "property_id": "koKg8Hgz-mE",
+ "items": [
+  {
+   "id": "levels",
+   "kind": "section",
+   "title": "Four levels in one stated height",
+   "levels": [
+    {"id": "bedroom", "feature": "bedroom", "label": "Basement bedroom"},
+    {"id": "kitchen", "feature": "chef-kitchen", "label": "Lower kitchen"},
+    {"id": "living", "feature": "living-landing", "label": "Living platform"},
+    {"id": "bathroom", "feature": "bathroom", "label": "Bathroom and shower"}
+   ],
+   "links": [
+    {"from": "bedroom", "to": "kitchen", "feature": "lower-stair", "label": "narrow stair"},
+    {"from": "kitchen", "to": "living", "feature": "floor-setback", "label": "open steps"},
+    {"from": "living", "to": "bathroom", "feature": "upper-stair", "label": "open-tread stair"}
+   ],
+   "marks": [
+    {"level": "living", "feature": "window", "label": "the only window"}
+   ],
+   "dimensions": [
+    {"claim": "height", "axis": "y", "span": ["bedroom", "bathroom"], "label": "available height"},
+    {"claim": "shower-two-meters", "axis": "y", "span": ["bathroom"], "label": "shower"},
+    {"claim": "kitchen-setback-distance", "axis": "x", "from": "front", "to": "kitchen", "label": "window to the kitchen"}
+   ],
+   "figures": [
+    {"claim": "area", "label": "floor area"},
+    {"claim": "kitchen-area", "label": "kitchen"}
+   ],
+   "not_established": [
+    "each level's own height",
+    "the plan depth beyond the window-to-kitchen distance",
+    "which level sits at street level",
+    "the floor build-up's thickness, said in two conflicting ways"
+   ]
+  }
+ ]
+}

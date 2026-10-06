@@ -1,0 +1,8 @@
+# Review — choose candidate 2
+Candidate 2 improves candidate 1 by separating Global and Duke into panels, identifying the Simple Survival four-use explanation, replacing the invented cut-soil profile with a blank dashed containment box, correcting the planter edge and removing decorative landscape filler. Its evidence/claim distinction is clearer. Choose candidate 2.
+
+Faithful: green profiled roof, round debris-filled screened collection basin, planted glazed corridor, small pump beside large black filter in a timber cabinet, and dense Duke exterior vegetation. Hidden storage, washing, well, toilet and septic stages are explicitly described/concealed text boxes. Communal wetland, harvesting basins and irrigation return are explicitly unestablished. Tom’s dimensions are attributed, not measurements.
+
+Remaining inventions/deviations: hardware, foliage, roof rib spacing, cabinet fittings and planter geometry are simplified, not measured replicas. Short arrows are diagrammatic connections from narration, not visible pipe runs. The renderer retained a long two-headed dashed line beneath the Global row despite the correction request to remove it; treat this only as the span of the caption about Tom’s account, not a pipe, return route or bidirectional water flow. The explicit note says no garden-to-supply return is demonstrated. Duke garden panel is a symbolic vegetation strip, not its actual perimeter or section. No performance, potability, capacity or safety is established.
+
+Both candidates used exactly these catalogue references, in order: 0142, 0143, 0116, 0151, 0251. No generated or outside image was supplied as a reference.

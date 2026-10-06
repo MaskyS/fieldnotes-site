@@ -1,0 +1,8 @@
+# Review — choose candidate 2
+Candidate 1 invents the Simple Survival roundhouse, domed Nest, clustered Global, enclosed bottle yard and completed amphitheater. Candidate 2 corrects Global and Nest using direct exterior references, retains the visible three-home order and substitutes text for other unplaced buildings; it is substantially better.
+
+Faithful: green metal roofing, timber sloping Global glazing, Nest three-panel frontage, experimental sculptural forms and unfinished braced complex, local neighborhood order. It correctly excludes the 29:12 mountain map and does not invent a common house, communal wetland, parking edge or return network.
+
+Remaining inventions/limitations: this is an atlas of separated views, not a recoverable whole-community plan or full bird’s-eye survey. Page placement has no geographic meaning. Facade/roof proportions, window counts, shrub positions and shading are illustrative. The central dirt path is an indicative addition and dashed. Dashed floating rear envelopes are graphical uncertainty marks, not observed volumes. Unpictured named places remain text-only; Academy complex label is covered by experimental grounds rather than separately keyed. No orientation, boundary, scale or complete housing count is established. Film shows no usable community site plan, so claiming that layout follows the unrelated 29:12 document would be false.
+
+Selected candidate 2 was generated from exactly these catalogue frames in this order: 0288, 0308, 0004, 0104, 0313. No candidate image or outside image was used as a reference. Candidate 1 used 0288, 0308, 0004, 0251, 0330.

@@ -1,0 +1,5204 @@
+{
+ "title": "Milagro Cohousing, Tucson",
+ "source": {
+  "id": "QHpo46tawBs",
+  "url": "https://www.youtube.com/watch?v=QHpo46tawBs",
+  "duration": 1334.261,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "automatic English captions; errors retained where unresolved",
+  "transcript_kind": "automatic captions",
+  "context": {
+   "location": {
+    "country": "United States",
+    "state_or_region": "Arizona",
+    "nearest_place": "Tucson",
+    "precision": "Tucson western foothills; neighborhood-level description, no coordinates established",
+    "evidence": [
+     "Opening caption around 00:05: Tucson, Arizona.",
+     "Video description: Tucson’s western foothills; country follows from the stated Arizona location."
+    ],
+    "climate": {
+     "koppen": "BWh",
+     "name": "hot desert",
+     "group": "arid",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Tucson, Arizona, United States",
+      "lat": 32.223,
+      "lon": -110.975,
+      "matched": "Tucson, Pima County, Arizona, United States",
+      "stands_for": "city",
+      "precision": "Tucson western foothills; neighborhood-level description, no coordinates established"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 318,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Tucson, Arizona, United States",
+      "lat": 32.223,
+      "lon": -110.975,
+      "matched": "Tucson, Pima County, Arizona, United States",
+      "stands_for": "city",
+      "precision": "Tucson western foothills; neighborhood-level description, no coordinates established"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "9b",
+     "mean_annual_extreme_min_c": -2.3,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Tucson, Arizona, United States",
+      "lat": 32.223,
+      "lon": -110.975,
+      "matched": "Tucson, Pima County, Arizona, United States",
+      "stands_for": "city",
+      "precision": "Tucson western foothills; neighborhood-level description, no coordinates established"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 722,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Tucson, Arizona, United States",
+      "lat": 32.223,
+      "lon": -110.975,
+      "matched": "Tucson, Pima County, Arizona, United States",
+      "stands_for": "city",
+      "precision": "Tucson western foothills; neighborhood-level description, no coordinates established"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "stated": {
+     "rainfall": {
+      "claim": "rainfall-tucson",
+      "at": [
+       817.6
+      ],
+      "by": "beth",
+      "said": {
+       "value": 10.5,
+       "unit": "in",
+       "per": "year",
+       "approx": true
+      },
+      "value": 267,
+      "unit": "mm/yr",
+      "derived": 318,
+      "agrees": true
+     }
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2026-03-29",
+   "filming_date": "not disclosed",
+   "land_and_construction_cost": "not disclosed",
+   "note": "Founding couple and several speakers remain unnamed; descriptions distinguish appearance. Brad Lancaster is credited at 12:43 but is not a speaking participant. Upload date is not filming date. The description’s 28-year history, stated 2000 tree planting and spoken 20-year ages are not reconciled."
+  }
+ },
+ "sampling": {
+  "frames": 374,
+  "candidate_shots": 262,
+  "contact_sheets": 14,
+  "method": "every 12 seconds plus midpoint of each automatically detected candidate shot",
+  "review_directory": "review/QHpo46tawBs"
+ },
+ "subject": {
+  "place": "milagro-community",
+  "people": [
+   "beth",
+   "melissa"
+  ],
+  "households": 28,
+  "site_area": "43 acres",
+  "note": "Community-wide subject; listed named speakers are not a complete resident or ownership register.",
+  "gist": "Neighbors clustered adobe homes to preserve desert and share daily life, winning rezoning and later digging out their aging wastewater wetland together.",
+  "story": {
+   "text": "Milagro starts with neighbours who want company and room for the desert to remain desert. They persuade neighbours and the city to let them cluster adobe homes, with parking outside and porches facing one another. The walk home becomes a chance to catch up; children can run between houses, while back porches offer privacy. Their shade surprises even the founders: trees flourish on water reused from household drains through a shared treatment wetland. After twenty years, that wetland needs painstaking digging and gravel cleaning. This is a community where sharing daily life also means doing the work that keeps the place alive.",
+   "moments": [
+    {
+     "phrase": "persuade neighbours and the city to let them cluster adobe homes",
+     "at": 924.08
+    },
+    {
+     "phrase": "The walk home becomes a chance to catch up",
+     "at": 25.28
+    },
+    {
+     "phrase": "back porches offer privacy",
+     "at": 172
+    },
+    {
+     "phrase": "trees flourish on water reused from household drains",
+     "at": 742.68
+    },
+    {
+     "phrase": "painstaking digging and gravel cleaning",
+     "at": 1028.04
+    }
+   ]
+  },
+  "derived_kind": "community"
+ },
+ "places": [
+  {
+   "id": "milagro-community",
+   "title": "Milagro Cohousing",
+   "kind": "community",
+   "within": null,
+   "caveat": "Whole community, with area and household count attributed to the description.",
+   "entity": "ent-milagro-cohousing"
+  },
+  {
+   "id": "shared-paths",
+   "title": "Shared paths and planted gathering areas",
+   "caveat": "Unentered dwellings are not assigned resident names or inferred adjacency.",
+   "kind": "outdoor area",
+   "within": "milagro-community"
+  },
+  {
+   "id": "central-green",
+   "title": "Circular lawn",
+   "caveat": "Common green visible; no surveyed extent or exclusive-use rule.",
+   "kind": "outdoor area",
+   "within": "milagro-community"
+  },
+  {
+   "id": "common-house",
+   "title": "Common house",
+   "caveat": "Beth enters dining/kitchen area around 07:10; distinct from both private homes.",
+   "kind": "building",
+   "within": "milagro-community"
+  },
+  {
+   "id": "home-founding-couple",
+   "title": "Founding couple’s home",
+   "caveat": "Entered around 05:17; names not introduced and porch plaque alone is not used to identify speakers.",
+   "kind": "building",
+   "within": "milagro-community"
+  },
+  {
+   "id": "home-beth",
+   "title": "Beth’s home",
+   "caveat": "Entered around 07:43; includes two downstairs bedrooms, loft, porch and private yard.",
+   "kind": "building",
+   "within": "milagro-community"
+  },
+  {
+   "id": "pool",
+   "title": "Community pool",
+   "caveat": "Aerial view and Beth’s mention only; enclosure not entered.",
+   "kind": "outdoor area",
+   "within": "milagro-community"
+  },
+  {
+   "id": "desert-wash",
+   "title": "Desert wash and preserved land",
+   "caveat": "Ownership, floodplain status and protection are attributed claims, with boundaries unverified.",
+   "kind": "land feature",
+   "within": "milagro-community"
+  },
+  {
+   "id": "wetland",
+   "title": "Constructed wastewater wetland",
+   "caveat": "Treatment beds and maintenance area; archive views distinct from current repairs.",
+   "kind": "outdoor area",
+   "within": "milagro-community"
+  },
+  {
+   "id": "parking-edge",
+   "title": "Parking edge and entrance",
+   "caveat": "Covered parking and closed outbuilding; interior and outbuilding use unestablished.",
+   "kind": "outdoor area",
+   "within": "milagro-community"
+  }
+ ],
+ "people": [
+  {
+   "id": "beth",
+   "name": "Beth",
+   "relation": "resident",
+   "role": "resident and home-tour guide"
+  },
+  {
+   "id": "melissa",
+   "name": "Melissa",
+   "relation": "resident",
+   "role": "resident collecting garden plants"
+  },
+  {
+   "id": "brad-lancaster",
+   "name": "Brad Lancaster",
+   "relation": "other",
+   "role": "rainwater harvesting adviser",
+   "note": "A founding resident says they worked with him on the natural drainage and basins (12:43); the description names him with his site. Not filmed."
+  }
+ ],
+ "claims": [
+  {
+   "id": "household-count",
+   "text": "28 households",
+   "by": "description",
+   "at": [],
+   "about": "clustered-households",
+   "headline": true,
+   "kind": "fact",
+   "quantity": {
+    "value": 28,
+    "unit": "household",
+    "of": "count"
+   }
+  },
+  {
+   "id": "land-area",
+   "text": "43 acres [17.4 ha], houses on 8 acres",
+   "by": "description",
+   "at": [],
+   "about": "preserved-desert",
+   "headline": true,
+   "kind": "fact",
+   "quantity": {
+    "value": 43,
+    "unit": "acre",
+    "of": "land area"
+   }
+  },
+  {
+   "id": "beth-area",
+   "text": "Beth’s home about 1,500 ft² [139 m²]",
+   "by": "beth",
+   "at": [
+    463.76
+   ],
+   "about": "beth-compact-home",
+   "headline": true,
+   "kind": "fact",
+   "quantity": {
+    "value": 1500,
+    "unit": "ft2",
+    "of": "floor area",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "beth-bill",
+   "text": "Energy bills about $25 a month",
+   "by": "beth",
+   "at": [
+    498.4
+   ],
+   "about": "beth-adobe-mass",
+   "headline": true,
+   "kind": "upkeep",
+   "quantity": {
+    "value": 25,
+    "unit": "USD",
+    "of": "running cost",
+    "per": "month",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cost-reduction",
+   "text": "Heating and cooling about 75% below a typical Tucson home",
+   "by": "description",
+   "at": [],
+   "about": "local-adobe",
+   "headline": true,
+   "kind": "upkeep"
+  },
+  {
+   "id": "borrowed-tools",
+   "text": "Borrowed tools among the community benefits",
+   "by": "description",
+   "at": [],
+   "about": "shared-tool-borrowing",
+   "headline": false,
+   "kind": "household"
+  },
+  {
+   "id": "claim-beth-energy-bill",
+   "text": "Beth’s reported $25 monthly energy bill",
+   "by": "narrator",
+   "at": [
+    498.4
+   ],
+   "about": "beth-adobe-mass",
+   "headline": true,
+   "kind": "upkeep",
+   "quantity": {
+    "value": 25,
+    "unit": "USD",
+    "of": "running cost",
+    "per": "month"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-1",
+   "text": "Houses had to be built above the 100-year flood level of the wash",
+   "by": "narrator",
+   "at": [
+    880.44
+   ],
+   "about": "desert-wash",
+   "headline": false,
+   "topic": "law",
+   "doubt": "No authority is named for \"had to\".",
+   "kind": "climate",
+   "quantity": {
+    "value": 100,
+    "unit": "year",
+    "of": "threshold"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-2",
+   "text": "Zoning had to be changed to build the clustered community",
+   "by": "narrator",
+   "at": [
+    905.76
+   ],
+   "about": "rezoning-history",
+   "headline": false,
+   "topic": "law",
+   "doubt": "The filmmaker says it; a founder confirms with \"We did\".",
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-3",
+   "text": "Prevailing standard in the area was one house per 3 acres [1.2 ha]",
+   "by": "narrator",
+   "at": [
+    910.72
+   ],
+   "about": "rezoning-history",
+   "headline": false,
+   "topic": "law",
+   "doubt": "Captions say \"the ethic here\", which may be a garbled zoning term; as heard it is a local norm, not a stated legal limit.",
+   "kind": "fact",
+   "quantity": {
+    "value": 3,
+    "unit": "acre",
+    "of": "threshold",
+    "per": "home"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-4",
+   "text": "Rezoning needed city council approval; founders first persuaded neighbours, then lobbied the council",
+   "by": "narrator",
+   "at": [
+    924.08
+   ],
+   "about": "rezoning-history",
+   "headline": false,
+   "topic": "law",
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "law-5",
+   "text": "City council agreed to the clustered plan and supported it",
+   "by": "narrator",
+   "at": [
+    940.56
+   ],
+   "about": "rezoning-history",
+   "headline": false,
+   "topic": "law",
+   "kind": "fact",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "rainfall-tucson",
+   "text": "Tucson gets 9 to 12 inches of rain a year, so the reclaimed wastewater irrigation is crucial",
+   "by": "beth",
+   "at": [
+    817.6
+   ],
+   "about": "reclaimed-irrigation",
+   "headline": false,
+   "doubt": "The captions do not mark who answers the filmmaker; three residents stand in the shot and the answer may be Melissa's.",
+   "quantity": {
+    "value": 10.5,
+    "unit": "in",
+    "of": "rainfall",
+    "per": "year",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-01",
+   "text": "Parking away from the houses makes residents walk, providing exercise and opportunities to meet people.",
+   "by": "narrator",
+   "at": [
+    25.28
+   ],
+   "about": "pedestrian-paths",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-02",
+   "text": "A founder wanted a different way of living after a development where residents parked in garages and children stayed inside left little community.",
+   "by": "narrator",
+   "at": [
+    56.27
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-03",
+   "text": "The founders wanted the interior safe for children and families, with people connecting as they walked into the community.",
+   "by": "narrator",
+   "at": [
+    72.28
+   ],
+   "about": "pedestrian-paths",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-04",
+   "text": "In 1993, the founders began imagining healthier desert living with community instead of isolation in houses and garages.",
+   "by": "narrator",
+   "at": [
+    91.99
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-05",
+   "text": "Four couples sat down together to begin imagining the community.",
+   "by": "narrator",
+   "at": [
+    107.68
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-06",
+   "text": "The founders initially considered putting their two houses on a shared piece of land.",
+   "by": "narrator",
+   "at": [
+    115.96
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "alternative",
+   "quantity": {
+    "value": 2,
+    "unit": "home",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-07",
+   "text": "The founders did not initially know about cohousing.",
+   "by": "narrator",
+   "at": [
+    119.96
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The caption mixes an interviewer’s prompt with the residents’ brief negative answers.",
+   "kind": "skill",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-08",
+   "text": "Facing houses, front porches and front kitchens let residents see neighbors while doing chores and go outside to talk.",
+   "by": "narrator",
+   "at": [
+    126.479
+   ],
+   "about": "facing-porches",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-10",
+   "text": "A resident uses the back porch for privacy and the front porch when wanting to socialize.",
+   "by": "narrator",
+   "at": [
+    170.2
+   ],
+   "about": "facing-porches",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-11",
+   "text": "A resident reports living here for 23 years.",
+   "by": "narrator",
+   "at": [
+    177.88
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "time",
+   "quantity": {
+    "value": 23,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-12",
+   "text": "A resident moved from Wisconsin, having drawn communities as a child and fallen in love with the Sonoran Desert at age five.",
+   "by": "narrator",
+   "at": [
+    177.88
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "quantity": {
+    "value": 5,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-13",
+   "text": "Developing shaded areas was crucial because otherwise the community would be too hot.",
+   "by": "narrator",
+   "at": [
+    220.88
+   ],
+   "about": "mesquite-shade",
+   "headline": false,
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-14",
+   "text": "Anyone can pick the community’s figs without asking permission.",
+   "by": "narrator",
+   "at": [
+    241.88
+   ],
+   "about": "shared-figs",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-15",
+   "text": "Adobe was a breakthrough because the founders needed a house material they could afford that would work in the desert.",
+   "by": "narrator",
+   "at": [
+    274.32
+   ],
+   "about": "local-adobe",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-16",
+   "text": "The adobe bricks were made locally in town and suited the desert.",
+   "by": "narrator",
+   "at": [
+    282.44
+   ],
+   "about": "local-adobe",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-17",
+   "text": "Agreeing that everyone would have adobe walls, metal roofs and scored concrete floors helped bring the group together.",
+   "by": "narrator",
+   "at": [
+    293.04
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-18",
+   "text": "The founding household collects water in a cistern behind the porch screen and two more at the back.",
+   "by": "narrator",
+   "at": [
+    305.28
+   ],
+   "about": "founders-cisterns",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-19",
+   "text": "Fitting solar on the founding couple’s roof was difficult, but a solution was found.",
+   "by": "narrator",
+   "at": [
+    312.2
+   ],
+   "about": "founders-solar",
+   "headline": false,
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-20",
+   "text": "Most households preferred leaving the adobe exposed; one household covered it.",
+   "by": "narrator",
+   "at": [
+    320.88
+   ],
+   "about": "local-adobe",
+   "headline": false,
+   "kind": "alternative",
+   "quantity": {
+    "value": 1,
+    "unit": "household",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-21",
+   "text": "The founding home felt cool after the outdoor heat with no air conditioning running.",
+   "by": "narrator",
+   "at": [
+    327.6
+   ],
+   "about": "local-adobe",
+   "headline": false,
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-22",
+   "text": "The founding home combines kitchen, dining and living rooms in a small space that feels airy and open rather than cramped.",
+   "by": "narrator",
+   "at": [
+    332.64
+   ],
+   "about": "founders-open-living",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-23",
+   "text": "Beth describes cohousing as people intentionally living together because they want to know their neighbors.",
+   "by": "beth",
+   "at": [
+    364.71
+   ],
+   "about": null,
+   "headline": false,
+   "doubt": "The speaker is inferred to be Beth from the following introduction and her account of moving here.",
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-24",
+   "text": "Beth found her previous neighborhood isolating because her family knew only nearby neighbors and no children.",
+   "by": "beth",
+   "at": [
+    389.04
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-25",
+   "text": "Beth’s family moved here when her daughter was nine years old.",
+   "by": "beth",
+   "at": [
+    398.24
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "quantity": {
+    "value": 9,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-26",
+   "text": "Children can run between houses to find friends without residents worrying about cars.",
+   "by": "beth",
+   "at": [
+    406.12
+   ],
+   "about": "pedestrian-paths",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-27",
+   "text": "The children organized their own community meal just for children in the shared kitchen.",
+   "by": "beth",
+   "at": [
+    421.16
+   ],
+   "about": "childrens-common-meals",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-28",
+   "text": "Beth says there is enough for children to do here that parents can send them outside to play instead of spending time online.",
+   "by": "beth",
+   "at": [
+    439.4
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-29",
+   "text": "Beth’s family saw the house for sale, and it felt like home when she walked in; she loved the deep porch.",
+   "by": "beth",
+   "at": [
+    453.84
+   ],
+   "about": "beth-compact-home",
+   "headline": false,
+   "kind": "land",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-30",
+   "text": "Beth’s family did not want a large house and chose one of the smaller homes, which she estimates at 1,500 square feet.",
+   "by": "beth",
+   "at": [
+    463.76
+   ],
+   "about": "beth-compact-home",
+   "headline": false,
+   "kind": "reason",
+   "quantity": {
+    "value": 1500,
+    "unit": "ft2",
+    "of": "floor area",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-31",
+   "text": "Beth says the concrete floor stays cool and is warm in winter.",
+   "by": "beth",
+   "at": [
+    471.6
+   ],
+   "about": "beth-scored-concrete",
+   "headline": false,
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-32",
+   "text": "Beth describes passive solar design with deeper north-facing porches and more winter light on the south-facing side.",
+   "by": "beth",
+   "at": [
+    479.2
+   ],
+   "about": "beth-passive-solar",
+   "headline": false,
+   "kind": "climate",
+   "facing": "south",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-33",
+   "text": "Beth attributes energy bills of about $25 a month to the combination of adobe and solar.",
+   "by": "beth",
+   "at": [
+    498.4
+   ],
+   "about": "beth-adobe-mass",
+   "headline": false,
+   "kind": "upkeep",
+   "quantity": {
+    "value": 25,
+    "unit": "USD",
+    "of": "running cost",
+    "per": "month",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-34",
+   "text": "Beth says the house was built around a saguaro she tentatively estimates to be about 150 years old.",
+   "by": "beth",
+   "at": [
+    516.64
+   ],
+   "about": "retained-saguaro",
+   "headline": false,
+   "kind": "method",
+   "quantity": {
+    "value": 150,
+    "unit": "year",
+    "of": "age",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-35",
+   "text": "Beth agrees her house stays cool without air conditioning because of its thick adobe walls.",
+   "by": "beth",
+   "at": [
+    534.839
+   ],
+   "about": "beth-adobe-mass",
+   "headline": false,
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-36",
+   "text": "Beth’s living ocotillo fence has sprouted leaves and grown tall in places.",
+   "by": "beth",
+   "at": [
+    564.32
+   ],
+   "about": "ocotillo-fence",
+   "headline": false,
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-37",
+   "text": "Beth’s family felt they did not need a larger house because there was so much shared space.",
+   "by": "beth",
+   "at": [
+    576.28
+   ],
+   "about": "beth-compact-home",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-38",
+   "text": "Beth and her husband both work from home, using the loft as an office and guest room.",
+   "by": "beth",
+   "at": [
+    591.71
+   ],
+   "about": "beth-loft",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-39",
+   "text": "Working parents shared school carpooling because many of their children attended the same school.",
+   "by": "beth",
+   "at": [
+    605.28
+   ],
+   "about": "school-carpooling",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-40",
+   "text": "Residents own their individual houses while also having communal space.",
+   "by": "beth",
+   "at": [
+    620.84
+   ],
+   "about": "individual-home-ownership",
+   "headline": false,
+   "kind": "land",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-41",
+   "text": "Kitchen sinks and large windows face the path so residents can see people passing.",
+   "by": "beth",
+   "at": [
+    628.6
+   ],
+   "about": "beth-kitchen-windows",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-42",
+   "text": "Vegetation gives Beth privacy while allowing her to stay connected with the community.",
+   "by": "beth",
+   "at": [
+    638.64
+   ],
+   "about": "beth-kitchen-windows",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-43",
+   "text": "Outdoor gathering spaces mean Beth does not necessarily feel she has to invite people into her home.",
+   "by": "beth",
+   "at": [
+    649.839
+   ],
+   "about": "facing-porches",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-44",
+   "text": "Parties and porch pubs start on residents’ porches and spread into the shared gathering area with tables and food.",
+   "by": "narrator",
+   "at": [
+    663.19
+   ],
+   "about": "porch-pubs",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-45",
+   "text": "Planting uses layers of large mature trees, smaller trees underneath and shrubs.",
+   "by": "narrator",
+   "at": [
+    691.16
+   ],
+   "about": "layered-planting",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-46",
+   "text": "A founder brought a mesquite from his Tucson backyard and planted it here in 2000; he calls it 20 years old.",
+   "by": "narrator",
+   "at": [
+    701.28
+   ],
+   "about": "mesquite-shade",
+   "headline": false,
+   "doubt": "The stated age of 20 years and planting in 2000 do not align with the 2026 upload date; the filming date is unknown.",
+   "kind": "sourcing",
+   "quantity": {
+    "value": 20,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-47",
+   "text": "The transplanted mesquite thrived because of the community’s irrigation system.",
+   "by": "narrator",
+   "at": [
+    720.08
+   ],
+   "about": "mesquite-shade",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-48",
+   "text": "The landscaped community began as barren land with nothing planted there.",
+   "by": "narrator",
+   "at": [
+    727.36
+   ],
+   "about": "bare-ground-history",
+   "headline": false,
+   "kind": "fact",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-49",
+   "text": "The trees receive nitrogen and other nutrients from household effluent, including toilet wastewater.",
+   "by": "narrator",
+   "at": [
+    745.92
+   ],
+   "about": "reclaimed-irrigation",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-50",
+   "text": "Brad Lancaster helped the community arrange natural drainage and basins to collect rainwater.",
+   "by": "narrator",
+   "at": [
+    763.59
+   ],
+   "about": "rain-basins",
+   "headline": false,
+   "kind": "skill",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-51",
+   "text": "Each house has a basin that holds rainwater while it soaks into the soil.",
+   "by": "narrator",
+   "at": [
+    781.72
+   ],
+   "about": "rain-basins",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-52",
+   "text": "Household wastewater goes into septic tanks, where solids remain while the water continues to the wetland.",
+   "by": "narrator",
+   "at": [
+    797.16
+   ],
+   "about": "septic-separation",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-53",
+   "text": "Sinks, toilets and showers supply the wetland with 2,000–3,000 gallons of water a day.",
+   "by": "narrator",
+   "at": [
+    807.96
+   ],
+   "about": "reclaimed-irrigation",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-55",
+   "text": "A resident says she had no idea what she was getting into with the desert water and planting systems.",
+   "by": "narrator",
+   "at": [
+    837.28
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "skill",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-56",
+   "text": "A resident raised her children in the Midwest and moved to Tucson at age 44, later growing to love it.",
+   "by": "narrator",
+   "at": [
+    841.52
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "household",
+   "quantity": {
+    "value": 44,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-57",
+   "text": "The community owns 25 acres of desert wash.",
+   "by": "narrator",
+   "at": [
+    871.36
+   ],
+   "about": "desert-wash",
+   "headline": false,
+   "kind": "land",
+   "quantity": {
+    "value": 25,
+    "unit": "acre",
+    "of": "land area"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-58",
+   "text": "Homes had to be above the 100-year flood level because summer monsoons cover almost the entire wash with flowing water.",
+   "by": "narrator",
+   "at": [
+    880.44
+   ],
+   "about": "desert-wash",
+   "headline": false,
+   "kind": "climate",
+   "quantity": {
+    "value": 100,
+    "unit": "year",
+    "of": "threshold"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-59",
+   "text": "The community chose not to develop another five acres high enough for building because it wanted to preserve the desert.",
+   "by": "narrator",
+   "at": [
+    893.2
+   ],
+   "about": "preserved-desert",
+   "headline": false,
+   "kind": "land",
+   "quantity": {
+    "value": 5,
+    "unit": "acre",
+    "of": "land area"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-60",
+   "text": "The founders wanted clustered homes to build community and retain desert rather than the area’s usual one house per three acres.",
+   "by": "narrator",
+   "at": [
+    910.72
+   ],
+   "about": "clustered-households",
+   "headline": false,
+   "kind": "alternative",
+   "quantity": {
+    "value": 3,
+    "unit": "acre",
+    "of": "threshold",
+    "per": "home"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-61",
+   "text": "Household water enters underground through a distribution point that directs it to either the west or east wetland basin.",
+   "by": "narrator",
+   "at": [
+    959.99
+   ],
+   "about": "wetland-distribution-pipes",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-62",
+   "text": "Water stays in the wetland for about three days while bacteria between the stones partly clean it.",
+   "by": "narrator",
+   "at": [
+    976.04
+   ],
+   "about": "wetland-beds",
+   "headline": false,
+   "kind": "method",
+   "quantity": {
+    "value": 3,
+    "unit": "day",
+    "of": "component time",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-63",
+   "text": "The wetland’s bacteria arrive naturally in the household wastewater.",
+   "by": "narrator",
+   "at": [
+    985.44
+   ],
+   "about": "wetland-beds",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-65",
+   "text": "A buried perforated pipe distributes incoming water through the wetland for treatment.",
+   "by": "narrator",
+   "at": [
+    997.52
+   ],
+   "about": "wetland-distribution-pipes",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-66",
+   "text": "An outlet pipe collects treated water and sends it through a box to the collection tank.",
+   "by": "narrator",
+   "at": [
+    1006.56
+   ],
+   "about": "wetland-distribution-pipes",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-67",
+   "text": "The collection-tank pump switches on when water reaches a set level and sends water back up into the community.",
+   "by": "narrator",
+   "at": [
+    1017.88
+   ],
+   "about": "wetland-pump",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-68",
+   "text": "After 20 years, accumulated eroded soil and roots reduced the wetland’s performance, requiring rehabilitation.",
+   "by": "narrator",
+   "at": [
+    1028.04
+   ],
+   "about": "wetland-rehabilitation",
+   "headline": false,
+   "kind": "upkeep",
+   "quantity": {
+    "value": 20,
+    "unit": "year",
+    "of": "age"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-69",
+   "text": "Residents painstakingly dig out wetland rocks and screen away dirt because the clogged material no longer works as well.",
+   "by": "narrator",
+   "at": [
+    1038.12
+   ],
+   "about": "wetland-rehabilitation",
+   "headline": false,
+   "kind": "upkeep",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-70",
+   "text": "A liner beneath the wetland bed holds the water in place.",
+   "by": "narrator",
+   "at": [
+    1053.12
+   ],
+   "about": "wetland-liner",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-71",
+   "text": "The wetland gravel will be cleaned and put back into the bed.",
+   "by": "narrator",
+   "at": [
+    1054.36
+   ],
+   "about": "wetland-restoration-plan",
+   "headline": false,
+   "kind": "upkeep",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-72",
+   "text": "The residents expect cleaning and erosion control to give the wetland another 20–30 years of service.",
+   "by": "narrator",
+   "at": [
+    1067.68
+   ],
+   "about": "wetland-restoration-plan",
+   "headline": false,
+   "kind": "upkeep",
+   "quantity": {
+    "value": 25,
+    "unit": "year",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-73",
+   "text": "Reclaimed water is pumped underground to the top of the community and flows back down by gravity.",
+   "by": "narrator",
+   "at": [
+    1079.32
+   ],
+   "about": "reclaimed-irrigation",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-74",
+   "text": "Gutters and downspouts route rain from both neighboring roofs into a tree’s basin.",
+   "by": "narrator",
+   "at": [
+    1107.72
+   ],
+   "about": "roof-runoff",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-75",
+   "text": "Digging out the rainwater basin was hard work.",
+   "by": "narrator",
+   "at": [
+    1121.88
+   ],
+   "about": "rain-basins",
+   "headline": false,
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-76",
+   "text": "The land is shaped to direct water into depressions where it can soak in instead of running off the property.",
+   "by": "narrator",
+   "at": [
+    1126.2
+   ],
+   "about": "rain-basins",
+   "headline": false,
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-77",
+   "text": "A resident recalls the mulberry trees being laden with fruit the previous year.",
+   "by": "narrator",
+   "at": [
+    1140.48
+   ],
+   "about": "shared-mulberries",
+   "headline": false,
+   "doubt": "The caption calls the fruit “blackberries” immediately after identifying fruiting mulberry trees.",
+   "kind": "lesson",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-78",
+   "text": "The mulberries do well because they receive underground irrigation.",
+   "by": "narrator",
+   "at": [
+    1150
+   ],
+   "about": "shared-mulberries",
+   "headline": false,
+   "kind": "reason",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-79",
+   "text": "Residents’ daily sink and water use supplies 2,000 gallons a day to the underground irrigation.",
+   "by": "narrator",
+   "at": [
+    1156.48
+   ],
+   "about": "reclaimed-irrigation",
+   "headline": false,
+   "kind": "sourcing",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-80",
+   "text": "The goal is 50 gallons per person per day, compared with the speaker’s Tucson estimate of about 110 gallons per person per day.",
+   "by": "narrator",
+   "at": [
+    1190.24
+   ],
+   "about": "water-use-goal",
+   "headline": false,
+   "kind": "upkeep",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-81",
+   "text": "Some residents meet the water-use goal well and others do not; the speaker accepts this variation as part of community life.",
+   "by": "narrator",
+   "at": [
+    1199.04
+   ],
+   "about": "water-use-goal",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-82",
+   "text": "Participating residents review their water bills every month to track how much they are using.",
+   "by": "narrator",
+   "at": [
+    1205.08
+   ],
+   "about": "monthly-water-review",
+   "headline": false,
+   "kind": "upkeep",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-83",
+   "text": "Fruit trees near residents’ houses are for the whole community, and anyone may pick from them.",
+   "by": "narrator",
+   "at": [
+    1226.4
+   ],
+   "about": "shared-pomegranate",
+   "headline": false,
+   "kind": "household",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-84",
+   "text": "Residents are attentive to native plants instead of bringing in trees such as pines.",
+   "by": "narrator",
+   "at": [
+    1231.84
+   ],
+   "about": "native-jojoba",
+   "headline": false,
+   "kind": "alternative",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-85",
+   "text": "The community owned its land but lacked road access, so it exchanged land with the school board to secure an entrance.",
+   "by": "narrator",
+   "at": [
+    1263.6
+   ],
+   "about": "entrance-land-swap",
+   "headline": false,
+   "kind": "land",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-86",
+   "text": "A founder says keeping a dream in mind and living it can bring the breaks they call miracles.",
+   "by": "narrator",
+   "at": [
+    1300.16
+   ],
+   "about": null,
+   "headline": false,
+   "kind": "advice",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-87",
+   "text": "The description says 28 households have spent 28 years building the community.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": false,
+   "doubt": "The description’s 28-year account differs from the film’s 1993 starting point; the periods described may be different.",
+   "kind": "time",
+   "quantity": {
+    "value": 28,
+    "unit": "year",
+    "of": "build time"
+   }
+  },
+  {
+   "id": "k-88",
+   "text": "The design began with water rather than homes because the site is in a desert.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": false,
+   "kind": "climate"
+  },
+  {
+   "id": "k-89",
+   "text": "The description says the rain gardens and earthen basins let rain soak into the earth within 20 minutes of a storm.",
+   "by": "description",
+   "at": [],
+   "about": "rain-basins",
+   "headline": false,
+   "kind": "climate",
+   "quantity": {
+    "value": 20,
+    "unit": "minute",
+    "of": "component time"
+   }
+  },
+  {
+   "id": "k-90",
+   "text": "The description says land outside the eight acres of housing is permanently preserved desert accessible to everyone.",
+   "by": "description",
+   "at": [],
+   "about": "preserved-desert",
+   "headline": false,
+   "kind": "land",
+   "quantity": {
+    "value": 8,
+    "unit": "acre",
+    "of": "component area"
+   }
+  },
+  {
+   "id": "k-91",
+   "text": "The description credits shared meals, borrowed tools and supportive neighbors with making people stay.",
+   "by": "description",
+   "at": [],
+   "about": null,
+   "headline": false,
+   "kind": "household"
+  },
+  {
+   "id": "k-92",
+   "text": "Beth says the adobe walls also retain heat after the house is heated.",
+   "by": "beth",
+   "at": [
+    541.24
+   ],
+   "about": "beth-adobe-mass",
+   "headline": false,
+   "kind": "climate",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "k-93",
+   "text": "The wetland basin is “40 by 40” and receives 2,000–3,000 gallons daily, depending on household water use.",
+   "by": "narrator",
+   "at": [
+    967.0
+   ],
+   "about": "wetland-beds",
+   "headline": false,
+   "doubt": "The speaker gives no unit for the basin’s “40 by 40” dimensions.",
+   "kind": "method",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "f-01",
+   "text": "The houses facing north have deeper porches.",
+   "by": "beth",
+   "at": [
+    481.32
+   ],
+   "about": "clustered-households",
+   "headline": false,
+   "facing": "north",
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://milagrocohousing.org",
+   "kind": "community",
+   "entity": {
+    "type": "place",
+    "id": "milagro-community",
+    "entity": "ent-milagro-cohousing"
+   },
+   "by": "description",
+   "line": "milagrocohousing.org",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-2",
+   "url": "https://www.harvestingrainwater.com/",
+   "kind": "own site",
+   "entity": {
+    "type": "person",
+    "id": "brad-lancaster"
+   },
+   "by": "description",
+   "line": "—12:42 Milagro residents mention working with Brad Lancaster: https://www.harvestingrainwater.com/",
+   "channel": "Kirsten Dirksen",
+   "at": 762
+  },
+  {
+   "id": "link-3",
+   "url": "https://www.youtube.com/watch?v=KcAMXm9zITg&t=1s",
+   "kind": "video",
+   "entity": {
+    "type": "person",
+    "id": "brad-lancaster"
+   },
+   "by": "description",
+   "line": "—Our video with Brad: https://www.youtube.com/watch?v=KcAMXm9zITg&t=1s",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "founders-solar",
+   "predicate": "sits above",
+   "object": "green-metal-roofs",
+   "time": 314.566667,
+   "status": "Visual: rack and panels visibly stand above this home’s porch roof."
+  },
+  {
+   "subject": "porch-lattice",
+   "predicate": "screens the porch beside",
+   "object": "founders-cisterns",
+   "time": 305.1,
+   "status": "Visual: lattice and partially visible corrugated tank share the same porch view; tank identification also spoken at 05:05."
+  },
+  {
+   "subject": "beth-loft",
+   "predicate": "is upstairs within",
+   "object": "beth-compact-home",
+   "time": 593.3,
+   "status": "Visual: continuous stair ascent from the main living room to the loft."
+  },
+  {
+   "subject": "beth-kitchen-windows",
+   "predicate": "look toward",
+   "object": "pedestrian-paths",
+   "time": 637.133333,
+   "status": "Visual and spoken: kitchen-to-window view shows the porch planting and shared path beyond."
+  },
+  {
+   "subject": "roof-runoff",
+   "predicate": "is directed toward",
+   "object": "rain-basins",
+   "time": 1114.533333,
+   "status": "Guide explanation with visible roof/gutter and basin context at 18:27–18:35; no flowing water or full buried connection shown."
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "clustered-households",
+   "title": "Clustered homes around shared pedestrian spaces",
+   "category": "Community",
+   "description": "Aerials show closely grouped homes around planted pedestrian spaces, with open desert outside the cluster. The video description identifies Milagro as 28 households; the founding man says clustering was necessary to create community and preserve desert.",
+   "phase": "current",
+   "unknown": "The film does not establish occupancy at filming, household boundaries or the legal ownership structure of shared land.",
+   "related_ids": [
+    "pedestrian-paths",
+    "preserved-desert",
+    "individual-home-ownership"
+   ],
+   "place": "milagro-community",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 910,
+     "end": 921,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0262",
+     "time": 910.566667,
+     "path": "review/QHpo46tawBs/evidence/frame-0262.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0262.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0049",
+     "time": 191.3,
+     "path": "review/QHpo46tawBs/evidence/frame-0049.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0049.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0262.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "preserved-desert",
+   "title": "Desert retained beyond the housing cluster",
+   "category": "Land",
+   "description": "Open cactus and scrub landscape surrounds the built cluster. The description claims 43 acres [17.4 hectares] in total, with houses occupying eight acres [3.2 hectares] and the remainder permanently preserved. The founding man says an additional five acres [2.0 hectares] high enough for building were deliberately left undeveloped.",
+   "phase": "current",
+   "unknown": "No parcel survey, conservation instrument or exact boundary is supplied; permanent protection is a description claim.",
+   "related_ids": [
+    "clustered-households",
+    "desert-wash"
+   ],
+   "place": "desert-wash",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 893,
+     "end": 901,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0004",
+     "time": 12.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0004.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0004.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 881.466667,
+     "path": "review/QHpo46tawBs/evidence/frame-0258.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0261",
+     "time": 900.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0261.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0261.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0004.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "pedestrian-paths",
+   "title": "Car-free internal paths with parking at the edge",
+   "category": "Community",
+   "description": "Paved paths run through planted spaces between porches, while aerial and closing views show vehicles at peripheral parking. A resident on the opening walk says parking away from homes creates exercise and encounters; Beth says children can run between houses without worrying about cars.",
+   "phase": "current",
+   "unknown": "The film does not define delivery, emergency or accessibility vehicle exceptions.",
+   "related_ids": [
+    "covered-parking",
+    "facing-porches",
+    "childrens-common-meals"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 22.88,
+     "end": 38.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 398.24,
+     "end": 421.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0054",
+     "time": 207.133333,
+     "path": "review/QHpo46tawBs/evidence/frame-0054.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0054.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0313",
+     "time": 1080.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0313.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0313.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0369",
+     "time": 1306.133333,
+     "path": "review/QHpo46tawBs/evidence/frame-0369.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0369.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0054.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "covered-parking",
+   "title": "Green-roofed covered parking bays",
+   "category": "Structure",
+   "description": "Long shallow-roofed shelters cover rows of parked cars at the site edge. The closing views also show a van and a separate closed two-door building.",
+   "phase": "current",
+   "unknown": "Parking allocation, roof construction and the closed building’s function are not explained.",
+   "related_ids": [
+    "pedestrian-paths"
+   ],
+   "place": "parking-edge",
+   "part_of": null,
+   "terms": [
+    "carport"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0367",
+     "time": 1295.666667,
+     "path": "review/QHpo46tawBs/evidence/frame-0367.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0367.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0366",
+     "time": 1290.666667,
+     "path": "review/QHpo46tawBs/evidence/frame-0366.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0366.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 881.466667,
+     "path": "review/QHpo46tawBs/evidence/frame-0258.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0367.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "facing-porches",
+   "title": "Front porches facing shared paths and neighbors",
+   "category": "Community",
+   "description": "Porches with chairs open toward the walking paths and other homes. The founding woman in black explains that facing homes, front porches and front kitchens encourage contact; the resident in red describes her front porch as social and her rear porch as private.",
+   "phase": "current",
+   "unknown": "The red-shirt resident’s dwelling is not securely identified, and her rear porch is not shown.",
+   "related_ids": [
+    "pedestrian-paths",
+    "beth-kitchen-windows"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "terms": [
+    "porch"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 124.72,
+     "end": 149.32,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 161.24,
+     "end": 175.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0034",
+     "time": 147.666667,
+     "path": "review/QHpo46tawBs/evidence/frame-0034.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0034.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 305.1,
+     "path": "review/QHpo46tawBs/evidence/frame-0085.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0127",
+     "time": 452.5,
+     "path": "review/QHpo46tawBs/evidence/frame-0127.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0127.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0034.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "mesquite-shade",
+   "title": "Planted mesquite canopy shading the paths",
+   "category": "Climate",
+   "description": "Large branching trees cast extensive shade over the paths. The guides identify planted mesquites and say shade was crucial in the heat; the founding man identifies one as transplanted from his Tucson backyard in 2000 and also calls it 20 years old.",
+   "phase": "current",
+   "unknown": "Neither shade temperatures nor the tree’s age are measured; the age and year statements are not reconciled into a filming date.",
+   "related_ids": [
+    "layered-planting",
+    "reclaimed-irrigation"
+   ],
+   "place": "shared-paths",
+   "part_of": "layered-planting",
+   "terms": [
+    "shading"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 205.44,
+     "end": 226.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 701.28,
+     "end": 724,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0055",
+     "time": 212.066667,
+     "path": "review/QHpo46tawBs/evidence/frame-0055.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0055.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0203",
+     "time": 695.733333,
+     "path": "review/QHpo46tawBs/evidence/frame-0203.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0203.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0206",
+     "time": 702.466667,
+     "path": "review/QHpo46tawBs/evidence/frame-0206.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0206.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0055.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shared-figs",
+   "title": "Fig trees available for community picking",
+   "category": "Food",
+   "description": "A bare-branched tree beside the path is shown during the fig discussion. The founding woman in black identifies a fig, expects it to leaf out in about a month and says anyone can pick fruit without permission; later guides again describe figs as community fruit.",
+   "phase": "current",
+   "unknown": "No ripe figs, harvest yield, cultivar or written picking rule is shown.",
+   "related_ids": [
+    "shared-mulberries",
+    "shared-pomegranate"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 233.91,
+     "end": 243.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1220.44,
+     "end": 1233,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0061",
+     "time": 234.533333,
+     "path": "review/QHpo46tawBs/evidence/frame-0061.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0061.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0352",
+     "time": 1224.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0352.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0352.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0061.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "local-adobe",
+   "title": "Locally made adobe blocks left exposed",
+   "category": "Materials",
+   "description": "Tan blocks and mortar joints remain exposed on both the exterior and living-room faces of the founding couple’s home. The founding man says adobe was made in town and made the project affordable; inside, the founding woman says most households chose to leave it uncovered.",
+   "phase": "current",
+   "unknown": "Block composition, stabilizers, mortar specification and structural reinforcement are not supplied.",
+   "related_ids": [
+    "adobe-construction-history",
+    "beth-adobe-mass"
+   ],
+   "place": "home-founding-couple",
+   "part_of": null,
+   "terms": [
+    "adobe",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 269.11,
+     "end": 281.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 282.44,
+     "end": 301.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 320.87,
+     "end": 327.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0092",
+     "time": 324.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0092.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0092.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 305.1,
+     "path": "review/QHpo46tawBs/evidence/frame-0085.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0093",
+     "time": 327.9,
+     "path": "review/QHpo46tawBs/evidence/frame-0093.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0093.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0092.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "adobe-construction-history",
+   "title": "Archival adobe masonry and timber roof construction",
+   "category": "Process",
+   "description": "Archival stills show block pallets, walls under construction, scaffolding, timber porch posts and exposed roof sheathing. Over these images, the founding man describes choosing locally made adobe.",
+   "phase": "historical",
+   "unknown": "Exact dates, locations of the block-storage images and identities of individual unfinished buildings are not established.",
+   "related_ids": [
+    "local-adobe",
+    "green-metal-roofs"
+   ],
+   "place": "milagro-community",
+   "part_of": null,
+   "terms": [
+    "adobe",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 269.11,
+     "end": 293.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0076",
+     "time": 283.533333,
+     "path": "review/QHpo46tawBs/evidence/frame-0076.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0076.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 286.333333,
+     "path": "review/QHpo46tawBs/evidence/frame-0077.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0078",
+     "time": 288.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0078.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0078.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0076.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "green-metal-roofs",
+   "title": "Green metal roofs over houses and porches",
+   "category": "Materials",
+   "description": "Green roof sheets with raised seams cover the main roofs and lower porch roofs. The founding man says metal roofs, adobe walls and scored concrete floors were agreed common building choices.",
+   "phase": "current",
+   "unknown": "Metal alloy, coating, insulation and roof assembly details are not disclosed.",
+   "related_ids": [
+    "roof-runoff",
+    "founders-solar"
+   ],
+   "place": "milagro-community",
+   "part_of": null,
+   "terms": [
+    "metal",
+    "roof"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 293.04,
+     "end": 304.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0018",
+     "time": 95.7,
+     "path": "review/QHpo46tawBs/evidence/frame-0018.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0018.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 312.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0087.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0089",
+     "time": 314.566667,
+     "path": "review/QHpo46tawBs/evidence/frame-0089.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0089.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0018.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "founders-open-living",
+   "title": "Founding couple’s open living and dining room",
+   "category": "Life",
+   "description": "The camera enters a continuous dining and sitting space with exposed adobe, high sloping ceilings and a view toward desert at the rear. The founding woman describes the kitchen, dining room and living room sharing a relatively small space.",
+   "phase": "current",
+   "unknown": "No floor area or complete room count is given, and the rear view does not establish a surveyed conservation boundary.",
+   "related_ids": [
+    "founders-high-windows",
+    "local-adobe"
+   ],
+   "place": "home-founding-couple",
+   "part_of": null,
+   "terms": [
+    "adobe"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 335.72,
+     "end": 353.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0095",
+     "time": 335.266667,
+     "path": "review/QHpo46tawBs/evidence/frame-0095.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0095.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0093",
+     "time": 327.9,
+     "path": "review/QHpo46tawBs/evidence/frame-0093.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0093.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0101",
+     "time": 352.8,
+     "path": "review/QHpo46tawBs/evidence/frame-0101.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0101.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0095.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "founders-cisterns",
+   "title": "Rainwater cisterns beside the founding couple’s home",
+   "category": "Water",
+   "description": "A corrugated cylindrical tank is partly visible behind the porch-side lattice and plants. The founding man says they collect water in one cistern behind the screen and two more at the back.",
+   "phase": "current",
+   "unknown": "Only part of one tank is visible; storage volumes, filtration and end uses are not established.",
+   "related_ids": [
+    "site-cisterns",
+    "roof-runoff"
+   ],
+   "place": "home-founding-couple",
+   "part_of": null,
+   "terms": [
+    "rainwater",
+    "cistern"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 305.28,
+     "end": 312.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 305.1,
+     "path": "review/QHpo46tawBs/evidence/frame-0085.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0086",
+     "time": 309.133333,
+     "path": "review/QHpo46tawBs/evidence/frame-0086.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0086.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0085.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "founders-solar",
+   "title": "Raised solar-panel rack above the porch roof",
+   "category": "Energy",
+   "description": "Dark cell-patterned panels stand on an inclined metal rack above the green porch roof. The founding man says solar was difficult to fit on this roof but installers found a solution.",
+   "phase": "current",
+   "unknown": "Capacity, inverter, battery storage and electricity production are not disclosed.",
+   "related_ids": [
+    "green-metal-roofs"
+   ],
+   "place": "home-founding-couple",
+   "part_of": null,
+   "terms": [
+    "solar pv"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 312.2,
+     "end": 315.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0089",
+     "time": 314.566667,
+     "path": "review/QHpo46tawBs/evidence/frame-0089.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0089.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 312.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0087.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0089.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "founders-high-windows",
+   "title": "High-level glazing below a raised ceiling",
+   "category": "Climate",
+   "description": "A narrow band of high-level glazing admits light above an interior ledge beneath the sloping ceiling. The upward camera view shows its position within the open living space.",
+   "phase": "current",
+   "unknown": "The film does not identify the glazing specification or show whether these windows open.",
+   "related_ids": [
+    "founders-open-living"
+   ],
+   "place": "home-founding-couple",
+   "part_of": "founders-open-living",
+   "terms": [
+    "glazing",
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0100",
+     "time": 348.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0100.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0100.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 346.7,
+     "path": "review/QHpo46tawBs/evidence/frame-0099.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0100.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "porch-lattice",
+   "title": "Lattice screens and seated porch at the founding home",
+   "category": "Structure",
+   "description": "Dark diagonal lattice panels flank the covered porch. A wooden bench and two pale rocking chairs occupy the space beside a small table and planted pots.",
+   "phase": "current",
+   "unknown": "Screen material, age and design purpose are not explained; no structural role is inferred.",
+   "related_ids": [
+    "facing-porches",
+    "founders-cisterns"
+   ],
+   "place": "home-founding-couple",
+   "part_of": null,
+   "terms": [
+    "porch"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 305.1,
+     "path": "review/QHpo46tawBs/evidence/frame-0085.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0085.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "common-house-kitchen",
+   "title": "Common-house dining room and shared kitchen",
+   "category": "Community",
+   "description": "Beth leads the camera into a room with dining tables, a service counter and kitchen cabinets beyond. She says children made their own community meal in this kitchen, while the video description identifies common-house meals as part of shared life.",
+   "phase": "current",
+   "unknown": "Meal frequency, adult participation, kitchen booking and governance are not explained.",
+   "related_ids": [
+    "childrens-common-meals",
+    "beth-compact-home"
+   ],
+   "place": "common-house",
+   "part_of": null,
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 423.88,
+     "end": 435,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0124",
+     "time": 434.9,
+     "path": "review/QHpo46tawBs/evidence/frame-0124.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0124.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0122",
+     "time": 431.933333,
+     "path": "review/QHpo46tawBs/evidence/frame-0122.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0122.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0123",
+     "time": 432.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0123.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0123.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0124.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "childrens-common-meals",
+   "title": "Children organizing a community meal",
+   "category": "Community",
+   "description": "The shared kitchen and dining area provide visual context; no children’s meal is filmed. Beth recalls children getting together to make a community meal just for themselves here.",
+   "phase": "historical",
+   "unknown": "The film gives no date, frequency, supervision arrangement or attendance.",
+   "related_ids": [
+    "common-house-kitchen",
+    "pedestrian-paths"
+   ],
+   "place": "common-house",
+   "part_of": "common-house-kitchen",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 423.88,
+     "end": 435,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0124",
+     "time": 434.9,
+     "path": "review/QHpo46tawBs/evidence/frame-0124.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0124.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0124.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "community-pool",
+   "title": "Shared swimming pool seen from above",
+   "category": "Life",
+   "description": "A blue rectangular pool appears among the buildings in aerial footage. Beth calls the pool lovely while describing activities available to children.",
+   "phase": "current",
+   "unknown": "Dimensions, water source, heating, access rules and operation are not established.",
+   "related_ids": [
+    "pedestrian-paths"
+   ],
+   "place": "pool",
+   "part_of": null,
+   "terms": [
+    "swimming pool"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 398.24,
+     "end": 406.12,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0114",
+     "time": 404.133333,
+     "path": "review/QHpo46tawBs/evidence/frame-0114.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0114.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0115",
+     "time": 408.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0115.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0115.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0114.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-compact-home",
+   "title": "Beth’s approximately 1,500-square-foot home",
+   "category": "Life",
+   "description": "Beth’s tour shows an open kitchen/dining/living area, two downstairs bedrooms and a loft. She estimates the house at 1,500 square feet [139 square meters] and says shared spaces reduced her family’s need for a larger house.",
+   "phase": "current",
+   "unknown": "Area is a resident estimate; what it includes and a measured floor plan are not supplied.",
+   "related_ids": [
+    "beth-loft",
+    "common-house-kitchen",
+    "beth-bedrooms"
+   ],
+   "place": "home-beth",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 451.4,
+     "end": 470.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 576.28,
+     "end": 600.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 480.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0133.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0179",
+     "time": 605.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0179.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0179.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0133.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "beth-deep-porch",
+   "title": "Beth’s deep shaded entrance porch",
+   "category": "Climate",
+   "description": "A broad roof shelters Beth’s recessed entry, bench and seating. Beth says she loved the deep porch and relates porch depth to the homes’ passive-solar design.",
+   "phase": "current",
+   "unknown": "No dimensions or measured solar exposure are provided; compass directions are reported, not independently checked.",
+   "related_ids": [
+    "beth-passive-solar",
+    "beth-kitchen-windows"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "porch",
+    "shading",
+    "passive solar"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 451.4,
+     "end": 482.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0127",
+     "time": 452.5,
+     "path": "review/QHpo46tawBs/evidence/frame-0127.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0127.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0106",
+     "time": 383.166667,
+     "path": "review/QHpo46tawBs/evidence/frame-0106.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0106.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0127.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-scored-concrete",
+   "title": "Scored concrete floor in Beth’s living area",
+   "category": "Materials",
+   "description": "The reddish-brown floor has straight scored joints visible beside the kitchen’s red stools and through the dining space. Beth identifies it as concrete and says it stays cool, or warm in winter.",
+   "phase": "current",
+   "unknown": "Finish product, slab thickness, subfloor insulation and heating method are not established.",
+   "related_ids": [
+    "beth-passive-solar",
+    "beth-adobe-mass"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "concrete",
+    "floor",
+    "thermal mass"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 471.6,
+     "end": 479.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0132",
+     "time": 473.7,
+     "path": "review/QHpo46tawBs/evidence/frame-0132.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0132.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 480.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0133.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0132.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-passive-solar",
+   "title": "Passive-solar porches and winter daylight claim",
+   "category": "Climate",
+   "description": "The tour shows sheltered glazing, a deep porch and daylight in Beth’s main room. Beth says the houses were designed for passive solar, describing deeper north-facing porches and winter light from the side she calls south-facing.",
+   "phase": "current",
+   "unknown": "The film supplies no orientation survey, sun study or seasonal performance measurements.",
+   "related_ids": [
+    "beth-deep-porch",
+    "beth-scored-concrete"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "passive solar",
+    "porch"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 479.2,
+     "end": 490.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0136",
+     "time": 490.733333,
+     "path": "review/QHpo46tawBs/evidence/frame-0136.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0136.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0137",
+     "time": 492.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0137.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0137.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0133",
+     "time": 480.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0133.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0133.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0136.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-adobe-mass",
+   "title": "Deep adobe window reveals and claimed thermal moderation",
+   "category": "Climate",
+   "description": "Deep window reveals and exposed adobe are visible in Beth’s living area and bedrooms. Beth points out the wall thickness and agrees that the house is cool without air conditioning running, adding that the walls also retain heat.",
+   "phase": "current",
+   "unknown": "Wall thickness, indoor temperature and thermal properties are unmeasured; the visit does not prove year-round cooling performance.",
+   "related_ids": [
+    "local-adobe"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "adobe",
+    "thermal mass",
+    "wall"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 492.04,
+     "end": 507,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 531.32,
+     "end": 547.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0138",
+     "time": 498.2,
+     "path": "review/QHpo46tawBs/evidence/frame-0138.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0138.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 516.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0146.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0153",
+     "time": 540.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0153.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0153.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0138.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-bedrooms",
+   "title": "Two downstairs bedrooms with large windows",
+   "category": "Life",
+   "description": "The camera visits a room with a red bed and corner windows, then a second bedroom with a broad garden-facing window. Beth identifies the first as her daughter’s room and says there are two bedrooms downstairs.",
+   "phase": "current",
+   "unknown": "Bedroom sizes and glazing specifications are not supplied; the hall bathroom is mentioned but not fully surveyed.",
+   "related_ids": [
+    "beth-compact-home",
+    "retained-saguaro",
+    "ocotillo-fence"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 508.2,
+     "end": 518.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 547.72,
+     "end": 559,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0145",
+     "time": 514.466667,
+     "path": "review/QHpo46tawBs/evidence/frame-0145.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0145.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0158",
+     "time": 552.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0158.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0158.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0146",
+     "time": 516.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0146.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0146.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0145.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "retained-saguaro",
+   "title": "Saguaro retained immediately outside Beth’s bedroom",
+   "category": "Land",
+   "description": "A large armed saguaro stands close to the house and fills the bedroom window view. Beth says the house was built around the cactus and offers a tentative age estimate of about 150 years.",
+   "phase": "current",
+   "unknown": "No age assessment or construction protection record is supplied; the tentative estimate is not treated as fact.",
+   "related_ids": [
+    "beth-bedrooms",
+    "preserved-desert"
+   ],
+   "place": "home-beth",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 518.8,
+     "end": 530.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0150",
+     "time": 528.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0150.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0150.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0147",
+     "time": 517.333333,
+     "path": "review/QHpo46tawBs/evidence/frame-0147.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0147.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0149",
+     "time": 525.266667,
+     "path": "review/QHpo46tawBs/evidence/frame-0149.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0149.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0150.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "ocotillo-fence",
+   "title": "Living ocotillo fence around Beth’s rear yard",
+   "category": "Land",
+   "description": "Closely spaced upright stems form the rear-yard fence, with leafy shoots extending above parts of it. Beth identifies the ocotillo and describes newer and taller living portions.",
+   "phase": "current",
+   "unknown": "Installation method, rooting rate, irrigation needs and full extent are not explained.",
+   "related_ids": [
+    "beth-bedrooms"
+   ],
+   "place": "home-beth",
+   "part_of": null,
+   "terms": [
+    "living fence"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 559,
+     "end": 573.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0165",
+     "time": 567.533333,
+     "path": "review/QHpo46tawBs/evidence/frame-0165.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0165.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0166",
+     "time": 573.466667,
+     "path": "review/QHpo46tawBs/evidence/frame-0166.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0166.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0163",
+     "time": 563.233333,
+     "path": "review/QHpo46tawBs/evidence/frame-0163.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0163.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0165.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-loft",
+   "title": "Beth’s loft used as office and guest space",
+   "category": "Life",
+   "description": "A timber stair with dark metal railing leads to an open loft containing a desk, bookcase and television above the main room. Beth says she and her husband work from home there and also use it for guests.",
+   "phase": "current",
+   "unknown": "No separate guest bed is identified or acoustic separation demonstrated.",
+   "related_ids": [
+    "beth-compact-home"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "loft"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 581.56,
+     "end": 601.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0174",
+     "time": 593.3,
+     "path": "review/QHpo46tawBs/evidence/frame-0174.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0174.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0177",
+     "time": 599.833333,
+     "path": "review/QHpo46tawBs/evidence/frame-0177.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0177.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0170",
+     "time": 585.7,
+     "path": "review/QHpo46tawBs/evidence/frame-0170.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0170.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0174.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-laundry",
+   "title": "Stacked laundry appliances in a hall cupboard",
+   "category": "Life",
+   "description": "An open pair of cupboard doors reveals two stacked front-loading laundry appliances off Beth’s hall. They appear during the transition between bedroom views and are not discussed.",
+   "phase": "current",
+   "unknown": "Appliance capacities, energy supply and water use are not established.",
+   "related_ids": [
+    "beth-compact-home"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "washing machine",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0156",
+     "time": 550.4,
+     "path": "review/QHpo46tawBs/evidence/frame-0156.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0156.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0156.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "beth-kitchen-windows",
+   "title": "Kitchen sink windows facing the communal path",
+   "category": "Community",
+   "description": "The camera looks past Beth’s sink through broad windows, porch planting and the walkway beyond. Beth says this arrangement allows residents to see passersby while vegetation preserves a sense of privacy.",
+   "phase": "current",
+   "unknown": "The film does not establish unobstructed sightlines to every neighboring porch or an explicit privacy rule.",
+   "related_ids": [
+    "facing-porches",
+    "beth-deep-porch"
+   ],
+   "place": "home-beth",
+   "part_of": "beth-compact-home",
+   "terms": [
+    "window"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 628.6,
+     "end": 654.08,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0188",
+     "time": 636.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0188.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0188.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0190",
+     "time": 641.933333,
+     "path": "review/QHpo46tawBs/evidence/frame-0190.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0190.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0191",
+     "time": 644.933333,
+     "path": "review/QHpo46tawBs/evidence/frame-0191.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0191.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0188.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "individual-home-ownership",
+   "title": "Individual home ownership with communal space",
+   "category": "Community",
+   "description": "Beth describes ownership while standing inside her own home; the image does not establish legal tenure. She says residents own their houses and also have communal space, distinguishing cohousing from an assumption of wholly shared property.",
+   "phase": "current",
+   "unknown": "Deeds, association rules, fees, resale terms and decision-making procedures are not supplied.",
+   "related_ids": [
+    "clustered-households",
+    "beth-compact-home"
+   ],
+   "place": "milagro-community",
+   "part_of": "clustered-households",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 613.44,
+     "end": 628.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0182",
+     "time": 614.7,
+     "path": "review/QHpo46tawBs/evidence/frame-0182.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0182.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0182.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "school-carpooling",
+   "title": "Working parents sharing school trips",
+   "category": "Community",
+   "description": "The camera remains inside Beth’s home rather than showing a school journey. Beth recalls that many children attended the same school and working parents shared carpooling.",
+   "phase": "historical",
+   "unknown": "Dates, continued operation, participants and frequency are not established.",
+   "related_ids": [
+    "pedestrian-paths"
+   ],
+   "place": "milagro-community",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 605.28,
+     "end": 613.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0179",
+     "time": 605.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0179.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0179.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0179.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "porch-pubs",
+   "title": "Outdoor seating node for porch-pub gatherings",
+   "category": "Community",
+   "description": "A shaded area beside the path contains a metal table and chairs, with room around them. A resident with short white hair in a pale mint T-shirt says parties and porch pubs start on a porch and spread into this gathering area; a preceding nighttime dinner insert illustrates a gathering but is not securely located here.",
+   "phase": "current",
+   "unknown": "No event schedule, attendance rule or exact identification of the nighttime image is established.",
+   "related_ids": [
+    "facing-porches",
+    "common-house-kitchen"
+   ],
+   "place": "shared-paths",
+   "part_of": "facing-porches",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 663.19,
+     "end": 678.8,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0198",
+     "time": 670.933333,
+     "path": "review/QHpo46tawBs/evidence/frame-0198.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0198.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0199",
+     "time": 672.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0199.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0199.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0195",
+     "time": 655.6,
+     "path": "review/QHpo46tawBs/evidence/frame-0195.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0195.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0198.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "layered-planting",
+   "title": "Layered tree and shrub planting beside paths",
+   "category": "Land",
+   "description": "Large canopies, smaller trees and shrubs occupy the same planted spaces alongside the paths. The founding man calls this a guild type of planting and describes the layers.",
+   "phase": "current",
+   "unknown": "Planting plans, complete species list and ecological functions of individual plants are not supplied.",
+   "related_ids": [
+    "mesquite-shade",
+    "rain-basins",
+    "reclaimed-irrigation"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 687.07,
+     "end": 701.28,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0201",
+     "time": 684.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0201.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0201.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0203",
+     "time": 695.733333,
+     "path": "review/QHpo46tawBs/evidence/frame-0203.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0203.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0211",
+     "time": 717.566667,
+     "path": "review/QHpo46tawBs/evidence/frame-0211.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0211.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0201.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "bare-ground-history",
+   "title": "Archive comparison of bare ground and planted community",
+   "category": "Process",
+   "description": "The founding man holds photographs showing bare ground and common-house surroundings with little vegetation, intercut with the present shaded landscape. He says the landscaped area started as barren land.",
+   "phase": "historical",
+   "unknown": "The photographs do not establish the pre-disturbance ecology of the whole site or exact dates.",
+   "related_ids": [
+    "layered-planting"
+   ],
+   "place": "shared-paths",
+   "part_of": "layered-planting",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 725.92,
+     "end": 740.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0216",
+     "time": 732.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0216.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0216.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0217",
+     "time": 737.033333,
+     "path": "review/QHpo46tawBs/evidence/frame-0217.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0217.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0218",
+     "time": 744.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0218.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0218.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0216.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "rain-basins",
+   "title": "Rainwater infiltration basins between houses",
+   "category": "Water",
+   "description": "Dry planted depressions sit below adjoining paths; an archival rainy view shows standing water in curved basins. The founding woman in black credits Brad Lancaster with helping arrange natural drainage, and the founding man says each house has a basin to hold rainfall while it soaks in. The description additionally claims infiltration within 20 minutes of a storm.",
+   "phase": "current",
+   "unknown": "No timed infiltration test, complete basin count or verified catchment plan is shown; the rainy image is historical context.",
+   "related_ids": [
+    "roof-runoff",
+    "layered-planting"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "terms": [
+    "rainwater",
+    "infiltration basin"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 763.59,
+     "end": 789.72,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0222",
+     "time": 768.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0222.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0222.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0223",
+     "time": 770.733333,
+     "path": "review/QHpo46tawBs/evidence/frame-0223.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0223.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 780.966667,
+     "path": "review/QHpo46tawBs/evidence/frame-0225.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0323",
+     "time": 1121.5,
+     "path": "review/QHpo46tawBs/evidence/frame-0323.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0323.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0222.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "septic-separation",
+   "title": "Septic tanks separating solids before wetland treatment",
+   "category": "Water",
+   "description": "The patterned-blouse resident speaks beside planted paths; no septic tank interior is shown. She says household wastewater enters septic tanks, solids stay there and water continues to the wetland, estimating 2,000–3,000 gallons a day [7,571–11,356 liters/day, assuming US gallons] from sinks, toilets and showers.",
+   "phase": "current",
+   "unknown": "Tank locations, volumes, emptying practices and flow-meter evidence are not supplied.",
+   "related_ids": [
+    "wetland-beds",
+    "reclaimed-irrigation"
+   ],
+   "place": "milagro-community",
+   "part_of": null,
+   "terms": [
+    "septic",
+    "blackwater"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 797.16,
+     "end": 815.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0232",
+     "time": 804.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0232.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0232.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0234",
+     "time": 809.066667,
+     "path": "review/QHpo46tawBs/evidence/frame-0234.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0234.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0232.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "reclaimed-irrigation",
+   "title": "Buried irrigation using treated household wastewater",
+   "category": "Water",
+   "description": "Mature trees and planted paths are shown, but buried distribution pipes and irrigation flow are not exposed. The patterned-blouse resident attributes this growth to wetland water and irrigation; later the founding man explains that water is pumped up into the community and flows back down with gravity.",
+   "phase": "current",
+   "unknown": "The film does not establish pipe routes, irrigation emitters, application rates, treatment standards or what fraction returns to the system.",
+   "related_ids": [
+    "septic-separation",
+    "wetland-pump",
+    "layered-planting"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "terms": [
+    "irrigation",
+    "recycled water"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 797.16,
+     "end": 835.96,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1075.48,
+     "end": 1088.08,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1172.92,
+     "end": 1186.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0342",
+     "time": 1183.1,
+     "path": "review/QHpo46tawBs/evidence/frame-0342.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0342.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0340",
+     "time": 1167.066667,
+     "path": "review/QHpo46tawBs/evidence/frame-0340.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0340.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0313",
+     "time": 1080.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0313.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0313.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0342.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "desert-wash",
+   "title": "Undeveloped wash below the homes",
+   "category": "Land",
+   "description": "The camera looks across a broad scrub-covered wash from a desert path, and aerials show the homes on higher ground. The founding man says the community owns 25 acres [10.1 hectares] of wash; the mint-shirt resident says homes had to be above the 100-year flood range and monsoon water can cover much of the wash.",
+   "phase": "current",
+   "unknown": "No flood event, elevation survey, regulatory map or exact wash boundary is shown.",
+   "related_ids": [
+    "preserved-desert",
+    "clustered-households"
+   ],
+   "place": "desert-wash",
+   "part_of": "preserved-desert",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 869.55,
+     "end": 893.2,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0257",
+     "time": 876.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0257.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0257.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 881.466667,
+     "path": "review/QHpo46tawBs/evidence/frame-0258.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0261",
+     "time": 900.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0261.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0261.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0257.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "rezoning-history",
+   "title": "Rezoning to allow clustered cohousing",
+   "category": "Process",
+   "description": "Aerials show the compact group of houses; archive inserts depict discussions, a site model and a meeting. The founding man says local expectations favored one house per three acres [1.2 hectares], and describes persuading neighbors and obtaining city-council support for clustering. He dates the original community discussions to 1993.",
+   "phase": "historical",
+   "unknown": "Archive meeting venues and participants are not identified; no planning decision, legal density limit or approval date is provided.",
+   "related_ids": [
+    "clustered-households",
+    "entrance-land-swap"
+   ],
+   "place": "desert-wash",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 91.99,
+     "end": 104.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 905.76,
+     "end": 940.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0262",
+     "time": 910.566667,
+     "path": "review/QHpo46tawBs/evidence/frame-0262.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0262.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0268",
+     "time": 929.533333,
+     "path": "review/QHpo46tawBs/evidence/frame-0268.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0268.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0269",
+     "time": 935.166667,
+     "path": "review/QHpo46tawBs/evidence/frame-0269.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0269.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0262.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "wetland-beds",
+   "title": "Paired gravel-and-reed wastewater treatment beds",
+   "category": "Water",
+   "description": "Inside a fenced enclosure are gravel beds with scattered clumps of reeds. The founding man describes two basins, west and east, says one is “40 by 40” without a unit, and says wastewater remains about three days while bacteria between the stones help clean it. He calls the plants reed grass and says summer growth fills the bed.",
+   "phase": "current",
+   "unknown": "No dimension unit, water analysis, treatment certification or measured residence time is supplied.",
+   "related_ids": [
+    "septic-separation",
+    "wetland-distribution-pipes",
+    "wetland-rehabilitation",
+    "wetland-seasonal-archive"
+   ],
+   "place": "wetland",
+   "part_of": null,
+   "terms": [
+    "constructed wetland",
+    "reed bed",
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 959.99,
+     "end": 997.52,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0283",
+     "time": 983.1,
+     "path": "review/QHpo46tawBs/evidence/frame-0283.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0283.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0288",
+     "time": 995.666667,
+     "path": "review/QHpo46tawBs/evidence/frame-0288.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0288.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0279",
+     "time": 960.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0279.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0279.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0283.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wetland-distribution-pipes",
+   "title": "Buried perforated inlet and wetland outlet pipes",
+   "category": "Water",
+   "description": "The founding man gestures over gravel and toward an access box, but the pipe perforations and underground connections are not exposed. He says water enters through a buried perforated pipe, moves through the wetland and is picked up by another pipe leading to the box and collection tank.",
+   "phase": "current",
+   "unknown": "Pipe sizes, slopes, inspection points and the complete connection are not visible.",
+   "related_ids": [
+    "wetland-beds",
+    "wetland-pump"
+   ],
+   "place": "wetland",
+   "part_of": "wetland-beds",
+   "terms": [
+    "drainage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 997.52,
+     "end": 1017.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0295",
+     "time": 1015.4,
+     "path": "review/QHpo46tawBs/evidence/frame-0295.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0295.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0290",
+     "time": 1000.6,
+     "path": "review/QHpo46tawBs/evidence/frame-0290.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0290.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0295.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wetland-pump",
+   "title": "Collection tank with automatic return pump",
+   "category": "Water",
+   "description": "A green cylindrical access riser with a red-brown lid and nearby covered boxes are visible beyond the fence. The founding man identifies the collection tank and says a pump switches on when water rises to a set level, returning it to the community.",
+   "phase": "current",
+   "unknown": "The tank interior, pump, level controls, capacity and power source are not shown.",
+   "related_ids": [
+    "wetland-distribution-pipes",
+    "reclaimed-irrigation"
+   ],
+   "place": "wetland",
+   "part_of": "wetland-beds",
+   "terms": [
+    "tank",
+    "pump"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1012.68,
+     "end": 1028.04,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0296",
+     "time": 1017.433333,
+     "path": "review/QHpo46tawBs/evidence/frame-0296.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0296.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0297",
+     "time": 1020.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0297.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0297.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0296.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wetland-rehabilitation",
+   "title": "Excavated wetland bed and gravel screening",
+   "category": "Process",
+   "description": "One treatment area is opened up, with separate soil and gravel piles and a framed screen over a wheeled cart. The founding man says roots and eroded soil have accumulated after about 20 years, so residents are digging out and screening the stone while addressing erosion.",
+   "phase": "in progress",
+   "unknown": "The film does not show workers completing the process, costs, shutdown arrangements or a verified maintenance interval.",
+   "related_ids": [
+    "wetland-beds",
+    "wetland-liner",
+    "wetland-restoration-plan"
+   ],
+   "place": "wetland",
+   "part_of": "wetland-beds",
+   "terms": [
+    "constructed wetland",
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1028.04,
+     "end": 1049.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1061.44,
+     "end": 1072.56,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0301",
+     "time": 1043.9,
+     "path": "review/QHpo46tawBs/evidence/frame-0301.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0301.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0303",
+     "time": 1052.233333,
+     "path": "review/QHpo46tawBs/evidence/frame-0303.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0303.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0305",
+     "time": 1056.7,
+     "path": "review/QHpo46tawBs/evidence/frame-0305.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0305.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0301.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wetland-liner",
+   "title": "Exposed black liner beneath the treatment gravel",
+   "category": "Materials",
+   "description": "Dark flexible sheet material is exposed at the excavated treatment-bed edge. The founding man confirms that a liner underneath holds the water within the bed.",
+   "phase": "in progress",
+   "unknown": "Liner material, thickness, age, integrity and seam details are not established.",
+   "related_ids": [
+    "wetland-rehabilitation",
+    "wetland-beds"
+   ],
+   "place": "wetland",
+   "part_of": "wetland-beds",
+   "terms": [
+    "waterproof membrane"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1049.4,
+     "end": 1056.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0303",
+     "time": 1052.233333,
+     "path": "review/QHpo46tawBs/evidence/frame-0303.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0303.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0305",
+     "time": 1056.7,
+     "path": "review/QHpo46tawBs/evidence/frame-0305.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0305.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0303.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wetland-restoration-plan",
+   "title": "Return cleaned gravel and extend wetland service",
+   "category": "Plan",
+   "description": "The camera shows unfinished excavation and gravel piles, with no restored bed in operation. The founding man says the stone will be cleaned and returned and predicts another 20–30 years of service after cleaning and erosion control.",
+   "phase": "planned",
+   "unknown": "No completion date, engineering assessment or warranty supports the predicted service life.",
+   "related_ids": [
+    "wetland-rehabilitation"
+   ],
+   "place": "wetland",
+   "part_of": "wetland-beds",
+   "terms": [
+    "constructed wetland",
+    "stone"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1056.64,
+     "end": 1075.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0306",
+     "time": 1059.5,
+     "path": "review/QHpo46tawBs/evidence/frame-0306.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0306.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0301",
+     "time": 1043.9,
+     "path": "review/QHpo46tawBs/evidence/frame-0301.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0301.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0306.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "wetland-seasonal-archive",
+   "title": "Earlier wetland beds with dense reed growth",
+   "category": "Water",
+   "description": "Inserted images show freshly arranged beds followed by abundant tall green vegetation, unlike the sparse reeds in the current tour. The images provide historical visual context for the treatment area.",
+   "phase": "historical",
+   "unknown": "Exact dates and seasons are not stated, and plant density alone cannot establish treatment performance.",
+   "related_ids": [
+    "wetland-beds"
+   ],
+   "place": "wetland",
+   "part_of": "wetland-beds",
+   "terms": [
+    "constructed wetland",
+    "reed bed"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0308",
+     "time": 1066.566667,
+     "path": "review/QHpo46tawBs/evidence/frame-0308.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0308.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0309",
+     "time": 1068.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0309.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0309.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0307",
+     "time": 1062.766667,
+     "path": "review/QHpo46tawBs/evidence/frame-0307.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0307.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0310",
+     "time": 1071.733333,
+     "path": "review/QHpo46tawBs/evidence/frame-0310.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0310.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0308.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-runoff",
+   "title": "Roof gutters directing rain toward planted basins",
+   "category": "Water",
+   "description": "Green roof edges, gutters and planted depressions are shown together as the guides point between them. The founding man says gutters and downspouts send runoff from two roofs into the basin around a tree; the mint-shirt resident describes digging and shaping land to keep water for infiltration.",
+   "phase": "current",
+   "unknown": "No rainfall occurs in the current shot, and the entire pipe route or water volume is not visible.",
+   "related_ids": [
+    "rain-basins",
+    "green-metal-roofs"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "terms": [
+    "rainwater"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1096.95,
+     "end": 1140.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0319",
+     "time": 1110.966667,
+     "path": "review/QHpo46tawBs/evidence/frame-0319.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0319.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0320",
+     "time": 1114.533333,
+     "path": "review/QHpo46tawBs/evidence/frame-0320.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0320.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0323",
+     "time": 1121.5,
+     "path": "review/QHpo46tawBs/evidence/frame-0323.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0323.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0319.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shared-mulberries",
+   "title": "Fruiting mulberry trees in irrigated basins",
+   "category": "Food",
+   "description": "Trees stand within the planted areas among houses, with no ripe crop visible. The mint-shirt resident identifies fruiting mulberries and recalls abundant fruit the previous year, while the guides connect the planting to buried irrigation.",
+   "phase": "current",
+   "unknown": "Cultivars and yield are not established; the caption’s word “blackberries” conflicts with the spoken identification as mulberry and is left unresolved.",
+   "related_ids": [
+    "reclaimed-irrigation",
+    "shared-figs"
+   ],
+   "place": "shared-paths",
+   "part_of": "reclaimed-irrigation",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1140.48,
+     "end": 1164,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0330",
+     "time": 1146.466667,
+     "path": "review/QHpo46tawBs/evidence/frame-0330.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0330.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0328",
+     "time": 1140.3,
+     "path": "review/QHpo46tawBs/evidence/frame-0328.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0328.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0334",
+     "time": 1154.8,
+     "path": "review/QHpo46tawBs/evidence/frame-0334.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0334.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0330.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "water-use-goal",
+   "title": "Target of 50 gallons per person per day",
+   "category": "Plan",
+   "description": "The founding man discusses water conservation on a planted path; no usage figures are displayed. He states a goal of 50 gallons per person per day [189 liters/person/day, assuming US gallons], compared with his figure of 110 for Tucson [416 liters/person/day], and says not everyone meets it.",
+   "phase": "planned",
+   "unknown": "The goal is not demonstrated achieved community-wide; the comparison’s year, population and accounting method are not supplied.",
+   "related_ids": [
+    "monthly-water-review"
+   ],
+   "place": "milagro-community",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1190.24,
+     "end": 1205.08,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0344",
+     "time": 1198.566667,
+     "path": "review/QHpo46tawBs/evidence/frame-0344.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0344.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0345",
+     "time": 1200.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0345.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0345.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0344.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "monthly-water-review",
+   "title": "Monthly household water-bill review",
+   "category": "Community",
+   "description": "The founding man speaks along the path without showing any bills. He says residents look at their water bills every month to see how they are doing, while acknowledging different levels of participation.",
+   "phase": "current",
+   "unknown": "No shared reporting system, enforcement rule, actual bill or community-wide consumption series is shown.",
+   "related_ids": [
+    "water-use-goal"
+   ],
+   "place": "milagro-community",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1199.04,
+     "end": 1213.48,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0346",
+     "time": 1206.333333,
+     "path": "review/QHpo46tawBs/evidence/frame-0346.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0346.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0346.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "site-cisterns",
+   "title": "Corrugated cisterns distributed near homes",
+   "category": "Water",
+   "description": "A large corrugated tank stands beside a house, partly obscured by shrubs; another is visible at the founding couple’s porch. The founding man points out the large tank, and the founding woman in black estimates that she once counted about 33 cisterns in Milagro.",
+   "phase": "current",
+   "unknown": "This is not a verified census; individual capacities, ownership and plumbing arrangements are not given.",
+   "related_ids": [
+    "founders-cisterns",
+    "rain-basins"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "terms": [
+    "cistern"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1213.48,
+     "end": 1220.44,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0348",
+     "time": 1214.633333,
+     "path": "review/QHpo46tawBs/evidence/frame-0348.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0348.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0085",
+     "time": 305.1,
+     "path": "review/QHpo46tawBs/evidence/frame-0085.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0085.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0348.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "shared-pomegranate",
+   "title": "Pomegranate included in community fruit planting",
+   "category": "Food",
+   "description": "Bare-branched fruit trees and house-side planting provide context, but the pomegranate is not securely isolated from the fig views. The mint-shirt resident says there is a large pomegranate on the other side and that fruit near houses is available to the whole community.",
+   "phase": "current",
+   "unknown": "The exact pomegranate tree, cultivar, harvest and location are not established.",
+   "related_ids": [
+    "shared-figs",
+    "shared-mulberries"
+   ],
+   "place": "shared-paths",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1222.08,
+     "end": 1233,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0353",
+     "time": 1224.4,
+     "path": "review/QHpo46tawBs/evidence/frame-0353.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0353.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0352",
+     "time": 1224.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0352.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0352.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0353.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "native-jojoba",
+   "title": "Native jojoba beside the shared path",
+   "category": "Land",
+   "description": "The camera closes in on a leafy twig with small developing buds or flowers held by the mint-shirt resident. She identifies jojoba, describes its nuts being used for oil and says residents are sensitive to native plants.",
+   "phase": "current",
+   "unknown": "Species identification relies on her account; no nut harvest or oil processing occurs on camera.",
+   "related_ids": [
+    "layered-planting",
+    "preserved-desert"
+   ],
+   "place": "shared-paths",
+   "part_of": "layered-planting",
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1234.12,
+     "end": 1247.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0358",
+     "time": 1248.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0358.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0358.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0357",
+     "time": 1241.733333,
+     "path": "review/QHpo46tawBs/evidence/frame-0357.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0357.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0358.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "entrance-land-swap",
+   "title": "School-board land exchange securing an entrance",
+   "category": "Process",
+   "description": "The founding man stands at the current entrance and parking area, with sheltered vehicles and a closed outbuilding behind him. He says the community originally lacked road access and traded land with the school board to obtain an entrance.",
+   "phase": "historical",
+   "unknown": "No deed, date, parcel map, payment or exact exchanged boundary is supplied.",
+   "related_ids": [
+    "rezoning-history",
+    "covered-parking"
+   ],
+   "place": "parking-edge",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1263.6,
+     "end": 1290.84,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0363",
+     "time": 1280.6,
+     "path": "review/QHpo46tawBs/evidence/frame-0363.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0363.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0366",
+     "time": 1290.666667,
+     "path": "review/QHpo46tawBs/evidence/frame-0366.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0366.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0363.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "shared-tool-borrowing",
+   "title": "Neighbor-to-neighbor tool borrowing",
+   "category": "Community",
+   "description": "Shared paths and homes provide context only; no lending store or actual tool loan is shown. The video description lists borrowed tools among the benefits of living at Milagro.",
+   "phase": "current",
+   "unknown": "Borrowing arrangements, available tools, ownership and any workshop or library are not disclosed; this is a metadata claim, not a spoken tour statement.",
+   "related_ids": [
+    "clustered-households"
+   ],
+   "place": "milagro-community",
+   "part_of": "clustered-households",
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0340",
+     "time": 1167.066667,
+     "path": "review/QHpo46tawBs/evidence/frame-0340.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0340.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0340.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "raised-planting-beds",
+   "title": "Low rectangular planting beds beside the path",
+   "category": "Land",
+   "description": "Low rectangular beds with raised edging occupy a sunny opening beside a metal garden arch and the main path. Mixed green growth is visible inside and around them, without an explanation in the dialogue.",
+   "phase": "current",
+   "unknown": "Crop species, bed material, ownership and whether these are food-growing beds cannot be established.",
+   "related_ids": [
+    "layered-planting"
+   ],
+   "place": "shared-paths",
+   "part_of": "layered-planting",
+   "terms": [
+    "raised bed"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0238",
+     "time": 816.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0238.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0238.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0241",
+     "time": 827.6,
+     "path": "review/QHpo46tawBs/evidence/frame-0241.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0241.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0238.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "abstract-path-sculpture",
+   "title": "Rust-colored abstract sculpture by the desert path",
+   "category": "Life",
+   "description": "An angular rust-colored metal sculpture stands in planting beside the path as the group approaches the desert gate. It has intersecting diagonal pieces and is not discussed.",
+   "phase": "current",
+   "unknown": "Artist, title, date and intended meaning are not disclosed.",
+   "related_ids": [],
+   "place": "shared-paths",
+   "part_of": null,
+   "terms": [
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0249",
+     "time": 852.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0249.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0249.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/QHpo46tawBs/sample-0249.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "common-lawn",
+   "title": "Circular grassy common area",
+   "category": "Community",
+   "description": "A grassy circular area sits among trees and paved walking paths in front of the common-house approach. The founding man points out the grassy circle and common house while describing a safe interior for children and families.",
+   "phase": "current",
+   "unknown": "Lawn species, area, irrigation source and maintenance demands are not specified.",
+   "related_ids": [
+    "common-house-kitchen",
+    "pedestrian-paths"
+   ],
+   "place": "central-green",
+   "part_of": null,
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 65.32,
+     "end": 81.99,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0015",
+     "time": 72.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0015.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0015.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0218",
+     "time": 744.0,
+     "path": "review/QHpo46tawBs/evidence/frame-0218.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0218.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0219",
+     "time": 745.366667,
+     "path": "review/QHpo46tawBs/evidence/frame-0219.jpg",
+     "preview_path": "review/QHpo46tawBs/sample-0219.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/QHpo46tawBs/sample-0015.jpg",
+   "model_objects": [],
+   "terms": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 90,
+   "title": "Arrival through the desert",
+   "visible": "Channel card, Tucson/Arizona caption, aerial clustered roofs, cactus, walking paths and circular lawn beside common house.",
+   "gaps": "No surveyed boundaries, policy document or definite filming season.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0015.jpg"
+  },
+  {
+   "start": 90,
+   "end": 155,
+   "title": "Founding couple and facing homes",
+   "visible": "Founding man introduces his wife beside the lawn; aerial cluster and paths between porches.",
+   "gaps": "Founders are unnamed; cuts do not identify individual homes.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0018",
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027",
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0027.jpg"
+  },
+  {
+   "start": 155,
+   "end": 205,
+   "title": "Social front porch and private rear porch",
+   "visible": "Resident in red carrying bags speaks on shaded path among adobe homes.",
+   "gaps": "Her rear porch is not entered; her home is not securely identified.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0037.jpg"
+  },
+  {
+   "start": 205,
+   "end": 269,
+   "title": "Mesquite shade, fig and Melissa",
+   "visible": "Spreading tree canopy, bare fig branches, planted paths; Melissa pulls red wagon with bucket.",
+   "gaps": "No fruit harvest, measured shade temperature or complete planting inventory.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060",
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0055.jpg"
+  },
+  {
+   "start": 269,
+   "end": 295,
+   "title": "Adobe choice and construction photographs",
+   "visible": "Finished exterior intercut with archival block pallets, masonry, scaffolding and unfinished timber roof.",
+   "gaps": "Archive dates and block-yard location unknown; no current house construction.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079",
+    "frame-0080"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0076.jpg"
+  },
+  {
+   "start": 295,
+   "end": 317,
+   "title": "Founding couple’s porch and solar roof",
+   "visible": "Covered porch, bench, rocking chairs, lattice, partly screened corrugated tank and solar rack.",
+   "gaps": "No cistern capacities or solar output.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084",
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0085.jpg"
+  },
+  {
+   "start": 317,
+   "end": 357,
+   "title": "Founding couple’s home interior",
+   "visible": "Exposed adobe living/dining room, scored floor, high windows, furnishings and rear desert view.",
+   "gaps": "No full plan, temperature measurement or air-conditioning inspection.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0093.jpg"
+  },
+  {
+   "start": 357,
+   "end": 430,
+   "title": "Meeting Beth and approaching common house",
+   "visible": "Aerial homes and pool, Beth’s porch, shaded paths and common-house exterior.",
+   "gaps": "No pool operation or complete route between cuts.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108",
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0114.jpg"
+  },
+  {
+   "start": 430,
+   "end": 444,
+   "title": "Inside the common house",
+   "visible": "Dining tables with cloths, glazed doors, serving counter and kitchen cabinets.",
+   "gaps": "No meal preparation, tool storage or governance meeting.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0121",
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0124.jpg"
+  },
+  {
+   "start": 444,
+   "end": 508,
+   "title": "Beth’s porch, living area and energy claims",
+   "visible": "Deep porch leads to scored floor, kitchen bar, stairs and deep adobe window reveals.",
+   "gaps": "House area and monthly energy cost are unverified estimates; orientation unmeasured.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0126",
+    "frame-0127",
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0133.jpg"
+  },
+  {
+   "start": 508,
+   "end": 551,
+   "title": "Beth’s bedrooms and hall",
+   "visible": "Daughter’s room, corner windows, saguaro outside, hall and stacked laundry appliances.",
+   "gaps": "No measured wall thickness, verified cactus age or full bathroom survey.",
+   "sample_count": 14,
+   "sample_ids": [
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151",
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0145.jpg"
+  },
+  {
+   "start": 551,
+   "end": 576,
+   "title": "Beth’s second bedroom and enclosed yard",
+   "visible": "Second bedroom, backyard paving, cactus planting, leafy ocotillo fence and red hanging feeder.",
+   "gaps": "Fence extent, plant survival and irrigation details not established.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0165.jpg"
+  },
+  {
+   "start": 576,
+   "end": 657,
+   "title": "Beth’s loft, kitchen windows and dinner insert",
+   "visible": "Stair ascent, loft desk/bookcase/television, kitchen and path view; nighttime dinner image.",
+   "gaps": "Dinner location/date unconfirmed; no guest stay or carpool filmed.",
+   "sample_count": 29,
+   "sample_ids": [
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173",
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188",
+    "frame-0189",
+    "frame-0190",
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0174.jpg"
+  },
+  {
+   "start": 657,
+   "end": 722,
+   "title": "Outdoor gathering node and layered planting",
+   "visible": "Outdoor chairs and table, branching shade trees and shrubs; guides discuss gatherings and transplanted mesquite.",
+   "gaps": "No gathering underway or botanical inventory; tree dates are unreconciled claims.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0196",
+    "frame-0197",
+    "frame-0198",
+    "frame-0199",
+    "frame-0200",
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0203.jpg"
+  },
+  {
+   "start": 722,
+   "end": 745,
+   "title": "Before-and-after landscape photographs",
+   "visible": "Photographs of bare ground and sparsely planted common-house surroundings, then current trees and lawn.",
+   "gaps": "Dates and exact viewpoint matches unconfirmed.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0217.jpg"
+  },
+  {
+   "start": 745,
+   "end": 858,
+   "title": "Rain basins and wastewater irrigation claims",
+   "visible": "Rain-filled basin archive, dry basins and trees, patterned-blouse resident beside low beds, then path toward desert.",
+   "gaps": "Buried septic tanks and irrigation lines unseen; rain image is an insert.",
+   "sample_count": 32,
+   "sample_ids": [
+    "frame-0219",
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235",
+    "frame-0236",
+    "frame-0237",
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245",
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0222.jpg"
+  },
+  {
+   "start": 858,
+   "end": 900,
+   "title": "Gate, desert wash and floodplain",
+   "visible": "Gate and arriving shopper, desert path and wash, aerial cluster with peripheral parking.",
+   "gaps": "No flood event, flood map, survey or protection document.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0258.jpg"
+  },
+  {
+   "start": 900,
+   "end": 955,
+   "title": "Clustering and rezoning history",
+   "visible": "Aerial homes; archival outdoor discussion, site model, indoor meeting and tents; guides on desert path.",
+   "gaps": "Archive venues/dates unconfirmed; no zoning or council records.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273",
+    "frame-0274",
+    "frame-0275"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0262.jpg"
+  },
+  {
+   "start": 955,
+   "end": 1028,
+   "title": "Wetland treatment and collection",
+   "visible": "Fenced gravel beds with sparse reeds; indicated pipe locations, access box and collection-tank riser.",
+   "gaps": "Subsurface flow, pump operation, water quality and dimension units unverified.",
+   "sample_count": 22,
+   "sample_ids": [
+    "frame-0276",
+    "frame-0277",
+    "frame-0278",
+    "frame-0279",
+    "frame-0280",
+    "frame-0281",
+    "frame-0282",
+    "frame-0283",
+    "frame-0284",
+    "frame-0285",
+    "frame-0286",
+    "frame-0287",
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292",
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296",
+    "frame-0297"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0283.jpg"
+  },
+  {
+   "start": 1028,
+   "end": 1061,
+   "title": "Wetland rehabilitation underway",
+   "visible": "Excavated bed, gravel/soil piles, black liner, framed screen over cart and tripod equipment.",
+   "gaps": "No completed repair, liner specification or full maintenance sequence.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0298",
+    "frame-0299",
+    "frame-0300",
+    "frame-0301",
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0301.jpg"
+  },
+  {
+   "start": 1061,
+   "end": 1096,
+   "title": "Older wetland vegetation and return aerial",
+   "visible": "Archival beds with abundant reeds, current sparse gravel bed, aerial of parking and homes.",
+   "gaps": "Archive date/season and future service life unknown; buried water routes not visible.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0307",
+    "frame-0308",
+    "frame-0309",
+    "frame-0310",
+    "frame-0311",
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0308.jpg"
+  },
+  {
+   "start": 1096,
+   "end": 1167,
+   "title": "Roof runoff and mulberry basins",
+   "visible": "Green roof edges and gutters above dry depressions, paths and trees indicated by guides.",
+   "gaps": "No flowing runoff, fully exposed plumbing route or fruit harvest.",
+   "sample_count": 24,
+   "sample_ids": [
+    "frame-0316",
+    "frame-0317",
+    "frame-0318",
+    "frame-0319",
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323",
+    "frame-0324",
+    "frame-0325",
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329",
+    "frame-0330",
+    "frame-0331",
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335",
+    "frame-0336",
+    "frame-0337",
+    "frame-0338",
+    "frame-0339"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0319.jpg"
+  },
+  {
+   "start": 1167,
+   "end": 1190,
+   "title": "Reclaimed-water landscape",
+   "visible": "Canopied paths, mature trunks, planted bed edges and homes under recycled-water narration.",
+   "gaps": "Appearance cannot establish irrigation volume or water source.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0342.jpg"
+  },
+  {
+   "start": 1190,
+   "end": 1254,
+   "title": "Water goal, cisterns and native planting",
+   "visible": "Guides among trees, screened corrugated tank, fig/pomegranate discussion and handled jojoba twig.",
+   "gaps": "No bills, cistern census, tank capacities or infiltration measurement.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348",
+    "frame-0349",
+    "frame-0350",
+    "frame-0351",
+    "frame-0352",
+    "frame-0353",
+    "frame-0354",
+    "frame-0355",
+    "frame-0356",
+    "frame-0357",
+    "frame-0358"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0348.jpg"
+  },
+  {
+   "start": 1254,
+   "end": 1314,
+   "title": "Entrance land swap and parking edge",
+   "visible": "Common-house exterior, founding man at parking, covered bays, van, blue containers and closed two-door outbuilding.",
+   "gaps": "No land-swap deed; outbuilding and container uses unstated.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0359",
+    "frame-0360",
+    "frame-0361",
+    "frame-0362",
+    "frame-0363",
+    "frame-0364",
+    "frame-0365",
+    "frame-0366",
+    "frame-0367",
+    "frame-0368",
+    "frame-0369",
+    "frame-0370"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0363.jpg"
+  },
+  {
+   "start": 1314,
+   "end": 1334.261,
+   "title": "Closing aerial and channel end card",
+   "visible": "Shaded path, final aerial of roofs in desert, then subscription collage.",
+   "gaps": "End-card collage is unrelated channel material.",
+   "sample_count": 4,
+   "sample_ids": [
+    "frame-0371",
+    "frame-0372",
+    "frame-0373",
+    "frame-0374"
+   ],
+   "thumbnail": "review/QHpo46tawBs/sample-0371.jpg"
+  }
+ ]
+}

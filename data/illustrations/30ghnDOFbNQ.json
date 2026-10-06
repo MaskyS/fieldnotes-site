@@ -1,0 +1,265 @@
+{
+ "property_id": "30ghnDOFbNQ",
+ "items": [
+  {
+   "id": "portrait",
+   "title": "Stockholm archipelago, a leafy afternoon",
+   "kind": "portrait",
+   "hero": true,
+   "path": "data/illustrations/30ghnDOFbNQ/portrait.png",
+   "invention_log": "harness/viz/30ghnDOFbNQ/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 1,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "house",
+    "greenhouse",
+    "oiled-cladding",
+    "entrance-porch",
+    "sheltered-balcony",
+    "wooded-garden",
+    "garden-shelter"
+   ],
+   "references": [
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0271.jpg",
+     "time": 1100.0,
+     "role": "vantage"
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0011.jpg",
+     "time": 48.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0007.jpg",
+     "time": 25.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0016.jpg",
+     "time": 80.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0025.jpg",
+     "time": 115.0,
+     "role": "detail"
+    }
+   ]
+  },
+  {
+   "id": "greenhouse-in-the-wooded-garden",
+   "title": "Greenhouse in the wooded garden",
+   "kind": "map",
+   "feature_ids": [
+    "wooded-garden",
+    "greenhouse",
+    "house",
+    "treatment-pond",
+    "composting",
+    "garden-shelter"
+   ],
+   "references": [
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0011.jpg",
+     "time": 48.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0006.jpg",
+     "time": 21.0
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0209.jpg",
+     "time": 789.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0211.jpg",
+     "time": 794.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0219.jpg",
+     "time": 838.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0236.jpg",
+     "time": 908.0
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0238.jpg",
+     "time": 932.0
+    }
+   ],
+   "path": "data/illustrations/30ghnDOFbNQ/greenhouse-in-the-wooded-garden.png",
+   "invention_log": "harness/viz/30ghnDOFbNQ/greenhouse-in-the-wooded-garden/review.md"
+  },
+  {
+   "id": "living-between-house-and-glass",
+   "title": "Living between house and glass",
+   "kind": "cutaway",
+   "feature_ids": [
+    "greenhouse",
+    "house",
+    "oiled-cladding",
+    "roof-terrace",
+    "roof-removal",
+    "metal-stair",
+    "rope-swing",
+    "greenhouse-crops",
+    "tomatoes",
+    "fig-tree",
+    "solar-climate",
+    "roof-vents",
+    "supplemental-heating"
+   ],
+   "references": [
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0011.jpg",
+     "time": 48.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0016.jpg",
+     "time": 80
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0048.jpg",
+     "time": 210
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0051.jpg",
+     "time": 217.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0072.jpg",
+     "time": 331
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0073.jpg",
+     "time": 333
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0077.jpg",
+     "time": 349
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0079.jpg",
+     "time": 352.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0088.jpg",
+     "time": 379
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0094.jpg",
+     "time": 400.5
+    }
+   ],
+   "path": "data/illustrations/30ghnDOFbNQ/living-between-house-and-glass.png",
+   "invention_log": "harness/viz/30ghnDOFbNQ/living-between-house-and-glass/review.md"
+  },
+  {
+   "id": "wastewater-from-toilet-to-pond",
+   "title": "Wastewater from toilet to pond",
+   "kind": "diagram",
+   "feature_ids": [
+    "wastewater-system",
+    "separating-toilet",
+    "centrifugal-separator",
+    "blackwater-cistern",
+    "greywater-cisterns",
+    "planted-filter",
+    "filter-pipework",
+    "mint",
+    "treatment-pond",
+    "pond-testing"
+   ],
+   "references": [
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0164.jpg",
+     "time": 633.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0166.jpg",
+     "time": 643.0
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0170.jpg",
+     "time": 658.0
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0171.jpg",
+     "time": 660.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0147.jpg",
+     "time": 574.0
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0179.jpg",
+     "time": 697.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0192.jpg",
+     "time": 728.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0202.jpg",
+     "time": 761.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0204.jpg",
+     "time": 775.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0205.jpg",
+     "time": 780.0
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0215.jpg",
+     "time": 805.5
+    }
+   ],
+   "path": "data/illustrations/30ghnDOFbNQ/wastewater-from-toilet-to-pond.png",
+   "invention_log": "harness/viz/30ghnDOFbNQ/wastewater-from-toilet-to-pond/review.md"
+  },
+  {
+   "id": "two-composts-two-planting-uses",
+   "title": "Two composts, two planting uses",
+   "kind": "diagram",
+   "feature_ids": [
+    "composting",
+    "food-compost-bin",
+    "solids-compost"
+   ],
+   "references": [
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0234.jpg",
+     "time": 904.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0224.jpg",
+     "time": 860.0
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0231.jpg",
+     "time": 884.5
+    },
+    {
+     "path": "review/30ghnDOFbNQ/evidence/frame-0237.jpg",
+     "time": 910.0
+    }
+   ],
+   "path": "data/illustrations/30ghnDOFbNQ/two-composts-two-planting-uses.png",
+   "invention_log": "harness/viz/30ghnDOFbNQ/two-composts-two-planting-uses/review.md"
+  }
+ ]
+}

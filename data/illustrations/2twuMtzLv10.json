@@ -1,0 +1,277 @@
+{
+ "property_id": "2twuMtzLv10",
+ "items": [
+  {
+   "id": "home-on-family-land",
+   "title": "Home on family land",
+   "kind": "map",
+   "feature_ids": [
+    "shed-house",
+    "entry-deck",
+    "family-property",
+    "family-laundry",
+    "yard"
+   ],
+   "references": [
+    {
+     "path": "harness/viz/2twuMtzLv10/home-on-family-land/document-63.5.jpg",
+     "time": 63.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0008.jpg",
+     "time": 21
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0101.jpg",
+     "time": 471
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0121.jpg",
+     "time": 620.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0122.jpg",
+     "time": 623
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "time": 1263.5
+    }
+   ],
+   "path": "data/illustrations/2twuMtzLv10/home-on-family-land.png",
+   "invention_log": "harness/viz/2twuMtzLv10/home-on-family-land/review.md"
+  },
+  {
+   "id": "shed-shell-to-home",
+   "title": "Margo’s Shed Shell to Home",
+   "kind": "diagram",
+   "feature_ids": [
+    "bare-shed-record",
+    "diy-build",
+    "interior-build-record",
+    "archive-insulation",
+    "base-cabinets",
+    "shed-house",
+    "hired-plumbing"
+   ],
+   "references": [
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0111.jpg",
+     "time": 527.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0113.jpg",
+     "time": 557.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0004.jpg",
+     "time": 7.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0024.jpg",
+     "time": 98.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0055.jpg",
+     "time": 259.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "time": 1263.5
+    }
+   ],
+   "path": "data/illustrations/2twuMtzLv10/shed-shell-to-home.png",
+   "invention_log": "harness/viz/2twuMtzLv10/shed-shell-to-home/review.md"
+  },
+  {
+   "id": "loft-over-diner-booth",
+   "title": "Loft over diner booth",
+   "kind": "section",
+   "feature_ids": [
+    "dinette",
+    "loft-bed",
+    "loft-access",
+    "custom-sofa",
+    "skylight"
+   ],
+   "references": [
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0178.jpg",
+     "time": 974.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0204.jpg",
+     "time": 1055.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0208.jpg",
+     "time": 1079.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0209.jpg",
+     "time": 1084.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0210.jpg",
+     "time": 1086.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0026.jpg",
+     "time": 121.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0222.jpg",
+     "time": 1152.0
+    }
+   ],
+   "path": "data/illustrations/2twuMtzLv10/loft-over-diner-booth.png",
+   "invention_log": "harness/viz/2twuMtzLv10/loft-over-diner-booth/review.md"
+  },
+  {
+   "id": "pantry-inside-wardrobe-unit",
+   "title": "Wardrobe with pull-out pantry",
+   "kind": "cutaway",
+   "feature_ids": [
+    "pantry",
+    "wardrobe"
+   ],
+   "references": [
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0076.jpg",
+     "time": 370.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0077.jpg",
+     "time": 372.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0087.jpg",
+     "time": 419.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0090.jpg",
+     "time": 427.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0092.jpg",
+     "time": 436.5
+    }
+   ],
+   "path": "data/illustrations/2twuMtzLv10/pantry-inside-wardrobe-unit.png",
+   "invention_log": "harness/viz/2twuMtzLv10/pantry-inside-wardrobe-unit/review.md"
+  },
+  {
+   "id": "bath-orientation-preserves-kitchen",
+   "title": "End-entry bath preserves kitchen space",
+   "kind": "plan",
+   "feature_ids": [
+    "bathtub",
+    "kitchen"
+   ],
+   "references": [
+    {
+     "path": "harness/viz/2twuMtzLv10/bath-orientation-preserves-kitchen/document-63.5.jpg",
+     "time": 63.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0241.jpg",
+     "time": 1235.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0240.jpg",
+     "time": 1227.5
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0081.jpg",
+     "time": 389.0
+    }
+   ],
+   "path": "data/illustrations/2twuMtzLv10/bath-orientation-preserves-kitchen.png",
+   "invention_log": "harness/viz/2twuMtzLv10/bath-orientation-preserves-kitchen/review.md"
+  },
+  {
+   "id": "bathroom-borrows-daylight-outward",
+   "title": "Bathroom shares daylight",
+   "kind": "section",
+   "feature_ids": [
+    "bathroom-windows",
+    "borrowed-light"
+   ],
+   "references": [
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0228.jpg",
+     "time": 1177.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0245.jpg",
+     "time": 1249.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0106.jpg",
+     "time": 504.0
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0229.jpg",
+     "time": 1185.0
+    }
+   ],
+   "path": "data/illustrations/2twuMtzLv10/bathroom-borrows-daylight-outward.png",
+   "invention_log": "harness/viz/2twuMtzLv10/bathroom-borrows-daylight-outward/review.md"
+  },
+  {
+   "id": "portrait",
+   "title": "Margo’s shed home, overcast spring",
+   "kind": "portrait",
+   "hero": true,
+   "path": "data/illustrations/2twuMtzLv10/portrait.png",
+   "invention_log": "harness/viz/2twuMtzLv10/portrait/review.md",
+   "judge": {
+    "model": "gpt-5.6-terra",
+    "round": 2,
+    "retention": 1.0,
+    "questions": 20,
+    "rounds": [
+     {
+      "round": 1,
+      "retention": 0.882
+     },
+     {
+      "round": 2,
+      "retention": 1.0
+     }
+    ]
+   },
+   "feature_ids": [
+    "shed-house",
+    "facade-skirting",
+    "entry-deck",
+    "yard",
+    "slat-fence",
+    "window-boxes",
+    "roof-chains"
+   ],
+   "references": [
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0250.jpg",
+     "time": 1263.5,
+     "role": "vantage"
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0107.jpg",
+     "time": 511.5,
+     "role": "detail"
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0008.jpg",
+     "time": 21.0,
+     "role": "detail"
+    },
+    {
+     "path": "review/2twuMtzLv10/evidence/frame-0031.jpg",
+     "time": 134.0,
+     "role": "detail"
+    }
+   ]
+  }
+ ]
+}

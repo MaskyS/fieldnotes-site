@@ -1,0 +1,34 @@
+/* Schematics (src/components/Schematic.js, src/lib/schematic.js): sheets drawn from
+   data in the site's own faces and tokens. The geometry is currentColor, so a sheet
+   follows the page's ink; evidence kinds are classes on each element: seen (solid),
+   said (dashed, ink 2), none (dotted, ink 3). Amber is only for the note that says the
+   figures do not add up. Readable at 400 px: the sheet is 560 units wide, labels 13. */
+.schematic-sheets { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: var(--s-6); align-items: start; }
+.schematic-sheets.one { grid-template-columns: minmax(0, 720px); }
+.schematic-sheet { margin: 0; }
+.schematic-sheet .sheet svg { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 4px; background: var(--card); color: var(--ink); }
+.schematic-sheet figcaption { padding: var(--s-2) 0 0; font-family: var(--serif); font-size: var(--t1); line-height: 1.45; color: var(--ink-2); }
+.schematic-sheet figcaption b { display: block; font-family: var(--sans); font-size: var(--t2); font-weight: 500; color: var(--ink); }
+.schematic-sheet figcaption .explains a { color: var(--ink-2); }
+.schematic-sheet figcaption .explains a:hover { color: var(--green); }
+
+.schematic line, .schematic path, .schematic rect { stroke: currentColor; stroke-width: 1.3; stroke-linecap: round; stroke-linejoin: round; }
+.schematic .sch-dim line, .schematic .sch-dim path { stroke-width: 0.9; }
+.schematic .sch-band line { stroke: var(--line-strong); stroke-width: 1; }
+.schematic text { fill: currentColor; }
+.schematic .sch-title { font-family: var(--serif); font-size: 18px; font-weight: 500; }
+.schematic .sch-label { font-family: var(--sans); font-size: 13px; }
+.schematic .sch-small { font-family: var(--cond); font-size: 12px; fill: var(--ink-2); }
+.schematic .sch-figure { font-family: var(--cond); font-size: 14px; font-weight: 500; font-variant-numeric: tabular-nums lining-nums; fill: var(--ink); }
+.schematic .sch-figure.big { font-size: 22px; }
+.schematic .sch-dimname { font-family: var(--cond); font-size: 11px; fill: var(--ink-3); }
+.schematic .sch-legend { font-family: var(--cond); font-size: 12px; fill: var(--ink-3); }
+.schematic .sch-lane { font-family: var(--cond); font-size: 13px; font-weight: 500; fill: var(--ink-2); }
+.schematic .sch-note { font-family: var(--serif); font-size: 13px; fill: var(--amber); }
+.schematic .sch-unmeasured { font-family: var(--cond); font-size: 12px; fill: var(--ink-2); }
+.schematic .sch-el.said { color: var(--ink-2); }
+.schematic .sch-el.none { color: var(--ink-3); }
+.schematic .sch-el[data-feature] { cursor: pointer; }
+.schematic .sch-el[data-feature]:hover text, .schematic .sch-el[data-feature]:focus-visible text { fill: var(--green); }
+.schematic .sch-el[data-feature]:focus-visible { outline: none; }
+.schematic .sch-el[data-feature]:focus-visible rect, .schematic .sch-el[data-feature]:focus-visible line, .schematic .sch-el[data-feature]:focus-visible path { stroke: var(--green); }

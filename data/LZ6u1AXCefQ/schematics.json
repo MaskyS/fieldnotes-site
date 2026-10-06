@@ -1,0 +1,24 @@
+{
+ "property_id": "LZ6u1AXCefQ",
+ "items": [
+  {
+   "id": "wall",
+   "kind": "layers",
+   "title": "Through the cordwood wall",
+   "outside": "outside",
+   "inside": "inside",
+   "layers": [
+    {"id": "bead-out", "feature": "cordwood-laying", "label": "mortar bead", "claim": "k-56"},
+    {"id": "core", "feature": "insulated-core", "label": "cedar shavings and lime", "claim": "k-58"},
+    {"id": "bead-in", "feature": "cordwood-laying", "label": "mortar bead", "claim": "k-56"}
+   ],
+   "through": {"feature": "log-length", "label": "cedar log, end to end", "claim": "k-59"},
+   "below": {"feature": "stone-knee-wall", "label": "stone knee wall keeps the cordwood off the ground"},
+   "not_established": [
+    "the knee wall's height",
+    "whether the inner bead is as thick as the outer",
+    "the insulation values are the owner's estimates and not carried as figures"
+   ]
+  }
+ ]
+}

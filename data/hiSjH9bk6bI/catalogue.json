@@ -1,0 +1,4730 @@
+{
+ "title": "Sara and Jérémie’s Panjab houseboat",
+ "source": {
+  "id": "hiSjH9bk6bI",
+  "url": "https://www.youtube.com/watch?v=hiSjH9bk6bI",
+  "duration": 1497.021,
+  "resolution": [
+   1280,
+   720
+  ],
+  "transcript": "Automatic English captions (generated en track, 374 cues). They omit much of Jérémie’s French speech and garble some words and speaker changes. No translated-caption flag is present. Filmmaker-written English subtitles in the image supply the cited French-language statements, names and figures; spans may therefore reference subtitled speech absent from transcript.txt.",
+  "context": {
+   "location": {
+    "country": "France",
+    "state_or_region": "not disclosed",
+    "nearest_place": "Paris",
+    "precision": "Seine on the outskirts of Paris; exact municipality and berth not disclosed",
+    "climate": {
+     "koppen": "Cfb",
+     "name": "temperate oceanic",
+     "group": "temperate",
+     "table": "Beck et al. (2023), High-resolution (1 km) Köppen-Geiger maps for 1901–2099 based on constrained CMIP6 projections, Scientific Data 10, 724; 1991–2020 map at 0.1°, CC BY 4.0; https://doi.org/10.6084/m9.figshare.21789074",
+     "resolution": "0.1°",
+     "derived_from": {
+      "query": "Paris, France",
+      "lat": 48.853,
+      "lon": 2.348,
+      "matched": "Paris, Ile-de-France, Metropolitan France, France",
+      "stands_for": "city",
+      "precision": "Seine on the outskirts of Paris; exact municipality and berth not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "rainfall": {
+     "mm_per_year": 641,
+     "source": "WorldClim 2.1 (Fick & Hijmans 2017), bioclimatic variables at 10 arc-minutes, 1970-2000 means, CC BY 4.0; https://www.worldclim.org/data/worldclim21.html",
+     "resolution": "10 arc-minutes",
+     "derived_from": {
+      "query": "Paris, France",
+      "lat": 48.853,
+      "lon": 2.348,
+      "matched": "Paris, Ile-de-France, Metropolitan France, France",
+      "stands_for": "city",
+      "precision": "Seine on the outskirts of Paris; exact municipality and berth not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "hardiness": {
+     "zone": "8b",
+     "mean_annual_extreme_min_c": -6.8,
+     "years": "1991-2020",
+     "source": "ERA5 reanalysis daily minimum temperature via Open-Meteo archive; USDA zone bands on the mean of each year's lowest day",
+     "resolution": "about 25 km (ERA5), 9 km where ERA5-Land applies",
+     "derived_from": {
+      "query": "Paris, France",
+      "lat": 48.853,
+      "lon": 2.348,
+      "matched": "Paris, Ile-de-France, Metropolitan France, France",
+      "stands_for": "city",
+      "precision": "Seine on the outskirts of Paris; exact municipality and berth not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    },
+    "elevation": {
+     "m": 32,
+     "source": "Copernicus DEM GLO-90 via Open-Meteo",
+     "derived_from": {
+      "query": "Paris, France",
+      "lat": 48.853,
+      "lon": 2.348,
+      "matched": "Paris, Ile-de-France, Metropolitan France, France",
+      "stands_for": "city",
+      "precision": "Seine on the outskirts of Paris; exact municipality and berth not disclosed"
+     },
+     "note": "Derived from the disclosed location, not stated by the film."
+    }
+   },
+   "channel": "Kirsten Dirksen",
+   "upload_date": "2022-06-27"
+  }
+ },
+ "sampling": {
+  "frames": 486,
+  "candidate_shots": 201,
+  "contact_sheets": 18,
+  "method": "keyframes where the picture changes, one per shot start, gaps bounded",
+  "review_directory": "review/hiSjH9bk6bI"
+ },
+ "subject": {
+  "place": "panjab",
+  "people": [
+   "jeremie",
+   "sara"
+  ],
+  "gist": "Sara and Jérémie turned a retired cargo barge into a home, buying plants before furniture and finding relief from stress watching the water.",
+  "story": {
+   "text": "Jérémie dreams of living beside the water; Sara takes two years to warm to the idea of a houseboat. Together they turn a retired cargo barge into Panjab, a home full of light and plants, which they buy before the furniture. Glass stairs carry daylight down into rooms beside the water, and a table for twelve finally gives them space to welcome family and friends. The long conversion tests Sara's patience, but the result feels worth it. Watching the river lets the day's stress fall away. They like being home so much that going out now takes an effort, even with Paris so close.",
+   "moments": [
+    {
+     "phrase": "Sara takes two years to warm to the idea of a houseboat",
+     "at": 1312.08
+    },
+    {
+     "phrase": "plants, which they buy before the furniture",
+     "at": 102
+    },
+    {
+     "phrase": "a table for twelve",
+     "at": 666.56
+    },
+    {
+     "phrase": "The long conversion tests Sara's patience",
+     "at": 1253.36
+    },
+    {
+     "phrase": "Watching the river lets the day's stress fall away",
+     "at": 220
+    },
+    {
+     "phrase": "going out now takes an effort",
+     "at": 259.759
+    }
+   ]
+  },
+  "derived_kind": "single property"
+ },
+ "places": [
+  {
+   "id": "panjab",
+   "title": "Panjab, Sara and Jérémie’s houseboat",
+   "kind": "vehicle",
+   "within": null,
+   "caveat": "The lived-in vessel is the subject; riverbank and neighboring boats are not owned parts of it.",
+   "entity": "ent-sara-jeremie-panjab-houseboat"
+  },
+  {
+   "id": "upper-room",
+   "title": "Upper glazed living room and kitchen",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": "Open shared volume; lounge and kitchen are not separate buildings."
+  },
+  {
+   "id": "entrance-deck",
+   "title": "Planted entrance and dining deck",
+   "kind": "outdoor area",
+   "within": "panjab",
+   "caveat": ""
+  },
+  {
+   "id": "spa-deck",
+   "title": "Raised spa deck",
+   "kind": "outdoor area",
+   "within": "panjab",
+   "caveat": "Connected to the entrance deck by the steps shown at 21:08–21:18."
+  },
+  {
+   "id": "opposite-deck",
+   "title": "Terrace above the opposite-end cabin",
+   "kind": "outdoor area",
+   "within": "panjab",
+   "caveat": "Seen in aerials; not walked through on camera."
+  },
+  {
+   "id": "lower-lounge",
+   "title": "Lower lounge and stair garden",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": ""
+  },
+  {
+   "id": "laundry",
+   "title": "Former engine room, now laundry/storage",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": "Former use is identified by Sara, not inferred from current appliances."
+  },
+  {
+   "id": "main-bedroom",
+   "title": "Main bedroom with rectangular river windows",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": "Reached through the dark passage after the main kitchen; no unsupported adjacency to lower guest rooms."
+  },
+  {
+   "id": "dressing",
+   "title": "Main bedroom dressing storage",
+   "kind": "room",
+   "within": "main-bedroom",
+   "caveat": "Two sides are described; only the displayed storage is documented."
+  },
+  {
+   "id": "main-bathroom",
+   "title": "Main bedroom shower room",
+   "kind": "room",
+   "within": "main-bedroom",
+   "caveat": ""
+  },
+  {
+   "id": "main-wc",
+   "title": "Main suite separate WC",
+   "kind": "room",
+   "within": "main-bedroom",
+   "caveat": ""
+  },
+  {
+   "id": "corridor",
+   "title": "Lower accommodation corridor",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": ""
+  },
+  {
+   "id": "lower-bedroom",
+   "title": "First lower bedroom shown",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": "Do not infer who sleeps here or that all nearby bathrooms are en suite."
+  },
+  {
+   "id": "blue-bathroom",
+   "title": "Lower bathroom with blue wheel taps",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": "Separate from the main bathroom and sauna bathroom; exact bedroom association is unestablished."
+  },
+  {
+   "id": "sauna-bathroom",
+   "title": "Lower bathroom containing sauna",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": ""
+  },
+  {
+   "id": "sauna",
+   "title": "Timber-lined sauna enclosure",
+   "kind": "room",
+   "within": "sauna-bathroom",
+   "caveat": ""
+  },
+  {
+   "id": "office",
+   "title": "Lower office",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": ""
+  },
+  {
+   "id": "studio",
+   "title": "Independent studio living and kitchen area",
+   "kind": "room",
+   "within": "panjab",
+   "caveat": "A household guest unit inside the same vessel, not another home in a community."
+  },
+  {
+   "id": "studio-bedroom",
+   "title": "Studio sleeping alcove",
+   "kind": "room",
+   "within": "studio",
+   "caveat": ""
+  },
+  {
+   "id": "studio-bathroom",
+   "title": "Studio shower room",
+   "kind": "room",
+   "within": "studio",
+   "caveat": ""
+  },
+  {
+   "id": "river-context",
+   "title": "Seine and neighboring moored boats",
+   "kind": "land feature",
+   "within": null,
+   "caveat": "Exterior context and wildlife inserts; neighboring interiors are not visited.",
+   "outside": true
+  },
+  {
+   "id": "bank-context",
+   "title": "Tree-lined access bank and bridge viewpoint",
+   "kind": "outdoor area",
+   "within": null,
+   "caveat": "Outside the vessel; exact viewpoint and land tenure are not disclosed.",
+   "outside": true
+  },
+  {
+   "id": "shipyard-context",
+   "title": "Archive shipyard",
+   "kind": "site",
+   "within": null,
+   "caveat": "Shown in conversion records; purchase location is called Northern France, but exact yard is unidentified.",
+   "outside": true
+  },
+  {
+   "id": "transport-context",
+   "title": "Archive river transport route",
+   "kind": "land feature",
+   "within": null,
+   "caveat": "Unlocated route in launch/towing photographs, outside the present mooring.",
+   "outside": true
+  }
+ ],
+ "people": [
+  {
+   "id": "jeremie",
+   "name": "Jérémie Malvy",
+   "relation": "owner",
+   "note": "Purchaser and co-resident identified by the description; gives French-language explanations with English picture subtitles."
+  },
+  {
+   "id": "sara",
+   "name": "Sara",
+   "relation": "owner",
+   "note": "Jérémie’s wife; leads the English-language tour and calls it “our boat” (00:52). The description names Jérémie as the purchaser. Surname not disclosed."
+  },
+  {
+   "id": "kirsten",
+   "name": "Kirsten Dirksen",
+   "relation": "filmmaker",
+   "note": "Named in channel branding and metadata; interviewer accompanying the household.",
+   "entity": "ent-kirsten-dirksen"
+  }
+ ],
+ "claims": [
+  {
+   "id": "home-type",
+   "text": "Retired cargo boat converted into a full-time home.",
+   "by": "description",
+   "at": [],
+   "about": "converted-barge",
+   "headline": true
+  },
+  {
+   "id": "purchase-price",
+   "text": "Retired boat purchased for 11,000 euros.",
+   "by": "jeremie",
+   "at": [
+    451
+   ],
+   "about": "conversion-archive",
+   "headline": true,
+   "quantity": {
+    "value": 11000,
+    "unit": "EUR",
+    "of": "purchase price"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "description-duration",
+   "text": "Conversion took two years.",
+   "by": "description",
+   "at": [],
+   "about": "conversion-archive",
+   "headline": true,
+   "doubt": "The description gives two years, while Sara says almost two and a half years at 13:58.",
+   "quantity": {
+    "value": 2,
+    "unit": "year",
+    "of": "build time"
+   }
+  },
+  {
+   "id": "spoken-duration",
+   "text": "Conversion took almost two and a half years.",
+   "by": "sara",
+   "at": [
+    838.639
+   ],
+   "about": "conversion-archive",
+   "headline": true,
+   "doubt": "Sara’s spoken duration differs from the description’s two years.",
+   "quantity": {
+    "value": 2.5,
+    "unit": "year",
+    "of": "build time"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "build-year",
+   "text": "Cargo boat probably built in 1954.",
+   "by": "sara",
+   "at": [
+    405.28
+   ],
+   "about": "cargo-hull-archive",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "cargo",
+   "text": "The boat formerly transported cereals.",
+   "by": "sara",
+   "at": [
+    410.96
+   ],
+   "about": "cargo-hull-archive",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "retired",
+   "text": "The barge had been retired before purchase.",
+   "by": "jeremie",
+   "at": [
+    449
+   ],
+   "about": "cargo-hull-archive",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "purchase-region",
+   "text": "Boat purchased in Northern France.",
+   "by": "jeremie",
+   "at": [
+    435
+   ],
+   "about": "cargo-hull-archive",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "seine-location",
+   "text": "Panjab is moored on the Seine outside Paris.",
+   "by": "description",
+   "at": [],
+   "about": "mooring",
+   "headline": true
+  },
+  {
+   "id": "travel-time",
+   "text": "Mooring is under ten minutes from the Arc de Triomphe.",
+   "by": "sara",
+   "at": [
+    21.92
+   ],
+   "about": "mooring",
+   "headline": false,
+   "doubt": "The landmark name is garbled as “ag de triomphe” in automatic captions.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "moorings-count",
+   "text": "Approximately 40–50 mooring spots are nearby.",
+   "by": "sara",
+   "at": [
+    41.52
+   ],
+   "about": "mooring",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "boat-name",
+   "text": "Panjab is named after Jérémie’s home region in Pakistan.",
+   "by": "description",
+   "at": [],
+   "about": "converted-barge",
+   "headline": false
+  },
+  {
+   "id": "plants-first",
+   "text": "Plants were bought before furniture.",
+   "by": "sara",
+   "at": [
+    102
+   ],
+   "about": "plant-growing",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "barrier-omitted",
+   "text": "Waterside protection was omitted to preserve the view.",
+   "by": "sara",
+   "at": [
+    129.84
+   ],
+   "about": "plant-ledge",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "stress",
+   "text": "Watching the river relieves stress within two or three minutes.",
+   "by": "jeremie",
+   "at": [
+    220
+   ],
+   "about": "river-lifestyle",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "living-plants",
+   "text": "The plants beneath the stair are alive.",
+   "by": "sara",
+   "at": [
+    330.32
+   ],
+   "about": "stair-garden",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "engine-removed",
+   "text": "The boat no longer has an engine.",
+   "by": "sara",
+   "at": [
+    369.28,
+    1086.72
+   ],
+   "about": "converted-barge",
+   "headline": true,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "towable",
+   "text": "The boat can be moved by towing.",
+   "by": "sara",
+   "at": [
+    1082.559
+   ],
+   "about": "archive-tow",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "dining-capacity",
+   "text": "The dining table seats 12 people.",
+   "by": "sara",
+   "at": [
+    666.56
+   ],
+   "about": "long-dining-table",
+   "headline": false,
+   "quantity": {
+    "value": 12,
+    "unit": "person",
+    "of": "count"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "gas-rule",
+   "text": "An interior gas line is illegal on this boat.",
+   "by": "sara",
+   "at": [
+    673
+   ],
+   "about": "outside-gas-line",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "gas-action",
+   "text": "The gas line was installed outside.",
+   "by": "sara",
+   "at": [
+    675.76
+   ],
+   "about": "outside-gas-line",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "quiet-bedroom",
+   "text": "Car traffic cannot be heard inside the lower bedroom.",
+   "by": "sara",
+   "at": [
+    714.48
+   ],
+   "about": "main-suite",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "dressing-sides",
+   "text": "Dressing storage is provided on both sides.",
+   "by": "sara",
+   "at": [
+    769.839
+   ],
+   "about": "dressing-storage",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "italian-fittings",
+   "text": "Bathroom fittings were handmade in Italy.",
+   "by": "sara",
+   "at": [
+    807.2
+   ],
+   "about": "handmade-valves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "bathroom-colors",
+   "text": "Each bathroom has differently colored fittings.",
+   "by": "sara",
+   "at": [
+    810.32
+   ],
+   "about": "handmade-valves",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "woven-material",
+   "text": "Lower-bedroom cupboard panels are wicker.",
+   "by": "jeremie",
+   "at": [
+    868
+   ],
+   "about": "woven-cupboards",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "wood-interior",
+   "text": "Wood is used throughout the interior.",
+   "by": "jeremie",
+   "at": [
+    877.5
+   ],
+   "about": "interior-wood",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "acoustics",
+   "text": "The lower interior absorbs sound.",
+   "by": "jeremie",
+   "at": [
+    900
+   ],
+   "about": "water-level-comfort",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "thermal-stability",
+   "text": "Downstairs temperature remains practically constant, even in winter.",
+   "by": "jeremie",
+   "at": [
+    908.5
+   ],
+   "about": "water-level-comfort",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "water-seasonality",
+   "text": "River temperature varies 10 degrees between winter and summer.",
+   "by": "jeremie",
+   "at": [
+    933.5
+   ],
+   "about": "water-level-comfort",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "no-ac",
+   "text": "Air conditioning is not used.",
+   "by": "jeremie",
+   "at": [
+    946
+   ],
+   "about": "water-level-comfort",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "sauna-timber",
+   "text": "Sauna wood was heated for six months.",
+   "by": "jeremie",
+   "at": [
+    1003.5
+   ],
+   "about": "timber-sauna",
+   "headline": false,
+   "quantity": {
+    "value": 6,
+    "unit": "month",
+    "of": "component time"
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "work-from-home",
+   "text": "Sara sometimes works from home.",
+   "by": "sara",
+   "at": [
+    1055.12
+   ],
+   "about": "home-office",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "father-photo",
+   "text": "The photograph shows Jérémie’s father in their Pakistani village.",
+   "by": "jeremie",
+   "at": [
+    1064
+   ],
+   "about": "father-photograph",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "winter-contraction",
+   "text": "The boat shrinks 5 centimeters [50 millimeters] in winter.",
+   "by": "jeremie",
+   "at": [
+    1110
+   ],
+   "about": "flexible-joints",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "flexible-materials",
+   "text": "Flexible materials and joints accommodate seasonal hull movement.",
+   "by": "jeremie",
+   "at": [
+    1121.5
+   ],
+   "about": "flexible-joints",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "studio-entry",
+   "text": "The studio has an independent entrance.",
+   "by": "sara",
+   "at": [
+    1152.32
+   ],
+   "about": "independent-studio",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "reclaimed-door",
+   "text": "The studio door was purchased from another boat.",
+   "by": "sara",
+   "at": [
+    1169.52
+   ],
+   "about": "reclaimed-sealing-door",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "door-rule",
+   "text": "A sealing marine door is legally required here.",
+   "by": "sara",
+   "at": [
+    1175.039
+   ],
+   "about": "reclaimed-sealing-door",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "door-purpose",
+   "text": "The marine door seals against water entering.",
+   "by": "sara",
+   "at": [
+    1181.28
+   ],
+   "about": "reclaimed-sealing-door",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "spa-use",
+   "text": "The spa was used the day before filming.",
+   "by": "sara",
+   "at": [
+    1286.24
+   ],
+   "about": "deck-spa",
+   "headline": false,
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "documentation",
+   "text": "Moorings are now regularized and occupants have their own papers.",
+   "by": "sara",
+   "at": [
+    1349.039
+   ],
+   "about": "mooring",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "existing-berth",
+   "text": "An existing mooring can be bought from another occupant.",
+   "by": "sara",
+   "at": [
+    1361.76
+   ],
+   "about": "mooring",
+   "headline": false,
+   "topic": "law",
+   "doubt": "The interviewer proposes buying someone else’s place and Sara agrees; the captions do not mark the speaker change.",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "mooring-application",
+   "text": "A mooring can also be obtained by application.",
+   "by": "sara",
+   "at": [
+    1364.96
+   ],
+   "about": "mooring",
+   "headline": false,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "waiting-list",
+   "text": "New mooring applications face a 20–25-year waiting list.",
+   "by": "sara",
+   "at": [
+    1367.84
+   ],
+   "about": "mooring",
+   "headline": true,
+   "topic": "law",
+   "quantity": {
+    "value": 22.5,
+    "unit": "year",
+    "of": "other",
+    "approx": true
+   },
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "city-gift",
+   "text": "The city granted their mooring as a gift.",
+   "by": "sara",
+   "at": [
+    1391.52
+   ],
+   "about": "mooring",
+   "headline": true,
+   "topic": "law",
+   "text_source": "automatic captions"
+  },
+  {
+   "id": "local-jobs",
+   "text": "Jérémie created more than 50 jobs in the city.",
+   "by": "sara",
+   "at": [
+    1384.159
+   ],
+   "about": "mooring",
+   "headline": false,
+   "text_source": "automatic captions"
+  }
+ ],
+ "links": [
+  {
+   "id": "link-1",
+   "url": "https://www.facebook.com/jeremie.malvy/",
+   "kind": "social",
+   "entity": {
+    "type": "person",
+    "id": "jeremie"
+   },
+   "by": "description",
+   "line": "— Facebook: https://www.facebook.com/jeremie.malvy/",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-2",
+   "url": "https://www.instagram.com/panjab_paris",
+   "kind": "social",
+   "entity": {
+    "type": "place",
+    "id": "panjab",
+    "entity": "ent-sara-jeremie-panjab-houseboat"
+   },
+   "by": "description",
+   "line": "— Instagram: https://www.instagram.com/panjab_paris",
+   "channel": "Kirsten Dirksen"
+  },
+  {
+   "id": "link-3",
+   "url": "https://www.youtube.com/@amjadazizmalvy",
+   "kind": "social",
+   "entity": {
+    "type": "person",
+    "id": "jeremie"
+   },
+   "by": "description",
+   "line": "— YouTube: https://www.youtube.com/@amjadazizmalvy",
+   "channel": "Kirsten Dirksen"
+  }
+ ],
+ "relationships": [
+  {
+   "subject": "glass-floor",
+   "predicate": "admits daylight to",
+   "object": "stair-garden",
+   "time": [
+    99,
+    103,
+    339.5,
+    1257.5
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "glass-stair",
+   "predicate": "passes above",
+   "object": "stair-garden",
+   "time": [
+    309,
+    333
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "upper-glazing",
+   "predicate": "opens onto",
+   "object": "plant-ledge",
+   "time": [
+    128,
+    136.5
+   ],
+   "status": "shown"
+  },
+  {
+   "subject": "studio-entry-stair",
+   "predicate": "sits above the sofa area of",
+   "object": "independent-studio",
+   "time": [
+    1210.5,
+    1213
+   ],
+   "status": "shown"
+  }
+ ],
+ "version": 3,
+ "features": [
+  {
+   "id": "converted-barge",
+   "title": "Panjab cargo-barge home",
+   "place": "panjab",
+   "category": "Structure",
+   "description": "A dark-hulled riverboat carries a glazed living room, lower accommodation and planted decks. Sara identifies it as a former cereal carrier, while the description identifies Jérémie as its purchaser and says the couple live aboard full-time.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film gives no verified vessel dimensions, total conversion budget or hull survey.",
+   "related_ids": [
+    "historic-name-signs",
+    "current-hull-marking"
+   ],
+   "terms": [
+    "barge",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 52.64,
+     "end": 78.6,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 385.039,
+     "end": 419,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0050",
+     "time": 138.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0050.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0050.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0188",
+     "time": 602.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0188.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0188.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0480",
+     "time": 1474.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0480.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0480.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0050.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "cargo-hull-archive",
+   "title": "Red cargo hull before conversion",
+   "place": "panjab",
+   "category": "Structure",
+   "description": "Archive footage shows the red L’AVENTURA hull, empty ribbed hold and haul-out rails. Sara tentatively dates the boat to 1954 and says it transported cereals.",
+   "phase": "historical",
+   "part_of": "converted-barge",
+   "unknown": "The build date is recalled rather than documented, and the shipyard is unidentified.",
+   "related_ids": [
+    "historic-name-signs"
+   ],
+   "terms": [
+    "barge"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 388.8,
+     "end": 419,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0125",
+     "time": 410.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0125.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0125.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0126",
+     "time": 415.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0126.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0126.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0127",
+     "time": 419.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0127.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0127.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0125.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "conversion-archive",
+   "title": "Window cutting and hull conversion",
+   "place": "panjab",
+   "category": "Process",
+   "description": "Inserted footage and phone photographs show exposed steel ribs, newly formed window openings, workers and the repainted hull. Jérémie’s picture subtitle gives an 11,000-euro purchase price, while Sara says the finished project took almost two and a half years.",
+   "phase": "historical",
+   "part_of": "converted-barge",
+   "unknown": "Purchase price excludes an unspecified conversion cost; the description instead gives a two-year duration.",
+   "related_ids": [
+    "historic-name-signs",
+    "cargo-hull-archive"
+   ],
+   "terms": [
+    "steel",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 449,
+     "end": 460,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 461,
+     "end": 489,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 835.519,
+     "end": 849,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0151",
+     "time": 483.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0151.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0151.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0143",
+     "time": 461.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0143.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0143.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0158",
+     "time": 502.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0158.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0158.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0151.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "historic-name-signs",
+   "title": "Historic hull names and worksite sign",
+   "place": "panjab",
+   "category": "Plan",
+   "description": "Archive views show L’AVENTURA on the old hull and a photographed PANJAB stencil beside a French worksite-access warning. These are filmed documents of the vessel’s earlier identity and conversion setting.",
+   "phase": "historical",
+   "part_of": "conversion-archive",
+   "unknown": "Smaller registration characters are not consistently legible; the sign does not establish a public legal requirement.",
+   "related_ids": [
+    "cargo-hull-archive",
+    "converted-barge"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0154",
+     "time": 494.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0154.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0154.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0125",
+     "time": 410.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0125.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0125.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0154.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "current-hull-marking",
+   "title": "Painted hull registration lettering",
+   "place": "panjab",
+   "category": "Plan",
+   "description": "Aerial footage shows white registration lettering on the dark hull below the opposite-end cabin. The marking is a visible identification document on the completed vessel.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "The registration paperwork and legal status behind the painted characters are not shown.",
+   "related_ids": [
+    "converted-barge"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0355",
+     "time": 1097.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0355.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0355.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0353",
+     "time": 1088.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0353.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0353.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0355.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "archive-tow",
+   "title": "Launch and assisted river transport",
+   "place": "panjab",
+   "category": "Process",
+   "description": "Phone photographs show the repainted barge afloat with another vessel assisting its movement. Sara later says the engine has been removed and Panjab could be moved by towing.",
+   "phase": "historical",
+   "part_of": "converted-barge",
+   "unknown": "The archive route, date and exact towing arrangement are not established.",
+   "related_ids": [
+    "conversion-archive"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 516,
+     "end": 538,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1075.28,
+     "end": 1090.64,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0166",
+     "time": 520.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0166.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0166.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0169",
+     "time": 527.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0169.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0169.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0173",
+     "time": 536.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0173.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0173.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0166.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "upper-glazing",
+   "title": "Full-height river-facing glazing",
+   "place": "upper-room",
+   "category": "Structure",
+   "description": "Black-framed glazing runs along the living room with a narrow planted ledge immediately outside. Sara says they wanted an uninterrupted water view and deliberately omitted a protective barrier on that side.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Glass specification and weather sealing are not shown; this is not an assessment of regulatory compliance.",
+   "related_ids": [
+    "plant-ledge"
+   ],
+   "terms": [
+    "glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 106.079,
+     "end": 138.16,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0038",
+     "time": 106.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0038.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0038.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 220.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0067.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0181",
+     "time": 567.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0181.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0181.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0038.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "roof-and-rooflights",
+   "title": "Pale curved roof and rooflights",
+   "place": "panjab",
+   "category": "Structure",
+   "description": "Exterior aerials show a pale curved roof over the glazed room, while interior views show rectangular rooflights. Sara says they wanted light from above as well as the many windows.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Roof build-up, rooflight operation and drainage details are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "roof",
+    "skylight"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 106.079,
+     "end": 113,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0187",
+     "time": 597.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0187.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0187.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0045",
+     "time": 128.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0045.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0045.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0187.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "glass-floor",
+   "title": "Glass floor lightwell above the garden",
+   "place": "upper-room",
+   "category": "Structure",
+   "description": "A framed rectangular glass panel in the upper floor reveals the planted lower level and is also filmed from below. Sara explains that they wanted a view of the plants downstairs.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Glass thickness, structural design and load capacity are not given.",
+   "related_ids": [
+    "stair-garden",
+    "glass-stair"
+   ],
+   "terms": [
+    "glass",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 91.92,
+     "end": 104,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0036",
+     "time": 101.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0036.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0036.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0361",
+     "time": 1121.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0361.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0361.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0417",
+     "time": 1259.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0417.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0417.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0036.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "glass-stair",
+   "title": "Transparent glass treads on dark supports",
+   "place": "lower-lounge",
+   "category": "Structure",
+   "description": "The camera descends glass treads supported by dark metal with a handrail and small step lights. Sara describes the intention to make the stair visually light, and Jérémie’s subtitles link the glass to seeing the garden.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "The glazing build-up, fixing method and stair certification are not shown.",
+   "related_ids": [
+    "stair-garden",
+    "glass-floor"
+   ],
+   "terms": [
+    "glass",
+    "metal",
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 305,
+     "end": 338.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0094",
+     "time": 323.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0094.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0094.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0087",
+     "time": 309.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0087.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0087.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0098",
+     "time": 333.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0098.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0098.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0094.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "flexible-joints",
+   "title": "Floor joints for seasonal hull movement",
+   "place": "corridor",
+   "category": "Materials",
+   "description": "Jérémie points down to joints in the pale corridor floor; the surrounding finishes are shown closely. His English picture subtitles say the boat shrinks by 5 centimeters [50 millimeters] in winter and flexible materials accommodate the change.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "No displacement measurement, material specification or joint design is supplied.",
+   "related_ids": [
+    "interior-wood"
+   ],
+   "terms": [
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1097,
+     "end": 1138,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0357",
+     "time": 1113.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0357.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0357.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0365",
+     "time": 1129.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0365.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0365.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0367",
+     "time": 1132.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0367.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0367.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0357.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "original-door",
+   "title": "Original heavy engine-room door",
+   "place": "laundry",
+   "category": "Structure",
+   "description": "A heavy white door with reinforcing bars opens into the current utility room. Sara calls it the original door and identifies the space behind it as the former engine room.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Its original specification and present sealing performance are not demonstrated.",
+   "related_ids": [
+    "laundry-fitout"
+   ],
+   "terms": [
+    "door"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 366.479,
+     "end": 385.1,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0111",
+     "time": 370.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0111.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0111.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0113",
+     "time": 374.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0113.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0113.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0111.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "laundry-fitout",
+   "title": "Laundry in the former engine room",
+   "place": "laundry",
+   "category": "Life",
+   "description": "A front-loading washing machine sits below a worktop beside cupboards and stored belongings, with a round window above. Sara says the engine was removed and the room now holds their storage and washing machine.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "The film does not show water supply, discharge, electrical protection or the removed engine.",
+   "related_ids": [
+    "original-door"
+   ],
+   "terms": [
+    "washing machine",
+    "storage",
+    "conversion"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 369.28,
+     "end": 385.1,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0115",
+     "time": 379.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0115.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0115.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0116",
+     "time": 382.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0116.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0116.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0115.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lower-lounge-fitout",
+   "title": "Water-level lounge with blue sofa",
+   "place": "lower-lounge",
+   "category": "Life",
+   "description": "The lower lounge combines a blue sofa, yellow cushions, pale flooring, framed artwork and round and elongated windows. Sara describes being low in the hull with a view almost entirely of water.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "The finished lining hides the hull structure, and exact floor elevation is not established.",
+   "related_ids": [
+    "water-level-comfort",
+    "stair-garden"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 343.039,
+     "end": 362,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0301",
+     "time": 931.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0301.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0301.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0372",
+     "time": 1145.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0372.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0372.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0107",
+     "time": 359.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0107.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0107.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0301.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "lower-sideboard",
+   "title": "Black sideboard beneath the lounge window",
+   "place": "lower-lounge",
+   "category": "Life",
+   "description": "A low black sideboard has a pair of cupboard doors, three drawers, gold-colored handles and slim legs beneath a rounded window. It is shown clearly but receives no spoken explanation.",
+   "phase": "current",
+   "part_of": "lower-lounge-fitout",
+   "unknown": "Its maker, material and contents are not established.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0302",
+     "time": 933.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0302.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0302.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0370",
+     "time": 1141.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0370.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0370.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0302.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lower-fireplace",
+   "title": "Glazed firebox in the lower lounge",
+   "place": "lower-lounge",
+   "category": "Energy",
+   "description": "An enclosed corner firebox with logs visible behind glass sits beneath a pale chimney surround beside the studio doorway. It is shown during the studio approach without an explanation of the heating system.",
+   "phase": "current",
+   "part_of": "lower-lounge-fitout",
+   "unknown": "Operation, flue routing, heat output and contribution to whole-boat heating are unknown.",
+   "related_ids": [],
+   "terms": [
+    "fireplace"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0375",
+     "time": 1150.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0375.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0375.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0374",
+     "time": 1148.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0374.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0374.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0375.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "suspended-fireplace",
+   "title": "Suspended black living-room fireplace",
+   "place": "upper-room",
+   "category": "Energy",
+   "description": "A black suspended fireplace hangs from a vertical flue above a circular floor plate beside the river glazing. The camera repeatedly shows it but nobody describes its fuel or operation.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Fuel, heat output, clearances and installation approval are not established.",
+   "related_ids": [],
+   "terms": [
+    "fireplace"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 220.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0067.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0181",
+     "time": 567.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0181.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0181.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0466",
+     "time": 1426.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0466.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0466.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0067.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "interior-wood",
+   "title": "Pale timber floors and interior lining",
+   "place": "panjab",
+   "category": "Materials",
+   "description": "Pale plank flooring runs through the toured interiors, and Jérémie points to a bedroom wall while discussing the finishes. His picture subtitles say they use wood in the interior.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Species, concealed wall layers and the scope of the all-wood statement are not established; bathrooms visibly use other finishes.",
+   "related_ids": [
+    "flexible-joints",
+    "woven-cupboards"
+   ],
+   "terms": [
+    "timber",
+    "floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 877,
+     "end": 890,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0289",
+     "time": 885.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0289.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0289.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0276",
+     "time": 850.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0276.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0276.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0378",
+     "time": 1161.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0378.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0378.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0289.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "interior-lighting",
+   "title": "Recessed ceiling strips and wall lights",
+   "place": "panjab",
+   "category": "Energy",
+   "description": "Warm linear lighting follows lower-room ceiling edges, supplemented by wall sconces, pendants and stair lights. These fixtures are visible across the tour without a technical explanation.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Lamp technology, power source, circuits and energy use are not given.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0301",
+     "time": 931.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0301.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0301.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0357",
+     "time": 1113.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0357.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0357.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0094",
+     "time": 323.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0094.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0094.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0301.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "botanical-corridor",
+   "title": "Botanical wall covering in lower corridor",
+   "place": "corridor",
+   "category": "Materials",
+   "description": "A dense multicolored botanical pattern covers one side of the lower corridor and the wall behind the stair garden. Wall lights illuminate the pattern opposite pale walls and water-level windows.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "The maker, substrate and moisture resistance are not stated.",
+   "related_ids": [
+    "stair-garden"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0277",
+     "time": 852.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0277.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0277.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0325",
+     "time": 996.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0325.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0325.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0368",
+     "time": 1134.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0368.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0368.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0277.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "mooring",
+   "title": "Panjab’s occupied Seine mooring",
+   "place": "panjab",
+   "category": "Life",
+   "description": "Panjab is tied beside a leafy bank among other moored boats, reached from shore by a gangway. Sara discusses documented mooring rights, long waits and the city granting their place after Jérémie’s local job creation.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No berth agreement, exact municipality, issuing authority, rent or ownership document is shown.",
+   "related_ids": [
+    "gangway",
+    "current-hull-marking"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 21.92,
+     "end": 44.399,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1346.799,
+     "end": 1395.36,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0061",
+     "time": 179.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0061.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0061.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0453",
+     "time": 1366.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0453.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0453.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0457",
+     "time": 1392.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0457.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0457.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0061.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "gangway",
+   "title": "Railed gangway and circular entrance gate",
+   "place": "entrance-deck",
+   "category": "Structure",
+   "description": "Continuous footage follows the visitors across a narrow railed bridge through a circular metal gate with radiating bars. It gives direct access from the bank to the planted entrance deck.",
+   "phase": "current",
+   "part_of": "mooring",
+   "unknown": "The shore anchorage, movement allowance and ownership of the approach are not established.",
+   "related_ids": [],
+   "terms": [
+    "gangway",
+    "metal"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 46.399,
+     "end": 64.239,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0027",
+     "time": 73.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0027.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0027.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0020",
+     "time": 53.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0020.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0020.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0022",
+     "time": 59.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0022.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0022.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0027.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "plant-ledge",
+   "title": "Narrow waterside ledge with pots",
+   "place": "panjab",
+   "category": "Structure",
+   "description": "A slim outer walkway runs beside the full-height living-room windows with pots along its edge. Sara says Jérémie walks there to water the plants and that they left the water view without protection.",
+   "phase": "current",
+   "part_of": "converted-barge",
+   "unknown": "Width, loading, fall-prevention arrangements elsewhere and compliance are not documented.",
+   "related_ids": [
+    "upper-glazing",
+    "deck-planting"
+   ],
+   "terms": [
+    "deck"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 126.96,
+     "end": 155.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0050",
+     "time": 138.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0050.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0050.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0084",
+     "time": 297.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0084.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0084.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0483",
+     "time": 1483.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0483.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0483.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0050.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "plant-growing",
+   "title": "Living plants throughout the boat",
+   "place": "panjab",
+   "category": "Life",
+   "description": "Potted foliage, climbers and planted beds fill the upper room, deck edges and lower stair space. Sara says plants were bought before furniture and describes Jérémie’s enthusiasm for them.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Species, watering demand, growing medium and a maintenance schedule are not supplied.",
+   "related_ids": [
+    "glass-floor"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 83.2,
+     "end": 104,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 327.56,
+     "end": 338.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1409,
+     "end": 1426,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 108.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0039.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 277.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0080.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0415",
+     "time": 1255.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0415.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0415.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0039.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "stair-garden",
+   "title": "Live planting beneath the glass stair",
+   "place": "lower-lounge",
+   "category": "Life",
+   "description": "Large leafy plants occupy a bed below the transparent stair beside the lower seating nook. Sara explicitly confirms they are living plants and points to light arriving from several directions.",
+   "phase": "current",
+   "part_of": "plant-growing",
+   "unknown": "Irrigation, drainage, species and whether the bed has a waterproof liner are not shown.",
+   "related_ids": [
+    "glass-floor",
+    "glass-stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 327.56,
+     "end": 339,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0098",
+     "time": 333.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0098.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0098.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0099",
+     "time": 339.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0099.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0099.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0415",
+     "time": 1255.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0415.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0415.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0098.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "deck-planting",
+   "title": "Container garden and climbing deck plants",
+   "place": "entrance-deck",
+   "category": "Life",
+   "description": "Terracotta pots, white planter edges, flowering containers and climbing stems surround the deck, rails and access. Sara describes Jérémie watering the exterior plants, while his subtitles describe caring for them.",
+   "phase": "current",
+   "part_of": "plant-growing",
+   "unknown": "The film does not establish species, edibility, yields or an automatic watering system.",
+   "related_ids": [
+    "plant-ledge"
+   ],
+   "terms": [
+    "terracotta"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 140.08,
+     "end": 145,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 281,
+     "end": 304,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0080",
+     "time": 277.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0080.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0080.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0081",
+     "time": 283.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0081.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0081.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0428",
+     "time": 1282.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0428.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0428.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0465",
+     "time": 1423.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0465.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0465.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0080.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "indoor-pots",
+   "title": "Living-room potted trees and foliage",
+   "place": "upper-room",
+   "category": "Life",
+   "description": "Large floor pots and smaller plants on shelves stand around the sofa, dining area and river windows; one small tree visibly carries orange-colored fruit. Sara says the plants were chosen before furniture.",
+   "phase": "current",
+   "part_of": "plant-growing",
+   "unknown": "The fruit species and any household harvest are not established.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 83.2,
+     "end": 104,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0039",
+     "time": 108.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0039.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0039.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 220.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0067.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0202",
+     "time": 652.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0202.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0202.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0039.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "outdoor-living",
+   "title": "Planted decks for sitting and bathing",
+   "place": "entrance-deck",
+   "category": "Life",
+   "description": "Timber deck areas provide seats, small tables and steps up to a planted spa terrace. Sara and Jérémie show the decks as used domestic space, with Sara recalling recent spa use.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not establish deck engineering, total outdoor area or seasonal use.",
+   "related_ids": [
+    "deck-planting",
+    "gangway"
+   ],
+   "terms": [
+    "timber",
+    "deck"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1267,
+     "end": 1292,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0194",
+     "time": 621.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0194.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0194.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0424",
+     "time": 1274.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0424.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0424.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0432",
+     "time": 1288.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0432.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0432.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0194.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "deck-seating",
+   "title": "Hanging basket seats and outdoor tables",
+   "place": "entrance-deck",
+   "category": "Life",
+   "description": "Hanging basket chairs sit by the glazed entrance, with cushioned benches, small tables and loose chairs on the deck. These furnishings appear during the tour without detailed narration.",
+   "phase": "current",
+   "part_of": "outdoor-living",
+   "unknown": "Manufacturers, fixing methods and seating capacity are not given.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0033",
+     "time": 94.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0033.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0033.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0194",
+     "time": 621.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0194.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0194.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0420",
+     "time": 1267.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0420.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0420.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0033.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "deck-spa",
+   "title": "Inset deck spa with folding cover",
+   "place": "spa-deck",
+   "category": "Water",
+   "description": "Jérémie lifts a folding cover to expose a white inset spa with molded seats and jets. Sara says they used it the previous day during hot weather.",
+   "phase": "current",
+   "part_of": "outdoor-living",
+   "unknown": "Water source, treatment, heating, drainage and structural loading are not shown.",
+   "related_ids": [],
+   "terms": [
+    "hot tub"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1286.24,
+     "end": 1291,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0432",
+     "time": 1288.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0432.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0432.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0431",
+     "time": 1286.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0431.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0431.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0426",
+     "time": 1278.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0426.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0426.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0432.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "green-dinghy",
+   "title": "Green dinghy beside the hull",
+   "place": "panjab",
+   "category": "Life",
+   "description": "A small green open boat floats beside the hull under the shore access, with a metal boarding ladder above it. Sara briefly responds that it is theirs while the camera looks outside, but the exact referent of that exchange is not fully explicit.",
+   "phase": "current",
+   "part_of": "outdoor-living",
+   "unknown": "Its intended use, propulsion and storage arrangement are not explained.",
+   "related_ids": [
+    "mooring"
+   ],
+   "terms": [
+    "boat"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 982.639,
+     "end": 991.5,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0304",
+     "time": 939.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0304.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0304.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0323",
+     "time": 991.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0323.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0323.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0304.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "opposite-terrace",
+   "title": "Railed terrace above the end cabin",
+   "place": "opposite-deck",
+   "category": "Life",
+   "description": "Aerials show a second outdoor terrace above the opposite-end cabin with a table, chairs, perimeter rails and a lifebuoy. The camera does not tour this terrace on foot.",
+   "phase": "current",
+   "part_of": "outdoor-living",
+   "unknown": "Its access route and everyday use are not established.",
+   "related_ids": [],
+   "terms": [
+    "roof terrace"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0355",
+     "time": 1097.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0355.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0355.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0187",
+     "time": 597.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0187.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0187.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0355.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "kitchen-hospitality",
+   "title": "Main kitchen for cooking and entertaining",
+   "place": "upper-room",
+   "category": "Food",
+   "description": "A dark worktop and island face the long dining table, with a window-side sink, timber fronts, tall green cupboards and stacked ovens. Sara calls this her space and says she loves cooking and receiving friends.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Appliance models, storage capacity and plumbing arrangements are not documented.",
+   "related_ids": [],
+   "terms": [
+    "kitchen",
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 653.92,
+     "end": 681.1,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0205",
+     "time": 659.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0205.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0205.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0218",
+     "time": 686.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0218.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0218.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0214",
+     "time": 676.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0214.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0214.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0205.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "long-dining-table",
+   "title": "Long timber dining table",
+   "place": "upper-room",
+   "category": "Food",
+   "description": "The table runs beside the kitchen island with chairs down both sides and suspended black lights above. Sara says it seats 12 people.",
+   "phase": "current",
+   "part_of": "kitchen-hospitality",
+   "unknown": "No dimensions are given and the stated capacity is not independently measured.",
+   "related_ids": [],
+   "terms": [
+    "timber"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 659,
+     "end": 668,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0204",
+     "time": 657.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0204.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0204.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0205",
+     "time": 659.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0205.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0205.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0204.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "gas-hob",
+   "title": "Gas hob on the kitchen island",
+   "place": "upper-room",
+   "category": "Food",
+   "description": "A black gas hob is visible in the island worktop beside the dining table. Sara identifies the cooking section as gas-powered.",
+   "phase": "current",
+   "part_of": "kitchen-hospitality",
+   "unknown": "The cylinder or source, shutoff, ventilation and appliance specification are not shown.",
+   "related_ids": [
+    "outside-gas-line"
+   ],
+   "terms": [
+    "gas"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 670.24,
+     "end": 681.1,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0211",
+     "time": 672.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0211.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0211.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0218",
+     "time": 686.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0218.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0218.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0211.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "outside-gas-line",
+   "title": "Reported exterior gas-line route",
+   "place": "upper-room",
+   "category": "Energy",
+   "description": "The kitchen and exterior cutaway provide context, but the gas pipe route itself is not visible. Sara says they put the gas line outside because putting it inside is illegal.",
+   "phase": "current",
+   "part_of": "kitchen-hospitality",
+   "unknown": "No pipework, regulation, approving authority or inspection is shown.",
+   "related_ids": [
+    "gas-hob"
+   ],
+   "terms": [
+    "gas"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 671,
+     "end": 682,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0211",
+     "time": 672.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0211.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0211.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0216",
+     "time": 681.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0216.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0216.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration.",
+     "context_only": true
+    }
+   ],
+   "evidence_status": "spoken_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0211.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "feast-archive",
+   "title": "Dining table set for a feast",
+   "place": "upper-room",
+   "category": "Life",
+   "description": "Inserted photographs show the same dining table crowded with fruit, cakes, flowers and serving dishes. Sara’s surrounding account explains their wish to host friends and family.",
+   "phase": "historical",
+   "part_of": "kitchen-hospitality",
+   "unknown": "The event date, guests and food provenance are not given.",
+   "related_ids": [
+    "long-dining-table"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 640.399,
+     "end": 668,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0208",
+     "time": 666.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0208.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0208.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0209",
+     "time": 668.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0209.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0209.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0208.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "main-suite",
+   "title": "Main bedroom with broad river views",
+   "place": "main-bedroom",
+   "category": "Life",
+   "description": "A double bed, compact sofa, pale floor and rectangular windows furnish the room reached beyond the main kitchen. Sara says the lower position makes it quiet and gives a holiday feeling.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No noise measurements or room dimensions are supplied, and this is distinct from the later rounded-window bedroom.",
+   "related_ids": [
+    "water-level-comfort"
+   ],
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 700,
+     "end": 765,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0225",
+     "time": 713.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0225.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0225.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0222",
+     "time": 705.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0222.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0222.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0230",
+     "time": 727.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0230.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0230.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0225.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "dressing-storage",
+   "title": "Two-sided walk-in dressing storage",
+   "place": "dressing",
+   "category": "Life",
+   "description": "Dark doors open to shelves, hanging clothes and shoe storage deep enough for Sara to step inside. She says there is dressing storage on each side.",
+   "phase": "current",
+   "part_of": "main-suite",
+   "unknown": "Both sides are not shown in equal detail and no storage measurements are given.",
+   "related_ids": [],
+   "terms": [
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 766.88,
+     "end": 785,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0248",
+     "time": 773.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0248.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0248.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0250",
+     "time": 785.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0250.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0250.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0248.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "main-shower",
+   "title": "River-view shower and gold-colored basin",
+   "place": "main-bathroom",
+   "category": "Water",
+   "description": "The shower has a river-facing window and black-framed internal glazing; nearby are a gold-colored basin, round mirror and pale tiled and veined surfaces. Sara calls the water view the best part of showering here.",
+   "phase": "current",
+   "part_of": "main-suite",
+   "unknown": "The film does not identify the basin alloy, wall stone, waterproofing or water-heating system.",
+   "related_ids": [
+    "handmade-valves"
+   ],
+   "terms": [
+    "shower",
+    "glazing",
+    "tile",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 787.92,
+     "end": 813,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0258",
+     "time": 802.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0258.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0258.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0255",
+     "time": 795.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0255.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0255.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0263",
+     "time": 812.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0263.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0263.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0258.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "handmade-valves",
+   "title": "White wheel-shaped shower controls",
+   "place": "main-bathroom",
+   "category": "Materials",
+   "description": "Close-ups show white wheel handles paired with gold-colored shower fittings. Sara says the fittings were handmade in Italy and use a different color in each bathroom.",
+   "phase": "current",
+   "part_of": "main-shower",
+   "unknown": "The manufacturer and precise material are not stated; the film does not establish that every fitting was handmade.",
+   "related_ids": [
+    "blue-bathroom-fitout"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 807.2,
+     "end": 815,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0263",
+     "time": 812.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0263.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0263.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0260",
+     "time": 807.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0260.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0260.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0263.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "main-wc-fitout",
+   "title": "Separate WC with hand spray",
+   "place": "main-wc",
+   "category": "Water",
+   "description": "A separate small WC includes a wall-hung toilet, gold-colored hand spray, window and thin trim between wall finishes. Jérémie’s picture subtitle identifies the spray as a bidet.",
+   "phase": "current",
+   "part_of": "main-suite",
+   "unknown": "Waste treatment and discharge are not shown, and the surface materials are not securely identified.",
+   "related_ids": [],
+   "terms": [
+    "flush toilet",
+    "bidet"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 817.12,
+     "end": 833,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0272",
+     "time": 830.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0272.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0272.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0268",
+     "time": 822.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0268.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0268.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0264",
+     "time": 814.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0264.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0264.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0272.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "lower-accommodation",
+   "title": "Lower sleeping and bathing rooms",
+   "place": "panjab",
+   "category": "Life",
+   "description": "The lower corridor tour visits a double bedroom, a blue-handled bathroom and a separate bathroom containing a sauna. Sara introduces the first bedroom and later identifies the sauna.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The film does not establish how these rooms are assigned to residents or guests, or whether the first bathroom is en suite.",
+   "related_ids": [],
+   "terms": [
+    "bedroom",
+    "bathroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 850.88,
+     "end": 861,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 950.32,
+     "end": 954,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 994,
+     "end": 1001,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0279",
+     "time": 857.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0279.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0279.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0308",
+     "time": 951.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0308.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0308.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0327",
+     "time": 1000.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0327.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0327.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0279.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "woven-cupboards",
+   "title": "Woven cupboard fronts in lower bedroom",
+   "place": "lower-bedroom",
+   "category": "Materials",
+   "description": "Tall dark-framed doors have pale open-weave panels and long gold-colored handles. Jérémie’s picture subtitles call the material wicker and connect it with his childhood furniture in Pakistan.",
+   "phase": "current",
+   "part_of": "lower-accommodation",
+   "unknown": "Exact fiber, timber species, construction and supplier are not stated.",
+   "related_ids": [
+    "interior-wood"
+   ],
+   "terms": [
+    "wicker",
+    "storage"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 867,
+     "end": 890,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0283",
+     "time": 868.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0283.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0283.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0284",
+     "time": 870.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0284.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0284.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0283.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "blue-bathroom-fitout",
+   "title": "Green-tiled bathroom with blue wheel taps",
+   "place": "blue-bathroom",
+   "category": "Water",
+   "description": "Dark green vertical tiles surround a pale counter, gold-colored basin fittings and vivid blue wheel handles beneath a round mirror. Sara identifies this bathroom by its blue details.",
+   "phase": "current",
+   "part_of": "lower-accommodation",
+   "unknown": "Water supply, discharge and the material of the counter are not established.",
+   "related_ids": [
+    "handmade-valves",
+    "opening-porthole"
+   ],
+   "terms": [
+    "bathroom",
+    "tile",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 950.32,
+     "end": 957,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0309",
+     "time": 953.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0309.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0309.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0310",
+     "time": 955.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0310.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0310.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0309.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "opening-porthole",
+   "title": "Opening round porthole above the river",
+   "place": "blue-bathroom",
+   "category": "Structure",
+   "description": "Jérémie swings open the round window and reaches through toward the river outside. His subtitles say the view is just above the water and that the water can be touched.",
+   "phase": "current",
+   "part_of": "blue-bathroom-fitout",
+   "unknown": "Seal performance, opening restrictions and flood precautions are not established.",
+   "related_ids": [],
+   "terms": [
+    "window",
+    "natural ventilation"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 955,
+     "end": 979,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0312",
+     "time": 960.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0312.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0312.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0316",
+     "time": 968.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0316.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0316.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0317",
+     "time": 970.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0317.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0317.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0312.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "sauna-bathroom-fitout",
+   "title": "Green-tiled bathroom surrounding the sauna",
+   "place": "sauna-bathroom",
+   "category": "Water",
+   "description": "A separate bathroom off the corridor has green tiles, a glazed shower area, rounded window and timber sauna wall. Sara introduces it as a bathroom with a sauna.",
+   "phase": "current",
+   "part_of": "lower-accommodation",
+   "unknown": "Its complete plumbing layout and relationship to individual bedrooms are not demonstrated.",
+   "related_ids": [],
+   "terms": [
+    "bathroom",
+    "tile",
+    "shower",
+    "sauna"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 992,
+     "end": 1001,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0327",
+     "time": 1000.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0327.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0327.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0328",
+     "time": 1002.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0328.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0328.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0327.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "timber-sauna",
+   "title": "Timber-lined sauna with river window",
+   "place": "sauna",
+   "category": "Life",
+   "description": "A wood-lined enclosure contains benches and a window facing the river, with a wall control visible at the entrance. Jérémie’s picture subtitle says the wood was heated for six months.",
+   "phase": "current",
+   "part_of": "sauna-bathroom-fitout",
+   "unknown": "Wood species, treatment process, heater specification and operating temperature are not given; the unusually phrased treatment duration is preserved as subtitled.",
+   "related_ids": [],
+   "terms": [
+    "timber",
+    "sauna"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1003,
+     "end": 1044,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0332",
+     "time": 1011.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0332.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0332.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0329",
+     "time": 1003.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0329.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0329.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0335",
+     "time": 1042.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0335.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0335.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0332.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "home-office",
+   "title": "Shared office with desk workstations",
+   "place": "office",
+   "category": "Life",
+   "description": "The office contains desk workstations, computer screens, a printer, files, shelves and a handwritten whiteboard. Sara says she works from home from time to time.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The second speaker’s work schedule is unclear in the captions, and no business layout or occupancy requirement is established.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1051.2,
+     "end": 1064.4,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0340",
+     "time": 1056.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0340.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0340.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0341",
+     "time": 1061.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0341.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0341.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0346",
+     "time": 1073.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0346.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0346.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0340.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "father-photograph",
+   "title": "Framed photograph of Jérémie’s father",
+   "place": "office",
+   "category": "Life",
+   "description": "A framed photograph stands beside the printer and porthole. Sara identifies the person as his father, and Jérémie’s subtitles identify the setting as their village in Pakistan.",
+   "phase": "current",
+   "part_of": "home-office",
+   "unknown": "His father is not named and the village, photographer and date are not given.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1061.12,
+     "end": 1073,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0346",
+     "time": 1073.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0346.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0346.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0346.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "independent-studio",
+   "title": "Self-contained guest studio aboard Panjab",
+   "place": "studio",
+   "category": "Life",
+   "description": "The studio has its own living area, kitchenette, stair, sleeping alcove and compact bathroom. Sara describes it as independent accommodation with a separate entrance suitable for a family member or friend.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "Separate utility metering, tenancy status and the exterior endpoint of its entrance are not established.",
+   "related_ids": [],
+   "terms": [
+    "apartment"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1142.64,
+     "end": 1162,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1207.6,
+     "end": 1220,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0378",
+     "time": 1161.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0378.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0378.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0397",
+     "time": 1213.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0397.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0397.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0398",
+     "time": 1217.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0398.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0398.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0378.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "studio-kitchen",
+   "title": "Compact studio kitchenette",
+   "place": "studio",
+   "category": "Food",
+   "description": "Light cupboards and a pale counter fit beneath a large rounded window beside a small dining table and chairs. Sara identifies this as the studio’s small kitchen.",
+   "phase": "current",
+   "part_of": "independent-studio",
+   "unknown": "The full cooking equipment and service connections are not shown.",
+   "related_ids": [
+    "studio-fridge",
+    "studio-washer"
+   ],
+   "terms": [
+    "kitchen"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1157.2,
+     "end": 1163,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0398",
+     "time": 1217.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0398.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0398.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0378",
+     "time": 1161.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0378.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0378.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0398.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "studio-washer",
+   "title": "Concealed studio washing machine",
+   "place": "studio",
+   "category": "Water",
+   "description": "Jérémie opens a timber-fronted cupboard beside the stair to reveal a front-loading washing machine. The appliance is visually identifiable even though the automatic transcript does not name it.",
+   "phase": "current",
+   "part_of": "studio-kitchen",
+   "unknown": "Water connections, drain, capacity and whether it also dries clothes are not established.",
+   "related_ids": [],
+   "terms": [
+    "washing machine"
+   ],
+   "evidence": [
+    {
+     "type": "frame",
+     "frame_id": "frame-0401",
+     "time": 1224.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0401.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0401.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_only",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0401.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "studio-fridge",
+   "title": "Refrigerator behind the kitchenette front",
+   "place": "studio",
+   "category": "Food",
+   "description": "A second cupboard opens to a lit refrigerator with internal shelves; Jérémie takes out a bottle. His picture subtitle mentions chilled rosé waiting inside.",
+   "phase": "current",
+   "part_of": "studio-kitchen",
+   "unknown": "Capacity, energy use and temperature setting are not supplied.",
+   "related_ids": [],
+   "terms": [
+    "refrigerator"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1231,
+     "end": 1237,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0406",
+     "time": 1235.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0406.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0406.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0404",
+     "time": 1231.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0404.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0404.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0406.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "studio-sleeping",
+   "title": "Raised sleeping alcove behind marine door",
+   "place": "studio-bedroom",
+   "category": "Life",
+   "description": "A double bed fits into a compact rounded enclosure with a porthole, reached by short steps. Sara calls it cozy and says they used every square meter of the boat.",
+   "phase": "current",
+   "part_of": "independent-studio",
+   "unknown": "Bed dimensions, clearances and intended permanent occupancy are not established.",
+   "related_ids": [
+    "reclaimed-sealing-door"
+   ],
+   "terms": [
+    "bedroom"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1187.6,
+     "end": 1204,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0388",
+     "time": 1189.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0388.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0388.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0390",
+     "time": 1197.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0390.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0390.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0392",
+     "time": 1201.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0392.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0392.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0388.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "reclaimed-sealing-door",
+   "title": "Reused sealing door with locking rods",
+   "place": "studio-bedroom",
+   "category": "Structure",
+   "description": "A heavy white marine door has a rounded opening, perimeter seal and linked metal locking rods. Sara says they bought it from another boat and were legally required to have this type of door to keep water out.",
+   "phase": "current",
+   "part_of": "independent-studio",
+   "unknown": "The donor boat, applicable rule, certification and a sealing test are not shown.",
+   "related_ids": [],
+   "terms": [
+    "door",
+    "reclaimed"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1166.559,
+     "end": 1185,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0384",
+     "time": 1176.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0384.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0384.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0392",
+     "time": 1201.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0392.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0392.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0384.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "studio-bathroom-fitout",
+   "title": "Compact studio toilet and shower room",
+   "place": "studio-bathroom",
+   "category": "Water",
+   "description": "The studio bathroom contains a glass shower enclosure, small basin, toilet and round window. Jérémie’s picture subtitles identify the toilet and shower as part of the self-contained accommodation.",
+   "phase": "current",
+   "part_of": "independent-studio",
+   "unknown": "Freshwater and wastewater arrangements are not disclosed.",
+   "related_ids": [],
+   "terms": [
+    "bathroom",
+    "shower",
+    "flush toilet",
+    "sink"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1238,
+     "end": 1247,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0409",
+     "time": 1241.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0409.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0409.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0411",
+     "time": 1245.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0411.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0411.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0409.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "studio-entry-stair",
+   "title": "Studio stair over a sofa nook",
+   "place": "studio",
+   "category": "Structure",
+   "description": "An open stair rises beside a timber slat screen, with the studio sofa tucked beneath its slope. Sara describes a separate entrance, although its outdoor endpoint is not followed on camera.",
+   "phase": "current",
+   "part_of": "independent-studio",
+   "unknown": "The camera does not establish the final doorway location or whether the stair is the only independent access.",
+   "related_ids": [],
+   "terms": [
+    "stair"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 1152.32,
+     "end": 1158,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0397",
+     "time": 1213.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0397.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0397.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0377",
+     "time": 1154.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0377.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0377.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0397.jpg",
+   "model_objects": []
+  },
+  {
+   "id": "water-level-comfort",
+   "title": "Water-level rooms and passive comfort",
+   "place": "panjab",
+   "category": "Climate",
+   "description": "Lower-room windows place the river surface close to the occupants’ eye level, while the hull exterior shows accommodation extending below it. Sara describes quiet interiors; Jérémie’s picture subtitles attribute acoustic and thermal comfort to the arrangement and say they do not use air conditioning.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "No measured indoor temperatures, acoustic test, insulation section or seasonal energy records are supplied.",
+   "related_ids": [
+    "lower-lounge-fitout",
+    "main-suite",
+    "upper-glazing"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 711.68,
+     "end": 752.88,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 887,
+     "end": 951,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0294",
+     "time": 908.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0294.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0294.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0297",
+     "time": 916.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0297.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0297.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0306",
+     "time": 946.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0306.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0306.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0294.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "river-lifestyle",
+   "title": "Everyday contact with river and wildlife",
+   "place": "panjab",
+   "category": "Life",
+   "description": "The tour repeatedly looks through open and glazed windows onto water, passing boats and wildlife, and ends with Jérémie opening the lower lounge window. Sara says living aboard changed their lives, while Jérémie’s subtitles describe stress easing after two or three minutes watching the river.",
+   "phase": "current",
+   "part_of": null,
+   "unknown": "The wellbeing account is personal, and the film does not establish long-term health effects or wildlife management practices.",
+   "related_ids": [
+    "riverside-wildlife"
+   ],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 195.04,
+     "end": 225,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 239.84,
+     "end": 267,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 1436.48,
+     "end": 1484,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0067",
+     "time": 220.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0067.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0067.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0476",
+     "time": 1451.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0476.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0476.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 246.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0070.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0067.jpg",
+   "model_objects": [],
+   "terms": []
+  },
+  {
+   "id": "riverside-wildlife",
+   "title": "Fish, waterbirds and a brown waterside rodent",
+   "place": "river-context",
+   "category": "Land",
+   "description": "Cutaway footage shows a swan, ducks, fish and a large brown rodent at the water’s edge. Sara mentions ducks and a swan, and Jérémie’s English subtitle mentions large fish.",
+   "phase": "current",
+   "part_of": "river-lifestyle",
+   "unknown": "The fish and rodent species, dates of inserts and exact wildlife filming spots are not established; this is river context outside the household vessel.",
+   "related_ids": [],
+   "evidence": [
+    {
+     "type": "transcript",
+     "start": 239.84,
+     "end": 249,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "transcript",
+     "start": 250,
+     "end": 256,
+     "source": "YouTube automatic English captions",
+     "attribution": "Tour speaker; explanation or estimate not independently verified"
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0073",
+     "time": 253.0,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0073.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0073.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0070",
+     "time": 246.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0070.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0070.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0075",
+     "time": 258.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0075.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0075.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    },
+    {
+     "type": "frame",
+     "frame_id": "frame-0077",
+     "time": 263.5,
+     "path": "review/hiSjH9bk6bI/evidence/frame-0077.jpg",
+     "preview_path": "review/hiSjH9bk6bI/sample-0077.jpg",
+     "supports": "Visible appearance at this moment; spoken material, function and performance claims require separate narration."
+    }
+   ],
+   "evidence_status": "visual_and_spoken",
+   "thumbnail": "review/hiSjH9bk6bI/sample-0073.jpg",
+   "model_objects": [],
+   "terms": []
+  }
+ ],
+ "coverage": [
+  {
+   "start": 0,
+   "end": 50,
+   "title": "Seine moorings and bank approach",
+   "visible": "Opening channel ident, aerial river views, neighboring moored boats and Sara walking with the interviewer on the leafy bank.",
+   "gaps": "No exact municipality, berth boundary or ownership of the bank is established.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0001",
+    "frame-0002",
+    "frame-0003",
+    "frame-0004",
+    "frame-0005",
+    "frame-0006",
+    "frame-0007",
+    "frame-0008",
+    "frame-0009",
+    "frame-0010",
+    "frame-0011",
+    "frame-0012",
+    "frame-0013",
+    "frame-0014",
+    "frame-0015",
+    "frame-0016",
+    "frame-0017",
+    "frame-0018"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0013.jpg"
+  },
+  {
+   "start": 50,
+   "end": 83,
+   "title": "Gangway and Panjab entrance",
+   "visible": "Continuous walk across the railed gangway and circular metal gate to Panjab’s planted deck and glazed upper room.",
+   "gaps": "No mooring contract or structural specifications are shown.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0019",
+    "frame-0020",
+    "frame-0021",
+    "frame-0022",
+    "frame-0023",
+    "frame-0024",
+    "frame-0025",
+    "frame-0026",
+    "frame-0027"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0027.jpg"
+  },
+  {
+   "start": 83,
+   "end": 179,
+   "title": "Glazed upper living room",
+   "visible": "Glass floor panel, rooflights, tall windows, potted plants, suspended fireplace, dining zone and unguarded narrow waterside ledge.",
+   "gaps": "No glazing specification, fireplace fuel or glass floor loading is established.",
+   "sample_count": 33,
+   "sample_ids": [
+    "frame-0028",
+    "frame-0029",
+    "frame-0030",
+    "frame-0031",
+    "frame-0032",
+    "frame-0033",
+    "frame-0034",
+    "frame-0035",
+    "frame-0036",
+    "frame-0037",
+    "frame-0038",
+    "frame-0039",
+    "frame-0040",
+    "frame-0041",
+    "frame-0042",
+    "frame-0043",
+    "frame-0044",
+    "frame-0045",
+    "frame-0046",
+    "frame-0047",
+    "frame-0048",
+    "frame-0049",
+    "frame-0050",
+    "frame-0051",
+    "frame-0052",
+    "frame-0053",
+    "frame-0054",
+    "frame-0055",
+    "frame-0056",
+    "frame-0057",
+    "frame-0058",
+    "frame-0059",
+    "frame-0060"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0036.jpg"
+  },
+  {
+   "start": 179,
+   "end": 277,
+   "title": "River outlook and wildlife",
+   "visible": "Aerials and upper-room interview with Sara and Jérémie, intercut with swan, fish, ducks and a brown waterside rodent.",
+   "gaps": "Wildlife species and the claimed stress reduction are not independently established.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0061",
+    "frame-0062",
+    "frame-0063",
+    "frame-0064",
+    "frame-0065",
+    "frame-0066",
+    "frame-0067",
+    "frame-0068",
+    "frame-0069",
+    "frame-0070",
+    "frame-0071",
+    "frame-0072",
+    "frame-0073",
+    "frame-0074",
+    "frame-0075",
+    "frame-0076",
+    "frame-0077",
+    "frame-0078",
+    "frame-0079"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0067.jpg"
+  },
+  {
+   "start": 277,
+   "end": 305,
+   "title": "Planted decks and plant care",
+   "visible": "Pots, climbing vegetation, gangway, green dinghy and upper lounge frame the discussion of caring for plants.",
+   "gaps": "No species inventory, irrigation system or food yield is demonstrated.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0080",
+    "frame-0081",
+    "frame-0082",
+    "frame-0083",
+    "frame-0084"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0080.jpg"
+  },
+  {
+   "start": 305,
+   "end": 368,
+   "title": "Glass stairs and lower lounge",
+   "visible": "Continuous descent over transparent treads beside plants into the lounge with blue sofa and round/elongated windows near river level.",
+   "gaps": "No waterproofing or stair engineering detail is exposed.",
+   "sample_count": 24,
+   "sample_ids": [
+    "frame-0085",
+    "frame-0086",
+    "frame-0087",
+    "frame-0088",
+    "frame-0089",
+    "frame-0090",
+    "frame-0091",
+    "frame-0092",
+    "frame-0093",
+    "frame-0094",
+    "frame-0095",
+    "frame-0096",
+    "frame-0097",
+    "frame-0098",
+    "frame-0099",
+    "frame-0100",
+    "frame-0101",
+    "frame-0102",
+    "frame-0103",
+    "frame-0104",
+    "frame-0105",
+    "frame-0106",
+    "frame-0107",
+    "frame-0108"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0094.jpg"
+  },
+  {
+   "start": 368,
+   "end": 401,
+   "title": "Former engine room and laundry",
+   "visible": "Heavy white original door opens into storage with a washing machine, worktop and round window.",
+   "gaps": "Engine removal itself is not filmed; electrical and plumbing routes are not shown.",
+   "sample_count": 13,
+   "sample_ids": [
+    "frame-0109",
+    "frame-0110",
+    "frame-0111",
+    "frame-0112",
+    "frame-0113",
+    "frame-0114",
+    "frame-0115",
+    "frame-0116",
+    "frame-0117",
+    "frame-0118",
+    "frame-0119",
+    "frame-0120",
+    "frame-0121"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0115.jpg"
+  },
+  {
+   "start": 401,
+   "end": 424,
+   "title": "Archive: retired cargo hull",
+   "visible": "Shipyard footage shows red L’AVENTURA hull, haul-out rails, uncovered hold and empty ribbed interior.",
+   "gaps": "Exact archive date and shipyard location are absent.",
+   "sample_count": 6,
+   "sample_ids": [
+    "frame-0122",
+    "frame-0123",
+    "frame-0124",
+    "frame-0125",
+    "frame-0126",
+    "frame-0127"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0125.jpg"
+  },
+  {
+   "start": 424,
+   "end": 461,
+   "title": "Archive photographs and purchase account",
+   "visible": "On the occupied deck Jérémie displays phone photographs of the old hull, hold and initial window cutting.",
+   "gaps": "Phone images do not establish a complete work sequence or total conversion cost.",
+   "sample_count": 15,
+   "sample_ids": [
+    "frame-0128",
+    "frame-0129",
+    "frame-0130",
+    "frame-0131",
+    "frame-0132",
+    "frame-0133",
+    "frame-0134",
+    "frame-0135",
+    "frame-0136",
+    "frame-0137",
+    "frame-0138",
+    "frame-0139",
+    "frame-0140",
+    "frame-0141",
+    "frame-0142"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0140.jpg"
+  },
+  {
+   "start": 461,
+   "end": 489,
+   "title": "Archive: hull conversion work",
+   "visible": "Inserted construction footage shows bare steel ribs, new round and elongated window openings, overhead framework and workers.",
+   "gaps": "No wall build-up, engineering calculations or inspections are documented.",
+   "sample_count": 9,
+   "sample_ids": [
+    "frame-0143",
+    "frame-0144",
+    "frame-0145",
+    "frame-0146",
+    "frame-0147",
+    "frame-0148",
+    "frame-0149",
+    "frame-0150",
+    "frame-0151"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0151.jpg"
+  },
+  {
+   "start": 489,
+   "end": 538,
+   "title": "Archive: signs, repainting and launch",
+   "visible": "Phone photographs show PANJAB lettering, worksite sign, repainted hull, launching and assistance from another boat.",
+   "gaps": "No precise launch date, lettering provenance or worksite address is given.",
+   "sample_count": 22,
+   "sample_ids": [
+    "frame-0152",
+    "frame-0153",
+    "frame-0154",
+    "frame-0155",
+    "frame-0156",
+    "frame-0157",
+    "frame-0158",
+    "frame-0159",
+    "frame-0160",
+    "frame-0161",
+    "frame-0162",
+    "frame-0163",
+    "frame-0164",
+    "frame-0165",
+    "frame-0166",
+    "frame-0167",
+    "frame-0168",
+    "frame-0169",
+    "frame-0170",
+    "frame-0171",
+    "frame-0172",
+    "frame-0173"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0164.jpg"
+  },
+  {
+   "start": 538,
+   "end": 615,
+   "title": "River connection and finished exterior",
+   "visible": "Archive towing images give way to current deck interview and aerials of the completed houseboat; Jérémie’s personal history is subtitled.",
+   "gaps": "Current images are not evidence of his earlier homelessness or childhood home.",
+   "sample_count": 17,
+   "sample_ids": [
+    "frame-0174",
+    "frame-0175",
+    "frame-0176",
+    "frame-0177",
+    "frame-0178",
+    "frame-0179",
+    "frame-0180",
+    "frame-0181",
+    "frame-0182",
+    "frame-0183",
+    "frame-0184",
+    "frame-0185",
+    "frame-0186",
+    "frame-0187",
+    "frame-0188",
+    "frame-0189",
+    "frame-0190"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0187.jpg"
+  },
+  {
+   "start": 615,
+   "end": 649,
+   "title": "Outdoor hospitality and guests",
+   "visible": "Deck tables, chairs, planted edges and hanging seat; aerials and an unnamed visiting friend in the upper room.",
+   "gaps": "The guest is not named and no occupancy schedule is established.",
+   "sample_count": 10,
+   "sample_ids": [
+    "frame-0191",
+    "frame-0192",
+    "frame-0193",
+    "frame-0194",
+    "frame-0195",
+    "frame-0196",
+    "frame-0197",
+    "frame-0198",
+    "frame-0199",
+    "frame-0200"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0194.jpg"
+  },
+  {
+   "start": 649,
+   "end": 690,
+   "title": "Main kitchen and dining table",
+   "visible": "Sara tours gas hob, sink, tall cupboards, ovens and long dining table; inserted feast photographs show the same room dressed for entertaining.",
+   "gaps": "External gas pipe is not shown; no food production or supply system is established.",
+   "sample_count": 19,
+   "sample_ids": [
+    "frame-0201",
+    "frame-0202",
+    "frame-0203",
+    "frame-0204",
+    "frame-0205",
+    "frame-0206",
+    "frame-0207",
+    "frame-0208",
+    "frame-0209",
+    "frame-0210",
+    "frame-0211",
+    "frame-0212",
+    "frame-0213",
+    "frame-0214",
+    "frame-0215",
+    "frame-0216",
+    "frame-0217",
+    "frame-0218",
+    "frame-0219"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0205.jpg"
+  },
+  {
+   "start": 690,
+   "end": 766,
+   "title": "Main bedroom and river views",
+   "visible": "Dark passage and short steps lead to a bed, sofa, radiator and broad rectangular windows framing both river and bank.",
+   "gaps": "Noise attenuation is described but unmeasured; exact deck level is not surveyed.",
+   "sample_count": 26,
+   "sample_ids": [
+    "frame-0220",
+    "frame-0221",
+    "frame-0222",
+    "frame-0223",
+    "frame-0224",
+    "frame-0225",
+    "frame-0226",
+    "frame-0227",
+    "frame-0228",
+    "frame-0229",
+    "frame-0230",
+    "frame-0231",
+    "frame-0232",
+    "frame-0233",
+    "frame-0234",
+    "frame-0235",
+    "frame-0236",
+    "frame-0237",
+    "frame-0238",
+    "frame-0239",
+    "frame-0240",
+    "frame-0241",
+    "frame-0242",
+    "frame-0243",
+    "frame-0244",
+    "frame-0245"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0225.jpg"
+  },
+  {
+   "start": 766,
+   "end": 787,
+   "title": "Two-sided dressing storage",
+   "visible": "Dark cupboard doors open to walk-in hanging and shelf storage with clothes and shoes.",
+   "gaps": "The complete extent of both dressing areas is not visible.",
+   "sample_count": 5,
+   "sample_ids": [
+    "frame-0246",
+    "frame-0247",
+    "frame-0248",
+    "frame-0249",
+    "frame-0250"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0248.jpg"
+  },
+  {
+   "start": 787,
+   "end": 834,
+   "title": "Main shower room and WC",
+   "visible": "River-facing shower, internal glass screen, white wheel valves, gold-colored sink and fittings; adjacent WC, hand spray and thin surface-junction strip.",
+   "gaps": "Fixture composition, stone identity and wastewater disposal are unestablished.",
+   "sample_count": 23,
+   "sample_ids": [
+    "frame-0251",
+    "frame-0252",
+    "frame-0253",
+    "frame-0254",
+    "frame-0255",
+    "frame-0256",
+    "frame-0257",
+    "frame-0258",
+    "frame-0259",
+    "frame-0260",
+    "frame-0261",
+    "frame-0262",
+    "frame-0263",
+    "frame-0264",
+    "frame-0265",
+    "frame-0266",
+    "frame-0267",
+    "frame-0268",
+    "frame-0269",
+    "frame-0270",
+    "frame-0271",
+    "frame-0272",
+    "frame-0273"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0263.jpg"
+  },
+  {
+   "start": 834,
+   "end": 851,
+   "title": "Return to deck and lower corridor",
+   "visible": "Brief exterior deck return, then lower-lounge window and planted seating corner leading into the long lit corridor.",
+   "gaps": "A cut does not establish a direct connection between the main suite and lower corridor.",
+   "sample_count": 3,
+   "sample_ids": [
+    "frame-0274",
+    "frame-0275",
+    "frame-0276"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0275.jpg"
+  },
+  {
+   "start": 851,
+   "end": 951,
+   "title": "Lower bedroom and thermal discussion",
+   "visible": "Bedroom with rounded window and woven cupboard doors; aerial hull views, lower lounge and dinghy cutaways accompany insulation and temperature claims.",
+   "gaps": "No insulation section, winter footage or temperature measurement is shown.",
+   "sample_count": 31,
+   "sample_ids": [
+    "frame-0277",
+    "frame-0278",
+    "frame-0279",
+    "frame-0280",
+    "frame-0281",
+    "frame-0282",
+    "frame-0283",
+    "frame-0284",
+    "frame-0285",
+    "frame-0286",
+    "frame-0287",
+    "frame-0288",
+    "frame-0289",
+    "frame-0290",
+    "frame-0291",
+    "frame-0292",
+    "frame-0293",
+    "frame-0294",
+    "frame-0295",
+    "frame-0296",
+    "frame-0297",
+    "frame-0298",
+    "frame-0299",
+    "frame-0300",
+    "frame-0301",
+    "frame-0302",
+    "frame-0303",
+    "frame-0304",
+    "frame-0305",
+    "frame-0306",
+    "frame-0307"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0283.jpg"
+  },
+  {
+   "start": 951,
+   "end": 992,
+   "title": "Blue-handled bathroom and opening porthole",
+   "visible": "Green tiles, blue wheel taps, round mirror and porthole; Jérémie opens the window and reaches toward the water; return to corridor and dinghy view.",
+   "gaps": "No flood test, complete plumbing route or proven bedroom-to-bathroom adjacency.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0308",
+    "frame-0309",
+    "frame-0310",
+    "frame-0311",
+    "frame-0312",
+    "frame-0313",
+    "frame-0314",
+    "frame-0315",
+    "frame-0316",
+    "frame-0317",
+    "frame-0318",
+    "frame-0319",
+    "frame-0320",
+    "frame-0321",
+    "frame-0322",
+    "frame-0323"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0309.jpg"
+  },
+  {
+   "start": 992,
+   "end": 1047,
+   "title": "Sauna bathroom",
+   "visible": "Corridor entry into a second green-tiled bathroom, timber sauna enclosure, controls, benches and window.",
+   "gaps": "Sauna heater details, wood species and operating temperatures are not established.",
+   "sample_count": 12,
+   "sample_ids": [
+    "frame-0324",
+    "frame-0325",
+    "frame-0326",
+    "frame-0327",
+    "frame-0328",
+    "frame-0329",
+    "frame-0330",
+    "frame-0331",
+    "frame-0332",
+    "frame-0333",
+    "frame-0334",
+    "frame-0335"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0332.jpg"
+  },
+  {
+   "start": 1047,
+   "end": 1094,
+   "title": "Office and possibility of towing",
+   "visible": "Desk workstations, screens, files, printer, whiteboard, heavy door and framed father’s photograph; conversation about moving the engine-less boat.",
+   "gaps": "Whiteboard notes are not an architectural plan; no current towing demonstration.",
+   "sample_count": 18,
+   "sample_ids": [
+    "frame-0336",
+    "frame-0337",
+    "frame-0338",
+    "frame-0339",
+    "frame-0340",
+    "frame-0341",
+    "frame-0342",
+    "frame-0343",
+    "frame-0344",
+    "frame-0345",
+    "frame-0346",
+    "frame-0347",
+    "frame-0348",
+    "frame-0349",
+    "frame-0350",
+    "frame-0351",
+    "frame-0352",
+    "frame-0353"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0346.jpg"
+  },
+  {
+   "start": 1094,
+   "end": 1141,
+   "title": "Flexible finishes and seasonal movement",
+   "visible": "Aerials, corridor floor joints and glass floor underside accompany Jérémie’s explanation of contraction and flexible materials.",
+   "gaps": "No measured displacement or joint specification; construction claims remain attributed.",
+   "sample_count": 16,
+   "sample_ids": [
+    "frame-0354",
+    "frame-0355",
+    "frame-0356",
+    "frame-0357",
+    "frame-0358",
+    "frame-0359",
+    "frame-0360",
+    "frame-0361",
+    "frame-0362",
+    "frame-0363",
+    "frame-0364",
+    "frame-0365",
+    "frame-0366",
+    "frame-0367",
+    "frame-0368",
+    "frame-0369"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0357.jpg"
+  },
+  {
+   "start": 1141,
+   "end": 1250,
+   "title": "Independent studio tour",
+   "visible": "Route through lower lounge into studio with sofa, kitchenette, entry stair, marine sealing door, sleeping alcove, concealed washer/fridge and shower room.",
+   "gaps": "Separate outdoor entry endpoint and regulatory paperwork are not demonstrated.",
+   "sample_count": 43,
+   "sample_ids": [
+    "frame-0370",
+    "frame-0371",
+    "frame-0372",
+    "frame-0373",
+    "frame-0374",
+    "frame-0375",
+    "frame-0376",
+    "frame-0377",
+    "frame-0378",
+    "frame-0379",
+    "frame-0380",
+    "frame-0381",
+    "frame-0382",
+    "frame-0383",
+    "frame-0384",
+    "frame-0385",
+    "frame-0386",
+    "frame-0387",
+    "frame-0388",
+    "frame-0389",
+    "frame-0390",
+    "frame-0391",
+    "frame-0392",
+    "frame-0393",
+    "frame-0394",
+    "frame-0395",
+    "frame-0396",
+    "frame-0397",
+    "frame-0398",
+    "frame-0399",
+    "frame-0400",
+    "frame-0401",
+    "frame-0402",
+    "frame-0403",
+    "frame-0404",
+    "frame-0405",
+    "frame-0406",
+    "frame-0407",
+    "frame-0408",
+    "frame-0409",
+    "frame-0410",
+    "frame-0411",
+    "frame-0412"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0378.jpg"
+  },
+  {
+   "start": 1250,
+   "end": 1267,
+   "title": "Lower lounge and glass lightwell",
+   "visible": "Return views of large waterline window, plant bed, transparent stair and glass floor from below.",
+   "gaps": "No additional room or new construction phase is established.",
+   "sample_count": 7,
+   "sample_ids": [
+    "frame-0413",
+    "frame-0414",
+    "frame-0415",
+    "frame-0416",
+    "frame-0417",
+    "frame-0418",
+    "frame-0419"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0415.jpg"
+  },
+  {
+   "start": 1267,
+   "end": 1320,
+   "title": "Raised deck spa",
+   "visible": "Continuous climb from deck dining area to planted raised terrace; folding cover opens to reveal inset spa.",
+   "gaps": "Heating, water treatment, drainage and structural loading are unshown.",
+   "sample_count": 20,
+   "sample_ids": [
+    "frame-0420",
+    "frame-0421",
+    "frame-0422",
+    "frame-0423",
+    "frame-0424",
+    "frame-0425",
+    "frame-0426",
+    "frame-0427",
+    "frame-0428",
+    "frame-0429",
+    "frame-0430",
+    "frame-0431",
+    "frame-0432",
+    "frame-0433",
+    "frame-0434",
+    "frame-0435",
+    "frame-0436",
+    "frame-0437",
+    "frame-0438",
+    "frame-0439"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0432.jpg"
+  },
+  {
+   "start": 1320,
+   "end": 1408,
+   "title": "Mooring access and legal account",
+   "visible": "Bridge viewpoint and aerials, interview on deck and at lounge threshold, neighboring boats across river and upper-room cutaways.",
+   "gaps": "No berth title, waiting-list record, city decision or named authority document is shown.",
+   "sample_count": 22,
+   "sample_ids": [
+    "frame-0440",
+    "frame-0441",
+    "frame-0442",
+    "frame-0443",
+    "frame-0444",
+    "frame-0445",
+    "frame-0446",
+    "frame-0447",
+    "frame-0448",
+    "frame-0449",
+    "frame-0450",
+    "frame-0451",
+    "frame-0452",
+    "frame-0453",
+    "frame-0454",
+    "frame-0455",
+    "frame-0456",
+    "frame-0457",
+    "frame-0458",
+    "frame-0459",
+    "frame-0460",
+    "frame-0461"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0453.jpg"
+  },
+  {
+   "start": 1408,
+   "end": 1486,
+   "title": "Plants, opening lounge window and closing exterior",
+   "visible": "Upper-room plant discussion, lower-lounge opening rounded window and tiny creature removal, followed by exterior hull tracking.",
+   "gaps": "Tiny creature cannot be visually identified; neighboring boats remain contextual only.",
+   "sample_count": 23,
+   "sample_ids": [
+    "frame-0462",
+    "frame-0463",
+    "frame-0464",
+    "frame-0465",
+    "frame-0466",
+    "frame-0467",
+    "frame-0468",
+    "frame-0469",
+    "frame-0470",
+    "frame-0471",
+    "frame-0472",
+    "frame-0473",
+    "frame-0474",
+    "frame-0475",
+    "frame-0476",
+    "frame-0477",
+    "frame-0478",
+    "frame-0479",
+    "frame-0480",
+    "frame-0481",
+    "frame-0482",
+    "frame-0483",
+    "frame-0484"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0480.jpg"
+  },
+  {
+   "start": 1486,
+   "end": 1497.021,
+   "title": "Channel outro",
+   "visible": "Kirsten Dirksen channel montage and final tail.",
+   "gaps": "Montage images are branding and do not establish features of Panjab.",
+   "sample_count": 2,
+   "sample_ids": [
+    "frame-0485",
+    "frame-0486"
+   ],
+   "thumbnail": "review/hiSjH9bk6bI/sample-0485.jpg"
+  }
+ ]
+}

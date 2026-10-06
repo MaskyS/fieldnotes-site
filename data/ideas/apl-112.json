@@ -1,0 +1,527 @@
+{
+ "id": "apl-112",
+ "kind": "pattern",
+ "title": "Entrance transition",
+ "pattern": {
+  "number": 112,
+  "name": "Entrance Transition",
+  "paraphrase": "Arriving home goes through a distinct in-between space rather than straight from the street to the door."
+ },
+ "terms": null,
+ "term_group": null,
+ "aliases_from_vocabulary": [],
+ "computed": {
+  "built": "2026-10-04T14:12:22",
+  "instance_hash": "8a26a6d98c9ae621",
+  "counts": {
+   "instances": 4,
+   "places": 2,
+   "climate_classes": 2,
+   "climates": [
+    "BWh",
+    "Cfa"
+   ],
+   "places_without_climate": 0,
+   "cost_stated_for_instance": 0,
+   "running_cost_stated": 0,
+   "place_build_cost_stated": 0,
+   "claims": 5,
+   "claims_with_kind": 0,
+   "instances_with_no_claim": 2,
+   "seen_and_said": 3,
+   "seen_only": 1,
+   "said_only": 0,
+   "not_current": 0,
+   "follows": 4,
+   "departs": 0
+  },
+  "places": [
+   {
+    "film": "QHpo46tawBs",
+    "title": "Milagro Cohousing, Tucson",
+    "where": "Arizona, United States",
+    "country": "United States",
+    "film_year": "2026",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "BWh",
+      "name": "hot desert"
+     },
+     "rain_mm": 318,
+     "zone": "9b",
+     "elevation_m": 722,
+     "from": "Tucson, Pima County, Arizona, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {
+     "count": [
+      {
+       "id": "k-06",
+       "text": "The founders initially considered putting their two houses on a shared piece of land.",
+       "by": "unnamed speaker",
+       "at": 115.96,
+       "about": null,
+       "scope": "place",
+       "kind": "alternative",
+       "kind_group": "why",
+       "quantity": {
+        "value": 2,
+        "unit": "home",
+        "of": "count"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "age": [
+      {
+       "id": "k-11",
+       "text": "A resident reports living here for 23 years.",
+       "by": "unnamed speaker",
+       "at": 177.88,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 23,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-12",
+       "text": "A resident moved from Wisconsin, having drawn communities as a child and fallen in love with the Sonoran Desert at age five.",
+       "by": "unnamed speaker",
+       "at": 177.88,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 5,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-25",
+       "text": "Beth’s family moved here when her daughter was nine years old.",
+       "by": "Beth",
+       "at": 398.24,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 9,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-56",
+       "text": "A resident raised her children in the Midwest and moved to Tucson at age 44, later growing to love it.",
+       "by": "unnamed speaker",
+       "at": 841.52,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 44,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "build time": [
+      {
+       "id": "k-87",
+       "text": "The description says 28 households have spent 28 years building the community.",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "doubt": "The description’s 28-year account differs from the film’s 1993 starting point; the periods described may be different.",
+       "quantity": {
+        "value": 28,
+        "unit": "year",
+        "of": "build time"
+       }
+      }
+     ]
+    },
+    "claims_total": 103,
+    "claims_with_kind": 102,
+    "link": "?property=QHpo46tawBs"
+   },
+   {
+    "film": "4fEeh-8OFT8",
+    "title": "An artist couple’s narrow Tokyo home",
+    "where": "Tokyo, Japan",
+    "country": "Japan",
+    "film_year": "2017",
+    "channel": "Kirsten Dirksen",
+    "derived": {
+     "climate": {
+      "koppen": "Cfa",
+      "name": "humid subtropical"
+     },
+     "rain_mm": 1432,
+     "zone": "9a",
+     "elevation_m": 27,
+     "from": "Tokyo, Japan",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    },
+    "figures": {},
+    "claims_total": 29,
+    "claims_with_kind": 0,
+    "link": "?property=4fEeh-8OFT8"
+   }
+  ],
+  "instances": [
+   {
+    "id": "QHpo46tawBs/beth-deep-porch",
+    "film": "QHpo46tawBs",
+    "feature": "beth-deep-porch",
+    "title": "Beth’s deep shaded entrance porch",
+    "place_title": "Beth’s home",
+    "part_of": {
+     "id": "beth-compact-home",
+     "title": "Beth’s approximately 1,500-square-foot home"
+    },
+    "phase": "current",
+    "category": "Climate",
+    "terms": [
+     "porch",
+     "shading",
+     "passive solar"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "A broad roof shelters Beth’s recessed entry, bench and seating. Beth says she loved the deep porch and relates porch depth to the homes’ passive-solar design.",
+    "unknown": "No dimensions or measured solar exposure are provided; compass directions are reported, not independently checked.",
+    "thumbnail": "review/QHpo46tawBs/sample-0127.jpg",
+    "moments": {
+     "frames": [
+      383.17,
+      452.5
+     ],
+     "spoken": [
+      [
+       451.4,
+       482.96
+      ]
+     ]
+    },
+    "claims": [],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": [],
+    "assignment": {
+     "fit": "strong",
+     "stance": "follows",
+     "basis": "A deep roofed porch with a bench sits between the shared path and the front door.",
+     "source": "trial-mapping"
+    }
+   },
+   {
+    "id": "4fEeh-8OFT8/gatehouse-building",
+    "film": "4fEeh-8OFT8",
+    "feature": "gatehouse-building",
+    "title": "Street-front gallery and study gatehouse",
+    "place_title": "Street-front gatehouse",
+    "part_of": null,
+    "phase": "current",
+    "category": "Structure",
+    "terms": [
+     "gatehouse"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "A tall narrow building has a gallery below and a study reached by ladder above. Masahiro calls it a gatehouse, while the description identifies it as both entryway and offices.",
+    "unknown": "Its foundation, insulation and overall dimensions are not shown.",
+    "thumbnail": "review/4fEeh-8OFT8/sample-0006.jpg",
+    "moments": {
+     "frames": [
+      18.0,
+      152.5,
+      735.5
+     ],
+     "spoken": [
+      [
+       127.96,
+       148.5
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "husband-study",
+      "text": "Upper gatehouse is the husband’s study.",
+      "by": "Masahiro Harada",
+      "at": 136.8,
+      "about": "study-library",
+      "scope": "part",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "husband-occupation",
+      "text": "The resident’s husband directs commercials.",
+      "by": "Masahiro Harada",
+      "at": 144.2,
+      "about": "study-library",
+      "scope": "part",
+      "text_source": "automatic captions"
+     },
+     {
+      "id": "gatehouse-uses",
+      "text": "Gatehouse combines entryway, art gallery and offices.",
+      "by": "Kirsten Dirksen",
+      "at": null,
+      "about": "gatehouse-building",
+      "scope": "feature"
+     },
+     {
+      "id": "description-wood-ladder",
+      "text": "A small wooden ladder accesses the upper study.",
+      "by": "Kirsten Dirksen",
+      "at": null,
+      "about": "gatehouse-ladder",
+      "scope": "part",
+      "doubt": "The description says wooden, but the reviewed frames show a gray metallic-looking round-rung ladder."
+     }
+    ],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": [
+     "flush-front-door",
+     "gallery-shelves",
+     "gatehouse-ladder",
+     "study-library",
+     "study-glazing",
+     "study-hammock"
+    ],
+    "assignment": {
+     "fit": "strong",
+     "stance": "follows",
+     "basis": "A separate street-front building is passed on the way to the main house.",
+     "source": "trial-mapping"
+    }
+   },
+   {
+    "id": "4fEeh-8OFT8/courtyard-planting",
+    "film": "4fEeh-8OFT8",
+    "feature": "courtyard-planting",
+    "title": "Planted courtyard and narrow approach",
+    "place_title": "Planted courtyard and side passage",
+    "part_of": null,
+    "phase": "current",
+    "category": "Land",
+    "terms": [],
+    "evidence_status": "visual_only",
+    "seen_or_said": "seen, not talked about",
+    "description": "Gravel paths, low groundcover, shrubs and a small tree occupy the gaps around the gatehouse and main-house entrance. Continuous walking shots show the narrow approach in use.",
+    "unknown": "Exact boundaries, plant species and garden maintenance are not established.",
+    "thumbnail": "review/4fEeh-8OFT8/sample-0066.jpg",
+    "moments": {
+     "frames": [
+      208.0,
+      217.5,
+      691.0
+     ],
+     "spoken": []
+    },
+    "claims": [],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": [
+     "street-groundcover",
+     "slatted-screen"
+    ],
+    "assignment": {
+     "fit": "strong",
+     "stance": "follows",
+     "basis": "A planted gravel approach runs between the gatehouse and the main-house door.",
+     "source": "trial-mapping"
+    }
+   },
+   {
+    "id": "4fEeh-8OFT8/lowered-entry",
+    "film": "4fEeh-8OFT8",
+    "feature": "lowered-entry",
+    "title": "Entry steps down to lower rooms",
+    "place_title": "Lower entry and stair passage",
+    "part_of": {
+     "id": "main-dwelling",
+     "title": "Lowered-floor house behind the gatehouse"
+    },
+    "phase": "current",
+    "category": "Structure",
+    "terms": [
+     "stair"
+    ],
+    "evidence_status": "visual_and_spoken",
+    "seen_or_said": "seen and said",
+    "description": "The camera follows the entry down toward the bathroom and bedroom. Masahiro explains that lowering the floor kept the building height within code.",
+    "unknown": "The amount of lowering and ground-water protection are not established.",
+    "thumbnail": "review/4fEeh-8OFT8/sample-0079.jpg",
+    "moments": {
+     "frames": [
+      254.5,
+      257.0
+     ],
+     "spoken": [
+      [
+       239.96,
+       262.96
+      ]
+     ]
+    },
+    "claims": [
+     {
+      "id": "lowered-to-code",
+      "text": "Lower floor was sunk to meet the building-height limit.",
+      "by": "Masahiro Harada",
+      "at": 239.959,
+      "about": "lowered-entry",
+      "scope": "feature",
+      "topic": "law",
+      "text_source": "automatic captions"
+     }
+    ],
+    "figures": [],
+    "kinded": {},
+    "parts_counted": [],
+    "assignment": {
+     "fit": "loose",
+     "stance": "follows",
+     "basis": "The way in steps down to the lower rooms, a change of level after the door.",
+     "source": "trial-mapping"
+    }
+   }
+  ]
+ },
+ "synthesis": {
+  "written_by": "codex",
+  "instance_hash": "8a26a6d98c9ae621",
+  "sentences": [
+   {
+    "text": "Tucson’s roofed porch and Tokyo’s gatehouse, planted approach and lowered entry all follow the pattern, in derived hot desert and humid subtropical climates respectively.",
+    "cites": [
+     "QHpo46tawBs/beth-deep-porch",
+     "4fEeh-8OFT8/gatehouse-building",
+     "4fEeh-8OFT8/courtyard-planting",
+     "4fEeh-8OFT8/lowered-entry"
+    ]
+   },
+   {
+    "text": "Beth loved the deep porch and links its depth to passive-solar design; Masahiro says lowering Tokyo’s floor met the building-height limit.",
+    "cites": [
+     "QHpo46tawBs/beth-deep-porch",
+     "4fEeh-8OFT8/lowered-entry"
+    ]
+   },
+   {
+    "text": "The porch shelters a bench between path and door; the gatehouse combines entry, gallery and offices.",
+    "cites": [
+     "QHpo46tawBs/beth-deep-porch",
+     "4fEeh-8OFT8/gatehouse-building"
+    ]
+   },
+   {
+    "text": "Tokyo’s planted gravel approach is shown but not discussed.",
+    "cites": [
+     "4fEeh-8OFT8/courtyard-planting"
+    ]
+   },
+   {
+    "text": "Neither film establishes costs or failures for these entrance features.",
+    "cites": [
+     "QHpo46tawBs/beth-deep-porch",
+     "4fEeh-8OFT8/gatehouse-building",
+     "4fEeh-8OFT8/courtyard-planting",
+     "4fEeh-8OFT8/lowered-entry"
+    ]
+   },
+   {
+    "text": "Porch dimensions and measured solar exposure, garden maintenance and protection against groundwater at the lowered entry remain unknown.",
+    "cites": [
+     "QHpo46tawBs/beth-deep-porch",
+     "4fEeh-8OFT8/courtyard-planting",
+     "4fEeh-8OFT8/lowered-entry"
+    ]
+   }
+  ],
+  "stale": false,
+  "published": true,
+  "rejected": []
+ },
+ "aliases": [
+  {
+   "surface": "Timber entry steps, deck and canopy",
+   "candidates": [
+    "2twuMtzLv10/entry-deck"
+   ],
+   "reason": "Timber-topped steps rise from a low deck to the central door, with a dark handrail and braced overhead canopy.",
+   "status": "proposed",
+   "titles": {
+    "2twuMtzLv10/entry-deck": "Timber entry steps, deck and canopy, Margo’s self-built shed home"
+   }
+  },
+  {
+   "surface": "Railed gangway and circular entrance gate",
+   "candidates": [
+    "hiSjH9bk6bI/gangway"
+   ],
+   "reason": "It gives direct access from the bank to the planted entrance deck.",
+   "status": "proposed",
+   "titles": {
+    "hiSjH9bk6bI/gangway": "Railed gangway and circular entrance gate, Sara and Jérémie’s Panjab houseboat"
+   }
+  },
+  {
+   "surface": "Tree-planted entrance court with low brick walls",
+   "candidates": [
+    "P1HCZA-BW9I/front-landscape"
+   ],
+   "reason": "A mature tree shades the paved entrance approach among low brick walls and planted beds.",
+   "status": "proposed",
+   "titles": {
+    "P1HCZA-BW9I/front-landscape": "Tree-planted entrance court with low brick walls, A family’s Eaglemont brick home"
+   }
+  },
+  {
+   "surface": "Broad black pivot entrance door",
+   "candidates": [
+    "RNbPNnAx9xE/pivot-entry"
+   ],
+   "reason": "He describes the pivot door as a transition from a compressed arrival into a calm timber interior.",
+   "status": "proposed",
+   "titles": {
+    "RNbPNnAx9xE/pivot-entry": "Broad black pivot entrance door, Steve Mallinger’s timber pavilion home"
+   }
+  },
+  {
+   "surface": "Covered front porch with white railing",
+   "candidates": [
+    "VBspR2p0YYM/front-porch"
+   ],
+   "reason": "A roofed porch runs across the house's entrance frontage, with steps leading through a break in the railing to the front door.",
+   "status": "proposed",
+   "titles": {
+    "VBspR2p0YYM/front-porch": "Covered front porch with white railing, Rob Torcellini’s backyard aquaponic greenhouse"
+   }
+  }
+ ],
+ "lineage": [],
+ "gloss": null,
+ "checks": []
+}

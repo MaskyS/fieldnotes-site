@@ -1,0 +1,93 @@
+{
+ "note": "Controlled vocabulary for the index. Each feature's category maps to exactly one theme. New annotations use these theme names as the category directly. A theme may also draw on claims through claim_topics; a theme with no categories is made of what people said, and a feature shows under it when a claim with that topic is about it.",
+ "themes": [
+  {
+   "id": "structure",
+   "name": "Structure",
+   "blurb": "Frames, walls, roofs, foundations and how the buildings stand up.",
+   "categories": [
+    "Structure",
+    "Construction"
+   ]
+  },
+  {
+   "id": "materials",
+   "name": "Materials",
+   "blurb": "What things are made of, where it came from, and how it was worked.",
+   "categories": [
+    "Materials",
+    "Material workflow"
+   ]
+  },
+  {
+   "id": "water",
+   "name": "Water",
+   "blurb": "Wells, springs, rain, tanks, filters, pools and where it all goes.",
+   "categories": [
+    "Water"
+   ]
+  },
+  {
+   "id": "energy",
+   "name": "Energy and heating",
+   "blurb": "Stoves, solar, batteries, wiring and keeping warm.",
+   "categories": [
+    "Energy"
+   ]
+  },
+  {
+   "id": "climate",
+   "name": "Climate and light",
+   "blurb": "Sun, shade, mass, ventilation and daylight.",
+   "categories": [
+    "Climate",
+    "Home and light"
+   ]
+  },
+  {
+   "id": "food",
+   "name": "Food and land",
+   "blurb": "Gardens, orchards, animals, hay, woodland, water on the land.",
+   "categories": [
+    "Food",
+    "Land"
+   ]
+  },
+  {
+   "id": "living",
+   "name": "Living",
+   "blurb": "Rooms, furnishings, daily life, temporary homes.",
+   "categories": [
+    "Life",
+    "Cabin"
+   ]
+  },
+  {
+   "id": "community",
+   "name": "Community and shared life",
+   "blurb": "Shared houses and meals, paths and parking, decisions, neighbours.",
+   "categories": [
+    "Community"
+   ]
+  },
+  {
+   "id": "process",
+   "name": "Money, plans and process",
+   "blurb": "What it cost, sequence of work, and what is still planned.",
+   "categories": [
+    "Money",
+    "Process",
+    "Plan"
+   ]
+  },
+  {
+   "id": "law",
+   "name": "Permits and the law",
+   "blurb": "What owners say they had to get approved, what they kept small to avoid it, and what got shut down. Their law, not yours.",
+   "categories": [],
+   "claim_topics": [
+    "law"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "note": "Compiled by scripts/build_ideas.py: which ideas exist and which features (film/feature) are instances of each, for the feature page.",
+ "ideas": [
+  {
+   "id": "thermal-mass",
+   "kind": "term",
+   "title": "Thermal mass",
+   "pattern": null,
+   "places": 5,
+   "instances": 8,
+   "members": [
+    "swrez2ZA0cc/masonry-mass",
+    "swrez2ZA0cc/dark-floor",
+    "aucsiGWbEyU/thermal-mass",
+    "QHpo46tawBs/beth-scored-concrete",
+    "QHpo46tawBs/beth-adobe-mass",
+    "efI77fzBgvg/global-mass-wall",
+    "efI77fzBgvg/duke-adobe-tires",
+    "VBspR2p0YYM/heat-storage-tank"
+   ]
+  },
+  {
+   "id": "constructed-wetland",
+   "kind": "term",
+   "title": "Constructed wetland",
+   "pattern": null,
+   "places": 3,
+   "instances": 8,
+   "members": [
+    "QHpo46tawBs/wetland-beds",
+    "QHpo46tawBs/wetland-rehabilitation",
+    "QHpo46tawBs/wetland-restoration-plan",
+    "QHpo46tawBs/wetland-seasonal-archive",
+    "efI77fzBgvg/duke-wastewater-cell",
+    "30ghnDOFbNQ/wastewater-system",
+    "30ghnDOFbNQ/planted-filter",
+    "30ghnDOFbNQ/treatment-pond"
+   ]
+  },
+  {
+   "id": "apl-112",
+   "kind": "pattern",
+   "title": "Entrance transition",
+   "pattern": {
+    "number": 112,
+    "name": "Entrance Transition",
+    "paraphrase": "Arriving home goes through a distinct in-between space rather than straight from the street to the door."
+   },
+   "places": 2,
+   "instances": 4,
+   "members": [
+    "QHpo46tawBs/beth-deep-porch",
+    "4fEeh-8OFT8/gatehouse-building",
+    "4fEeh-8OFT8/courtyard-planting",
+    "4fEeh-8OFT8/lowered-entry"
+   ]
+  }
+ ]
+}

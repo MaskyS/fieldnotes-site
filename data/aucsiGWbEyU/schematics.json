@@ -1,0 +1,40 @@
+{
+ "property_id": "aucsiGWbEyU",
+ "items": [
+  {
+   "id": "water",
+   "kind": "flow",
+   "title": "Spring to tap, stove and sun to shower",
+   "nodes": [
+    {"id": "spring", "feature": "spring-capture", "label": "covered spring"},
+    {"id": "tank", "feature": "spring-tank", "label": "tank on the slope"},
+    {"id": "filter", "feature": "annex-water-filter", "label": "first filter, in the annex"},
+    {"id": "drink", "feature": "countertop-filter", "label": "drinking-water filter"},
+    {"id": "stove", "feature": "wood-cookstove", "label": "wood cookstove"},
+    {"id": "reserve", "feature": "winter-shower-water", "label": "shower reserve"},
+    {"id": "shower", "label": "shower", "established": false},
+    {"id": "solar", "feature": "solar-thermal-water", "label": "solar thermal panel on the shed"},
+    {"id": "suntank", "label": "a big tank", "established": false}
+   ],
+   "edges": [
+    {"from": "spring", "to": "tank", "label": "by gravity", "cite": "spring-tank", "status": "said"},
+    {"from": "tank", "to": "filter", "cite": "annex-water-filter", "status": "said"},
+    {"from": "filter", "to": "drink", "label": "a line back to the house", "cite": "annex-water-filter", "status": "said"},
+    {"from": "stove", "to": "reserve", "label": "a bucket, then a pump", "cite": "winter-shower-water", "status": "said"},
+    {"from": "reserve", "to": "shower", "cite": "winter-shower-water", "status": "said"},
+    {"from": "solar", "to": "suntank", "cite": "solar-thermal-water", "status": "said"},
+    {"from": "suntank", "to": "shower", "cite": "solar-thermal-water", "status": "said"}
+   ],
+   "lanes": [
+    {"label": "cold water, all year", "nodes": ["spring", "tank", "filter", "drink"]},
+    {"label": "hot water in winter", "nodes": ["stove", "reserve", "shower"]},
+    {"label": "hot water in summer", "nodes": ["solar", "suntank"]}
+   ],
+   "not_established": [
+    "the tank's and the reserve's volumes are spoken but not carried as figures in the record",
+    "pipe routes, falls and the summer tank's place",
+    "where the dry toilet and the washing water go"
+   ]
+  }
+ ]
+}

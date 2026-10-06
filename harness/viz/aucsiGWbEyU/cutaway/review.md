@@ -1,0 +1,15 @@
+# Review: main-dwelling cutaway
+
+**Selected: candidate-3.png**, an additional correction pass after the required two-candidate cycle. Between the required candidates, **candidate 2 is better than candidate 1**: it corrects the blue-grey fan-glazed entrance and pale-fronted range, removes misplaced cordwood from the right exterior wall and reduces clutter. Candidate 1 incorrectly made the exterior entrance woven willow. Both nevertheless retained invented solid rear walls, a bedroom enclosure and an unsupported flue penetration; the full comparison is preserved in critique-2.md.
+
+Candidate 3 is substantially stronger: unseen walls are blank within dashed outlines; partition plan is explicitly omitted; the roof is an isolated fragment with a blank missing-layer band; the flue ends beneath a dashed unknown connection. Cordwood, willow and toilet appear only as detached detail insets. Each of the ten illustration callouts is used once, with the corresponding numbered legend. All ten legend titles match the catalogue (line wrapping aside).
+
+## Faithful elements
+
+Observed material/colour cues survive: dark brown earth floor, pale roundwood, pale interior plaster, blue-grey panelled door with fan glazing, branch headboard with blue bedding, woven brown bark cabinetry, pale tatami on blue base, pale-fronted range with dark firebox, log ends in pale plaster, woven willow and blue toilet top with wooden seat/metal bucket. The cordwood inset explicitly records its filmed adjacency beside the entrance. Unknown bathroom geometry is not invented.
+
+## Remaining inventions and deviations in selected candidate 3
+
+The flattened oval floor, overall size, ceiling height, post number/position, furnishings' locations and spacing are editorial, not a recovered as-built layout. Six representative posts appear despite the prompt requesting four; neither count is verified. The front wall fragment is schematic and its two side openings became full-height empty rectangles rather than the observed smaller windows; they are NOT evidence of extra doors. Their geometry is a remaining visual error. Exterior appearance should be taken from the map/reference frames, not this stripped cut face. The kitchen loses actual upper shelving in simplification; counter length and weaving are approximate. Bed dimensions, bedside-light shape/support, pillow pattern, tatami proportions, stove scale/controls, plank widths and timber joints are generalized. The pale cut wall and its small round timber ends are explanatory geometry, not an exposed assembly shown in the film. Log-end arrangement, willow weave and floor texture are painted approximations.
+
+The dashed footboard, missing roof build-up, unknown flue connection, absent partitions and isolated bathroom detail intentionally leave gaps. Finishes and object identities follow catalogue speech; no dimensions, structural design, full wall layout or installation details can be inferred. Candidate 3 sacrifices complete-room appearance to represent those evidential gaps explicitly.

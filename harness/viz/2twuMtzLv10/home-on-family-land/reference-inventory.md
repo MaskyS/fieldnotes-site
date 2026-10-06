@@ -1,0 +1,15 @@
+# Reference inventory
+
+Viewed the contact sheet first, then all five selected exterior frames at full size. Extracted and viewed the historical design screen at 63.5 seconds at source resolution.
+
+| Element | Evidence and visible side | Not shown / drawing treatment |
+| --- | --- | --- |
+| Historical design | document-63.5.jpg, 01:03.5, extracted from this film: oblique cutaway of a tiny-house computer model. First reference. | No mother’s house, lawn layout or site plan. Historical version is uncertain. Do not use it to establish site positions or draw interiors. A caption claiming the site layout follows this plan would be false; explicitly explain its limited scope. |
+| Tiny house | review/2twuMtzLv10/evidence/frame-0250.jpg, 1263.5: nearly frontal exterior. Pale vertical wall panels, dark horizontally ribbed lower skirting, dark central door, broad two-pane window at left, two narrow windows at right, dark flower boxes. | Rear, full roof geometry and building depth not established by selected exterior views; use dashed extent and leave hidden surfaces blank. |
+| Entry deck and doorway | review/2twuMtzLv10/evidence/frame-0008.jpg, 21.0: low frontal close view, timber step tops and dark risers, right dark handrail, dark braced canopy with pale translucent-looking infill; frame-0250 shows broad low timber-topped deck with dark fascia. | No verified timber species, foundation or canopy material. No connecting route drawn. Preserve direct door–steps–deck connection. |
+| Mother’s larger house | review/2twuMtzLv10/evidence/frame-0101.jpg, 471.0: gable end and adjacent porch side; white horizontal siding, red brick base, gray roof edge, shuttered side window, white porch railing. | Full length, rear, footprint and interior absent. Draw observed gable and a short visible side fragment only, terminate in dashes; interior blank with note. |
+| Relative placement | review/2twuMtzLv10/evidence/frame-0121.jpg, 620.5, and frame-0122.jpg, 623.0: look outward past tiny-house deck at left toward the larger house’s gable and side. | Supports proximity across lawn but no surveyed bearings, separation or full arrangement. Separate schematic painted building views with dashed placement outlines, no connecting lines that resemble paths. |
+| Lawn and trees | frame-0250 plus frame-0101, frame-0121 and frame-0122: patchy green grass, mature tall trees and shrubs around buildings. | Species, count, precise tree locations, ownership and woodland extent unknown. General green washes with sparse schematic trunks, no mapped tree positions or perimeter. |
+| Family laundry / dishes | Packet: Margo’s reported dishwasher access 227.48–247.64; washer/dryer access 459.16–468.76. Exterior association uses frame-0101 and frame-0121. | No appliances or room locations filmed in mother’s house. Annotation only, no appliance icons or interior plan. |
+
+Omit people, animals, boundaries, north, distances, connecting paths, utility routes and incidental structures. No surveyed aerial or filmed site plan is supplied. The design-screen document is an interior model, not site evidence.

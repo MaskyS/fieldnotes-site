@@ -1,0 +1,15 @@
+# Review: property map
+
+**Selected: candidate-3.png**, an additional correction pass after completing the required two-candidate cycle. Between the required candidates, **candidate 2 is better than candidate 1** because it restores a house window, fixes a garbled caption and explicitly includes berry shrubs and more caveats. However, both duplicate the caravan and place the cold frame and beds at unsupported coordinates. Their full comparison is retained in critique-2.md.
+
+Candidate 3 removes both solid caravan renderings and substitutes a dashed parking placeholder, eliminating the false second caravan/attached structure. It moves cold frame, bed, berries/orchard, logs, cattail, spring and tank into seven unlocated vignettes. The peripheral hut is a dashed silhouette with use/ownership caveat, and the willow planting is lower and nearer the house. This substantially improves evidence discipline while retaining the painted oblique-map genre.
+
+## Faithful elements
+
+The four principal structures and their coarse relationships follow aerials 0062/0231/0632: turf-roof house, nearby slanted-window greenhouse, uphill turf annex with round skylight, and lower tiled shed with PV and lean-to. Winter meadow and woodland, low stems and the separately illustrated land/water features derive from catalogue frames. The orchard count is explicitly described, not drawn as a verified grid. The spring is not turned into a pond or stream. All catalogued outdoor feature groups are labelled; the small peripheral hut is included without asserting ownership.
+
+## Remaining inventions and deviations in selected candidate 3
+
+Building spacing, footprint proportions, road curve/location on the page, slope, tree placement, post count, joinery divisions and textures remain illustrative. The road is abbreviated and its connection near the shed is not traced. The painted rear/side wall surfaces of house and annex partly extrapolate unknown faces even though edges are dashed; do not read solid shading as surveyed geometry. The greenhouse is simplified, with approximate glazing divisions and a schematic roof. The cold-frame vignette resembles a more coherent leaning glazed panel than the actual loose frames. Garden-bed rows and shrub shapes are pictorial; crop identities follow narration. Reeds have more explicit seed heads than the selected winter view establishes, so botanical identification follows Mathieu. Log stack, spring-pipe size and tank corners/wrapping are stylized; no exact dimensions, fittings or routes are asserted. The tank has dashed edges but some painted faces remain reconstructed. The timber hut's dashed window is schematic. There are small doorstep/base marks despite a request for minimal incidental detail.
+
+No parcel limits, confirmed compass, measured scale, hidden pipe network or legal ownership are supplied. The retained limitations are smaller than candidates 1/2, whose vehicle duplication and inferred planting positions were materially misleading. Use the selected picture as an annotated illustration, not a survey.

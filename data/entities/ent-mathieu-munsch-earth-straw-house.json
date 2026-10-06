@@ -1,0 +1,227 @@
+{
+ "id": "ent-mathieu-munsch-earth-straw-house",
+ "type": "place",
+ "name": "Mathieu Munsch's earth-and-straw house",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "aucsiGWbEyU",
+    "title": "Mathieu Munsch's earth-and-straw house",
+    "where": "Vosges region, northeastern France",
+    "film_year": "2026",
+    "upload_date": "2026-01-11",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=aucsiGWbEyU",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Mathieu Munsch's earth-and-straw house",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Mathieu Munsch",
+      "relation": "owner"
+     }
+    ],
+    "gist": "Mathieu built with earth and straw to escape mortgage payments, living in a shed through construction and retreating to his parents in winter.",
+    "figures": {
+     "floor area": [
+      {
+       "id": "claim-2",
+       "text": "50 m² (538 ft²) main house, kept small on purpose",
+       "by": "Mathieu Munsch",
+       "at": 89,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 50,
+        "unit": "m2",
+        "of": "floor area"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "build cost": [
+      {
+       "id": "claim-3",
+       "text": "About €15,000 to build the house",
+       "by": "Mathieu Munsch",
+       "at": 83,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 15000,
+        "unit": "EUR",
+        "of": "build cost",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "running cost": [
+      {
+       "id": "claim-9",
+       "text": "No real living expenses; about €200 a month for going out with friends",
+       "by": "Mathieu Munsch",
+       "at": 2120.84,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 200,
+        "unit": "EUR",
+        "of": "running cost",
+        "per": "month",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "land price": [
+      {
+       "id": "claim-12",
+       "text": "€35,000 for a south-facing 4,000 m² plot",
+       "by": "Mathieu Munsch",
+       "at": 779.2,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 35000,
+        "unit": "EUR",
+        "of": "land price"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    },
+    "point": {
+     "lat": 48.41,
+     "lon": 7.068,
+     "matched": "Vosges, Grand Est, Metropolitan France, France",
+     "stands_for": "region",
+     "extent_km": 159
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Cfb",
+      "name": "temperate oceanic"
+     },
+     "rain_mm": 1058,
+     "zone": "7b",
+     "elevation_m": null,
+     "from": "Vosges, Grand Est, Metropolitan France, France",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2026"
+   ]
+  },
+  "figures": [
+   {
+    "of": "build cost",
+    "cells": {
+     "aucsiGWbEyU": [
+      {
+       "id": "claim-3",
+       "text": "About €15,000 to build the house",
+       "by": "Mathieu Munsch",
+       "at": 83,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 15000,
+        "unit": "EUR",
+        "of": "build cost",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   },
+   {
+    "of": "land price",
+    "cells": {
+     "aucsiGWbEyU": [
+      {
+       "id": "claim-12",
+       "text": "€35,000 for a south-facing 4,000 m² plot",
+       "by": "Mathieu Munsch",
+       "at": 779.2,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 35000,
+        "unit": "EUR",
+        "of": "land price"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   },
+   {
+    "of": "floor area",
+    "cells": {
+     "aucsiGWbEyU": [
+      {
+       "id": "claim-2",
+       "text": "50 m² (538 ft²) main house, kept small on purpose",
+       "by": "Mathieu Munsch",
+       "at": 89,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 50,
+        "unit": "m2",
+        "of": "floor area"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   },
+   {
+    "of": "running cost",
+    "cells": {
+     "aucsiGWbEyU": [
+      {
+       "id": "claim-9",
+       "text": "No real living expenses; about €200 a month for going out with friends",
+       "by": "Mathieu Munsch",
+       "at": 2120.84,
+       "about": null,
+       "scope": "place",
+       "quantity": {
+        "value": 200,
+        "unit": "EUR",
+        "of": "running cost",
+        "per": "month",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   }
+  ],
+  "location_warnings": [],
+  "instance_hash": "04c07189ab1edc4b",
+  "built": "2026-10-06T13:18:27"
+ }
+}

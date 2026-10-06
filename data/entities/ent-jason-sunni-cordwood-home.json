@@ -1,0 +1,346 @@
+{
+ "id": "ent-jason-sunni-cordwood-home",
+ "type": "place",
+ "name": "Jason & Sunni’s cordwood home",
+ "aliases": [],
+ "public_basis": null,
+ "computed": {
+  "films": [
+   {
+    "film": "LZ6u1AXCefQ",
+    "title": "Jason & Sunni’s cordwood home",
+    "where": "Ozarks, Missouri, United States",
+    "film_year": "2026",
+    "upload_date": "2026-09-13",
+    "channel": "Kirsten Dirksen",
+    "link": "?property=LZ6u1AXCefQ",
+    "records": [
+     {
+      "kind": "place",
+      "id": "site",
+      "title": "Jason & Sunni’s cordwood home",
+      "place_kind": "site",
+      "subject": true
+     }
+    ],
+    "claims": [],
+    "links": [],
+    "people": [
+     {
+      "name": "Jason Fine",
+      "relation": "owner"
+     },
+     {
+      "name": "Sunni",
+      "relation": "owner"
+     }
+    ],
+    "gist": "A boilermaker cashed out his retirement for land, then began building a cordwood home from his woods while sharing a cramped cabin with Sunni.",
+    "figures": {
+     "land area": [
+      {
+       "id": "claim-1",
+       "text": "29 acres of land",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "fact",
+       "kind_group": "what",
+       "quantity": {
+        "value": 29,
+        "unit": "acre",
+        "of": "land area"
+       }
+      },
+      {
+       "id": "k-05",
+       "text": "Jason says one sufficiently motivated person can build a house from 29 acres of woods.",
+       "by": "Jason Fine",
+       "at": 100.56,
+       "about": null,
+       "scope": "place",
+       "kind": "advice",
+       "kind_group": "for others",
+       "quantity": {
+        "value": 29,
+        "unit": "acre",
+        "of": "land area"
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "build cost": [
+      {
+       "id": "claim-2",
+       "text": "about $50,000 build cost",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "money",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 50000,
+        "unit": "USD",
+        "of": "build cost",
+        "approx": true
+       }
+      },
+      {
+       "id": "k-101",
+       "text": "Jason says they spent less than $50,000 on the rest of the build.",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "money",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 50000,
+        "unit": "USD",
+        "of": "build cost"
+       }
+      }
+     ],
+     "build time": [
+      {
+       "id": "claim-3",
+       "text": "three years milling lumber from the land, then three more years building",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 6,
+        "unit": "year",
+        "of": "build time",
+        "approx": true
+       }
+      }
+     ],
+     "other": [
+      {
+       "id": "k-19",
+       "text": "Jason says he has done none of those leisure activities for three years.",
+       "by": "Jason Fine",
+       "at": 285.04,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 3,
+        "unit": "year",
+        "of": "other"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-71",
+       "text": "Sunni drives about 35 minutes to work.",
+       "by": "Sunni",
+       "at": 935.92,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 35,
+        "unit": "minute",
+        "of": "other",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      }
+     ],
+     "age": [
+      {
+       "id": "k-20",
+       "text": "Sunni did not expect the project to take a decade; they have lived there for ten years.",
+       "by": "Sunni",
+       "at": 290.639,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "doubt": "The speaker is inferred from the conversation because the captions do not clearly identify the voice.",
+       "quantity": {
+        "value": 10,
+        "unit": "year",
+        "of": "age"
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-94",
+       "text": "He left boiler work because retirement ages kept rising toward 67½ or 70, and he could not imagine doing that work at 70.",
+       "by": "Jason Fine",
+       "at": 1195.44,
+       "about": null,
+       "scope": "place",
+       "kind": "household",
+       "kind_group": "living",
+       "quantity": {
+        "value": 67.5,
+        "unit": "year",
+        "of": "age",
+        "approx": true
+       },
+       "text_source": "automatic captions"
+      },
+      {
+       "id": "k-97",
+       "text": "Jason left his union boilermaker job at 50 and cashed out his retirement to buy 29 acres of cheap Ozark land.",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "money",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 50,
+        "unit": "year",
+        "of": "age"
+       }
+      }
+     ]
+    },
+    "point": {
+     "lat": 38.76,
+     "lon": -92.562,
+     "matched": "Missouri, United States",
+     "stands_for": "state",
+     "extent_km": 582
+    },
+    "derived": {
+     "climate": {
+      "koppen": "Dfa",
+      "name": "hot-summer humid continental"
+     },
+     "rain_mm": 1005,
+     "zone": "6b",
+     "elevation_m": null,
+     "from": "Missouri, United States",
+     "note": "Derived from the location the film discloses, not stated by the film."
+    }
+   }
+  ],
+  "mentions": [],
+  "counts": {
+   "films": 1,
+   "claims": 0,
+   "links": 0,
+   "mentions": 0,
+   "years": [
+    "2026"
+   ]
+  },
+  "figures": [
+   {
+    "of": "build cost",
+    "cells": {
+     "LZ6u1AXCefQ": [
+      {
+       "id": "claim-2",
+       "text": "about $50,000 build cost",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "money",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 50000,
+        "unit": "USD",
+        "of": "build cost",
+        "approx": true
+       }
+      },
+      {
+       "id": "k-101",
+       "text": "Jason says they spent less than $50,000 on the rest of the build.",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "money",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 50000,
+        "unit": "USD",
+        "of": "build cost"
+       }
+      }
+     ]
+    }
+   },
+   {
+    "of": "land area",
+    "cells": {
+     "LZ6u1AXCefQ": [
+      {
+       "id": "claim-1",
+       "text": "29 acres of land",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "fact",
+       "kind_group": "what",
+       "quantity": {
+        "value": 29,
+        "unit": "acre",
+        "of": "land area"
+       }
+      },
+      {
+       "id": "k-05",
+       "text": "Jason says one sufficiently motivated person can build a house from 29 acres of woods.",
+       "by": "Jason Fine",
+       "at": 100.56,
+       "about": null,
+       "scope": "place",
+       "kind": "advice",
+       "kind_group": "for others",
+       "quantity": {
+        "value": 29,
+        "unit": "acre",
+        "of": "land area"
+       },
+       "text_source": "automatic captions"
+      }
+     ]
+    }
+   },
+   {
+    "of": "build time",
+    "cells": {
+     "LZ6u1AXCefQ": [
+      {
+       "id": "claim-3",
+       "text": "three years milling lumber from the land, then three more years building",
+       "by": "Kirsten Dirksen",
+       "at": null,
+       "about": null,
+       "scope": "place",
+       "kind": "time",
+       "kind_group": "relied on",
+       "quantity": {
+        "value": 6,
+        "unit": "year",
+        "of": "build time",
+        "approx": true
+       }
+      }
+     ]
+    }
+   }
+  ],
+  "location_warnings": [],
+  "instance_hash": "002f2c1d10c27c74",
+  "built": "2026-10-06T13:18:27"
+ }
+}
